@@ -1,0 +1,89 @@
+{
+  "oficial": [
+    {
+      "t": "Syllabus de Biologia 2026 (MUR)",
+      "d": "Documento oficial do Ministério com os conteúdos do semestre filtro. É a lista que manda.",
+      "url": "https://www.mur.gov.it/sites/default/files/2026-06/Syllabus_BIOLOGIA_%20finale%202026.pdf"
+    }
+  ],
+  "livros": [
+    {
+      "t": "Alberts et al. — L'essenziale di biologia molecolare della cellula (Zanichelli)",
+      "pt": "Em português: Fundamentos da Biologia Celular (Artmed)",
+      "d": "Livro-base recomendado. Mesma numeração de capítulos nas duas línguas; os capítulos citados no app (ECB) seguem a 5ª edição."
+    },
+    {
+      "t": "Alberts et al. — Biologia molecolare della cellula (Zanichelli)",
+      "pt": "Biologia Molecular da Célula (Artmed)",
+      "d": "Versão completa, para consulta quando o Essenziale não bastar."
+    },
+    {
+      "t": "Sadava et al. — Elementi di biologia e genetica (Zanichelli)",
+      "pt": "",
+      "d": "Texto italiano mais curto, bom para revisar com o vocabulário da prova."
+    },
+    {
+      "t": "Ginelli, Malcovati et al. — Molecole, cellule e organismi (EdiSES)",
+      "pt": "",
+      "d": "Muito usado nos cursos de Medicina italianos; cobre o syllabus inteiro."
+    },
+    {
+      "t": "Nussbaum, McInnes, Willard — Thompson & Thompson Genetica in medicina (EdiSES)",
+      "pt": "Thompson & Thompson Genética Médica (GEN/Elsevier)",
+      "d": "Referência para mutações, citogenética e heredogramas (U4)."
+    },
+    {
+      "t": "Junqueira & Carneiro — Biologia Celular e Molecular (Guanabara Koogan)",
+      "pt": "",
+      "d": "Em português, para entender a ideia antes de passar ao italiano."
+    }
+  ],
+  "gratis": [
+    {
+      "t": "Alberts — Molecular Biology of the Cell, 4ª ed. (NCBI Bookshelf, inglês)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK21054/"
+    },
+    {
+      "t": "Cooper — The Cell: A Molecular Approach, 2ª ed. (NCBI Bookshelf, inglês)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK9839/"
+    },
+    {
+      "t": "OpenStax — Biology 2e (inglês, gratuito)",
+      "url": "https://openstax.org/details/books/biology-2e"
+    },
+    {
+      "t": "Khan Academy — Biologia (português)",
+      "url": "https://pt.khanacademy.org/science/biology"
+    }
+  ],
+  "mapa": [
+    [
+      5,
+      "11 Membranas · 12 Transporte e potencial · 13 Glicólise e Krebs · 14 Mitocôndria · 15 Compartimentos e tráfego · 17 Citoesqueleto"
+    ],
+    [
+      3,
+      "6 Replicação · 7 Do DNA à proteína · 8 Controle da expressão gênica"
+    ],
+    [
+      4,
+      "6 Reparo · 19 Meiose e genética mendeliana · Thompson: mutação, citogenética, padrões de herança"
+    ],
+    [
+      7,
+      "18 Ciclo celular e apoptose · 19 Meiose · 20 Células-tronco e câncer"
+    ],
+    [
+      6,
+      "16 Sinalização · 20 Matriz, junções e adesão"
+    ],
+    [
+      1,
+      "1 Células e procariotos · 3–4 Enzimas e proteínas · 9 Vírus e transferência horizontal"
+    ],
+    [
+      2,
+      "5 DNA e cromossomos · 8 Epigenética · 9 Genoma e elementos móveis"
+    ]
+  ]
+}

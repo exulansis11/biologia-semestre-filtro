@@ -1,0 +1,2482 @@
+{
+  "trilha": "t4",
+  "secoes": {
+    "c1_4": {
+      "txt": [
+        "As **enzimas** (*enzimi*) aceleram reações reduzindo a **energia de ativação** (*energia di attivazione*), ao estabilizar o estado de transição e orientar os reagentes. Não alteram o ΔG da reação, sua constante de equilíbrio nem a proporção final entre reagentes e produtos. Aceleram tanto o sentido direto quanto o inverso, sem serem consumidas no balanço. Uma reação desfavorável precisa de acoplamento energético; adicionar enzima não a torna espontânea. O sítio ativo reconhece substratos por interações específicas, e mudanças de conformação participam da catálise.",
+        "No modelo de **Michaelis-Menten**, v = Vmax[S]/(Km + [S]), medindo velocidade inicial com substrato em excesso sobre enzima. A **Km** (*costante di Michaelis*) tem unidade de concentração e corresponde a [S] quando v = Vmax/2. Km baixa significa atingir meia saturação com menos substrato; frequentemente sugere maior afinidade, mas não é universalmente a constante de dissociação, pois inclui etapas cinéticas. Vmax é o limite de velocidade com enzima saturada, não a concentração de substrato. Para [S] = 3Km, v = 3/4 da Vmax; em 9Km, chega a 90%. Enzimas alostéricas podem apresentar curvas sigmoides e não seguir essa equação simples.",
+        "A **Vmax** (*velocità massima*) depende da quantidade de enzima ativa: duplicá-la duplica Vmax, mantendo Km se as condições forem iguais. A constante catalítica kcat = Vmax/[E]total expressa ciclos por sítio ativo por segundo, com concentrações definidas de modo consistente. Se Km = 2 mM e Vmax = 100 µmol/min, [S] = 2 mM dá 50 µmol/min. Não some Km e velocidade: suas unidades são diferentes. Temperatura e pH afetam ionização, conformação e atividade; não existe um pH ótimo universal para todas as enzimas.",
+        "Na **inibição competitiva** (*inibizione competitiva*) reversível, substrato e inibidor disputam a ocupação do sítio ativo: Km aparente aumenta, enquanto Vmax permanece igual. Substrato suficiente supera a inibição. Na **não competitiva pura** (*inibizione non competitiva pura*), o inibidor liga enzima livre e complexo enzima-substrato com igual afinidade; Vmax cai e Km permanece igual. Esse é um caso particular de inibição mista: ligar em outro sítio, sozinho, não garante Km constante. Inibição irreversível frequentemente envolve ligação covalente e reduz a fração de enzima ativa; aumentar substrato depois da inativação não restaura a enzima modificada.",
+        "**Cofatores** (*cofattori*) incluem componentes auxiliares inorgânicos, como íons metálicos, e orgânicos; os orgânicos são **coenzimas** (*coenzimi*), como NAD⁺, FAD e CoA, muitas vezes derivados de vitaminas. Na classificação EC há sete classes: **1 oxidorredutases**, como desidrogenases e oxidases; **2 transferases**, como quinases; **3 hidrolases**, como proteases, fosfatases e lipases; **4 liases**, como aldolase e descarboxilases não oxidativas, que clivam sem hidrólise ou oxidação; **5 isomerases**, que reorganizam a molécula; **6 ligases**, que unem moléculas com energia geralmente de ATP ou outro nucleotídeo; **7 translocases**, introduzidas em 2018, que acoplam reações ao transporte através de membranas.",
+        "A regulação inclui alosteria, modificações covalentes como fosforilação e ativação de **zimogênios** (*zimogeni*). O tripsinogênio é precursor inativo da tripsina, ativado por proteólise. **Isoenzimas** (*isoenzimi*) catalisam a mesma reação, mas diferem em estrutura, cinética ou distribuição nos tecidos. Quinase transfere fosfato; fosfatase remove fosfato por hidrólise. Ambas regulam proteínas, mas pertencem a classes diferentes."
+      ],
+      "chave": [
+        "Enzima reduz energia de ativação sem mudar ΔG ou equilíbrio.",
+        "Km tem unidade de concentração; em [S] = Km, v = Vmax/2.",
+        "Vmax depende da quantidade de enzima ativa; kcat tem unidade s⁻¹.",
+        "Competitiva: Km aparente sobe e Vmax permanece.",
+        "Não competitiva pura: Vmax cai e Km permanece; mista pode alterar ambos.",
+        "EC 1–7: oxidorredutases, transferases, hidrolases, liases, isomerases, ligases, translocases.",
+        "Cofatores, alosteria, modificação covalente, zimogênios e isoenzimas regulam atividade."
+      ],
+      "pega": "Não confunda Km com velocidade nem generalize Km constante a toda inibição em sítio alostérico.",
+      "num": [
+        [
+          "[S] = Km",
+          "v = 0,5 Vmax",
+          "Condição de Michaelis-Menten simples."
+        ],
+        [
+          "[S] = 3Km",
+          "v = 0,75 Vmax",
+          "3/(1 + 3)."
+        ],
+        [
+          "[S] = 9Km",
+          "v = 0,90 Vmax",
+          "90% ainda não é saturação absoluta."
+        ],
+        [
+          "Dobro de enzima ativa",
+          "2 × Vmax",
+          "Km se mantém em condições iguais."
+        ],
+        [
+          "Unidade de kcat",
+          "s⁻¹",
+          "Ciclos por sítio ativo por segundo."
+        ],
+        [
+          "Conversão de concentração",
+          "1 mM = 1 000 µM",
+          "Não confundir com velocidade."
+        ],
+        [
+          "Classes EC",
+          "7 classes",
+          "Translocases são EC 7, desde 2018."
+        ]
+      ],
+      "voc": [
+        [
+          "sito attivo",
+          "sítio ativo"
+        ],
+        [
+          "substrato",
+          "substrato"
+        ],
+        [
+          "energia di attivazione",
+          "energia de ativação"
+        ],
+        [
+          "velocità iniziale",
+          "velocidade inicial"
+        ],
+        [
+          "costante di Michaelis",
+          "constante de Michaelis"
+        ],
+        [
+          "inibizione competitiva",
+          "inibição competitiva"
+        ],
+        [
+          "inibizione irreversibile",
+          "inibição irreversível"
+        ],
+        [
+          "coenzima",
+          "coenzima"
+        ],
+        [
+          "zimogeno",
+          "zimogênio"
+        ],
+        [
+          "isoenzima",
+          "isoenzima"
+        ]
+      ],
+      "detalhes": [
+        "**Km não é sempre Kd**: no modelo simples, Km = (k₋₁ + kcat)/k₁ e inclui a etapa catalítica.",
+        "**Saturação** (*saturazione*) é limite: no modelo de Michaelis-Menten, [S] finita não produz exatamente Vmax.",
+        "Na **inibição incompetitiva** (*inibizione incompetitiva*), o inibidor liga apenas o complexo ES; Vmax e Km aparentes diminuem pelo mesmo fator.",
+        "Na **não competitiva pura**, a afinidade do inibidor por E e por ES é igual; ligar fora do sítio ativo não basta para definir esse caso.",
+        "**kcat** tem dimensão de tempo inverso; **kcat/Km** tem dimensão de concentração inversa por tempo inverso.",
+        "Uma enzima que acelera a reação direta também acelera a inversa: **a constante de equilíbrio permanece igual**.",
+        "**Ribozimas** (*ribozimi*) são RNAs catalíticos; nem todo catalisador biológico é uma proteína.",
+        "**Apoenzima** é o componente proteico sem o cofator necessário; **holoenzima** é o conjunto funcional completo.",
+        "Um **grupo prostético** (*gruppo prostetico*) fica fortemente associado à enzima; nem toda coenzima difunde livremente entre enzimas.",
+        "**Fosforilação** pode ativar ou inibir uma enzima: o efeito depende da proteína e do sítio modificado.",
+        "**Isoenzimas** catalisam a mesma reação; não são obrigatoriamente formas inativas ou precursores umas das outras.",
+        "**Quinase** (*chinasi*) transfere grupos fosfato; **fosfatase** (*fosfatasi*) remove fosfato por hidrólise."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Enzymes free energy change en.svg",
+          "busca": "enzyme activation energy LadyofHats diagram",
+          "legenda": "Compare as barreiras de ativação com e sem enzima: a catálise reduz a barreira, enquanto os níveis energéticos inicial e final permanecem iguais.",
+          "legenda_it": "Confronta le barriere di attivazione con e senza enzima: la catalisi abbassa la barriera, mentre i livelli energetici iniziale e finale rimangono uguali.",
+          "alt": "Gráfico de energia livre com e sem catálise enzimática"
+        }
+      ],
+      "prof": {
+        "ideia": "Enzimas aceleram reações sem alterar seu equilíbrio. O aluno deve interpretar Km, Vmax e os padrões de inibição, relacionando catálise e regulação metabólica.",
+        "explicar": [
+          "Use a analogia de um caminho com uma subida menor: desenhe os perfis energéticos com e sem enzima, mantendo iguais os níveis inicial e final. Use a imagem de energia de ativação da seção.",
+          "Desenhe a curva de Michaelis-Menten e marque [S] = Km e v = Vmax/2. Resolva os exemplos de 3Km e 9Km da tabela e confira as unidades.",
+          "Compare aumentar substrato com duplicar enzima ativa: o primeiro aproxima a velocidade do limite; o segundo duplica Vmax. Relacione kcat a ciclos por sítio ativo por segundo.",
+          "Monte um quadro de Km e Vmax para inibição competitiva, não competitiva pura e incompetitiva. Ressalte que a inibição mista não precisa manter Km constante e que substrato extra não recupera enzima já inativada irreversivelmente.",
+          "Diferencie cofator, coenzima, apoenzima e holoenzima; lembre que ribozimas são RNAs catalíticos. Organize as classes EC pelos tipos de reação, usando quinase e fosfatase como contraste.",
+          "Feche com alosteria, fosforilação, zimogênios e isoenzimas. Peça ao aluno que explique por que fosforilação pode ativar ou inibir, dependendo da proteína."
+        ],
+        "perguntas": [
+          [
+            "A enzima muda o ΔG ou a posição do equilíbrio?",
+            "Não; reduz a barreira de ativação e acelera os dois sentidos."
+          ],
+          [
+            "Se [S] = Km, qual é a velocidade?",
+            "Vmax/2, no modelo de Michaelis-Menten."
+          ],
+          [
+            "O que acontece com Vmax e Km ao duplicar a enzima ativa?",
+            "Vmax duplica; Km permanece igual nas mesmas condições."
+          ],
+          [
+            "Qual padrão identifica a inibição competitiva reversível?",
+            "Km aparente aumenta e Vmax permanece igual."
+          ],
+          [
+            "Na inibição incompetitiva, a que o inibidor se liga?",
+            "Somente ao complexo ES; Km e Vmax aparentes caem pelo mesmo fator."
+          ],
+          [
+            "Quinase e fosfatase pertencem à mesma classe EC?",
+            "Não; quinase é transferase e fosfatase é hidrolase."
+          ]
+        ],
+        "erros": [
+          "Confundir catálise com tornar qualquer reação espontânea: retome o gráfico e mostre que o ΔG não muda.",
+          "Tratar Km como velocidade ou sempre como Kd: confira sua unidade de concentração e lembre que Km inclui a etapa catalítica.",
+          "Chamar toda inibição fora do sítio ativo de não competitiva pura: exija igual afinidade por E e ES para esse caso.",
+          "Confundir fosforilação com ativação obrigatória ou isoenzima com zimogênio: contraste efeito regulatório, mesma reação e precursor inativo."
+        ],
+        "ponte": "Agora vamos acompanhar essas enzimas na glicólise e no ciclo de Krebs, separando localização, carbonos e balanço energético.",
+        "tempo": "20–22 min"
+      }
+    },
+    "c5_4": {
+      "txt": [
+        "A **glicólise** (*glicolisi*) ocorre no citosol e converte uma glicose de seis carbonos em dois piruvatos de três carbonos por dez reações. Não exige consumo direto de O₂. Na fase de investimento, hexoquinase e fosfofrutoquinase-1 consomem, ao todo, dois ATP por glicose. Depois da clivagem em trioses, as reações seguintes acontecem duas vezes para cada glicose inicial. A fase de retorno forma quatro ATP por **fosforilação em nível de substrato** (*fosforilazione a livello del substrato*) e dois NADH. O saldo é **2 ATP, 2 NADH e 2 piruvatos**, sem produção de CO₂ pela própria glicólise.",
+        "Hexoquinase, **fosfofrutoquinase-1** (*fosfofruttochinasi-1*, PFK-1) e piruvato quinase catalisam etapas fortemente direcionadas e reguladas. A PFK-1 é o principal ponto de controle do fluxo: ATP abundante sinaliza energia disponível e pode inibi-la alostericamente; AMP favorece atividade. O ATP também é substrato, portanto seu papel inibitório em sítio regulador não contradiz sua participação química. A regulação coordena oferta e demanda e varia entre tecidos; não se deve tratar a glicólise como uma sequência que funciona sempre à velocidade máxima.",
+        "Para continuar, a oxidação do gliceraldeído-3-fosfato precisa de NAD⁺. Na **fermentação lática** (*fermentazione lattica*), a lactato desidrogenase reduz piruvato a lactato, oxidando NADH a NAD⁺. Isso mantém a glicólise quando a reoxidação mitocondrial não acompanha a demanda, como no músculo em esforço intenso. A hemácia madura humana não tem mitocôndrias e depende da glicólise com produção de lactato mesmo quando há oxigênio. Portanto, lactato não demonstra obrigatoriamente ausência total de O₂. A fermentação não acrescenta ATP aos dois líquidos da glicólise e não libera CO₂ nessa conversão.",
+        "Em células com mitocôndrias e capacidade respiratória, o piruvato é transportado para a matriz. O complexo **piruvato desidrogenase** (*piruvato deidrogenasi*) realiza descarboxilação oxidativa: cada piruvato gera **1 acetil-CoA, 1 CO₂ e 1 NADH**. Por glicose, duplique todos esses produtos. Um carbono sai como CO₂ e dois permanecem no grupo acetila. Essa etapa liga glicólise ao ciclo, mas não é uma volta do ciclo de Krebs. Requer cofatores, incluindo derivados de vitaminas, e não produz ATP diretamente. O₂ não é reagente direto da reação, embora a continuidade do fluxo dependa da reoxidação respiratória das coenzimas.",
+        "No **ciclo de Krebs** (*ciclo dell'acido citrico*), acetil-CoA com dois carbonos se condensa com oxaloacetato de quatro, formando citrato de seis. As oxidações e descarboxilações regeneram oxaloacetato: ele participa do ciclo sem ser consumido no balanço de uma volta completa. Cada acetil-CoA rende **3 NADH, 1 FADH₂, 1 GTP e 2 CO₂**; o GTP equivale energeticamente a um ATP. Cada glicose fornece dois acetil-CoA e, portanto, duas voltas: seis NADH, dois FADH₂, dois GTP e quatro CO₂. Os carbonos liberados na primeira volta não precisam ser os recém-chegados da acetila.",
+        "As enzimas do ciclo ficam principalmente na matriz; a **succinato desidrogenase** (*succinato deidrogenasi*) é a exceção associada à membrana interna e também constitui o complexo II respiratório. Somando glicólise, piruvato desidrogenase e duas voltas do ciclo, antes da fosforilação oxidativa obtêm-se **10 NADH, 2 FADH₂, 4 equivalentes de ATP diretamente e 6 CO₂** por glicose. Dois dos NADH são citosólicos, detalhe relevante para o rendimento final. A maior parte da energia está nas coenzimas reduzidas; a cadeia respiratória permitirá convertê-la em ATP."
+      ],
+      "chave": [
+        "Glicólise: citosol, 10 reações, 2 ATP líquidos, 2 NADH e 2 piruvatos.",
+        "PFK-1 é ponto central de controle; hexoquinase e piruvato quinase também são reguladas.",
+        "Fermentação lática regenera NAD⁺ sem ATP extra; hemácias maduras não têm mitocôndrias.",
+        "Piruvato desidrogenase: 1 acetil-CoA, 1 NADH e 1 CO₂ por piruvato.",
+        "Krebs por volta: 3 NADH, 1 FADH₂, 1 GTP e 2 CO₂.",
+        "Succinato desidrogenase é o complexo II, na membrana interna.",
+        "Antes da cadeia: 10 NADH, 2 FADH₂, 4 ATP equivalentes diretos e 6 CO₂ por glicose."
+      ],
+      "pega": "Conte por glicose ou por acetil-CoA conforme o enunciado; a fermentação não acrescenta ATP.",
+      "num": [
+        [
+          "Reações da glicólise",
+          "10",
+          "Ocorrem no citosol."
+        ],
+        [
+          "Investimento / produção bruta de ATP",
+          "2 / 4 por glicose",
+          "Saldo: 2 ATP."
+        ],
+        [
+          "Piruvatos / NADH glicolíticos",
+          "2 / 2 por glicose",
+          "Piruvato tem 3 carbonos."
+        ],
+        [
+          "Piruvato desidrogenase por glicose",
+          "2 NADH + 2 CO₂ + 2 acetil-CoA",
+          "Sem ATP direto."
+        ],
+        [
+          "Carbonos: acetila + oxaloacetato",
+          "2 + 4 = 6 no citrato",
+          "Oxaloacetato é regenerado."
+        ],
+        [
+          "Krebs por acetil-CoA",
+          "3 NADH + 1 FADH₂ + 1 GTP + 2 CO₂",
+          "Uma volta."
+        ],
+        [
+          "Krebs por glicose",
+          "6 NADH + 2 FADH₂ + 2 GTP + 4 CO₂",
+          "Duas voltas."
+        ],
+        [
+          "Coenzimas reduzidas totais",
+          "10 NADH + 2 FADH₂ por glicose",
+          "Inclui glicólise e piruvato desidrogenase."
+        ],
+        [
+          "ATP equivalente direto total",
+          "4 por glicose",
+          "2 ATP glicolíticos e 2 GTP."
+        ],
+        [
+          "CO₂ na oxidação completa",
+          "6 por glicose",
+          "2 da desidrogenase e 4 do ciclo."
+        ]
+      ],
+      "voc": [
+        [
+          "glicolisi",
+          "glicólise"
+        ],
+        [
+          "resa netta",
+          "rendimento líquido"
+        ],
+        [
+          "fosfofruttochinasi",
+          "fosfofrutoquinase"
+        ],
+        [
+          "fermentazione lattica",
+          "fermentação lática"
+        ],
+        [
+          "lattato deidrogenasi",
+          "lactato desidrogenase"
+        ],
+        [
+          "matrice mitocondriale",
+          "matriz mitocondrial"
+        ],
+        [
+          "acetil-CoA",
+          "acetil-CoA"
+        ],
+        [
+          "ossalacetato",
+          "oxaloacetato"
+        ],
+        [
+          "ciclo dell'acido citrico",
+          "ciclo do ácido cítrico"
+        ],
+        [
+          "fosforilazione a livello del substrato",
+          "fosforilação em nível de substrato"
+        ]
+      ],
+      "detalhes": [
+        "**Glicólise** (*glicolisi*) ocorre no citosol; a presença de O₂ não desloca suas enzimas para a mitocôndria.",
+        "Na glicólise, **fosfoglicerato quinase e piruvato quinase** formam ATP por fosforilação em nível de substrato.",
+        "Na reação da gliceraldeído-3-fosfato desidrogenase, o fosfato incorporado vem de **Pi livre**, sem consumo direto de ATP nessa etapa.",
+        "A aldolase forma **GAP e DHAP**; a triose-fosfato isomerase converte DHAP em GAP para que ambas as trioses prossigam pela mesma sequência.",
+        "**PFK-1** fosforila frutose-6-fosfato formando frutose-1,6-bisfosfato; não forma frutose-2,6-bisfosfato.",
+        "Na fermentação lática, o **piruvato é reduzido** e o **NADH é oxidado**; NAD⁺ é regenerado no citosol.",
+        "Converter glicose em lactato gera **2 ATP líquidos e nenhum NADH líquido acumulado** no balanço combinado.",
+        "A **piruvato desidrogenase** está na matriz mitocondrial em células eucarióticas animais; não é uma enzima glicolítica citosólica.",
+        "O complexo piruvato desidrogenase usa **TPP, lipoamida, CoA, FAD e NAD⁺** como cofatores ou coenzimas.",
+        "**Succinato desidrogenase** é a exceção de localização do ciclo: fica na membrana interna, com o domínio catalítico voltado para a matriz.",
+        "O ciclo de Krebs **não consome O₂ diretamente**, mas sua continuidade respiratória depende da reoxidação das coenzimas reduzidas.",
+        "O **oxaloacetato** é regenerado ao fim de uma volta; a saída de intermediários para biossíntese exige reposição por reações anapleróticas."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Glycolysis Summary.svg",
+          "busca": "glycolysis ten reactions ATP NADH diagram",
+          "legenda": "Observe o investimento de ATP e as reações que o produzem. Após a formação das trioses, as etapas de retorno ocorrem duas vezes por glicose.",
+          "legenda_it": "Osserva il consumo iniziale di ATP e le reazioni che lo producono. Dopo la formazione dei triosi, le tappe della fase di rendimento avvengono due volte per glucosio.",
+          "alt": "Diagrama das dez reações da glicólise"
+        }
+      ],
+      "prof": {
+        "ideia": "Glicólise, piruvato desidrogenase e Krebs transferem a maior parte da energia da glicose para coenzimas reduzidas. O balanço só faz sentido quando se distinguem compartimentos, produção bruta e líquida e valores por glicose ou por acetil-CoA.",
+        "explicar": [
+          "Desenhe citosol, matriz e membrana interna como estações de uma linha de processamento. Coloque glicólise no citosol, piruvato desidrogenase na matriz e marque a exceção da succinato desidrogenase na membrana interna.",
+          "Use a imagem da glicólise para acompanhar investimento de 2 ATP e produção bruta de 4 ATP. Mostre a clivagem em GAP e DHAP e a conversão de DHAP em GAP: a sequência de retorno ocorre duas vezes por glicose.",
+          "Destaque hexoquinase, PFK-1 e piruvato quinase no controle do fluxo. Diferencie ATP usado como substrato de ATP como sinal alostérico e identifique as etapas que formam ATP e a que incorpora Pi livre.",
+          "Desenhe NADH cedendo elétrons ao piruvato na fermentação lática. Use a hemácia madura para mostrar que produzir lactato não exige ausência total de O₂ e que a função é regenerar NAD⁺, sem ATP extra.",
+          "Faça a contagem de carbonos na piruvato desidrogenase e depois no ciclo: acetila com 2 carbonos mais oxaloacetato com 4 forma citrato com 6. Mostre a regeneração do oxaloacetato e separe a desidrogenase de uma volta do ciclo.",
+          "Monte o balanço por acetil-CoA e duplique apenas o que corresponde às duas voltas por glicose. Some as três etapas para obter 10 NADH, 2 FADH₂, 4 equivalentes diretos de ATP e 6 CO₂; marque os NADH citosólicos."
+        ],
+        "perguntas": [
+          [
+            "Qual é o saldo da glicólise por glicose?",
+            "2 ATP, 2 NADH e 2 piruvatos; nenhum CO₂."
+          ],
+          [
+            "De onde vem o fosfato incorporado pela gliceraldeído-3-fosfato desidrogenase?",
+            "De Pi livre, sem consumo direto de ATP nessa etapa."
+          ],
+          [
+            "O que a fermentação lática regenera e quanto ATP acrescenta?",
+            "Regenera NAD⁺ e não acrescenta ATP ao saldo glicolítico."
+          ],
+          [
+            "O que cada piruvato gera pela piruvato desidrogenase?",
+            "1 acetil-CoA, 1 NADH e 1 CO₂, sem ATP direto."
+          ],
+          [
+            "Qual é o rendimento de uma volta de Krebs?",
+            "3 NADH, 1 FADH₂, 1 GTP e 2 CO₂ por acetil-CoA."
+          ],
+          [
+            "Qual enzima do ciclo fica na membrana interna?",
+            "Succinato desidrogenase, que também é o complexo II."
+          ]
+        ],
+        "erros": [
+          "Somar os 4 ATP brutos da glicólise como saldo: desconte os 2 investidos antes de somar o rendimento total.",
+          "Misturar valores por piruvato, acetil-CoA e glicose: escreva a base de contagem no cabeçalho de cada coluna.",
+          "Atribuir ATP adicional ou CO₂ à fermentação lática: escreva a redução do piruvato e a regeneração de NAD⁺.",
+          "Colocar consumo direto de O₂ no ciclo ou na piruvato desidrogenase: separe os reagentes dessas etapas da dependência de reoxidação respiratória das coenzimas.",
+          "Tratar oxaloacetato como produto consumido a cada volta ou toda enzima do ciclo como solúvel na matriz: mostre sua regeneração e a posição da succinato desidrogenase."
+        ],
+        "ponte": "As coenzimas reduzidas concentram a energia que ainda falta aproveitar; vamos ver como a cadeia respiratória a converte em gradiente e ATP.",
+        "tempo": "23–25 min"
+      }
+    },
+    "c5_5": {
+      "txt": [
+        "A **mitocôndria** (*mitocondrio*) possui membranas externa e interna, espaço intermembranas e matriz. As dobras da membrana interna são as **cristas** (*creste mitocondriali*), que ampliam a superfície disponível para respiração. A organela tem largura típica de aproximadamente **0,5–1 µm** e comprimento variável, frequentemente de alguns micrômetros, podendo formar redes extensas. A membrana externa contém porinas; a interna restringe a passagem livre de íons, condição essencial para conservar energia como gradiente. A cadeia de transporte de elétrons e a ATP sintase ficam nessa membrana interna.",
+        "O **complexo I** (*complesso I*, NADH desidrogenase) recebe dois elétrons do NADH e contribui para bombear H⁺ da matriz para o espaço intermembranas. O **complexo II**, succinato desidrogenase, liga a oxidação do succinato à redução de sua flavina e transfere elétrons à ubiquinona, sem bombear prótons. A expressão rendimento do FADH₂ resume essa entrada por flavinas ligadas a enzimas; não significa um reservatório de FADH₂ livre difundindo até o complexo II. A **ubiquinona** (*ubichinone*), lipossolúvel, leva elétrons de I ou II ao complexo III.",
+        "O **complexo III** transfere elétrons ao **citocromo c** (*citocromo c*), pequeno carreador móvel na face da membrana interna voltada ao espaço intermembranas. Ele transporta um elétron por vez ao **complexo IV**, citocromo c oxidase. O IV reduz O₂ a água; para uma molécula de O₂ são necessários quatro elétrons. No balanço usual por par de elétrons de NADH, os complexos I, III e IV translocam respectivamente **4, 4 e 2 H⁺**, totalizando dez. Pela entrada no complexo II, são seis. Os prótons químicos usados para formar água não devem ser somados aos prótons bombeados.",
+        "A **força próton-motriz** (*forza proton-motrice*) combina diferença de potencial elétrico e diferença de pH. A matriz é relativamente negativa e alcalina. O retorno de H⁺ à matriz pela **ATP sintase** (*ATP sintasi*) acopla rotação à formação de ATP a partir de ADP e fosfato: é a quimiosmose de Mitchell. A porção F₀ contém o caminho transmembrana e elementos rotatórios; F₁ contém sítios catalíticos. O rendimento efetivo aproximado é **2,5 ATP por NADH e 1,5 por entrada equivalente a FADH₂**, incluindo custos associados. Não há uma razão universal exata de prótons por ATP para todas as espécies.",
+        "Uma glicose rende aproximadamente **30–32 ATP** em condições usuais de contabilidade eucariótica. Os NADH citosólicos precisam transferir seus equivalentes redutores por lançadeiras; as rotas usadas explicam parte dessa diferença. Cianeto e monóxido de carbono podem inibir o complexo IV, impedindo fluxo respiratório. **Oligomicina** (*oligomicina*) bloqueia o canal da ATP sintase: em mitocôndrias acopladas, o gradiente se acumula e freia fortemente a respiração, embora vazamentos sustentem consumo residual. **Desacopladores** (*disaccoppianti*) dissipam o gradiente e reduzem síntese de ATP; com substratos e O₂ disponíveis, a cadeia pode acelerar. UCP1, termogenina da gordura marrom, favorece produção de calor por retorno de prótons sem síntese de ATP.",
+        "A origem **endossimbiótica** (*origine endosimbiotica*) explica DNA próprio circular e maquinaria de tradução de ancestralidade bacteriana. Na espécie humana, os mitorribossomos são **55S**, não idênticos aos 70S bacterianos. O DNA mitocondrial tem herança predominantemente materna; a maioria das proteínas da organela, contudo, é codificada no núcleo e traduzida no citosol. Muitas proteínas de matriz possuem pré-sequência N-terminal e entram desdobradas pelos complexos **TOM e TIM**, com gasto energético; existem outras rotas de endereçamento. DNA próprio não torna a mitocôndria independente da célula."
+      ],
+      "chave": [
+        "Cadeia e ATP sintase ficam na membrana interna; matriz fica relativamente negativa e alcalina.",
+        "Complexos I, III e IV bombeiam H⁺; II não bombeia.",
+        "Ubiquinona conecta I/II a III; citocromo c conecta III a IV.",
+        "O₂ é aceptor final, formando água; 4 elétrons por O₂.",
+        "Rendimentos aproximados: NADH 2,5 ATP; FADH₂ 1,5 ATP; glicose 30–32 ATP.",
+        "Oligomicina freia ATP sintase e respiração; desacoplador dissipa gradiente e favorece calor.",
+        "DNA circular, herança materna e ancestralidade bacteriana; maioria das proteínas vem do núcleo via importação."
+      ],
+      "pega": "ATP cai tanto com oligomicina quanto com desacoplador, mas o consumo de O₂ tende a mudar em sentidos opostos.",
+      "num": [
+        [
+          "Largura mitocondrial típica",
+          "≈ 0,5–1 µm",
+          "Comprimento e forma variam; redes podem ser extensas."
+        ],
+        [
+          "H⁺ translocados no complexo I",
+          "4 por 2 elétrons",
+          "Da matriz para fora."
+        ],
+        [
+          "H⁺ translocados no complexo III",
+          "4 por 2 elétrons",
+          "Balanço do ciclo Q."
+        ],
+        [
+          "H⁺ bombeados no complexo IV",
+          "2 por 2 elétrons",
+          "Não incluir prótons químicos da água."
+        ],
+        [
+          "H⁺ translocados por NADH / entrada em II",
+          "10 / 6 por 2 elétrons",
+          "II não bombeia."
+        ],
+        [
+          "Redução de oxigênio",
+          "4 elétrons por O₂",
+          "Forma 2 H₂O com prótons químicos."
+        ],
+        [
+          "Rendimento por NADH / FADH₂",
+          "≈ 2,5 / 1,5 ATP",
+          "Valores efetivos aproximados."
+        ],
+        [
+          "Oxidação de glicose",
+          "≈ 30–32 ATP",
+          "Depende de lançadeiras e condições."
+        ],
+        [
+          "Mitorribossomo humano",
+          "55S",
+          "Ancestralidade bacteriana não significa 70S."
+        ]
+      ],
+      "voc": [
+        [
+          "catena respiratoria",
+          "cadeia respiratória"
+        ],
+        [
+          "membrana mitocondriale interna",
+          "membrana mitocondrial interna"
+        ],
+        [
+          "spazio intermembrana",
+          "espaço intermembranas"
+        ],
+        [
+          "creste mitocondriali",
+          "cristas mitocondriais"
+        ],
+        [
+          "ubichinone",
+          "ubiquinona"
+        ],
+        [
+          "accettore finale",
+          "aceptor final"
+        ],
+        [
+          "forza proton-motrice",
+          "força próton-motriz"
+        ],
+        [
+          "fosforilazione ossidativa",
+          "fosforilação oxidativa"
+        ],
+        [
+          "disaccoppiante",
+          "desacoplador"
+        ],
+        [
+          "termogenina",
+          "termogenina"
+        ]
+      ],
+      "detalhes": [
+        "Os complexos respiratórios bombeiam H⁺ **da matriz para o espaço intermembranas**; a ATP sintase permite o retorno à matriz.",
+        "A cabeça catalítica **F₁ está voltada para a matriz**; não fica no espaço intermembranas.",
+        "**Cristas** (*creste*) são dobras da membrana interna; o lúmen das cristas comunica-se com o espaço intermembranas.",
+        "A matriz é relativamente **negativa e alcalina** em mitocôndrias respirando e acopladas.",
+        "**Ubiquinona** transporta dois elétrons e pode carregar dois prótons na forma reduzida; **citocromo c** transporta um elétron por vez.",
+        "O citocromo c fica na **face externa da membrana interna**, voltada ao espaço intermembranas, e conecta III a IV.",
+        "**Complexo II não bombeia H⁺**; a entrada de seus elétrons na ubiquinona contorna o complexo I.",
+        "No complexo IV, prótons usados quimicamente para formar água **não entram na contagem de H⁺ bombeados**.",
+        "O **NADH citosólico não atravessa livremente a membrana interna**; lançadeiras transferem seus equivalentes redutores.",
+        "**Oligomicina** bloqueia F₀; um protonóforo pode aliviar o freio respiratório sem desbloquear a ATP sintase.",
+        "Os mitorribossomos **humanos são 55S**; o coeficiente S de sedimentação não é uma unidade de tamanho nem uma soma aritmética de subunidades.",
+        "Pré-sequências de muitas proteínas de matriz são **N-terminais** e removidas após importação; proteínas mitocondriais também usam outros sinais e rotas."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Animal mitochondrion diagram en.svg",
+          "busca": "animal mitochondrion diagram LadyofHats labelled",
+          "legenda": "Localize membrana interna, cristas, matriz e espaço intermembranas. As cristas ampliam a superfície da membrana que abriga a cadeia respiratória e a ATP sintase.",
+          "legenda_it": "Individua membrana interna, creste, matrice e spazio intermembrana. Le creste aumentano la superficie della membrana che ospita la catena respiratoria e l’ATP sintasi.",
+          "alt": "Mitocôndria em corte com membranas e compartimentos identificados"
+        }
+      ],
+      "prof": {
+        "ideia": "A cadeia respiratória usa o fluxo de elétrons até O₂ para gerar um gradiente de prótons na membrana interna, e a ATP sintase aproveita o retorno de H⁺ à matriz. Bloqueios e desacoplamento afetam esse acoplamento de modos diferentes.",
+        "explicar": [
+          "Use a imagem da mitocôndria para localizar membranas, cristas, matriz e espaço intermembranas. Compare a membrana interna a uma barragem que restringe a passagem livre de íons.",
+          "Desenhe os caminhos NADH → I → ubiquinona → III → citocromo c → IV → O₂ e II → ubiquinona. Marque que II não bombeia H⁺ e que citocromo c carrega um elétron por vez.",
+          "Por par de elétrons, anote 4, 4 e 2 H⁺ em I, III e IV e compare os totais 10 e 6 conforme a entrada. Separe prótons bombeados dos usados quimicamente para formar água.",
+          "Desenhe H⁺ saindo da matriz pela cadeia e retornando por F₀. Posicione a cabeça F₁ na matriz, relativamente negativa e alcalina, e relacione gradiente elétrico e de pH à síntese de ATP.",
+          "Use os rendimentos aproximados de 2,5 ATP por NADH e 1,5 por entrada equivalente a FADH₂ para retomar o balanço da glicose. Explique a faixa de 30–32 ATP pelas lançadeiras, sem fazer NADH citosólico atravessar livremente a membrana interna.",
+          "No modelo da cadeia respiratória do app, peça previsões antes de testar bloqueio de complexo, oligomicina e desacoplador. Compare gradiente, ATP e consumo de O₂, explicitando a disponibilidade de substratos e oxigênio.",
+          "Feche com endossimbiose e importação: DNA próprio não dá autonomia. Contraste mitorribossomos humanos 55S e proteínas nucleares, muitas com pré-sequência N-terminal e importação desdobrada por TOM/TIM."
+        ],
+        "perguntas": [
+          [
+            "Quais complexos bombeiam H⁺ e em que direção?",
+            "I, III e IV, da matriz para o espaço intermembranas."
+          ],
+          [
+            "Onde fica F₁ e para onde os prótons retornam pela ATP sintase?",
+            "F₁ fica voltada à matriz, para onde os H⁺ retornam."
+          ],
+          [
+            "Por que a entrada pelo complexo II rende menos ATP?",
+            "Contorna o complexo I e contribui para menor translocação de H⁺."
+          ],
+          [
+            "Qual é o aceptor final e quantos elétrons recebe uma molécula de O₂?",
+            "O₂, que recebe 4 elétrons para formar água."
+          ],
+          [
+            "Como oligomicina e desacoplador afetam ATP e respiração?",
+            "Ambos reduzem a síntese de ATP; oligomicina freia a respiração acoplada, enquanto o desacoplador pode acelerá-la com substratos e O₂ disponíveis."
+          ],
+          [
+            "DNA próprio significa que todas as proteínas mitocondriais são produzidas na organela?",
+            "Não; a maioria é codificada no núcleo e traduzida no citosol."
+          ]
+        ],
+        "erros": [
+          "Inverter o sentido do bombeamento ou colocar F₁ no espaço intermembranas: redesenhe as setas e identifique o lado da matriz.",
+          "Atribuir bombeamento ao complexo II ou somar prótons químicos da água ao bombeamento de IV: mantenha essas contagens separadas.",
+          "Tratar 30–32 ATP como rendimento exato universal ou transportar NADH citosólico diretamente pela membrana interna: retome as lançadeiras e o caráter aproximado do balanço.",
+          "Prever o mesmo efeito respiratório para oligomicina e desacoplador: compare bloqueio do retorno por ATP sintase com dissipação do gradiente.",
+          "Generalizar ribossomos bacterianos 70S à mitocôndria humana ou confundir DNA próprio com autonomia: use o valor humano 55S e a importação de proteínas nucleares."
+        ],
+        "ponte": "A mitocôndria conserva energia como gradiente; agora vamos comparar esse mecanismo com as oxidações e o endereçamento de proteínas nos peroxissomos.",
+        "tempo": "25–28 min"
+      }
+    },
+    "c5_6": {
+      "txt": [
+        "O **peroxissomo** (*perossisoma*) é uma organela delimitada por **uma membrana**, especializada em reações oxidativas e metabolismo lipídico. Não possui DNA próprio nem ribossomos e depende de genes nucleares. Seu conteúdo enzimático varia conforme o tecido e o estado metabólico; células do fígado apresentam funções detoxificantes relevantes. Não é uma mitocôndria pequena: não contém cadeia respiratória acoplada à ATP sintase nem produz ATP por fosforilação oxidativa. Também não é um lisossomo, cuja função central envolve digestão por hidrolases em meio ácido.",
+        "As proteínas da matriz peroxissomal são sintetizadas em ribossomos do citosol e podem ser importadas **já dobradas**, inclusive em alguns complexos. Esse comportamento contrasta com a importação usual de proteínas desdobradas para a matriz mitocondrial. Muitas proteínas possuem **PTS1** (*segnale di indirizzamento perossisomiale 1*), sinal no extremo C-terminal. O exemplo clássico é **SKL**, três aminoácidos: serina, lisina e leucina. O receptor PEX5 reconhece cargas com PTS1 e participa de sua entrega à maquinaria de importação. PTS1 admite variantes e não endereça todas as proteínas peroxissomais; existe também PTS2. As **peroxinas** (*perossine*), codificadas por genes PEX, participam da biogênese, importação e reciclagem dos receptores. A reciclagem envolve ATP, mesmo que a organela não o produza por uma cadeia respiratória própria.",
+        "Na função oxidativa, oxidases transferem elétrons de substratos ao O₂ e formam **peróxido de hidrogênio** (*perossido di idrogeno*, H₂O₂). A **catalase** (*catalasi*) impede seu acúmulo excessivo pela reação **2 H₂O₂ → 2 H₂O + O₂**. Assim, quatro átomos de oxigênio nos reagentes continuam como dois na água e dois no oxigênio molecular. Para cada duas moléculas de peróxido decompostas, aparece uma de O₂. A catalase também pode usar peróxido para oxidar outros substratos; no fígado, isso contribui para detoxificar parte do etanol e de outras moléculas. Essa contribuição não substitui as principais vias hepáticas de metabolismo do etanol.",
+        "A **β-oxidação** (*beta-ossidazione*) peroxissomal encurta ácidos graxos de cadeia muito longa, chamados VLCFA, antes de transferir produtos para continuação do metabolismo mitocondrial. Como referência didática, VLCFA costumam ter **22 ou mais carbonos**, com limites terminológicos que variam entre fontes; C24 e C26 são exemplos claros. Cada ciclo de encurtamento retira uma unidade de **dois carbonos**, em geral como acetil-CoA. Na primeira oxidação peroxissomal, elétrons seguem ao oxigênio e geram H₂O₂, sem aproveitar essa etapa para formar o gradiente mitocondrial. Ácidos graxos comuns são oxidados principalmente na mitocôndria, mas seria excessivo afirmar que apenas VLCFA podem ser substratos peroxissomais.",
+        "As funções **biossintéticas** (*funzioni biosintetiche*) incluem etapas iniciais da síntese de **plasmalogênios** (*plasmalogeni*), fosfolipídios com ligação éter importantes para a mielina e outras membranas. O processo é completado com participação do retículo endoplasmático. Peroxissomos também executam etapas da formação de ácidos biliares, incluindo encurtamento de cadeias laterais. Portanto, não realizam apenas degradação e detoxificação: participam de síntese e cooperação entre organelas.",
+        "Na **síndrome de Zellweger** (*sindrome di Zellweger*), alterações de genes PEX prejudicam biogênese ou importação, comprometendo múltiplas funções peroxissomais. Na **adrenoleucodistrofia ligada ao X** (*adrenoleucodistrofia legata all'X*), o defeito em **ABCD1**, transportador da membrana peroxissomal, prejudica o processamento de VLCFA e favorece seu acúmulo. Não se trata de mutação no DNA da organela, pois esse DNA não existe. A comparação ajuda a distinguir uma falha ampla de montagem/importação de um defeito específico de transporte, ambos capazes de afetar tecidos que dependem do metabolismo lipídico."
+      ],
+      "chave": [
+        "Uma membrana; sem DNA, ribossomos ou fosforilação oxidativa.",
+        "Proteínas citosólicas podem entrar dobradas; PTS1 clássico = SKL C-terminal.",
+        "PEX5 reconhece PTS1; peroxinas participam da biogênese e importação.",
+        "Oxidases geram H₂O₂; catalase: 2 H₂O₂ → 2 H₂O + O₂.",
+        "β-oxidação encurta VLCFA em unidades de dois carbonos e coopera com mitocôndrias.",
+        "Plasmalogênios, etapas de ácidos biliares e detoxificação parcial de etanol.",
+        "Zellweger: genes PEX; adrenoleucodistrofia ligada ao X: ABCD1."
+      ],
+      "pega": "Peroxissomo importa proteínas dobradas e usa ATP em processos celulares, mas não fabrica ATP por fosforilação oxidativa.",
+      "num": [
+        [
+          "Membranas delimitantes",
+          "1",
+          "Contraste com as duas da mitocôndria."
+        ],
+        [
+          "Genomas próprios",
+          "0",
+          "Proteínas codificadas no núcleo."
+        ],
+        [
+          "Sinal clássico SKL",
+          "3 aminoácidos",
+          "Serina-lisina-leucina no C-terminal."
+        ],
+        [
+          "Catalase: H₂O₂ consumido / O₂ liberado",
+          "2 : 1",
+          "Equação balanceada: 2 H₂O₂ → 2 H₂O + O₂."
+        ],
+        [
+          "Carbonos retirados por ciclo de β-oxidação",
+          "2",
+          "Unidade acetila."
+        ],
+        [
+          "Exemplo de VLCFA",
+          "C24 e C26",
+          "Referência usual: ≥ 22 carbonos; limite varia."
+        ],
+        [
+          "Encurtamento de C26 para C20",
+          "3 ciclos, no exercício idealizado",
+          "Remove 6 carbonos em 3 unidades de 2."
+        ],
+        [
+          "ATP por fosforilação oxidativa própria",
+          "0",
+          "Não confundir com consumo de ATP na importação."
+        ]
+      ],
+      "voc": [
+        [
+          "perossisoma",
+          "peroxissomo"
+        ],
+        [
+          "perossido di idrogeno",
+          "peróxido de hidrogênio"
+        ],
+        [
+          "catalasi",
+          "catalase"
+        ],
+        [
+          "ossidasi",
+          "oxidase"
+        ],
+        [
+          "acidi grassi a catena molto lunga",
+          "ácidos graxos de cadeia muito longa"
+        ],
+        [
+          "perossine",
+          "peroxinas"
+        ],
+        [
+          "segnale C-terminale",
+          "sinal C-terminal"
+        ],
+        [
+          "proteina ripiegata",
+          "proteína dobrada"
+        ],
+        [
+          "plasmalogeni",
+          "plasmalogênios"
+        ],
+        [
+          "acidi biliari",
+          "ácidos biliares"
+        ]
+      ],
+      "detalhes": [
+        "**Peroxissomos têm uma membrana**, não possuem genoma próprio e importam proteínas codificadas no núcleo.",
+        "O sinal PTS1 clássico **SKL precisa estar no extremo C-terminal**; uma sequência SKL interna não equivale automaticamente ao sinal terminal.",
+        "**SKL** corresponde a serina, lisina e leucina: é uma sequência de aminoácidos, não de nucleotídeos.",
+        "**PEX5 reconhece PTS1**; **PEX7 reconhece PTS2**, um sinal próximo à extremidade N-terminal de certas proteínas de matriz.",
+        "**PTS1 não endereça todas as proteínas**: proteínas de membrana peroxissomal podem usar sinais e maquinaria distintos.",
+        "Proteínas peroxissomais podem ser importadas **já dobradas**; isso não implica síntese por ribossomos dentro da organela.",
+        "**Ausência de produção própria de ATP não significa ausência de gasto energético**: a reciclagem de receptores usa ATP.",
+        "Na primeira oxidação da β-oxidação peroxissomal, elétrons passam ao **O₂ formando H₂O₂**, sem cadeia respiratória acoplada à ATP sintase.",
+        "Na reação catalática, a catalase **consome H₂O₂ e libera O₂**; oxidases peroxissomais podem fazer o percurso de redução do O₂ até H₂O₂.",
+        "**2 H₂O₂ → 2 H₂O + O₂** conserva átomos; duas moléculas de peróxido não geram duas de oxigênio molecular.",
+        "O núcleo cristalino de urato oxidase visto em peroxissomos de alguns animais **não é universal** e não caracteriza o peroxissomo humano normal.",
+        "As etapas iniciais da síntese de **plasmalogênios** ocorrem em peroxissomos; a via continua no **retículo endoplasmático**."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Peroxisome.svg",
+          "busca": "peroxisome single membrane crystalline core diagram",
+          "legenda": "Observe a membrana única e a matriz enzimática. O núcleo cristalino representa peroxissomos de certos animais, como o rato; não é uma característica universal nem típica do peroxissomo humano.",
+          "legenda_it": "Osserva la singola membrana e la matrice enzimatica. Il nucleo cristallino rappresenta perossisomi di alcuni animali, come il ratto; non è una caratteristica universale né tipica del perossisoma umano.",
+          "alt": "Esquema de peroxissomo com uma membrana e núcleo cristalino não universal"
+        }
+      ],
+      "prof": {
+        "ideia": "Peroxissomos cooperam no metabolismo lipídico e controlam o H₂O₂ sem produzir ATP por fosforilação oxidativa própria. Suas proteínas vêm do citosol e podem entrar dobradas por sistemas de endereçamento específicos.",
+        "explicar": [
+          "Use a imagem do peroxissomo para destacar a membrana única e a matriz enzimática. Compare com a mitocôndria e esclareça que o núcleo cristalino do desenho não é universal nem típico do peroxissomo humano.",
+          "Desenhe uma proteína como encomenda com etiqueta C-terminal SKL reconhecida por PEX5. Mostre a entrada já dobrada e contraste com a importação usual para a matriz mitocondrial; ressalve PTS2/PEX7 e as rotas de proteínas de membrana.",
+          "Escreva lado a lado oxidase formando H₂O₂ e catalase consumindo-o. Balanceie 2 H₂O₂ → 2 H₂O + O₂ com o aluno, distinguindo consumo e liberação de oxigênio.",
+          "Desenhe o encurtamento de VLCFA em unidades de 2 carbonos e a cooperação posterior com mitocôndrias. Use C24 e C26 como exemplos e o exercício idealizado de C26 a C20 em 3 ciclos.",
+          "Contraste a transferência inicial de elétrons ao O₂, formando H₂O₂, com a conservação de energia na cadeia mitocondrial. Explique por que não produzir ATP por fosforilação oxidativa não impede gastar ATP na reciclagem de receptores.",
+          "Acrescente as funções de síntese de plasmalogênios em cooperação com o retículo e as etapas de ácidos biliares. Compare Zellweger, ligada a genes PEX, com o defeito de transporte por ABCD1 na adrenoleucodistrofia ligada ao X."
+        ],
+        "perguntas": [
+          [
+            "Quantas membranas delimitam o peroxissomo e ele tem DNA próprio?",
+            "Uma membrana; não tem DNA próprio nem ribossomos."
+          ],
+          [
+            "Onde precisa estar o SKL clássico e quem o reconhece?",
+            "No extremo C-terminal; é reconhecido por PEX5."
+          ],
+          [
+            "Uma proteína já dobrada pode entrar no peroxissomo?",
+            "Sim; ela é sintetizada no citosol e pode ser importada dobrada."
+          ],
+          [
+            "Na reação catalática, qual é a proporção entre H₂O₂ consumido e O₂ liberado?",
+            "2 moléculas de H₂O₂ para 1 de O₂."
+          ],
+          [
+            "Quantos ciclos retiram os carbonos de C26 até C20 no exercício idealizado?",
+            "3 ciclos, retirando 2 carbonos por ciclo."
+          ],
+          [
+            "Como distinguir Zellweger da adrenoleucodistrofia ligada ao X nesta seção?",
+            "Zellweger envolve genes PEX e biogênese/importação; a adrenoleucodistrofia ligada ao X envolve o transportador ABCD1."
+          ]
+        ],
+        "erros": [
+          "Tratar peroxissomo como mitocôndria pequena, lisossomo ou organela com DNA: compare membrana, enzimas e funções de cada um.",
+          "Interpretar qualquer SKL interno como PTS1 ou generalizar PTS1 a todas as proteínas: exija a posição C-terminal no sinal clássico e lembre as outras rotas.",
+          "Concluir que importação de proteínas dobradas implica ribossomos internos ou que ausência de fosforilação oxidativa exclui consumo de ATP: separe local de síntese, estado da proteína e reciclagem dos receptores.",
+          "Inverter as funções de oxidase e catalase ou liberar duas moléculas de O₂ por duas de H₂O₂: confira a equação e conte os átomos.",
+          "Reduzir a organela à degradação ou atribuir a ela toda a síntese de plasmalogênios: destaque as etapas biossintéticas e a cooperação com o retículo."
+        ],
+        "ponte": "Feche a trilha pedindo que o aluno compare enzimas, compartimentos e destino dos elétrons; depois use as questões finais para conferir os balanços e as exceções.",
+        "tempo": "17–20 min"
+      }
+    }
+  },
+  "questoes": [
+    {
+      "id": "xt4_01",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un enzima michaeliano ha Km = 2 mM e Vmax = 80 µmol/min. A [S] = 2 mM, v vale:",
+      "opts": [
+        "40 µmol/min",
+        "80 µmol/min",
+        "20 µmol/min",
+        "2 µmol/min",
+        "160 µmol/min"
+      ],
+      "ex": "A velocidade é 40 µmol/min, metade da Vmax.",
+      "exp": [
+        "Em [S] = Km, a fração [S]/(Km + [S]) é 1/2.",
+        "A velocidade é 40 µmol/min, metade da Vmax.",
+        "Por que as outras erram: 80 ignora a meia saturação; 20 usa um quarto sem fundamento; 2 confunde o número da concentração com velocidade; 160 ultrapassa Vmax."
+      ]
+    },
+    {
+      "id": "xt4_02",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Per un enzima michaeliano, a [S] = 3Km la velocità è:",
+      "opts": [
+        "75% della Vmax",
+        "25% della Vmax",
+        "50% della Vmax",
+        "100% della Vmax",
+        "300% della Vmax"
+      ],
+      "ex": "v/Vmax = 3/(1 + 3) = 0,75.",
+      "exp": [
+        "Substitua [S] por 3Km e cancele Km no numerador e denominador.",
+        "v/Vmax = 3/(1 + 3) = 0,75.",
+        "Por que as outras erram: 25% usa apenas o termo Km no numerador; 50% corresponde a [S] = Km; 100% supõe saturação completa em concentração finita; 300% ignora o denominador e excede Vmax."
+      ]
+    },
+    {
+      "id": "xt4_03",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Raddoppiando la concentrazione di enzima attivo, a condizioni identiche, si osserva:",
+      "opts": [
+        "Vmax raddoppiata e Km invariata",
+        "Vmax invariata e Km raddoppiata",
+        "Vmax e Km dimezzate",
+        "Vmax quadruplicata e Km invariata",
+        "Vmax dimezzata e Km raddoppiata"
+      ],
+      "ex": "Vmax dobra porque há o dobro de sítios ativos; Km permanece.",
+      "exp": [
+        "Use Vmax = kcat × concentração total de sítios ativos, mantendo a mesma enzima.",
+        "Vmax dobra porque há o dobro de sítios ativos; Km permanece.",
+        "Por que as outras erram: Vmax constante ignora os novos sítios; reduzir ambos não resulta de mais enzima; quadruplicar aplica um fator 4 em vez de 2; reduzir Vmax e elevar Km não descreve essa mudança."
+      ]
+    },
+    {
+      "id": "xt4_04",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Quale affermazione sugli enzimi è FALSA?",
+      "opts": [
+        "Spostano l’equilibrio verso i prodotti",
+        "Riducono l’energia di attivazione",
+        "Accelerano il raggiungimento dell’equilibrio",
+        "Non sono consumati nel bilancio della reazione",
+        "Possono richiedere coenzimi"
+      ],
+      "ex": "A afirmação falsa é que enzimas deslocam o equilíbrio.",
+      "exp": [
+        "O enunciado pede a falsa: separe cinética de termodinâmica.",
+        "A afirmação falsa é que enzimas deslocam o equilíbrio.",
+        "Por que as outras erram: Reduzir a barreira é catálise; acelerar a chegada ao equilíbrio é verdadeiro; a enzima é regenerada no ciclo; coenzimas podem ser necessárias. As quatro são verdadeiras e não respondem a FALSA."
+      ]
+    },
+    {
+      "id": "xt4_05",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un inibitore non competitivo PURO determina:",
+      "opts": [
+        "Vmax ridotta e Km invariata",
+        "Vmax invariata e Km aumentata",
+        "Vmax aumentata e Km invariata",
+        "Vmax invariata e Km ridotta",
+        "Equilibrio spostato verso i reagenti"
+      ],
+      "ex": "Na não competitiva pura, Vmax diminui e Km não muda.",
+      "exp": [
+        "A ligação tem a mesma afinidade à enzima livre e ao complexo enzima-substrato.",
+        "Na não competitiva pura, Vmax diminui e Km não muda.",
+        "Por que as outras erram: Km aumentada com Vmax constante é competitiva; Vmax aumentada contraria inibição; Km reduzida com Vmax constante não é o padrão puro; equilíbrio não é deslocado por inibir a catálise."
+      ]
+    },
+    {
+      "id": "xt4_06",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Quale abbinamento tra enzima e classe EC è corretto?",
+      "opts": [
+        "Fosfatasi — idrolasi",
+        "Chinasi — idrolasi",
+        "Proteasi — isomerasi",
+        "DNA ligasi — liasi",
+        "Ossidasi — transferasi"
+      ],
+      "ex": "Fosfatases removem fosfato por hidrólise e pertencem à EC 3.",
+      "exp": [
+        "Classifique pela reação química, não apenas pelo nome do substrato.",
+        "Fosfatases removem fosfato por hidrólise e pertencem à EC 3.",
+        "Por que as outras erram: Quinase é transferase EC 2; protease é hidrolase EC 3; DNA ligase é ligase EC 6; oxidase é oxidorredutase EC 1."
+      ]
+    },
+    {
+      "id": "xt4_07",
+      "tipo": "cp",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "La classe EC 7 comprende le ____.",
+      "acc": [
+        "translocasi"
+      ],
+      "ex": "EC 7 corresponde às translocases.",
+      "exp": [
+        "A classificação EC descreve tipos de reação.",
+        "EC 7 reúne enzimas que acoplam reações à translocação através de membranas.",
+        "Transferases são EC 2 e ligases são EC 6; não confunda transferência de grupos com transporte transmembrana."
+      ]
+    },
+    {
+      "id": "xt4_08",
+      "tipo": "cp",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Il tripsinogeno è uno ____ che viene attivato per proteolisi.",
+      "acc": [
+        "zimogeno",
+        "proenzima"
+      ],
+      "ex": "Tripsinogênio é um zimogênio, precursor inativo da tripsina.",
+      "exp": [
+        "Identifique o sufixo de precursor e a ativação por clivagem.",
+        "A proteólise altera a proteína e permite atividade catalítica.",
+        "Não é coenzima, que é um auxiliar orgânico, nem isoenzima, que é uma variante catalisadora da mesma reação."
+      ]
+    },
+    {
+      "id": "xt4_09",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Tre molecole di glucosio vengono convertite in lattato. Quanti ATP netti si ottengono dalla glicolisi?",
+      "opts": [
+        "6 ATP",
+        "12 ATP",
+        "3 ATP",
+        "0 ATP",
+        "96 ATP"
+      ],
+      "ex": "Três glicoses fornecem 3 × 2 = 6 ATP líquidos.",
+      "exp": [
+        "Por glicose, formam-se quatro ATP e gastam-se dois.",
+        "Três glicoses fornecem 3 × 2 = 6 ATP líquidos.",
+        "Por que as outras erram: 12 conta ATP bruto; 3 assume um ATP por glicose; zero ignora fosforilação em nível de substrato; 96 usa rendimento respiratório, ausente na conversão a lactato."
+      ]
+    },
+    {
+      "id": "xt4_10",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Due giri del ciclo di Krebs producono direttamente:",
+      "opts": [
+        "6 NADH, 2 FADH₂, 2 GTP e 4 CO₂",
+        "3 NADH, 1 FADH₂, 1 GTP e 2 CO₂",
+        "6 NADH, 2 FADH₂, 30 ATP e 4 CO₂",
+        "2 NADH, 6 FADH₂, 2 GTP e 4 CO₂",
+        "6 NADH, 2 FADH₂, 2 GTP e 6 CO₂"
+      ],
+      "ex": "Duas voltas duplicam o balanço de um acetil-CoA.",
+      "exp": [
+        "Por volta: 3 NADH, 1 FADH₂, 1 GTP e 2 CO₂.",
+        "Duas voltas duplicam o balanço de um acetil-CoA.",
+        "Por que as outras erram: 3/1/1/2 conta uma volta; 30 ATP inclui indevidamente cadeia respiratória; 2 NADH e 6 FADH₂ troca coenzimas; 6 CO₂ acrescenta os dois da piruvato desidrogenase ao ciclo."
+      ]
+    },
+    {
+      "id": "xt4_11",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Una molecola di piruvato a 3 atomi di carbonio viene ossidata dalla piruvato deidrogenasi. Si formano:",
+      "opts": [
+        "1 acetil-CoA, 1 CO₂ e 1 NADH",
+        "1 acetil-CoA, 2 CO₂ e 1 ATP",
+        "2 acetil-CoA e nessun CO₂",
+        "1 lattato e 1 NAD⁺",
+        "1 citrato e 1 FADH₂"
+      ],
+      "ex": "Um carbono sai como CO₂; dois entram no acetil-CoA, com formação de NADH.",
+      "exp": [
+        "A reação é uma descarboxilação oxidativa anterior ao ciclo.",
+        "Um carbono sai como CO₂; dois entram no acetil-CoA, com formação de NADH.",
+        "Por que as outras erram: Acetila mais dois CO₂ excederia os três carbonos e não há ATP direto; duas acetilas exigiriam quatro carbonos; lactato pertence à fermentação; citrato exige condensação com oxaloacetato e não é produto direto dessa enzima."
+      ]
+    },
+    {
+      "id": "xt4_12",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Perché un eritrocita umano maturo produce lattato anche in presenza di O₂?",
+      "opts": [
+        "Non possiede mitocondri e deve rigenerare NAD⁺ nel citosol",
+        "Non possiede enzimi glicolitici",
+        "Usa il lattato come accettore finale della catena respiratoria",
+        "Converte il NAD⁺ in FADH₂ nel nucleo",
+        "Produce ATP soltanto tramite il ciclo di Krebs"
+      ],
+      "ex": "Sem mitocôndrias, a hemácia mantém glicólise e regenera NAD⁺ formando lactato.",
+      "exp": [
+        "A disponibilidade de O₂ não cria organelas ausentes.",
+        "Sem mitocôndrias, a hemácia mantém glicólise e regenera NAD⁺ formando lactato.",
+        "Por que as outras erram: Ela tem enzimas glicolíticas; não possui cadeia usando lactato; NAD⁺ não é convertido em FADH₂ e a hemácia madura não tem núcleo; Krebs requer mitocôndrias nessa célula humana."
+      ]
+    },
+    {
+      "id": "xt4_13",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Quale enzima appartiene sia al ciclo di Krebs sia alla catena respiratoria?",
+      "opts": [
+        "Succinato deidrogenasi",
+        "Lattato deidrogenasi",
+        "Esocinasi",
+        "Fosfofruttochinasi-1",
+        "Piruvato chinasi"
+      ],
+      "ex": "Succinato desidrogenase constitui o complexo II na membrana interna.",
+      "exp": [
+        "Procure a exceção à localização das enzimas do ciclo na matriz.",
+        "Succinato desidrogenase constitui o complexo II na membrana interna.",
+        "Por que as outras erram: Lactato desidrogenase participa da fermentação; hexoquinase inicia glicólise; PFK-1 regula glicólise; piruvato quinase termina a glicólise. Nenhuma das quatro integra a cadeia."
+      ]
+    },
+    {
+      "id": "xt4_14",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Quale affermazione sulla fermentazione lattica è FALSA?",
+      "opts": [
+        "Aggiunge altri 2 ATP alla resa netta della glicolisi",
+        "Rigenera NAD⁺",
+        "Consuma NADH nella riduzione del piruvato",
+        "Può sostenere la glicolisi durante uno sforzo intenso",
+        "Non libera CO₂ nella conversione di piruvato in lattato"
+      ],
+      "ex": "A conversão a lactato não gera ATP adicional.",
+      "exp": [
+        "A pergunta pede a falsa; o ganho energético direto continua sendo o da glicólise.",
+        "A conversão a lactato não gera ATP adicional.",
+        "Por que as outras erram: Regenerar NAD⁺ e consumir NADH são faces da mesma reação verdadeira; sustentar glicólise no esforço é verdadeiro; os três carbonos permanecem no lactato, sem CO₂ nessa etapa."
+      ]
+    },
+    {
+      "id": "xt4_15",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Il composto a quattro atomi di carbonio che si condensa con l’acetil-CoA è l’____.",
+      "acc": [
+        "ossalacetato"
+      ],
+      "ex": "Oxaloacetato se combina com acetil-CoA e é regenerado no ciclo.",
+      "exp": [
+        "A acetila fornece dois carbonos.",
+        "O parceiro fornece quatro, formando citrato de seis carbonos.",
+        "Piruvato tem três carbonos; citrato é o produto de condensação, não o parceiro inicial."
+      ]
+    },
+    {
+      "id": "xt4_16",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "L’enzima che rappresenta un principale punto di controllo della glicolisi è la ____ (PFK-1).",
+      "acc": [
+        "fosfofruttochinasi",
+        "fosfofruttochinasi-1",
+        "fosfofruttochinasi 1"
+      ],
+      "ex": "PFK-1 é a fosfofrutoquinase-1.",
+      "exp": [
+        "A PFK-1 consome ATP na fosforilação de frutose-6-fosfato.",
+        "Sinais de energia modulam seu sítio regulador e controlam o fluxo glicolítico.",
+        "Hexoquinase e piruvato quinase também são reguladas, mas não correspondem à sigla PFK-1; lactato desidrogenase atua na regeneração de NAD⁺."
+      ]
+    },
+    {
+      "id": "xt4_17",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Usando 2,5 ATP per NADH e 1,5 ATP per FADH₂, 4 NADH e 2 FADH₂ rendono circa:",
+      "opts": [
+        "13 ATP",
+        "15 ATP",
+        "9 ATP",
+        "6 ATP",
+        "26 ATP"
+      ],
+      "ex": "4 × 2,5 + 2 × 1,5 = 10 + 3 = 13 ATP.",
+      "exp": [
+        "Calcule separadamente as duas entradas de equivalentes redutores.",
+        "4 × 2,5 + 2 × 1,5 = 10 + 3 = 13 ATP.",
+        "Por que as outras erram: 15 atribui 2,5 a todas as coenzimas; 9 atribui 1,5 a todas; 6 conta coenzimas como ATP; 26 duplica indevidamente o rendimento por já haver dois elétrons em cada entrada."
+      ]
+    },
+    {
+      "id": "xt4_18",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Per ridurre 3 molecole di O₂ ad acqua, il complesso IV richiede:",
+      "opts": [
+        "12 elettroni",
+        "3 elettroni",
+        "6 elettroni",
+        "4 elettroni",
+        "24 elettroni"
+      ],
+      "ex": "São necessários 3 × 4 = 12 elétrons.",
+      "exp": [
+        "Uma molécula de O₂ recebe quatro elétrons para gerar duas águas com prótons químicos.",
+        "São necessários 3 × 4 = 12 elétrons.",
+        "Por que as outras erram: 3 assume um elétron por O₂; 6 assume dois; 4 conta apenas um O₂; 24 duplica o número já correspondente à molécula diatômica."
+      ]
+    },
+    {
+      "id": "xt4_19",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Un mitocondrio largo 0,5 µm ha una larghezza di:",
+      "opts": [
+        "500 nm",
+        "50 nm",
+        "5 nm",
+        "5 000 nm",
+        "0,5 nm"
+      ],
+      "ex": "0,5 × 1 000 = 500 nm.",
+      "exp": [
+        "Converta usando 1 µm = 1 000 nm.",
+        "0,5 × 1 000 = 500 nm.",
+        "Por que as outras erram: 50 é dez vezes menor; 5 é cem vezes menor; 5 000 é dez vezes maior; 0,5 mantém o número sem converter e reduz mil vezes a medida."
+      ]
+    },
+    {
+      "id": "xt4_20",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Quale percorso degli elettroni è corretto per l’ingresso dal complesso II?",
+      "opts": [
+        "II → ubichinone → III → citocromo c → IV → O₂",
+        "II → citocromo c → I → O₂",
+        "II → IV → ubichinone → O₂",
+        "II → ATP sintasi → O₂",
+        "II → III → NAD⁺ come accettore finale"
+      ],
+      "ex": "A entrada por II passa à ubiquinona e segue por III, citocromo c e IV até O₂.",
+      "exp": [
+        "Ubiquinona é o carreador lipídico; citocromo c atua entre III e IV.",
+        "A entrada por II passa à ubiquinona e segue por III, citocromo c e IV até O₂.",
+        "Por que as outras erram: Citocromo c não liga II a I; IV não antecede ubiquinona; ATP sintase conduz prótons e não essa sequência de elétrons; NAD⁺ não é o aceptor final respiratório."
+      ]
+    },
+    {
+      "id": "xt4_21",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "In mitocondri accoppiati con substrati e O₂ disponibili, l’oligomicina tende a:",
+      "opts": [
+        "Ridurre la sintesi di ATP e frenare il consumo di O₂",
+        "Aumentare ATP e consumo di O₂",
+        "Dissipare direttamente il gradiente come un protonoforo",
+        "Bloccare direttamente il complesso II",
+        "Trasferire elettroni direttamente all’ATP"
+      ],
+      "ex": "Oligomicina bloqueia a ATP sintase; o gradiente acumulado freia a cadeia.",
+      "exp": [
+        "Distingua bloquear o retorno pelo canal de abrir uma rota alternativa para H⁺.",
+        "Oligomicina bloqueia a ATP sintase; o gradiente acumulado freia a cadeia.",
+        "Por que as outras erram: Aumento de ATP contraria o bloqueio; protonóforo dissipa o gradiente e é desacoplador; II não é seu alvo direto; ATP não é aceptor de elétrons nessa cadeia."
+      ]
+    },
+    {
+      "id": "xt4_22",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Quale affermazione sulla mitocondria umana è FALSA?",
+      "opts": [
+        "Tutte le sue proteine sono codificate dal DNA mitocondriale",
+        "Possiede DNA circolare",
+        "La maggior parte delle sue proteine è codificata nel nucleo",
+        "Molte proteine della matrice entrano tramite TOM e TIM",
+        "La sua origine è endosimbiotica"
+      ],
+      "ex": "É falsa a codificação de todas as proteínas no DNA mitocondrial.",
+      "exp": [
+        "A autonomia genética é parcial; a organela depende intensamente de genes nucleares.",
+        "É falsa a codificação de todas as proteínas no DNA mitocondrial.",
+        "Por que as outras erram: DNA circular é verdadeiro; predomínio de proteínas nucleares é verdadeiro; TOM/TIM importam muitas proteínas de matriz; origem endossimbiótica é verdadeira. Nenhuma dessas quatro satisfaz FALSA."
+      ]
+    },
+    {
+      "id": "xt4_23",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "La proteina UCP1 del tessuto adiposo bruno è detta anche ____.",
+      "acc": [
+        "termogenina"
+      ],
+      "ex": "Termogenina permite dissipação do gradiente para produção de calor.",
+      "exp": [
+        "UCP1 oferece uma via de retorno de prótons sem síntese de ATP.",
+        "A energia é dissipada como calor, sustentando termogênese.",
+        "Não é citocromo c, que transporta elétrons, nem oligomicina, que bloqueia ATP sintase."
+      ]
+    },
+    {
+      "id": "xt4_24",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Il complesso della catena respiratoria che coincide con la succinato deidrogenasi e non pompa H⁺ è il complesso ____.",
+      "acc": [
+        "ii",
+        "2",
+        "secondo"
+      ],
+      "ex": "Complexo II recebe elétrons da oxidação do succinato e não bombeia H⁺.",
+      "exp": [
+        "Succinato desidrogenase integra ciclo e cadeia na membrana interna.",
+        "Seus elétrons alcançam ubiquinona sem bombeamento no II.",
+        "I, III e IV contribuem para translocação de prótons; ATP sintase usa o gradiente, sendo outro componente."
+      ]
+    },
+    {
+      "id": "xt4_25",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "La catalasi decompone 8 molecole di H₂O₂ secondo 2 H₂O₂ → 2 H₂O + O₂. Quante molecole di O₂ si liberano?",
+      "opts": [
+        "4 molecole di O₂",
+        "8 molecole di O₂",
+        "16 molecole di O₂",
+        "2 molecole di O₂",
+        "Nessuna molecola di O₂"
+      ],
+      "ex": "8/2 = 4 moléculas de O₂.",
+      "exp": [
+        "Use a razão estequiométrica de dois peróxidos por oxigênio molecular.",
+        "8/2 = 4 moléculas de O₂.",
+        "Por que as outras erram: 8 usa razão 1:1; 16 multiplica por dois em vez de dividir; 2 não escala para oito peróxidos; nenhuma ignora o produto gasoso da reação."
+      ]
+    },
+    {
+      "id": "xt4_26",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Nel modello di accorciamento di un acido grasso da C26 a C20, quanti cicli che rimuovono 2 carboni sono necessari?",
+      "opts": [
+        "3 cicli",
+        "6 cicli",
+        "13 cicli",
+        "10 cicli",
+        "23 cicli"
+      ],
+      "ex": "(26 − 20)/2 = 3 ciclos.",
+      "exp": [
+        "O exercício pede encurtamento até C20, não oxidação completa de C26.",
+        "(26 − 20)/2 = 3 ciclos.",
+        "Por que as outras erram: 6 conta carbonos como ciclos; 13 divide o comprimento inicial por dois; 10 divide apenas o comprimento final; 23 subtrai o número de ciclos do comprimento sem relação com a pergunta."
+      ]
+    },
+    {
+      "id": "xt4_27",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Il segnale perossisomiale classico SKL contiene:",
+      "opts": [
+        "3 amminoacidi all’estremità C-terminale",
+        "3 amminoacidi all’estremità N-terminale",
+        "2 amminoacidi all’estremità C-terminale",
+        "4 nucleotidi all’estremità C-terminale",
+        "70 amminoacidi nel DNA perossisomiale"
+      ],
+      "ex": "SKL contém serina, lisina e leucina no C-terminal.",
+      "exp": [
+        "Cada letra representa um aminoácido do sinal proteico PTS1 clássico.",
+        "SKL contém serina, lisina e leucina no C-terminal.",
+        "Por que as outras erram: N-terminal inverte a posição de PTS1; dois ignora uma letra; quatro nucleotídeos troca número e natureza química; não há DNA peroxissomal e aminoácidos não são suas unidades."
+      ]
+    },
+    {
+      "id": "xt4_28",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale caratteristica distingue l’importazione nella matrice perossisomiale da quella mitocondriale usuale?",
+      "opts": [
+        "Può importare proteine già ripiegate",
+        "Richiede sempre SRP e Sec61",
+        "Usa TOM e TIM per tutte le proteine",
+        "Avviene tramite ribosomi perossisomiali",
+        "Richiede che tutte le proteine siano sintetizzate nel lume"
+      ],
+      "ex": "Peroxissomos podem importar proteínas dobradas produzidas no citosol.",
+      "exp": [
+        "PTS e receptores PEX reconhecem cargas para a matriz peroxissomal.",
+        "Peroxissomos podem importar proteínas dobradas produzidas no citosol.",
+        "Por que as outras erram: SRP/Sec61 são da via do RE; TOM/TIM são mitocondriais; peroxissomos não têm ribossomos; a síntese das proteínas da matriz ocorre no citosol e não no lúmen."
+      ]
+    },
+    {
+      "id": "xt4_29",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale associazione tra difetto e malattia è corretta?",
+      "opts": [
+        "ABCD1 — adrenoleucodistrofia legata all’X",
+        "DNA perossisomiale — sindrome di Zellweger",
+        "ATP sintasi perossisomiale — adrenoleucodistrofia",
+        "PEX5 — difetto primario della glicolisi citosolica",
+        "ABCD1 — blocco diretto della sintesi di rRNA nucleolare"
+      ],
+      "ex": "ABCD1 é um transportador peroxissomal associado à adrenoleucodistrofia ligada ao X.",
+      "exp": [
+        "Distingua defeito de transporte de VLCFA de defeito amplo de biogênese por genes PEX.",
+        "ABCD1 é um transportador peroxissomal associado à adrenoleucodistrofia ligada ao X.",
+        "Por que as outras erram: Não há DNA peroxissomal; não há ATP sintase respiratória peroxissomal; PEX5 atua na importação e não é enzima glicolítica; ABCD1 não executa síntese nucleolar de rRNA."
+      ]
+    },
+    {
+      "id": "xt4_30",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale affermazione sui perossisomi è FALSA?",
+      "opts": [
+        "Producono ATP mediante una propria catena respiratoria",
+        "Partecipano alla sintesi dei plasmalogeni",
+        "Partecipano a tappe del metabolismo degli acidi biliari",
+        "Le ossidasi possono generare H₂O₂",
+        "Nel fegato contribuiscono alla detossificazione di parte dell’etanolo"
+      ],
+      "ex": "A afirmação falsa atribui fosforilação oxidativa própria ao peroxissomo.",
+      "exp": [
+        "A organela oxida substratos, mas não acopla essas oxidações a uma cadeia produtora de ATP.",
+        "A afirmação falsa atribui fosforilação oxidativa própria ao peroxissomo.",
+        "Por que as outras erram: Plasmalogênios são função biossintética real; etapas de ácidos biliares também; oxidases formam peróxido; detoxificação parcial de etanol é função hepática peroxissomal. As quatro são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt4_31",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Il recettore che riconosce molte proteine con segnale PTS1 è ____.",
+      "acc": [
+        "pex5"
+      ],
+      "ex": "PEX5 reconhece cargas contendo PTS1.",
+      "exp": [
+        "O sinal clássico SKL está na extremidade C-terminal da carga.",
+        "PEX5 liga esse sinal e participa da entrega à maquinaria de importação.",
+        "ABCD1 transporta substratos lipídicos; catalase é uma enzima da matriz e não o receptor geral de PTS1."
+      ]
+    },
+    {
+      "id": "xt4_32",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "I fosfolipidi etere importanti nella mielina, la cui sintesi inizia nei perossisomi, sono i ____.",
+      "acc": [
+        "plasmalogeni"
+      ],
+      "ex": "Plasmalogênios dependem de etapas biossintéticas peroxissomais.",
+      "exp": [
+        "Identifique a função biossintética e a associação com mielina.",
+        "A síntese começa no peroxissomo e continua com participação do RE.",
+        "VLCFA são substratos de encurtamento e H₂O₂ é produto oxidativo; nenhum dos dois designa essa classe de fosfolipídios."
+      ]
+    },
+    {
+      "id": "xt4_33",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un inibitore reversibile si lega soltanto al complesso enzima-substrato. Quale variazione è attesa nel modello di inibizione incompetitiva?",
+      "opts": [
+        "Vmax e Km apparenti diminuiscono dello stesso fattore",
+        "Vmax resta invariata e Km apparente aumenta",
+        "Vmax diminuisce e Km resta invariata",
+        "Vmax e Km apparenti aumentano dello stesso fattore",
+        "Vmax aumenta e Km apparente diminuisce"
+      ],
+      "ex": "A ligação apenas a ES caracteriza inibição incompetitiva: Vmax e Km aparentes caem na mesma proporção.",
+      "exp": [
+        "Identifique o alvo: apenas ES, e não a enzima livre.",
+        "No modelo incompetitivo, Vmax aparente = Vmax/α′ e Km aparente = Km/α′, com α′ > 1.",
+        "Vmax constante com Km aumentado descreve competição; Vmax reduzida com Km constante descreve o caso não competitivo puro.",
+        "Elevar ambos os parâmetros inverte o efeito esperado; elevar Vmax enquanto Km cai também contradiz a retirada de ES cataliticamente disponível."
+      ]
+    },
+    {
+      "id": "xt4_34",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Quale affermazione sulla natura e sulla regolazione degli enzimi è ERRATA?",
+      "opts": [
+        "Tutti i catalizzatori biologici sono proteine",
+        "Esistono RNA con attività catalitica",
+        "La fosforilazione può attivare oppure inibire un enzima",
+        "Un’apoenzima può richiedere un cofattore per essere attiva",
+        "Gli isoenzimi catalizzano la stessa reazione"
+      ],
+      "ex": "Ribozimas são RNAs catalíticos; por isso, a afirmação universal sobre proteínas é falsa.",
+      "exp": [
+        "A questão pede a afirmação errada: procure uma generalização que tenha exceção.",
+        "Ribozimas catalisam reações sendo constituídas por RNA, refutando a afirmação de que todos os catalisadores biológicos são proteínas.",
+        "A alternativa sobre RNA é verdadeira; fosforilação pode ativar ou inibir conforme a enzima e o sítio.",
+        "Apoenzimas podem precisar de cofatores; isoenzimas realizam a mesma reação, embora tenham propriedades distintas. Ambas são afirmações verdadeiras."
+      ]
+    },
+    {
+      "id": "xt4_35",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Se kcat è espresso in s⁻¹ e Km in mol/L, quale unità ha kcat/Km?",
+      "opts": [
+        "L·mol⁻¹·s⁻¹",
+        "mol·L⁻¹·s⁻¹",
+        "s⁻¹",
+        "mol/L",
+        "L·mol⁻¹·s"
+      ],
+      "ex": "Dividir s⁻¹ por mol/L resulta em L·mol⁻¹·s⁻¹.",
+      "exp": [
+        "Escreva a divisão como multiplicação pelo inverso: s⁻¹ × L/mol.",
+        "O resultado é L·mol⁻¹·s⁻¹, unidade da eficiência catalítica nessa convenção.",
+        "mol·L⁻¹·s⁻¹ corresponde a concentração por tempo, não a concentração inversa por tempo.",
+        "s⁻¹ é unidade de kcat isolado; mol/L é unidade de Km isolado; L·mol⁻¹·s troca indevidamente tempo inverso por tempo."
+      ]
+    },
+    {
+      "id": "xt4_36",
+      "tipo": "mc",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Per un enzima michaeliano con Km > 0, quale affermazione sulla saturazione è FALSA?",
+      "opts": [
+        "A [S] = 99Km, v è esattamente uguale a Vmax",
+        "A [S] = 99Km, v è pari al 99% di Vmax",
+        "A [S] = Km, v è pari al 50% di Vmax",
+        "Per [S] finita, v è inferiore a Vmax",
+        "Vmax è un limite della velocità al crescere di [S]"
+      ],
+      "ex": "Em 99Km, a fração de Vmax é 99/(1 + 99) = 0,99; não é exatamente 1.",
+      "exp": [
+        "Use v/Vmax = [S]/(Km + [S]), com Km positivo.",
+        "Em 99Km, obtenha 99/100 = 99%; portanto, a igualdade exata com Vmax é a afirmação falsa.",
+        "A alternativa de 99% está correta; em Km, a fração 1/2 confirma a alternativa de 50%.",
+        "Para [S] finita, o denominador é maior que o numerador; assim, v < Vmax e Vmax é o limite assintótico. Essas duas alternativas são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt4_37",
+      "tipo": "cp",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un RNA capace di catalizzare una reazione è detto ____.",
+      "acc": [
+        "ribozima"
+      ],
+      "ex": "Ribozima é o termo italiano para um RNA catalítico.",
+      "exp": [
+        "Identifique a natureza da molécula: RNA com função catalítica.",
+        "Em italiano, preencha com ribozima; em português, o termo é ribozima.",
+        "Apoenzima designa o componente proteico sem o cofator; coenzima é um auxiliar orgânico, e nenhum desses termos substitui ribozima."
+      ]
+    },
+    {
+      "id": "xt4_38",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Tutte le seguenti affermazioni sulle reazioni glicolitiche sono corrette TRANNE una. Quale?",
+      "opts": [
+        "La fosfofruttochinasi-1 produce fruttosio-2,6-bisfosfato",
+        "La fosfoglicerato chinasi può formare ATP",
+        "La piruvato chinasi può formare ATP",
+        "La gliceraldeide-3-fosfato deidrogenasi utilizza fosfato inorganico",
+        "La trioso fosfato isomerasi converte DHAP in GAP"
+      ],
+      "ex": "PFK-1 forma frutose-1,6-bisfosfato; frutose-2,6-bisfosfato é produzida pela atividade PFK-2.",
+      "exp": [
+        "A palavra TRANNE pede a exceção, isto é, a afirmação incorreta.",
+        "PFK-1 fosforila o carbono 1 da frutose-6-fosfato: o produto é frutose-1,6-bisfosfato.",
+        "Fosfoglicerato quinase e piruvato quinase realmente formam ATP na fase de retorno; essas duas afirmações são verdadeiras.",
+        "A desidrogenase de GAP incorpora Pi livre e a isomerase converte DHAP em GAP. Nenhuma dessas duas alternativas é a exceção."
+      ]
+    },
+    {
+      "id": "xt4_39",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "In una cellula animale, quale localizzazione della succinato deidrogenasi è corretta?",
+      "opts": [
+        "Membrana mitocondriale interna, con dominio catalitico rivolto alla matrice",
+        "Membrana mitocondriale esterna, con dominio catalitico rivolto al citosol",
+        "Citosol, senza associazione a membrane",
+        "Lume dei lisosomi",
+        "Membrana mitocondriale interna, con dominio catalitico rivolto allo spazio intermembrana"
+      ],
+      "ex": "O complexo II fica na membrana interna, com a porção catalítica exposta à matriz.",
+      "exp": [
+        "Reconheça a exceção: a succinato desidrogenase integra tanto Krebs quanto a cadeia respiratória.",
+        "A associação à membrana interna e a exposição à matriz permitem oxidar o succinato do ciclo e reduzir ubiquinona.",
+        "A membrana externa não abriga o complexo II; o citosol abriga a glicólise, não essa enzima do ciclo.",
+        "Lisossomos realizam digestão intracelular; a face voltada ao espaço intermembranas inverte a orientação do domínio catalítico."
+      ]
+    },
+    {
+      "id": "xt4_40",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Quale affermazione sul rapporto tra O₂ e ciclo di Krebs è corretta?",
+      "opts": [
+        "Il ciclo non usa direttamente O₂, ma dipende dalla riossidazione delle coenzime ridotte",
+        "Ogni giro consuma direttamente due molecole di O₂ nella citrato sintasi",
+        "O₂ viene trasformato direttamente in CO₂ dalla succinato deidrogenasi",
+        "La presenza di O₂ sposta la glicolisi nella matrice mitocondriale",
+        "La piruvato deidrogenasi usa O₂ come accettore diretto degli elettroni"
+      ],
+      "ex": "O₂ é reduzido na cadeia respiratória; sua disponibilidade sustenta indiretamente a regeneração das coenzimas usadas no ciclo.",
+      "exp": [
+        "Separe dependência funcional de consumo químico direto: o ciclo precisa de coenzimas oxidadas.",
+        "A cadeia respiratória reoxida coenzimas e entrega elétrons ao O₂; essa conexão torna correta a afirmação de que o ciclo não usa O₂ diretamente, mas depende da reoxidação das coenzimas reduzidas.",
+        "Citrato sintase não consome O₂; succinato desidrogenase não converte O₂ em CO₂. O carbono do CO₂ vem de compostos orgânicos.",
+        "A glicólise continua no citosol mesmo com O₂; a piruvato desidrogenase reduz NAD⁺, e não O₂ diretamente."
+      ]
+    },
+    {
+      "id": "xt4_41",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Dopo la scissione e l’isomerizzazione delle triosi, quante molecole di GAP proseguono nella fase di rendimento per due molecole di glucosio?",
+      "opts": [
+        "4 molecole di GAP",
+        "2 molecole di GAP",
+        "1 molecola di GAP",
+        "6 molecole di GAP",
+        "8 molecole di GAP"
+      ],
+      "ex": "Cada glicose fornece duas trioses que chegam à sequência como GAP; duas glicoses fornecem quatro GAP.",
+      "exp": [
+        "Cada glicose tem seis carbonos e origina GAP e DHAP, cada um com três.",
+        "A isomerase converte DHAP em GAP: são dois GAP por glicose e quatro para duas glicoses.",
+        "Dois GAP contam apenas uma glicose ou ignoram a conversão de DHAP; um GAP ignora também a segunda glicose.",
+        "Seis GAP somariam 18 carbonos e oito somariam 24, excedendo os 12 carbonos das duas glicoses sem entrada adicional de carbono."
+      ]
+    },
+    {
+      "id": "xt4_42",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "La reazione catalizzata dalla lattato deidrogenasi ossida NADH e rigenera ____ per sostenere la glicolisi.",
+      "acc": [
+        "NAD⁺",
+        "NAD+",
+        "NAD"
+      ],
+      "ex": "A redução de piruvato a lactato reoxida NADH a NAD⁺.",
+      "exp": [
+        "O piruvato recebe os elétrons e é reduzido a lactato.",
+        "O doador NADH perde esses elétrons: o produto oxidado é NAD⁺, necessário à desidrogenase de GAP.",
+        "NADH seria o reagente consumido, não o regenerado; FAD e ATP não substituem o aceptor NAD⁺ nessa etapa glicolítica."
+      ]
+    },
+    {
+      "id": "xt4_43",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "In un mitocondrio che sintetizza ATP mediante fosforilazione ossidativa, dove si trova F₁ e in quale direzione fluiscono i protoni attraverso l’ATP sintasi?",
+      "opts": [
+        "F₁ è rivolta alla matrice; H⁺ fluisce dallo spazio intermembrana alla matrice",
+        "F₁ è rivolta allo spazio intermembrana; H⁺ fluisce verso la matrice",
+        "F₁ è rivolta alla matrice; H⁺ fluisce dalla matrice allo spazio intermembrana",
+        "F₁ è nel citosol; H⁺ fluisce attraverso la membrana esterna",
+        "F₁ è nel nucleo; H⁺ fluisce dal citosol al nucleo"
+      ],
+      "ex": "F₁ catalisa a síntese de ATP do lado da matriz, aproveitando o retorno de H⁺ desde o espaço intermembranas.",
+      "exp": [
+        "A cadeia bombeia prótons da matriz para o espaço intermembranas, armazenando energia.",
+        "Na síntese de ATP, os prótons retornam à matriz por F₀; a cabeça F₁ aponta para a matriz.",
+        "A alternativa com F₁ no espaço intermembranas inverte a localização; a que envia H⁺ para fora inverte o fluxo durante síntese.",
+        "F₁ não fica livre no citosol nem no núcleo; o acoplamento ocorre na membrana interna, não na externa nem no envoltório nuclear."
+      ]
+    },
+    {
+      "id": "xt4_44",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Quale affermazione sui trasportatori mobili della catena respiratoria è ERRATA?",
+      "opts": [
+        "Il citocromo c trasporta due elettroni alla volta tra III e IV",
+        "Il citocromo c trasporta un elettrone alla volta",
+        "L’ubichinone ridotto può trasportare due elettroni",
+        "L’ubichinone si muove nella membrana interna",
+        "Il citocromo c si trova sul lato rivolto allo spazio intermembrana"
+      ],
+      "ex": "O citocromo c transfere um elétron por vez; a ubiquinona reduzida transporta dois elétrons.",
+      "exp": [
+        "O comando pede o erro: a quantidade de elétrons por carreador é decisiva.",
+        "O heme do citocromo c alterna entre estados de oxidação que diferem por um elétron; transportar dois de uma vez é a afirmação errada.",
+        "As alternativas de um elétron para citocromo c e dois para ubiquinona reduzida estão corretas.",
+        "A ubiquinona é lipossolúvel e móvel na membrana interna; citocromo c atua na face voltada ao espaço intermembranas. Ambas as localizações estão corretas."
+      ]
+    },
+    {
+      "id": "xt4_45",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Il complesso IV riceve quattro elettroni e riduce una molecola di O₂. Usando il bilancio usuale, quanti H⁺ vengono pompati, escludendo quelli consumati per formare acqua?",
+      "opts": [
+        "4 protoni pompati",
+        "2 protoni pompati",
+        "8 protoni pompati",
+        "10 protoni pompati",
+        "0 protoni pompati"
+      ],
+      "ex": "O complexo IV bombeia dois H⁺ por par de elétrons: quatro elétrons correspondem a quatro H⁺ bombeados.",
+      "exp": [
+        "Conte pares de elétrons: quatro elétrons formam dois pares.",
+        "Multiplique dois H⁺ bombeados por par por dois pares: quatro H⁺.",
+        "Dois H⁺ consideram apenas um par; oito somam indevidamente os quatro prótons químicos aos quatro bombeados.",
+        "Dez H⁺ são o total usual de I, III e IV por NADH, não de IV isolado; zero confundiria IV com o complexo II."
+      ]
+    },
+    {
+      "id": "xt4_46",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Tutte le seguenti affermazioni sui compartimenti mitocondriali sono corrette TRANNE una. Quale?",
+      "opts": [
+        "Il lume delle creste coincide con la matrice",
+        "Le creste sono ripiegamenti della membrana interna",
+        "Il lume delle creste comunica con lo spazio intermembrana",
+        "La matrice è relativamente negativa durante la respirazione accoppiata",
+        "Il NADH citosolico non attraversa liberamente la membrana interna"
+      ],
+      "ex": "O lúmen das cristas pertence ao compartimento intermembranas; a membrana interna o separa da matriz.",
+      "exp": [
+        "Distinga o interior de uma dobra da membrana do compartimento que a circunda.",
+        "Cristas são invaginações da membrana interna; seu lúmen comunica-se com o espaço intermembranas, não com a matriz.",
+        "Logo, coincidir com a matriz é falso; ser uma dobra e comunicar-se com o espaço intermembranas são afirmações verdadeiras.",
+        "O bombeamento deixa a matriz relativamente negativa; o NADH citosólico depende de lançadeiras de equivalentes redutores. Essas duas alternativas também são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt4_47",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Nell’uomo, il coefficiente di sedimentazione del mitoribosoma completo è ____ S.",
+      "acc": [
+        "55",
+        "55S",
+        "55 S"
+      ],
+      "ex": "O mitorribossomo humano completo é 55S; ancestralidade bacteriana não implica 70S.",
+      "exp": [
+        "O enunciado especifica ser humano e ribossomo mitocondrial completo.",
+        "Preencha 55: S é o coeficiente de sedimentação, dependente de massa, forma e densidade.",
+        "70S refere-se ao ribossomo bacteriano típico e 80S ao citosólico eucariótico; S não indica diâmetro nem soma simples das subunidades."
+      ]
+    },
+    {
+      "id": "xt4_48",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale modifica compromette direttamente il segnale PTS1 classico di una proteina che termina con SKL?",
+      "opts": [
+        "Aggiungere una coda di venti amminoacidi dopo SKL",
+        "Mantenere SKL esposto all’estremità C-terminale",
+        "Sintetizzare la proteina su ribosomi citosolici",
+        "Consentire il ripiegamento della proteina nel citosol",
+        "Lasciare disponibile il recettore PEX5"
+      ],
+      "ex": "Adicionar resíduos após SKL torna o tripeptídeo interno; o sinal PTS1 clássico depende da posição C-terminal.",
+      "exp": [
+        "PTS1 não é apenas a presença das letras SKL: a posição terminal faz parte do sinal.",
+        "Uma cauda após SKL retira sua posição C-terminal e compromete o reconhecimento como PTS1 clássico.",
+        "Manter SKL terminal e exposto preserva o sinal; síntese citosólica é a origem habitual das proteínas importadas.",
+        "O dobramento não impede necessariamente a importação peroxissomal; PEX5 disponível favorece o reconhecimento, em vez de comprometê-lo."
+      ]
+    },
+    {
+      "id": "xt4_49",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale abbinamento tra recettore e segnale di importazione perossisomiale è corretto?",
+      "opts": [
+        "PEX7 — PTS2 vicino all’estremità N-terminale",
+        "PEX7 — PTS1 classico C-terminale",
+        "PEX5 — PTS2 vicino all’estremità N-terminale",
+        "TOM — PTS1 per la matrice perossisomiale",
+        "ABCD1 — riconoscimento di SKL nelle proteine di matrice"
+      ],
+      "ex": "PEX7 reconhece PTS2; PEX5 reconhece o sinal PTS1 C-terminal.",
+      "exp": [
+        "Existem duas classes de sinais para várias proteínas de matriz: PTS1 e PTS2.",
+        "PEX7 reconhece PTS2 próximo ao N-terminal, enquanto PEX5 reconhece PTS1 no C-terminal.",
+        "Associar PEX7 a PTS1 ou PEX5 a PTS2 troca os receptores de reconhecimento dos sinais; isso não exclui cooperação de outras proteínas na importação.",
+        "TOM pertence à maquinaria mitocondrial; ABCD1 é transportador peroxissomal ligado ao metabolismo de VLCFA, não receptor de SKL."
+      ]
+    },
+    {
+      "id": "xt4_50",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale affermazione sui perossisomi umani è FALSA?",
+      "opts": [
+        "Devono possedere un nucleo cristallino di urato ossidasi come i perossisomi del fegato di ratto",
+        "Sono delimitati da una sola membrana",
+        "Non possiedono un proprio genoma",
+        "Possono importare proteine già ripiegate",
+        "La sintesi dei plasmalogeni coinvolge anche il reticolo endoplasmatico"
+      ],
+      "ex": "O núcleo cristalino de urato oxidase de certos animais não é uma estrutura universal dos peroxissomos nem típica dos humanos.",
+      "exp": [
+        "Evite transferir automaticamente uma característica de uma espécie para outra.",
+        "O núcleo cristalino observado em peroxissomos de fígado de rato não é obrigatório e não caracteriza o peroxissomo humano normal; essa é a afirmação falsa.",
+        "Uma membrana e ausência de genoma próprio são características verdadeiras dos peroxissomos humanos.",
+        "Importar proteínas dobradas é possível; a síntese de plasmalogênios começa no peroxissomo e continua no retículo endoplasmático. Essas duas afirmações são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt4_51",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Quale confronto tra la prima ossidazione della beta-ossidazione perossisomiale e quella mitocondriale è corretto?",
+      "opts": [
+        "Nel perossisoma gli elettroni possono passare direttamente a O₂ formando H₂O₂",
+        "Il perossisoma pompa H⁺ mediante il proprio complesso I",
+        "Il perossisoma usa un’ATP sintasi di membrana per produrre ATP",
+        "La catalasi trasferisce gli elettroni direttamente al complesso III perossisomiale",
+        "La prima ossidazione perossisomiale richiede ribosomi interni"
+      ],
+      "ex": "A acil-CoA oxidase peroxissomal transfere elétrons ao O₂, formando H₂O₂ sem acoplamento a uma cadeia respiratória própria.",
+      "exp": [
+        "Na primeira oxidação peroxissomal, elétrons recebidos pela flavina são transferidos ao oxigênio, produzindo H₂O₂.",
+        "Isso difere da via mitocondrial, que transfere equivalentes redutores por ETF até a ubiquinona da cadeia respiratória.",
+        "Peroxissomos não têm complexo I respiratório nem ATP sintase acoplada a uma cadeia própria: essas duas alternativas atribuem maquinaria mitocondrial à organela.",
+        "A catalase remove peróxido sem complexo III peroxissomal; ribossomos internos não existem nos peroxissomos. As duas afirmações restantes também são falsas."
+      ]
+    },
+    {
+      "id": "xt4_52",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Nel tripeptide perossisomiale SKL, la lettera K indica l’amminoacido ____.",
+      "acc": [
+        "lisina",
+        "L-lisina"
+      ],
+      "ex": "SKL significa serina-lisina-leucina; K é o código de uma letra da lisina.",
+      "exp": [
+        "Leia SKL como sequência de aminoácidos e não de bases do DNA.",
+        "S corresponde a serina, K a lisina e L a leucina; o preenchimento em italiano é lisina.",
+        "Leucina corresponde a L, não K; serina corresponde a S. Essas trocas alterariam o sinal clássico."
+      ]
+    }
+  ],
+  "resolvidas": [
+    {
+      "id": "rt4_01",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un enzima michaeliano ha Vmax = 120 µmol/min e Km = 4 mM. A [S] = 12 mM, qual è la velocità iniziale?",
+      "o": [
+        "30 µmol/min",
+        "60 µmol/min",
+        "90 µmol/min",
+        "120 µmol/min",
+        "360 µmol/min"
+      ],
+      "c": 2,
+      "passos": [
+        "Use v = Vmax[S]/(Km + [S]), mantendo as concentrações em mM.",
+        "Substitua: 120 × 12/(4 + 12) = 1 440/16.",
+        "O resultado é 90 µmol/min, equivalente a 75% de Vmax; [S] vale 3Km."
+      ],
+      "por": [
+        "30 usa Km no numerador em lugar de [S].",
+        "60 aplica meia Vmax, válida em [S] = Km.",
+        "",
+        "120 supõe saturação completa nesse valor finito de substrato.",
+        "360 multiplica por 3 sem o denominador da equação."
+      ],
+      "pega": "Km é concentração; Vmax e v são velocidades."
+    },
+    {
+      "id": "rt4_02",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un inibitore porta Vmax da 100 a 50 µmol/min, lasciando Km a 2 mM. Quale modello reversibile è compatibile con questi dati?",
+      "o": [
+        "Inibizione competitiva",
+        "Inibizione non competitiva pura",
+        "Semplice aumento della concentrazione di substrato",
+        "Raddoppio dell’enzima attivo",
+        "Catalisi che modifica l’equilibrio"
+      ],
+      "c": 1,
+      "passos": [
+        "Compare parâmetros: Vmax caiu à metade, mas Km não mudou.",
+        "Na não competitiva pura, o inibidor liga enzima livre e complexo com igual afinidade.",
+        "Mais substrato não restaura a Vmax original; o padrão é compatível com esse modelo reversível, sem provar sozinho um mecanismo molecular."
+      ],
+      "por": [
+        "Na competitiva, Vmax permanece e Km aparente aumenta.",
+        "",
+        "Mudar substrato muda v, não os parâmetros intrínsecos da mesma preparação.",
+        "Dobrar enzima ativa elevaria Vmax em vez de reduzi-la.",
+        "Catálise não altera o equilíbrio termodinâmico."
+      ],
+      "pega": "Km constante caracteriza aqui o caso puro, não qualquer inibidor em outro sítio."
+    },
+    {
+      "id": "rt4_03",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Considerando solo piruvato deidrogenasi e ciclo di Krebs, quanti NADH si formano per glucosio?",
+      "o": [
+        "2 NADH",
+        "6 NADH",
+        "10 NADH",
+        "8 NADH",
+        "12 NADH"
+      ],
+      "c": 3,
+      "passos": [
+        "Uma glicose gera dois piruvatos; a piruvato desidrogenase produz dois NADH.",
+        "Os dois acetil-CoA alimentam duas voltas, com três NADH por volta: seis.",
+        "Some apenas as etapas pedidas: 2 + 6 = 8 NADH; os dois citosólicos da glicólise foram excluídos."
+      ],
+      "por": [
+        "2 conta somente piruvato desidrogenase.",
+        "6 conta somente as duas voltas.",
+        "10 inclui os dois NADH glicolíticos, fora do recorte.",
+        "",
+        "12 aplica uma duplicação adicional sem base."
+      ],
+      "pega": "Leia quais etapas entram na soma."
+    },
+    {
+      "id": "rt4_04",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Nella conversione di 2 glucosi in 4 lattati, quale bilancio netto è corretto?",
+      "o": [
+        "4 ATP e nessun NADH netto accumulato",
+        "8 ATP e 4 NADH netti",
+        "4 ATP e 4 CO₂",
+        "60 ATP e 4 lattati",
+        "0 ATP e 4 NADH netti"
+      ],
+      "c": 0,
+      "passos": [
+        "Cada glicose fornece dois ATP líquidos na glicólise; duas fornecem quatro.",
+        "A glicólise produz quatro NADH para duas glicoses, e a redução dos quatro piruvatos os consome.",
+        "No balanço glicose → lactato, não se acumula NADH líquido nem se libera CO₂; fermentação não adiciona ATP."
+      ],
+      "por": [
+        "",
+        "8 é produção bruta e o NADH é reoxidado.",
+        "Os carbonos permanecem nos quatro lactatos, sem CO₂ nessa conversão.",
+        "60 ATP pressupõe oxidação respiratória, ausente no processo descrito.",
+        "Há quatro ATP líquidos e o NADH não fica como produto líquido."
+      ],
+      "pega": "Distinga NADH produzido em uma etapa de NADH líquido no processo completo."
+    },
+    {
+      "id": "rt4_05",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Per un NADH ossidato lungo I, III e IV, usando 4, 4 e 2 H⁺ per coppia di elettroni, quanti H⁺ vengono translocati?",
+      "o": [
+        "6 H⁺",
+        "8 H⁺",
+        "10 H⁺",
+        "12 H⁺",
+        "20 H⁺"
+      ],
+      "c": 2,
+      "passos": [
+        "Um NADH fornece um par de elétrons à entrada pelo complexo I.",
+        "Some os balanços de translocação: I = 4, III = 4, IV = 2; total = 10.",
+        "O II não participa desse percurso inicial e não bombeia; os prótons químicos usados na água não entram nessa soma."
+      ],
+      "por": [
+        "6 corresponde à entrada que contorna I.",
+        "8 omite o bombeamento de IV.",
+        "",
+        "12 acrescenta indevidamente prótons químicos de formação de água.",
+        "20 multiplica novamente por dois, embora os valores já sejam por par de elétrons."
+      ],
+      "pega": "Prótons bombeados e prótons consumidos na química da água são balanços distintos."
+    },
+    {
+      "id": "rt4_06",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "Dopo oligomicina, si aggiunge un protonoforo a mitocondri con substrati e O₂ disponibili. Quale risposta è attesa?",
+      "o": [
+        "Ripresa della sintesi normale di ATP, senza consumo di O₂",
+        "Ulteriore aumento del gradiente e arresto obbligatorio della catena",
+        "Rimozione dell’oligomicina dal suo sito da parte del protonoforo",
+        "Aumento della respirazione senza ripristino dell’ATP sintasi bloccata",
+        "Conversione del complesso II in una pompa protonica"
+      ],
+      "c": 3,
+      "passos": [
+        "Oligomicina bloqueia ATP sintase, e o gradiente acumulado freia a respiração.",
+        "O protonóforo oferece uma via alternativa de retorno de H⁺, dissipando o gradiente.",
+        "A cadeia pode acelerar e consumir mais O₂, mas ATP sintase continua bloqueada: não se recupera sua síntese de ATP."
+      ],
+      "por": [
+        "A ATP sintase permanece inibida; o consumo de O₂ pode aumentar.",
+        "O protonóforo dissipa, em vez de elevar, o gradiente.",
+        "A ação é oferecer uma rota a H⁺, não retirar oligomicina.",
+        "",
+        "O II continua sem bombear prótons."
+      ],
+      "pega": "Restaurar fluxo de elétrons não significa restaurar acoplamento à síntese de ATP."
+    },
+    {
+      "id": "rt4_07",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Una catalasi decompone 10 µmol di H₂O₂ secondo 2 H₂O₂ → 2 H₂O + O₂. Quali quantità si formano?",
+      "o": [
+        "5 µmol di H₂O e 10 µmol di O₂",
+        "10 µmol di H₂O e 5 µmol di O₂",
+        "20 µmol di H₂O e 10 µmol di O₂",
+        "10 µmol di H₂O e 10 µmol di O₂",
+        "5 µmol di H₂O e 5 µmol di O₂"
+      ],
+      "c": 1,
+      "passos": [
+        "A equação balanceada fixa as razões H₂O₂:H₂O:O₂ em 2:2:1.",
+        "Multiplique todos os coeficientes por 5 µmol: consumo de 10 e produção de 10 e 5.",
+        "Os coeficientes aplicam-se a quantidades de matéria; não é necessário converter micromoles em número de moléculas."
+      ],
+      "por": [
+        "Troca os coeficientes de água e oxigênio.",
+        "",
+        "Duplica água e oxigênio além do balanço fornecido.",
+        "Usa razão 1:1 para H₂O₂ e O₂, em vez de 2:1.",
+        "Divide água por dois, embora a razão com o peróxido seja 1:1."
+      ],
+      "pega": "Use a equação balanceada, não apenas a presença de dois oxigênios em H₂O₂."
+    },
+    {
+      "id": "rt4_08",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Una proteina citosolica ripiegata termina con SKL. Quale destinazione e meccanismo sono più plausibili?",
+      "o": [
+        "Matrice mitocondriale tramite TOM/TIM senza svolgimento",
+        "Lume del RE tramite importina",
+        "Lisosoma tramite un recettore per SKL",
+        "Nucleo tramite ABCD1",
+        "Matrice perossisomiale tramite riconoscimento di PTS1 da PEX5"
+      ],
+      "c": 4,
+      "passos": [
+        "SKL no extremo C-terminal é o exemplo clássico de PTS1.",
+        "PEX5 reconhece muitas cargas com esse sinal e as entrega à maquinaria de importação.",
+        "O peroxissomo pode receber a carga já dobrada; a localização do sinal distingue essa rota da pré-sequência mitocondrial usual."
+      ],
+      "por": [
+        "TOM/TIM são mitocondriais e a importação usual da matriz exige desdobramento.",
+        "Importina atua no transporte nuclear, não na entrada no RE.",
+        "SKL não é a marca lisossomal clássica de manose-6-fosfato.",
+        "ABCD1 é transportador peroxissomal, não receptor de importação nuclear.",
+        ""
+      ],
+      "pega": "O mesmo estado dobrado é compatível com mais de uma rota; use também o sinal de destino."
+    },
+    {
+      "id": "rt4_09",
+      "u": 1,
+      "ct": "c1_4",
+      "q": "Un enzima ha Vmax = 80 µmol/min e Km = 4 mM. Un inibitore che lega solo ES dimezza entrambi i parametri apparenti. A [S] = 2 mM, quale velocità iniziale si ottiene?",
+      "o": [
+        "10 µmol/min",
+        "20 µmol/min",
+        "40 µmol/min",
+        "80 µmol/min",
+        "160 µmol/min"
+      ],
+      "c": 1,
+      "passos": [
+        "Ligar apenas a ES caracteriza o modelo incompetitivo; atualize ambos os parâmetros antes do cálculo.",
+        "Vmax aparente = 40 µmol/min e Km aparente = 2 mM. A concentração dada coincide com a nova Km.",
+        "v = 40 × 2/(2 + 2) = 20 µmol/min, metade da Vmax aparente."
+      ],
+      "por": [
+        "10 corresponde a um quarto da nova Vmax, embora [S] seja igual à nova Km.",
+        "",
+        "40 confunde a nova Vmax com a velocidade em meia saturação.",
+        "80 mantém a Vmax original e ainda a confunde com v.",
+        "160 aumenta a velocidade apesar da redução da capacidade máxima."
+      ],
+      "pega": "Na inibição incompetitiva, Km e Vmax aparentes diminuem juntas; não use a Km anterior."
+    },
+    {
+      "id": "rt4_10",
+      "u": 5,
+      "ct": "c5_4",
+      "q": "Quale associazione tra enzima glicolitico e reazione contiene un ERRORE?",
+      "o": [
+        "Fosfoglicerato chinasi — trasferimento di fosfato all’ADP",
+        "Trioso fosfato isomerasi — interconversione di DHAP e GAP",
+        "Piruvato chinasi — formazione di ATP dal fosfoenolpiruvato",
+        "Gliceraldeide-3-fosfato deidrogenasi — fosforilazione del GAP usando ATP come donatore di fosfato",
+        "Fosfofruttochinasi-1 — formazione di fruttosio-1,6-bisfosfato"
+      ],
+      "c": 3,
+      "passos": [
+        "O enunciado pede a associação errada; não basta reconhecer que o produto é fosforilado.",
+        "A desidrogenase de GAP oxida o substrato, reduz NAD⁺ e incorpora Pi livre para formar 1,3-bisfosfoglicerato.",
+        "O fosfato dessa etapa não vem de ATP: a alternativa que atribui esse papel ao ATP é a errada.",
+        "Fosfoglicerato quinase e piruvato quinase formam ATP; a isomerase interconverte trioses; PFK-1 forma frutose-1,6-bisfosfato."
+      ],
+      "por": [
+        "Correta: o 1,3-bisfosfoglicerato doa fosfato ao ADP.",
+        "Correta: DHAP e GAP são interconvertidos pela isomerase.",
+        "Correta: o fosfoenolpiruvato transfere fosfato ao ADP.",
+        "",
+        "Correta: PFK-1 adiciona fosfato ao carbono 1 da frutose-6-fosfato."
+      ],
+      "pega": "Fosforilar não significa necessariamente gastar ATP: nessa oxidação, o fosfato vem de Pi."
+    },
+    {
+      "id": "rt4_11",
+      "u": 5,
+      "ct": "c5_5",
+      "q": "In un mitocondrio accoppiato, quale combinazione di polarità, pH e orientamento di F₁ è corretta?",
+      "o": [
+        "Matrice negativa e più alcalina; F₁ rivolta alla matrice",
+        "Matrice positiva e più acida; F₁ rivolta alla matrice",
+        "Matrice negativa e più acida; F₁ rivolta allo spazio intermembrana",
+        "Matrice positiva e più alcalina; F₁ rivolta al citosol",
+        "Matrice senza differenze di pH o potenziale; F₁ nella membrana esterna"
+      ],
+      "c": 0,
+      "passos": [
+        "Compare a matriz ao espaço intermembranas, usando uma mitocôndria respirando e acoplada.",
+        "O bombeamento remove H⁺ da matriz, deixando-a relativamente negativa e com menor concentração de H⁺: pH mais alto.",
+        "H⁺ retorna pela ATP sintase para a matriz; F₁ catalisa a formação de ATP na face da matriz."
+      ],
+      "por": [
+        "",
+        "Inverte tanto a polaridade quanto a diferença de pH.",
+        "Acerta a polaridade, mas inverte pH e localização de F₁.",
+        "Inverte a polaridade e coloca F₁ no citosol, fora do seu compartimento.",
+        "Sem força próton-motriz não há síntese acoplada; a ATP sintase está na membrana interna."
+      ],
+      "pega": "Mais alcalina significa menos H⁺; a matriz recebe os prótons de volta durante a síntese de ATP."
+    },
+    {
+      "id": "rt4_12",
+      "u": 5,
+      "ct": "c5_6",
+      "q": "Una proteina di matrice perossisomiale possiede un segnale PTS2 vicino all’estremità N-terminale e non un PTS1. Quale affermazione è corretta?",
+      "o": [
+        "Deve essere sintetizzata da ribosomi perossisomiali",
+        "Deve essere riconosciuta da TOM perché il segnale è N-terminale",
+        "Il riconoscimento del segnale coinvolge PEX7 e la sintesi avviene nel citosol",
+        "Non può essere importata perché tutte le proteine perossisomiali richiedono SKL",
+        "Deve essere codificata dal DNA perossisomiale"
+      ],
+      "c": 2,
+      "passos": [
+        "O enunciado especifica PTS2; não generalize o exemplo clássico SKL de PTS1.",
+        "PEX7 reconhece PTS2 próximo ao N-terminal. As proteínas são codificadas no núcleo e sintetizadas no citosol.",
+        "Peroxissomos não possuem genoma nem ribossomos; TOM é mitocondrial e SKL não é obrigatório para todas as cargas peroxissomais."
+      ],
+      "por": [
+        "Peroxissomos não têm ribossomos próprios.",
+        "Posição N-terminal não basta para definir destino mitocondrial: a identidade PTS2 indica reconhecimento por PEX7.",
+        "",
+        "PTS2 é outra via de endereçamento; exigir SKL para todas as proteínas é falso.",
+        "Peroxissomos não possuem DNA próprio."
+      ],
+      "pega": "Posição do sinal e identidade da sequência devem ser lidas juntas; N-terminal não significa sempre mitocôndria."
+    }
+  ],
+  "traducao": {
+    "Un enzima michaeliano ha Km = 2 mM e Vmax = 80 µmol/min. A [S] = 2 mM, v vale:": "Uma enzima michaeliana tem Km = 2 mM e Vmax = 80 µmol/min. Em [S] = 2 mM, v vale:",
+    "40 µmol/min": "40 µmol/min",
+    "80 µmol/min": "80 µmol/min",
+    "20 µmol/min": "20 µmol/min",
+    "2 µmol/min": "2 µmol/min",
+    "160 µmol/min": "160 µmol/min",
+    "Per un enzima michaeliano, a [S] = 3Km la velocità è:": "Para uma enzima michaeliana, em [S] = 3Km a velocidade é:",
+    "75% della Vmax": "75% da Vmax",
+    "25% della Vmax": "25% da Vmax",
+    "50% della Vmax": "50% da Vmax",
+    "100% della Vmax": "100% da Vmax",
+    "300% della Vmax": "300% da Vmax",
+    "Raddoppiando la concentrazione di enzima attivo, a condizioni identiche, si osserva:": "Duplicando a concentração de enzima ativa, em condições idênticas, observa-se:",
+    "Vmax raddoppiata e Km invariata": "Vmax duplicada e Km inalterada",
+    "Vmax invariata e Km raddoppiata": "Vmax inalterada e Km duplicada",
+    "Vmax e Km dimezzate": "Vmax e Km reduzidas à metade",
+    "Vmax quadruplicata e Km invariata": "Vmax quadruplicada e Km inalterada",
+    "Vmax dimezzata e Km raddoppiata": "Vmax reduzida à metade e Km duplicada",
+    "Quale affermazione sugli enzimi è FALSA?": "Qual afirmação sobre enzimas é FALSA?",
+    "Spostano l’equilibrio verso i prodotti": "Deslocam o equilíbrio para os produtos",
+    "Riducono l’energia di attivazione": "Reduzem a energia de ativação",
+    "Accelerano il raggiungimento dell’equilibrio": "Aceleram a chegada ao equilíbrio",
+    "Non sono consumati nel bilancio della reazione": "Não são consumidas no balanço da reação",
+    "Possono richiedere coenzimi": "Podem exigir coenzimas",
+    "Un inibitore non competitivo PURO determina:": "Um inibidor não competitivo PURO determina:",
+    "Vmax ridotta e Km invariata": "Vmax reduzida e Km inalterada",
+    "Vmax invariata e Km aumentata": "Vmax inalterada e Km aumentada",
+    "Vmax aumentata e Km invariata": "Vmax aumentada e Km inalterada",
+    "Vmax invariata e Km ridotta": "Vmax inalterada e Km reduzida",
+    "Equilibrio spostato verso i reagenti": "Equilíbrio deslocado para os reagentes",
+    "Quale abbinamento tra enzima e classe EC è corretto?": "Qual associação entre enzima e classe EC está correta?",
+    "Fosfatasi — idrolasi": "Fosfatase — hidrolase",
+    "Chinasi — idrolasi": "Quinase — hidrolase",
+    "Proteasi — isomerasi": "Protease — isomerase",
+    "DNA ligasi — liasi": "DNA ligase — liase",
+    "Ossidasi — transferasi": "Oxidase — transferase",
+    "La classe EC 7 comprende le ____.": "A classe EC 7 compreende as ____.",
+    "Il tripsinogeno è uno ____ che viene attivato per proteolisi.": "O tripsinogênio é um ____ ativado por proteólise.",
+    "Tre molecole di glucosio vengono convertite in lattato. Quanti ATP netti si ottengono dalla glicolisi?": "Três moléculas de glicose são convertidas em lactato. Quantos ATP líquidos são obtidos da glicólise?",
+    "6 ATP": "6 ATP",
+    "12 ATP": "12 ATP",
+    "3 ATP": "3 ATP",
+    "0 ATP": "0 ATP",
+    "96 ATP": "96 ATP",
+    "Due giri del ciclo di Krebs producono direttamente:": "Duas voltas do ciclo de Krebs produzem diretamente:",
+    "6 NADH, 2 FADH₂, 2 GTP e 4 CO₂": "6 NADH, 2 FADH₂, 2 GTP e 4 CO₂",
+    "3 NADH, 1 FADH₂, 1 GTP e 2 CO₂": "3 NADH, 1 FADH₂, 1 GTP e 2 CO₂",
+    "6 NADH, 2 FADH₂, 30 ATP e 4 CO₂": "6 NADH, 2 FADH₂, 30 ATP e 4 CO₂",
+    "2 NADH, 6 FADH₂, 2 GTP e 4 CO₂": "2 NADH, 6 FADH₂, 2 GTP e 4 CO₂",
+    "6 NADH, 2 FADH₂, 2 GTP e 6 CO₂": "6 NADH, 2 FADH₂, 2 GTP e 6 CO₂",
+    "Una molecola di piruvato a 3 atomi di carbonio viene ossidata dalla piruvato deidrogenasi. Si formano:": "Uma molécula de piruvato com 3 carbonos é oxidada pela piruvato desidrogenase. Formam-se:",
+    "1 acetil-CoA, 1 CO₂ e 1 NADH": "1 acetil-CoA, 1 CO₂ e 1 NADH",
+    "1 acetil-CoA, 2 CO₂ e 1 ATP": "1 acetil-CoA, 2 CO₂ e 1 ATP",
+    "2 acetil-CoA e nessun CO₂": "2 acetil-CoA e nenhum CO₂",
+    "1 lattato e 1 NAD⁺": "1 lactato e 1 NAD⁺",
+    "1 citrato e 1 FADH₂": "1 citrato e 1 FADH₂",
+    "Perché un eritrocita umano maturo produce lattato anche in presenza di O₂?": "Por que uma hemácia humana madura produz lactato mesmo na presença de O₂?",
+    "Non possiede mitocondri e deve rigenerare NAD⁺ nel citosol": "Não possui mitocôndrias e precisa regenerar NAD⁺ no citosol",
+    "Non possiede enzimi glicolitici": "Não possui enzimas glicolíticas",
+    "Usa il lattato come accettore finale della catena respiratoria": "Usa lactato como aceptor final da cadeia respiratória",
+    "Converte il NAD⁺ in FADH₂ nel nucleo": "Converte NAD⁺ em FADH₂ no núcleo",
+    "Produce ATP soltanto tramite il ciclo di Krebs": "Produz ATP somente pelo ciclo de Krebs",
+    "Quale enzima appartiene sia al ciclo di Krebs sia alla catena respiratoria?": "Qual enzima pertence tanto ao ciclo de Krebs quanto à cadeia respiratória?",
+    "Succinato deidrogenasi": "Succinato desidrogenase",
+    "Lattato deidrogenasi": "Lactato desidrogenase",
+    "Esocinasi": "Hexoquinase",
+    "Fosfofruttochinasi-1": "Fosfofrutoquinase-1",
+    "Piruvato chinasi": "Piruvato quinase",
+    "Quale affermazione sulla fermentazione lattica è FALSA?": "Qual afirmação sobre fermentação lática é FALSA?",
+    "Aggiunge altri 2 ATP alla resa netta della glicolisi": "Acrescenta mais 2 ATP ao rendimento líquido da glicólise",
+    "Rigenera NAD⁺": "Regenera NAD⁺",
+    "Consuma NADH nella riduzione del piruvato": "Consome NADH na redução do piruvato",
+    "Può sostenere la glicolisi durante uno sforzo intenso": "Pode sustentar a glicólise durante esforço intenso",
+    "Non libera CO₂ nella conversione di piruvato in lattato": "Não libera CO₂ na conversão de piruvato em lactato",
+    "Il composto a quattro atomi di carbonio che si condensa con l’acetil-CoA è l’____.": "O composto de quatro carbonos que se condensa com acetil-CoA é o ____.",
+    "L’enzima che rappresenta un principale punto di controllo della glicolisi è la ____ (PFK-1).": "A enzima que representa um ponto central de controle da glicólise é a ____ (PFK-1).",
+    "Usando 2,5 ATP per NADH e 1,5 ATP per FADH₂, 4 NADH e 2 FADH₂ rendono circa:": "Usando 2,5 ATP por NADH e 1,5 ATP por FADH₂, 4 NADH e 2 FADH₂ rendem aproximadamente:",
+    "13 ATP": "13 ATP",
+    "15 ATP": "15 ATP",
+    "9 ATP": "9 ATP",
+    "26 ATP": "26 ATP",
+    "Per ridurre 3 molecole di O₂ ad acqua, il complesso IV richiede:": "Para reduzir 3 moléculas de O₂ a água, o complexo IV exige:",
+    "12 elettroni": "12 elétrons",
+    "3 elettroni": "3 elétrons",
+    "6 elettroni": "6 elétrons",
+    "4 elettroni": "4 elétrons",
+    "24 elettroni": "24 elétrons",
+    "Un mitocondrio largo 0,5 µm ha una larghezza di:": "Uma mitocôndria de 0,5 µm de largura tem largura de:",
+    "500 nm": "500 nm",
+    "50 nm": "50 nm",
+    "5 nm": "5 nm",
+    "5 000 nm": "5 000 nm",
+    "0,5 nm": "0,5 nm",
+    "Quale percorso degli elettroni è corretto per l’ingresso dal complesso II?": "Qual percurso dos elétrons está correto para a entrada pelo complexo II?",
+    "II → ubichinone → III → citocromo c → IV → O₂": "II → ubiquinona → III → citocromo c → IV → O₂",
+    "II → citocromo c → I → O₂": "II → citocromo c → I → O₂",
+    "II → IV → ubichinone → O₂": "II → IV → ubiquinona → O₂",
+    "II → ATP sintasi → O₂": "II → ATP sintase → O₂",
+    "II → III → NAD⁺ come accettore finale": "II → III → NAD⁺ como aceptor final",
+    "In mitocondri accoppiati con substrati e O₂ disponibili, l’oligomicina tende a:": "Em mitocôndrias acopladas com substratos e O₂ disponíveis, a oligomicina tende a:",
+    "Ridurre la sintesi di ATP e frenare il consumo di O₂": "Reduzir a síntese de ATP e frear o consumo de O₂",
+    "Aumentare ATP e consumo di O₂": "Aumentar ATP e consumo de O₂",
+    "Dissipare direttamente il gradiente come un protonoforo": "Dissipar diretamente o gradiente como um protonóforo",
+    "Bloccare direttamente il complesso II": "Bloquear diretamente o complexo II",
+    "Trasferire elettroni direttamente all’ATP": "Transferir elétrons diretamente ao ATP",
+    "Quale affermazione sulla mitocondria umana è FALSA?": "Qual afirmação sobre a mitocôndria humana é FALSA?",
+    "Tutte le sue proteine sono codificate dal DNA mitocondriale": "Todas as suas proteínas são codificadas pelo DNA mitocondrial",
+    "Possiede DNA circolare": "Possui DNA circular",
+    "La maggior parte delle sue proteine è codificata nel nucleo": "A maioria das suas proteínas é codificada no núcleo",
+    "Molte proteine della matrice entrano tramite TOM e TIM": "Muitas proteínas da matriz entram por TOM e TIM",
+    "La sua origine è endosimbiotica": "Sua origem é endossimbiótica",
+    "La proteina UCP1 del tessuto adiposo bruno è detta anche ____.": "A proteína UCP1 do tecido adiposo marrom também é chamada de ____.",
+    "Il complesso della catena respiratoria che coincide con la succinato deidrogenasi e non pompa H⁺ è il complesso ____.": "O complexo da cadeia respiratória que corresponde à succinato desidrogenase e não bombeia H⁺ é o complexo ____.",
+    "La catalasi decompone 8 molecole di H₂O₂ secondo 2 H₂O₂ → 2 H₂O + O₂. Quante molecole di O₂ si liberano?": "A catalase decompõe 8 moléculas de H₂O₂ segundo 2 H₂O₂ → 2 H₂O + O₂. Quantas moléculas de O₂ são liberadas?",
+    "4 molecole di O₂": "4 moléculas de O₂",
+    "8 molecole di O₂": "8 moléculas de O₂",
+    "16 molecole di O₂": "16 moléculas de O₂",
+    "2 molecole di O₂": "2 moléculas de O₂",
+    "Nessuna molecola di O₂": "Nenhuma molécula de O₂",
+    "Nel modello di accorciamento di un acido grasso da C26 a C20, quanti cicli che rimuovono 2 carboni sono necessari?": "No modelo de encurtamento de um ácido graxo de C26 para C20, quantos ciclos que removem 2 carbonos são necessários?",
+    "3 cicli": "3 ciclos",
+    "6 cicli": "6 ciclos",
+    "13 cicli": "13 ciclos",
+    "10 cicli": "10 ciclos",
+    "23 cicli": "23 ciclos",
+    "Il segnale perossisomiale classico SKL contiene:": "O sinal peroxissomal clássico SKL contém:",
+    "3 amminoacidi all’estremità C-terminale": "3 aminoácidos na extremidade C-terminal",
+    "3 amminoacidi all’estremità N-terminale": "3 aminoácidos na extremidade N-terminal",
+    "2 amminoacidi all’estremità C-terminale": "2 aminoácidos na extremidade C-terminal",
+    "4 nucleotidi all’estremità C-terminale": "4 nucleotídeos na extremidade C-terminal",
+    "70 amminoacidi nel DNA perossisomiale": "70 aminoácidos no DNA peroxissomal",
+    "Quale caratteristica distingue l’importazione nella matrice perossisomiale da quella mitocondriale usuale?": "Qual característica distingue a importação na matriz peroxissomal da importação mitocondrial usual?",
+    "Può importare proteine già ripiegate": "Pode importar proteínas já dobradas",
+    "Richiede sempre SRP e Sec61": "Sempre exige SRP e Sec61",
+    "Usa TOM e TIM per tutte le proteine": "Usa TOM e TIM para todas as proteínas",
+    "Avviene tramite ribosomi perossisomiali": "Ocorre por ribossomos peroxissomais",
+    "Richiede che tutte le proteine siano sintetizzate nel lume": "Exige que todas as proteínas sejam sintetizadas no lúmen",
+    "Quale associazione tra difetto e malattia è corretta?": "Qual associação entre defeito e doença está correta?",
+    "ABCD1 — adrenoleucodistrofia legata all’X": "ABCD1 — adrenoleucodistrofia ligada ao X",
+    "DNA perossisomiale — sindrome di Zellweger": "DNA peroxissomal — síndrome de Zellweger",
+    "ATP sintasi perossisomiale — adrenoleucodistrofia": "ATP sintase peroxissomal — adrenoleucodistrofia",
+    "PEX5 — difetto primario della glicolisi citosolica": "PEX5 — defeito primário da glicólise citosólica",
+    "ABCD1 — blocco diretto della sintesi di rRNA nucleolare": "ABCD1 — bloqueio direto da síntese de rRNA nucleolar",
+    "Quale affermazione sui perossisomi è FALSA?": "Qual afirmação sobre peroxissomos é FALSA?",
+    "Producono ATP mediante una propria catena respiratoria": "Produzem ATP mediante uma cadeia respiratória própria",
+    "Partecipano alla sintesi dei plasmalogeni": "Participam da síntese de plasmalogênios",
+    "Partecipano a tappe del metabolismo degli acidi biliari": "Participam de etapas do metabolismo dos ácidos biliares",
+    "Le ossidasi possono generare H₂O₂": "As oxidases podem gerar H₂O₂",
+    "Nel fegato contribuiscono alla detossificazione di parte dell’etanolo": "No fígado contribuem para detoxificação de parte do etanol",
+    "Il recettore che riconosce molte proteine con segnale PTS1 è ____.": "O receptor que reconhece muitas proteínas com sinal PTS1 é ____.",
+    "I fosfolipidi etere importanti nella mielina, la cui sintesi inizia nei perossisomi, sono i ____.": "Os fosfolipídios éter importantes na mielina, cuja síntese começa nos peroxissomos, são os ____.",
+    "Un enzima michaeliano ha Vmax = 120 µmol/min e Km = 4 mM. A [S] = 12 mM, qual è la velocità iniziale?": "Uma enzima michaeliana tem Vmax = 120 µmol/min e Km = 4 mM. Em [S] = 12 mM, qual é a velocidade inicial?",
+    "30 µmol/min": "30 µmol/min",
+    "60 µmol/min": "60 µmol/min",
+    "90 µmol/min": "90 µmol/min",
+    "120 µmol/min": "120 µmol/min",
+    "360 µmol/min": "360 µmol/min",
+    "Un inibitore porta Vmax da 100 a 50 µmol/min, lasciando Km a 2 mM. Quale modello reversibile è compatibile con questi dati?": "Um inibidor leva Vmax de 100 a 50 µmol/min, mantendo Km em 2 mM. Qual modelo reversível é compatível com esses dados?",
+    "Inibizione competitiva": "Inibição competitiva",
+    "Inibizione non competitiva pura": "Inibição não competitiva pura",
+    "Semplice aumento della concentrazione di substrato": "Simples aumento da concentração de substrato",
+    "Raddoppio dell’enzima attivo": "Duplicação da enzima ativa",
+    "Catalisi che modifica l’equilibrio": "Catálise que modifica o equilíbrio",
+    "Considerando solo piruvato deidrogenasi e ciclo di Krebs, quanti NADH si formano per glucosio?": "Considerando somente piruvato desidrogenase e ciclo de Krebs, quantos NADH se formam por glicose?",
+    "2 NADH": "2 NADH",
+    "6 NADH": "6 NADH",
+    "10 NADH": "10 NADH",
+    "8 NADH": "8 NADH",
+    "12 NADH": "12 NADH",
+    "Nella conversione di 2 glucosi in 4 lattati, quale bilancio netto è corretto?": "Na conversão de 2 glicoses em 4 lactatos, qual balanço líquido está correto?",
+    "4 ATP e nessun NADH netto accumulato": "4 ATP e nenhum NADH líquido acumulado",
+    "8 ATP e 4 NADH netti": "8 ATP e 4 NADH líquidos",
+    "4 ATP e 4 CO₂": "4 ATP e 4 CO₂",
+    "60 ATP e 4 lattati": "60 ATP e 4 lactatos",
+    "0 ATP e 4 NADH netti": "0 ATP e 4 NADH líquidos",
+    "Per un NADH ossidato lungo I, III e IV, usando 4, 4 e 2 H⁺ per coppia di elettroni, quanti H⁺ vengono translocati?": "Por um NADH oxidado ao longo de I, III e IV, usando 4, 4 e 2 H⁺ por par de elétrons, quantos H⁺ são translocados?",
+    "6 H⁺": "6 H⁺",
+    "8 H⁺": "8 H⁺",
+    "10 H⁺": "10 H⁺",
+    "12 H⁺": "12 H⁺",
+    "20 H⁺": "20 H⁺",
+    "Dopo oligomicina, si aggiunge un protonoforo a mitocondri con substrati e O₂ disponibili. Quale risposta è attesa?": "Após oligomicina, adiciona-se um protonóforo a mitocôndrias com substratos e O₂ disponíveis. Qual resposta é esperada?",
+    "Ripresa della sintesi normale di ATP, senza consumo di O₂": "Retomada da síntese normal de ATP, sem consumo de O₂",
+    "Ulteriore aumento del gradiente e arresto obbligatorio della catena": "Aumento adicional do gradiente e parada obrigatória da cadeia",
+    "Rimozione dell’oligomicina dal suo sito da parte del protonoforo": "Remoção da oligomicina do seu sítio pelo protonóforo",
+    "Aumento della respirazione senza ripristino dell’ATP sintasi bloccata": "Aumento da respiração sem restaurar a ATP sintase bloqueada",
+    "Conversione del complesso II in una pompa protonica": "Conversão do complexo II em bomba de prótons",
+    "Una catalasi decompone 10 µmol di H₂O₂ secondo 2 H₂O₂ → 2 H₂O + O₂. Quali quantità si formano?": "Uma catalase decompõe 10 µmol de H₂O₂ segundo 2 H₂O₂ → 2 H₂O + O₂. Quais quantidades se formam?",
+    "5 µmol di H₂O e 10 µmol di O₂": "5 µmol de H₂O e 10 µmol de O₂",
+    "10 µmol di H₂O e 5 µmol di O₂": "10 µmol de H₂O e 5 µmol de O₂",
+    "20 µmol di H₂O e 10 µmol di O₂": "20 µmol de H₂O e 10 µmol de O₂",
+    "10 µmol di H₂O e 10 µmol di O₂": "10 µmol de H₂O e 10 µmol de O₂",
+    "5 µmol di H₂O e 5 µmol di O₂": "5 µmol de H₂O e 5 µmol de O₂",
+    "Una proteina citosolica ripiegata termina con SKL. Quale destinazione e meccanismo sono più plausibili?": "Uma proteína citosólica dobrada termina em SKL. Qual destino e mecanismo são mais plausíveis?",
+    "Matrice mitocondriale tramite TOM/TIM senza svolgimento": "Matriz mitocondrial por TOM/TIM sem desdobramento",
+    "Lume del RE tramite importina": "Lúmen do RE por importina",
+    "Lisosoma tramite un recettore per SKL": "Lisossomo por um receptor de SKL",
+    "Nucleo tramite ABCD1": "Núcleo por ABCD1",
+    "Matrice perossisomiale tramite riconoscimento di PTS1 da PEX5": "Matriz peroxissomal por reconhecimento de PTS1 por PEX5",
+    "Un inibitore reversibile si lega soltanto al complesso enzima-substrato. Quale variazione è attesa nel modello di inibizione incompetitiva?": "Um inibidor reversível liga-se somente ao complexo enzima-substrato. Qual variação é esperada no modelo de inibição incompetitiva?",
+    "Vmax e Km apparenti diminuiscono dello stesso fattore": "Vmax e Km aparentes diminuem pelo mesmo fator",
+    "Vmax resta invariata e Km apparente aumenta": "Vmax permanece inalterada e Km aparente aumenta",
+    "Vmax diminuisce e Km resta invariata": "Vmax diminui e Km permanece inalterada",
+    "Vmax e Km apparenti aumentano dello stesso fattore": "Vmax e Km aparentes aumentam pelo mesmo fator",
+    "Vmax aumenta e Km apparente diminuisce": "Vmax aumenta e Km aparente diminui",
+    "Quale affermazione sulla natura e sulla regolazione degli enzimi è ERRATA?": "Qual afirmação sobre a natureza e a regulação das enzimas é ERRADA?",
+    "Tutti i catalizzatori biologici sono proteine": "Todos os catalisadores biológicos são proteínas",
+    "Esistono RNA con attività catalitica": "Existem RNAs com atividade catalítica",
+    "La fosforilazione può attivare oppure inibire un enzima": "A fosforilação pode ativar ou inibir uma enzima",
+    "Un’apoenzima può richiedere un cofattore per essere attiva": "Uma apoenzima pode exigir um cofator para ser ativa",
+    "Se kcat è espresso in s⁻¹ e Km in mol/L, quale unità ha kcat/Km?": "Se kcat é expresso em s⁻¹ e Km em mol/L, qual é a unidade de kcat/Km?",
+    "L·mol⁻¹·s⁻¹": "L·mol⁻¹·s⁻¹",
+    "mol·L⁻¹·s⁻¹": "mol·L⁻¹·s⁻¹",
+    "s⁻¹": "s⁻¹",
+    "mol/L": "mol/L",
+    "L·mol⁻¹·s": "L·mol⁻¹·s",
+    "Per un enzima michaeliano con Km > 0, quale affermazione sulla saturazione è FALSA?": "Para uma enzima michaeliana com Km > 0, qual afirmação sobre saturação é FALSA?",
+    "A [S] = 99Km, v è esattamente uguale a Vmax": "Em [S] = 99Km, v é exatamente igual a Vmax",
+    "A [S] = 99Km, v è pari al 99% di Vmax": "Em [S] = 99Km, v equivale a 99% de Vmax",
+    "A [S] = Km, v è pari al 50% di Vmax": "Em [S] = Km, v equivale a 50% de Vmax",
+    "Per [S] finita, v è inferiore a Vmax": "Para [S] finita, v é inferior a Vmax",
+    "Vmax è un limite della velocità al crescere di [S]": "Vmax é um limite da velocidade quando [S] aumenta",
+    "Un RNA capace di catalizzare una reazione è detto ____.": "Um RNA capaz de catalisar uma reação é chamado de ____.",
+    "Tutte le seguenti affermazioni sulle reazioni glicolitiche sono corrette TRANNE una. Quale?": "Todas as afirmações seguintes sobre reações glicolíticas estão corretas EXCETO uma. Qual?",
+    "La fosfofruttochinasi-1 produce fruttosio-2,6-bisfosfato": "A fosfofrutoquinase-1 produz frutose-2,6-bisfosfato",
+    "La fosfoglicerato chinasi può formare ATP": "A fosfoglicerato quinase pode formar ATP",
+    "La piruvato chinasi può formare ATP": "A piruvato quinase pode formar ATP",
+    "La gliceraldeide-3-fosfato deidrogenasi utilizza fosfato inorganico": "A gliceraldeído-3-fosfato desidrogenase utiliza fosfato inorgânico",
+    "La trioso fosfato isomerasi converte DHAP in GAP": "A triose-fosfato isomerase converte DHAP em GAP",
+    "In una cellula animale, quale localizzazione della succinato deidrogenasi è corretta?": "Em uma célula animal, qual localização da succinato desidrogenase é correta?",
+    "Membrana mitocondriale interna, con dominio catalitico rivolto alla matrice": "Membrana mitocondrial interna, com domínio catalítico voltado à matriz",
+    "Membrana mitocondriale esterna, con dominio catalitico rivolto al citosol": "Membrana mitocondrial externa, com domínio catalítico voltado ao citosol",
+    "Citosol, senza associazione a membrane": "Citosol, sem associação a membranas",
+    "Lume dei lisosomi": "Lúmen dos lisossomos",
+    "Membrana mitocondriale interna, con dominio catalitico rivolto allo spazio intermembrana": "Membrana mitocondrial interna, com domínio catalítico voltado ao espaço intermembranas",
+    "Quale affermazione sul rapporto tra O₂ e ciclo di Krebs è corretta?": "Qual afirmação sobre a relação entre O₂ e ciclo de Krebs é correta?",
+    "Il ciclo non usa direttamente O₂, ma dipende dalla riossidazione delle coenzime ridotte": "O ciclo não usa diretamente O₂, mas depende da reoxidação das coenzimas reduzidas",
+    "Ogni giro consuma direttamente due molecole di O₂ nella citrato sintasi": "Cada volta consome diretamente duas moléculas de O₂ na citrato sintase",
+    "O₂ viene trasformato direttamente in CO₂ dalla succinato deidrogenasi": "O₂ é transformado diretamente em CO₂ pela succinato desidrogenase",
+    "La presenza di O₂ sposta la glicolisi nella matrice mitocondriale": "A presença de O₂ desloca a glicólise para a matriz mitocondrial",
+    "La piruvato deidrogenasi usa O₂ come accettore diretto degli elettroni": "A piruvato desidrogenase usa O₂ como aceptor direto dos elétrons",
+    "Dopo la scissione e l’isomerizzazione delle triosi, quante molecole di GAP proseguono nella fase di rendimento per due molecole di glucosio?": "Após a clivagem e a isomerização das trioses, quantas moléculas de GAP prosseguem na fase de retorno para duas moléculas de glicose?",
+    "4 molecole di GAP": "4 moléculas de GAP",
+    "2 molecole di GAP": "2 moléculas de GAP",
+    "1 molecola di GAP": "1 molécula de GAP",
+    "6 molecole di GAP": "6 moléculas de GAP",
+    "8 molecole di GAP": "8 moléculas de GAP",
+    "La reazione catalizzata dalla lattato deidrogenasi ossida NADH e rigenera ____ per sostenere la glicolisi.": "A reação catalisada pela lactato desidrogenase oxida NADH e regenera ____ para sustentar a glicólise.",
+    "In un mitocondrio che sintetizza ATP mediante fosforilazione ossidativa, dove si trova F₁ e in quale direzione fluiscono i protoni attraverso l’ATP sintasi?": "Em uma mitocôndria que sintetiza ATP por fosforilação oxidativa, onde fica F₁ e em qual direção os prótons fluem pela ATP sintase?",
+    "F₁ è rivolta alla matrice; H⁺ fluisce dallo spazio intermembrana alla matrice": "F₁ está voltada para a matriz; H⁺ flui do espaço intermembranas à matriz",
+    "F₁ è rivolta allo spazio intermembrana; H⁺ fluisce verso la matrice": "F₁ está voltada para o espaço intermembranas; H⁺ flui para a matriz",
+    "F₁ è rivolta alla matrice; H⁺ fluisce dalla matrice allo spazio intermembrana": "F₁ está voltada para a matriz; H⁺ flui da matriz ao espaço intermembranas",
+    "F₁ è nel citosol; H⁺ fluisce attraverso la membrana esterna": "F₁ está no citosol; H⁺ flui pela membrana externa",
+    "F₁ è nel nucleo; H⁺ fluisce dal citosol al nucleo": "F₁ está no núcleo; H⁺ flui do citosol ao núcleo",
+    "Quale affermazione sui trasportatori mobili della catena respiratoria è ERRATA?": "Qual afirmação sobre os transportadores móveis da cadeia respiratória é ERRADA?",
+    "Il citocromo c trasporta due elettroni alla volta tra III e IV": "O citocromo c transporta dois elétrons por vez entre III e IV",
+    "Il citocromo c trasporta un elettrone alla volta": "O citocromo c transporta um elétron por vez",
+    "L’ubichinone ridotto può trasportare due elettroni": "A ubiquinona reduzida pode transportar dois elétrons",
+    "L’ubichinone si muove nella membrana interna": "A ubiquinona se move na membrana interna",
+    "Il citocromo c si trova sul lato rivolto allo spazio intermembrana": "O citocromo c fica no lado voltado ao espaço intermembranas",
+    "Il complesso IV riceve quattro elettroni e riduce una molecola di O₂. Usando il bilancio usuale, quanti H⁺ vengono pompati, escludendo quelli consumati per formare acqua?": "O complexo IV recebe quatro elétrons e reduz uma molécula de O₂. Usando o balanço usual, quantos H⁺ são bombeados, excluindo os consumidos para formar água?",
+    "4 protoni pompati": "4 prótons bombeados",
+    "2 protoni pompati": "2 prótons bombeados",
+    "8 protoni pompati": "8 prótons bombeados",
+    "10 protoni pompati": "10 prótons bombeados",
+    "0 protoni pompati": "0 prótons bombeados",
+    "Tutte le seguenti affermazioni sui compartimenti mitocondriali sono corrette TRANNE una. Quale?": "Todas as afirmações seguintes sobre os compartimentos mitocondriais estão corretas EXCETO uma. Qual?",
+    "Il lume delle creste coincide con la matrice": "O lúmen das cristas coincide com a matriz",
+    "Le creste sono ripiegamenti della membrana interna": "As cristas são dobras da membrana interna",
+    "Il lume delle creste comunica con lo spazio intermembrana": "O lúmen das cristas comunica-se com o espaço intermembranas",
+    "La matrice è relativamente negativa durante la respirazione accoppiata": "A matriz é relativamente negativa durante a respiração acoplada",
+    "Il NADH citosolico non attraversa liberamente la membrana interna": "O NADH citosólico não atravessa livremente a membrana interna",
+    "Nell’uomo, il coefficiente di sedimentazione del mitoribosoma completo è ____ S.": "No ser humano, o coeficiente de sedimentação do mitorribossomo completo é ____ S.",
+    "Quale modifica compromette direttamente il segnale PTS1 classico di una proteina che termina con SKL?": "Qual modificação compromete diretamente o sinal PTS1 clássico de uma proteína que termina em SKL?",
+    "Aggiungere una coda di venti amminoacidi dopo SKL": "Acrescentar uma cauda de vinte aminoácidos após SKL",
+    "Mantenere SKL esposto all’estremità C-terminale": "Manter SKL exposto na extremidade C-terminal",
+    "Sintetizzare la proteina su ribosomi citosolici": "Sintetizar a proteína em ribossomos citosólicos",
+    "Consentire il ripiegamento della proteina nel citosol": "Permitir o dobramento da proteína no citosol",
+    "Lasciare disponibile il recettore PEX5": "Manter disponível o receptor PEX5",
+    "Quale abbinamento tra recettore e segnale di importazione perossisomiale è corretto?": "Qual associação entre receptor e sinal de importação peroxissomal é correta?",
+    "PEX7 — PTS2 vicino all’estremità N-terminale": "PEX7 — PTS2 próximo à extremidade N-terminal",
+    "PEX7 — PTS1 classico C-terminale": "PEX7 — PTS1 clássico C-terminal",
+    "PEX5 — PTS2 vicino all’estremità N-terminale": "PEX5 — PTS2 próximo à extremidade N-terminal",
+    "TOM — PTS1 per la matrice perossisomiale": "TOM — PTS1 para a matriz peroxissomal",
+    "ABCD1 — riconoscimento di SKL nelle proteine di matrice": "ABCD1 — reconhecimento de SKL nas proteínas de matriz",
+    "Quale affermazione sui perossisomi umani è FALSA?": "Qual afirmação sobre os peroxissomos humanos é FALSA?",
+    "Devono possedere un nucleo cristallino di urato ossidasi come i perossisomi del fegato di ratto": "Devem possuir um núcleo cristalino de urato oxidase como os peroxissomos do fígado de rato",
+    "Sono delimitati da una sola membrana": "São delimitados por uma única membrana",
+    "Non possiedono un proprio genoma": "Não possuem um genoma próprio",
+    "Possono importare proteine già ripiegate": "Podem importar proteínas já dobradas",
+    "La sintesi dei plasmalogeni coinvolge anche il reticolo endoplasmatico": "A síntese de plasmalogênios envolve também o retículo endoplasmático",
+    "Quale confronto tra la prima ossidazione della beta-ossidazione perossisomiale e quella mitocondriale è corretto?": "Qual comparação entre a primeira oxidação da beta-oxidação peroxissomal e a mitocondrial é correta?",
+    "Nel perossisoma gli elettroni possono passare direttamente a O₂ formando H₂O₂": "No peroxissomo os elétrons podem passar diretamente a O₂ formando H₂O₂",
+    "Il perossisoma pompa H⁺ mediante il proprio complesso I": "O peroxissomo bombeia H⁺ por seu próprio complexo I",
+    "Il perossisoma usa un’ATP sintasi di membrana per produrre ATP": "O peroxissomo usa uma ATP sintase de membrana para produzir ATP",
+    "La catalasi trasferisce gli elettroni direttamente al complesso III perossisomiale": "A catalase transfere os elétrons diretamente ao complexo III peroxissomal",
+    "La prima ossidazione perossisomiale richiede ribosomi interni": "A primeira oxidação peroxissomal exige ribossomos internos",
+    "Nel tripeptide perossisomiale SKL, la lettera K indica l’amminoacido ____.": "No tripeptídeo peroxissomal SKL, a letra K indica o aminoácido ____.",
+    "Un enzima ha Vmax = 80 µmol/min e Km = 4 mM. Un inibitore che lega solo ES dimezza entrambi i parametri apparenti. A [S] = 2 mM, quale velocità iniziale si ottiene?": "Uma enzima tem Vmax = 80 µmol/min e Km = 4 mM. Um inibidor que liga somente ES reduz ambos os parâmetros aparentes à metade. Em [S] = 2 mM, qual velocidade inicial é obtida?",
+    "10 µmol/min": "10 µmol/min",
+    "Quale associazione tra enzima glicolitico e reazione contiene un ERRORE?": "Qual associação entre enzima glicolítica e reação contém um ERRO?",
+    "Fosfoglicerato chinasi — trasferimento di fosfato all’ADP": "Fosfoglicerato quinase — transferência de fosfato ao ADP",
+    "Trioso fosfato isomerasi — interconversione di DHAP e GAP": "Triose-fosfato isomerase — interconversão de DHAP e GAP",
+    "Piruvato chinasi — formazione di ATP dal fosfoenolpiruvato": "Piruvato quinase — formação de ATP a partir do fosfoenolpiruvato",
+    "Gliceraldeide-3-fosfato deidrogenasi — fosforilazione del GAP usando ATP come donatore di fosfato": "Gliceraldeído-3-fosfato desidrogenase — fosforilação do GAP usando ATP como doador de fosfato",
+    "Fosfofruttochinasi-1 — formazione di fruttosio-1,6-bisfosfato": "Fosfofrutoquinase-1 — formação de frutose-1,6-bisfosfato",
+    "In un mitocondrio accoppiato, quale combinazione di polarità, pH e orientamento di F₁ è corretta?": "Em uma mitocôndria acoplada, qual combinação de polaridade, pH e orientação de F₁ é correta?",
+    "Matrice negativa e più alcalina; F₁ rivolta alla matrice": "Matriz negativa e mais alcalina; F₁ voltada para a matriz",
+    "Matrice positiva e più acida; F₁ rivolta alla matrice": "Matriz positiva e mais ácida; F₁ voltada para a matriz",
+    "Matrice negativa e più acida; F₁ rivolta allo spazio intermembrana": "Matriz negativa e mais ácida; F₁ voltada para o espaço intermembranas",
+    "Matrice positiva e più alcalina; F₁ rivolta al citosol": "Matriz positiva e mais alcalina; F₁ voltada para o citosol",
+    "Matrice senza differenze di pH o potenziale; F₁ nella membrana esterna": "Matriz sem diferenças de pH ou potencial; F₁ na membrana externa",
+    "Una proteina di matrice perossisomiale possiede un segnale PTS2 vicino all’estremità N-terminale e non un PTS1. Quale affermazione è corretta?": "Uma proteína de matriz peroxissomal possui um sinal PTS2 próximo à extremidade N-terminal e não um PTS1. Qual afirmação é correta?",
+    "Deve essere sintetizzata da ribosomi perossisomiali": "Deve ser sintetizada por ribossomos peroxissomais",
+    "Deve essere riconosciuta da TOM perché il segnale è N-terminale": "Deve ser reconhecida por TOM porque o sinal é N-terminal",
+    "Il riconoscimento del segnale coinvolge PEX7 e la sintesi avviene nel citosol": "O reconhecimento do sinal envolve PEX7 e a síntese ocorre no citosol",
+    "Non può essere importata perché tutte le proteine perossisomiali richiedono SKL": "Não pode ser importada porque todas as proteínas peroxissomais exigem SKL",
+    "Deve essere codificata dal DNA perossisomiale": "Deve ser codificada pelo DNA peroxissomal",
+    "Gli isoenzimi catalizzano la stessa reazione": "As isoenzimas catalisam a mesma reação"
+  },
+  "passos": [
+    [
+      "c",
+      "c1_4",
+      "As enzimas fazem cada passo acontecer; entenda como são reguladas."
+    ],
+    [
+      "r",
+      "rt4_01",
+      "Calcule uma velocidade sem confundir as unidades."
+    ],
+    [
+      "r",
+      "rt4_02",
+      "Reconheça a inibição pelos dois parâmetros."
+    ],
+    [
+      "r",
+      "r1b",
+      "Inibição competitiva e não competitiva."
+    ],
+    [
+      "r",
+      "rt4_09",
+      "Diferencie a inibição incompetitiva atualizando os dois parâmetros."
+    ],
+    [
+      "c",
+      "c5_4",
+      "Glicólise no citosol e Krebs na matriz."
+    ],
+    [
+      "r",
+      "rt4_03",
+      "Some coenzimas respeitando o recorte do enunciado."
+    ],
+    [
+      "r",
+      "rt4_04",
+      "Feche o balanço da glicólise com a fermentação."
+    ],
+    [
+      "r",
+      "rt4_10",
+      "Descubra de onde vem o fosfato em cada etapa glicolítica."
+    ],
+    [
+      "c",
+      "c5_5",
+      "A cadeia respiratória transforma NADH em ATP."
+    ],
+    [
+      "r",
+      "rt4_05",
+      "Conte prótons por par de elétrons."
+    ],
+    [
+      "r",
+      "rt4_06",
+      "Preveja o efeito combinado de bloqueio e desacoplamento."
+    ],
+    [
+      "m",
+      "cadeia",
+      "Teste os inibidores e o desacoplador."
+    ],
+    [
+      "r",
+      "r5g",
+      "Desacoplador: O₂ sobe, ATP cai."
+    ],
+    [
+      "r",
+      "r5e",
+      "O que acontece quando um complexo é bloqueado."
+    ],
+    [
+      "r",
+      "rt4_11",
+      "Relacione a direção do bombeamento ao pH e à face catalítica."
+    ],
+    [
+      "c",
+      "c5_6",
+      "O peroxissomo cuida dos ácidos graxos que a mitocôndria não consegue começar."
+    ],
+    [
+      "r",
+      "rt4_07",
+      "Aplique a estequiometria da detoxificação."
+    ],
+    [
+      "r",
+      "rt4_08",
+      "Combine posição do sinal, receptor e estado de dobramento."
+    ],
+    [
+      "r",
+      "rt4_12",
+      "Reconheça a exceção ao endereçamento por SKL C-terminal."
+    ],
+    [
+      "q",
+      5,
+      "Feche com questões da unidade."
+    ]
+  ]
+}

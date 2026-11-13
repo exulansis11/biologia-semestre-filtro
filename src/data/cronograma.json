@@ -1,0 +1,138 @@
+[
+  {
+    "id": "w1",
+    "fase": 1,
+    "per": "9–15 nov",
+    "ini": "2026-11-09",
+    "fim": "2026-11-15",
+    "t": [
+      "U5: membranas e transporte",
+      "U5: potencial de membrana e de ação",
+      "U5: núcleo, nucléolo, condensados",
+      "Sábado: mini-simulado de U5"
+    ]
+  },
+  {
+    "id": "w2",
+    "fase": 1,
+    "per": "16–22 nov",
+    "ini": "2026-11-16",
+    "fim": "2026-11-22",
+    "t": [
+      "U5: mitocôndria e metabolismo",
+      "U5: peroxissomos",
+      "U5: RE, SRP, controle de qualidade, UPR, ERAD",
+      "Sábado: mini-simulado + revisão da semana 1"
+    ]
+  },
+  {
+    "id": "w3",
+    "fase": 1,
+    "per": "23–29 nov",
+    "ini": "2026-11-23",
+    "fim": "2026-11-29",
+    "t": [
+      "U5: Golgi, tráfego, SNARE e RAB",
+      "U5: endocitose, lisossomos, autofagia",
+      "U5: citoesqueleto",
+      "U1 completa",
+      "Sábado: 1º simulado completo"
+    ]
+  },
+  {
+    "id": "w4",
+    "fase": 1,
+    "per": "30 nov–6 dez",
+    "ini": "2026-11-30",
+    "fim": "2026-12-06",
+    "t": [
+      "U3 completa (2 dias)",
+      "U2 (1 dia)",
+      "U4 (1,5 dia)",
+      "U7 (1,5 dia)",
+      "Simulados completos na quarta e no sábado"
+    ]
+  },
+  {
+    "id": "w5",
+    "fase": 1,
+    "per": "7–9 dez",
+    "ini": "2026-12-07",
+    "fim": "2026-12-10",
+    "t": [
+      "U6 em ritmo de resumo",
+      "Revisar caderno de erros",
+      "1 simulado por dia",
+      "Dia 9: revisão leve e dormir cedo"
+    ]
+  },
+  {
+    "id": "w6",
+    "fase": 2,
+    "per": "11–13 dez",
+    "ini": "2026-12-11",
+    "fim": "2026-12-13",
+    "t": [
+      "1 dia de descanso",
+      "Diagnóstico: erros por unidade na prova e nos simulados"
+    ]
+  },
+  {
+    "id": "w7",
+    "fase": 2,
+    "per": "14–20 dez",
+    "ini": "2026-12-14",
+    "fim": "2026-12-20",
+    "t": [
+      "Aprofundar as 2 unidades mais fracas",
+      "U6 e U2 completas",
+      "2 simulados completos"
+    ]
+  },
+  {
+    "id": "w8",
+    "fase": 2,
+    "per": "21–27 dez",
+    "ini": "2026-12-21",
+    "fim": "2026-12-27",
+    "t": [
+      "Segunda passada de U5",
+      "Segunda passada de U3",
+      "2 simulados (24 e 25 de folga)"
+    ]
+  },
+  {
+    "id": "w9",
+    "fase": 2,
+    "per": "28 dez–3 jan",
+    "ini": "2026-12-28",
+    "fim": "2027-01-03",
+    "t": [
+      "Segunda passada de U4, U7 e U1",
+      "Heredogramas todos os dias",
+      "3 simulados (1º de janeiro de folga)"
+    ]
+  },
+  {
+    "id": "w10",
+    "fase": 2,
+    "per": "4–8 jan",
+    "ini": "2027-01-04",
+    "fim": "2027-01-08",
+    "t": [
+      "Só caderno de erros, flashcards e glossário",
+      "1 simulado por dia"
+    ]
+  },
+  {
+    "id": "w11",
+    "fase": 2,
+    "per": "9–10 jan",
+    "ini": "2027-01-09",
+    "fim": "2027-01-11",
+    "t": [
+      "Revisão leve dos esquemas",
+      "Nada de conteúdo novo"
+    ]
+  }
+]

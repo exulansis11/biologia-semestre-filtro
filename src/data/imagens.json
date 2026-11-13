@@ -1,0 +1,612 @@
+{
+  "c5_1": [
+    {
+      "arquivo": "imagens/c5_1-1.png",
+      "legenda": "Observe as cabeças polares, as caudas hidrofóbicas e os carboidratos na face externa. A distribuição dos componentes evidencia a assimetria da membrana.",
+      "legenda_it": "Osserva le teste polari, le code idrofobiche e i carboidrati sulla faccia esterna. La distribuzione dei componenti evidenzia l’asimmetria della membrana.",
+      "alt": "Bicamada com proteínas, colesterol e cadeias de carboidratos externas.",
+      "titulo_commons": "File:Cell membrane detailed diagram en.svg",
+      "autor": "Mariana Ruiz",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Cell%20membrane%20detailed%20diagram%20en.svg",
+      "trocada": false
+    },
+    {
+      "arquivo": "imagens/c5_1-2.png",
+      "legenda": "Acompanhe os sentidos de transporte: saem três Na⁺ e entram dois K⁺ por ATP. O saldo é uma carga positiva para fora por ciclo.",
+      "legenda_it": "Segui le direzioni del trasporto: tre Na⁺ escono e due K⁺ entrano per ogni ATP. Il bilancio è una carica positiva verso l’esterno per ciclo.",
+      "alt": "Ciclo da bomba de sódio e potássio com ATP e fluxos iônicos.",
+      "titulo_commons": "File:Scheme sodium-potassium pump-en.svg",
+      "autor": "LadyofHats Mariana Ruiz Villarreal",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Scheme%20sodium-potassium%20pump-en.svg",
+      "trocada": false
+    }
+  ],
+  "c5_2": [
+    {
+      "arquivo": "imagens/c5_2-1.png",
+      "legenda": "Distinga despolarização, repolarização e hiperpolarização pelo sentido da mudança de voltagem. A subida começa ainda em valores negativos.",
+      "legenda_it": "Distingui depolarizzazione, ripolarizzazione e iperpolarizzazione in base alla direzione della variazione di potenziale. La fase ascendente inizia quando il potenziale è ancora negativo.",
+      "alt": "Gráfico das fases do potencial de ação ao longo do tempo.",
+      "titulo_commons": "File:Action potential schematic.svg",
+      "autor": "Laurens R. Krol",
+      "licenca": "CC0",
+      "licenca_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Action%20potential%20schematic.svg",
+      "trocada": false
+    },
+    {
+      "arquivo": "imagens/c5_2-2.png",
+      "legenda": "Observe a separação entre os internódios mielinizados e os nós de Ranvier. A corrente se espalha sob a mielina, e o potencial de ação se regenera nos nós.",
+      "legenda_it": "Osserva la separazione tra gli internodi mielinizzati e i nodi di Ranvier. La corrente si propaga sotto la mielina e il potenziale d’azione si rigenera nei nodi.",
+      "alt": "Diagrama da propagação saltatória em axônio mielinizado.",
+      "titulo_commons": "File:Propagation of action potential along myelinated nerve fiber en.svg",
+      "autor": "Helixitta",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Propagation%20of%20action%20potential%20along%20myelinated%20nerve%20fiber%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c5_9": [
+    {
+      "arquivo": "imagens/c5_9-1.png",
+      "legenda": "Siga a via do RE ao Golgi e às vesículas que chegam à membrana plasmática. Os compartimentos trocam carga sem perder a separação entre lúmen e citosol.",
+      "legenda_it": "Segui il percorso dal RE al Golgi e alle vescicole che raggiungono la membrana plasmatica. I compartimenti scambiano il carico mantenendo la separazione tra lume e citosol.",
+      "alt": "Sistema de endomembranas com RE, Golgi e vesículas.",
+      "titulo_commons": "File:Endomembrane system diagram en.svg",
+      "autor": "Mariana Ruiz LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Endomembrane%20system%20diagram%20en.svg",
+      "trocada": false
+    },
+    {
+      "arquivo": "imagens/c5_9-2.png",
+      "legenda": "Compare a secreção constitutiva com a regulada, que armazena vesículas até receber um sinal. Na fusão completa, a face luminal da vesícula passa a ficar exposta ao exterior.",
+      "legenda_it": "Confronta la secrezione costitutiva con quella regolata, che conserva le vescicole fino all’arrivo di un segnale. Nella fusione completa, la faccia luminale della vescicola viene esposta all’esterno.",
+      "alt": "Comparação entre exocitose constitutiva e regulada.",
+      "titulo_commons": "File:Exocytosis types.svg",
+      "autor": "Mariana Ruiz LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Exocytosis%20types.svg",
+      "trocada": false
+    }
+  ],
+  "c2_2": [
+    {
+      "arquivo": "imagens/c2_2-1.jpg",
+      "legenda": "Observe o DNA enrolado no núcleo de histonas. A H1 de ligação não integra o octâmero central.",
+      "legenda_it": "Osserva il DNA avvolto attorno al nucleo istonico. L’istone di collegamento H1 non fa parte dell’ottamero centrale.",
+      "alt": "Modelo tridimensional de DNA e histonas no nucleossomo.",
+      "titulo_commons": "File:Nucleosome.jpg",
+      "autor": "No machine-readable author provided. Spellcheck assumed (based on copyright claims).",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Nucleosome.jpg",
+      "trocada": false
+    }
+  ],
+  "c3_1": [
+    {
+      "arquivo": "imagens/c3_1-1.png",
+      "legenda": "Observe a forquilha e o sentido 5′→3′ da síntese nas duas fitas novas. A síntese descontínua também obedece a esse sentido, embora forme fragmentos.",
+      "legenda_it": "Osserva la forcella e la direzione 5′→3′ della sintesi nei due nuovi filamenti. Anche la sintesi discontinua segue questa direzione, pur formando frammenti.",
+      "alt": "Forquilha de replicação com bases pareadas e direções das fitas.",
+      "titulo_commons": "File:DNA replication split.svg",
+      "autor": "Madprime",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:DNA%20replication%20split.svg",
+      "trocada": false
+    }
+  ],
+  "c3_2": [
+    {
+      "arquivo": "imagens/c3_2-1.png",
+      "legenda": "Identifique éxons separados por íntrons no gene. As regiões retidas no RNA maduro podem incluir UTR, além da região traduzida.",
+      "legenda_it": "Individua gli esoni separati dagli introni nel gene. Le regioni mantenute nell’RNA maturo possono comprendere UTR oltre alla regione tradotta.",
+      "alt": "Diagrama da organização de éxons e íntrons de um gene.",
+      "titulo_commons": "File:Gene structure.svg",
+      "autor": "en:User:Daycd, traced by User:Stannered",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Gene%20structure.svg",
+      "trocada": false
+    }
+  ],
+  "c3_3": [
+    {
+      "arquivo": "imagens/c3_3-1.png",
+      "legenda": "Compare a ligação do repressor ao operador com a situação de indução. Distinga o sítio regulador de DNA da proteína repressora.",
+      "legenda_it": "Confronta il legame del repressore all’operatore con la condizione di induzione. Distingui il sito regolatore del DNA dalla proteina repressore.",
+      "alt": "Esquema do operon lac reprimido e induzido.",
+      "titulo_commons": "File:Lac operon-2010-21-01.png",
+      "autor": "Lac_operon.png: G3pro\nderivative work: Tereseik (talk)",
+      "licenca": "CC BY 2.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Lac%20operon-2010-21-01.png",
+      "trocada": false
+    }
+  ],
+  "c3_5": [
+    {
+      "arquivo": "imagens/c3_5-1.png",
+      "legenda": "Localize cap, regiões não traduzidas e cauda poli-A no mRNA. As UTR permanecem no RNA maduro, embora não codifiquem a cadeia principal.",
+      "legenda_it": "Localizza cappuccio, regioni non tradotte e coda poli-A nell’mRNA. Le UTR rimangono nell’RNA maturo pur non codificando la catena principale.",
+      "alt": "Estrutura de mRNA com extremidades e regiões não traduzidas.",
+      "titulo_commons": "File:MRNA structure.png",
+      "autor": "TransControl at English Wikipedia",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:MRNA%20structure.png",
+      "trocada": false
+    }
+  ],
+  "c3_6": [
+    {
+      "arquivo": "imagens/c3_6-1.png",
+      "legenda": "Acompanhe o pareamento entre códon e anticódon e a posição dos tRNA nos sítios A e P. O polipeptídeo cresce enquanto o ribossomo percorre o mRNA.",
+      "legenda_it": "Segui l’appaiamento tra codone e anticodone e la posizione dei tRNA nei siti A e P. Il polipeptide cresce mentre il ribosoma percorre l’mRNA.",
+      "alt": "Ribossomo com mRNA, tRNA e cadeia polipeptídica nascente.",
+      "titulo_commons": "File:Ribosome mRNA translation en.svg",
+      "autor": "LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ribosome%20mRNA%20translation%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c3_7": [
+    {
+      "arquivo": "imagens/c3_7-1.png",
+      "legenda": "Observe a organização do complexo proteassômico. Relacione o núcleo proteolítico 20S à degradação e as partículas reguladoras ao reconhecimento e preparo do substrato.",
+      "legenda_it": "Osserva l’organizzazione del complesso proteasomico. Collega il nucleo proteolitico 20S alla degradazione e le particelle regolatrici al riconoscimento e alla preparazione del substrato.",
+      "alt": "Ilustração do complexo proteassômico.",
+      "titulo_commons": "File:Proteasome (NIH BioArt 667 - 758818).svg",
+      "autor": "Courtesy of NIAID\n\nRyan Kissinger",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Proteasome%20(NIH%20BioArt%20667%20-%20758818).svg",
+      "trocada": false
+    }
+  ],
+  "c3_4": [
+    {
+      "arquivo": "imagens/c3_4-1.gif",
+      "legenda": "Compare as combinações de éxons nos transcritos maduros. A diversidade de RNA é produzida pelo processamento de um mesmo gene, sem modificar seu DNA.",
+      "legenda_it": "Confronta le combinazioni di esoni nei trascritti maturi. La diversità degli RNA deriva dal processamento dello stesso gene, senza modificarne il DNA.",
+      "alt": "Esquema de splicing alternativo com diferentes combinações de éxons.",
+      "titulo_commons": "File:DNA alternative splicing.gif",
+      "autor": "National Human Genome Research Institute",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:DNA%20alternative%20splicing.gif",
+      "trocada": false
+    }
+  ],
+  "c5_8": [
+    {
+      "arquivo": "imagens/c5_8-1.png",
+      "legenda": "Observe os ribossomos na face citosólica do RE rugoso e o percurso entre RE, Golgi e superfície celular. O lúmen da via secretora é topologicamente equivalente ao exterior da célula.",
+      "legenda_it": "Osserva i ribosomi sulla faccia citosolica del RE ruvido e il percorso tra RE, Golgi e superficie cellulare. Il lume della via secretoria è topologicamente equivalente all’esterno della cellula.",
+      "alt": "Diagrama do sistema de endomembranas com RE, Golgi e membrana plasmática.",
+      "titulo_commons": "File:Endomembrane system diagram en.svg",
+      "autor": "Mariana Ruiz LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Endomembrane%20system%20diagram%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c5_7": [
+    {
+      "arquivo": "imagens/c5_7-1.png",
+      "legenda": "Compare a face cis de entrada com a face trans de saída e identifique as cisternas empilhadas. Essa polaridade organiza o processamento e a triagem de cargas.",
+      "legenda_it": "Confronta la faccia cis di ingresso con la faccia trans di uscita e individua le cisterne impilate. Questa polarità organizza la maturazione e lo smistamento delle molecole trasportate.",
+      "alt": "Diagrama do Golgi com cisternas, faces cis e trans e vesículas.",
+      "titulo_commons": "File:Golgi apparatus (standalone version)-en.svg",
+      "autor": "Kelvinsong",
+      "licenca": "CC BY 3.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/3.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Golgi%20apparatus%20(standalone%20version)-en.svg",
+      "trocada": false
+    }
+  ],
+  "c5_10": [
+    {
+      "arquivo": "imagens/c5_10-1.jpg",
+      "legenda": "Siga o fechamento do fagóforo e a fusão do autofagossomo com o lisossomo. Diferencie o isolamento da carga citoplasmática da etapa posterior de digestão.",
+      "legenda_it": "Segui la chiusura del fagoforo e la fusione dell’autofagosoma con il lisosoma. Distingui l’isolamento del materiale citoplasmatico dalla successiva fase di digestione.",
+      "alt": "Diagrama da formação do autofagossomo e de sua fusão com o lisossomo.",
+      "titulo_commons": "File:Autophagy diagram PLoS Biology.jpg",
+      "autor": "Juhasz G, Neufeld TP. Original images by Ryan Scott (B) and Dr. Noboru Mizushima (C).",
+      "licenca": "CC BY 2.5",
+      "licenca_url": "https://creativecommons.org/licenses/by/2.5",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Autophagy%20diagram%20PLoS%20Biology.jpg",
+      "trocada": false
+    }
+  ],
+  "c1_4": [
+    {
+      "arquivo": "imagens/c1_4-1.png",
+      "legenda": "Compare as barreiras de ativação com e sem enzima: a catálise reduz a barreira, enquanto os níveis energéticos inicial e final permanecem iguais.",
+      "legenda_it": "Confronta le barriere di attivazione con e senza enzima: la catalisi abbassa la barriera, mentre i livelli energetici iniziale e finale rimangono uguali.",
+      "alt": "Gráfico de energia livre com e sem catálise enzimática",
+      "titulo_commons": "File:Enzymes free energy change en.svg",
+      "autor": "LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Enzymes%20free%20energy%20change%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c5_4": [
+    {
+      "arquivo": "imagens/c5_4-1.png",
+      "legenda": "Observe o investimento de ATP e as reações que o produzem. Após a formação das trioses, as etapas de retorno ocorrem duas vezes por glicose.",
+      "legenda_it": "Osserva il consumo iniziale di ATP e le reazioni che lo producono. Dopo la formazione dei triosi, le tappe della fase di rendimento avvengono due volte per glucosio.",
+      "alt": "Diagrama das dez reações da glicólise",
+      "titulo_commons": "File:Glycolysis Summary.svg",
+      "autor": "Sylvie Loh",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Glycolysis%20Summary.svg",
+      "trocada": false
+    }
+  ],
+  "c5_5": [
+    {
+      "arquivo": "imagens/c5_5-1.png",
+      "legenda": "Localize membrana interna, cristas, matriz e espaço intermembranas. As cristas ampliam a superfície da membrana que abriga a cadeia respiratória e a ATP sintase.",
+      "legenda_it": "Individua membrana interna, creste, matrice e spazio intermembrana. Le creste aumentano la superficie della membrana che ospita la catena respiratoria e l’ATP sintasi.",
+      "alt": "Mitocôndria em corte com membranas e compartimentos identificados",
+      "titulo_commons": "File:Animal mitochondrion diagram en.svg",
+      "autor": "Mariana Ruiz Villarreal LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Animal%20mitochondrion%20diagram%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c5_6": [
+    {
+      "arquivo": "imagens/c5_6-1.png",
+      "legenda": "Observe a membrana única e a matriz enzimática. O núcleo cristalino representa peroxissomos de certos animais, como o rato; não é uma característica universal nem típica do peroxissomo humano.",
+      "legenda_it": "Osserva la singola membrana e la matrice enzimatica. Il nucleo cristallino rappresenta perossisomi di alcuni animali, come il ratto; non è una caratteristica universale né tipica del perossisoma umano.",
+      "alt": "Esquema de peroxissomo com uma membrana e núcleo cristalino não universal",
+      "titulo_commons": "File:Peroxisome.svg",
+      "autor": "Original:  Agateller Vector:  Qef",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Peroxisome.svg",
+      "trocada": false
+    }
+  ],
+  "c6_1": [
+    {
+      "arquivo": "imagens/c6_1-1.png",
+      "legenda": "Compare junções de vedação, de ancoragem e comunicantes. Observe que somente as comunicantes formam canais entre os citoplasmas.",
+      "legenda_it": "Confronta le giunzioni occludenti, di ancoraggio e comunicanti. Osserva che solo quelle comunicanti formano canali tra i citoplasmi.",
+      "alt": "Diagrama comparativo de junções celulares com rótulos em português.",
+      "titulo_commons": "File:Cell junction simplified pt.svg",
+      "autor": "Translated by user:Gia.cossa, based on image by Mariana Ruiz.",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Cell%20junction%20simplified%20pt.svg",
+      "trocada": false
+    }
+  ],
+  "c6_2": [
+    {
+      "arquivo": "imagens/c6_2-1.jpg",
+      "legenda": "Acompanhe a ligação entre NO, guanilil ciclase solúvel e cGMP. Diferencie a produção do mensageiro de sua degradação por fosfodiesterases.",
+      "legenda_it": "Segui il collegamento tra NO, guanilato ciclasi solubile e cGMP. Distingui la produzione del messaggero dalla sua degradazione da parte delle fosfodiesterasi.",
+      "alt": "Esquema da sinalização por NO e cGMP.",
+      "titulo_commons": "File:Schematic of cGMP Pathway.jpg",
+      "autor": "QuantumProtein",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Schematic%20of%20cGMP%20Pathway.jpg",
+      "trocada": false
+    }
+  ],
+  "c6_3": [
+    {
+      "arquivo": "imagens/c6_3-1.png",
+      "legenda": "Siga a troca de GDP por GTP e a hidrólise que devolve Gα ao estado ligado a GDP. Não confunda troca de nucleotídeo com fosforilação de GDP.",
+      "legenda_it": "Segui lo scambio del GDP con il GTP e l’idrolisi che riporta Gα allo stato legato al GDP. Non confondere lo scambio di nucleotide con la fosforilazione del GDP.",
+      "alt": "Diagrama do ciclo de ativação de proteína G heterotrimérica.",
+      "titulo_commons": "File:G Protein Cycle.svg",
+      "autor": "Fred the Oyster\n\n\niThe source code of this  SVG is valid.\n  This  vector image was created with Adobe Illustrator by v.",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:G%20Protein%20Cycle.svg",
+      "trocada": false
+    }
+  ],
+  "c6_4": [
+    {
+      "arquivo": "imagens/c6_4-1.png",
+      "legenda": "Siga o sinal do receptor até Ras e os níveis Raf, MEK e ERK. Ras é uma GTPase que regula a cascata, enquanto os três componentes seguintes são quinases.",
+      "legenda_it": "Segui il segnale dal recettore a Ras e ai livelli Raf, MEK ed ERK. Ras è una GTPasi che regola la cascata, mentre i tre componenti successivi sono chinasi.",
+      "alt": "Esquema da cascata de sinalização Ras–MAPK.",
+      "titulo_commons": "File:EGFR signaling pathway.svg",
+      "autor": "EGFR_signaling_pathway.png: Eikuch\nderivative work: Anassagora (talk)",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:EGFR%20signaling%20pathway.svg",
+      "trocada": false
+    }
+  ],
+  "c7_1": [
+    {
+      "arquivo": "imagens/c7_1-1.jpg",
+      "legenda": "Relacione as fases do ciclo com os complexos ciclina–CDK indicados. A duplicação do DNA ocorre em S e não equivale à duplicação da ploidia.",
+      "legenda_it": "Collega le fasi del ciclo ai complessi ciclina–CDK indicati. La duplicazione del DNA avviene in S e non equivale al raddoppio della ploidia.",
+      "alt": "Diagrama das fases do ciclo celular e de suas ciclinas–CDK.",
+      "titulo_commons": "File:Cell cycle and CDK.jpg",
+      "autor": "Ky pharmacy1983",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Cell%20cycle%20and%20CDK.jpg",
+      "trocada": false
+    }
+  ],
+  "c7_2": [
+    {
+      "arquivo": "imagens/c7_2-1.png",
+      "legenda": "Use o esquema para distinguir um proto-oncogene normal de sua versão ativada. Ganho de função pode favorecer proliferação sem implicar, isoladamente, transformação tumoral completa.",
+      "legenda_it": "Usa lo schema per distinguere un proto-oncogene normale dalla sua versione attivata. Un guadagno di funzione può favorire la proliferazione senza implicare, da solo, una trasformazione tumorale completa.",
+      "alt": "Ilustração do conceito de oncogene e ativação oncogênica.",
+      "titulo_commons": "File:XBio illustration – Oncogene.png",
+      "autor": "explorebiology",
+      "licenca": "CC BY 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:XBio%20illustration%20%E2%80%93%20Oncogene.png",
+      "trocada": false
+    }
+  ],
+  "c7_5": [
+    {
+      "arquivo": "imagens/c7_5-1.png",
+      "legenda": "Compare as duas vias: na extrínseca, o receptor de morte (Fas) recruta FADD e ativa a caspase-8; na intrínseca, a mitocôndria libera citocromo c, que forma o apoptossomo com Apaf-1 e ativa a caspase-9. As duas convergem nas caspases executoras 3, 6 e 7.",
+      "legenda_it": "Confronta le due vie: nella via estrinseca il recettore di morte (Fas) recluta FADD e attiva la caspasi-8; nella via intrinseca il mitocondrio rilascia il citocromo c, che forma l’apoptosoma con Apaf-1 e attiva la caspasi-9. Entrambe convergono sulle caspasi esecutrici 3, 6 e 7.",
+      "alt": "Esquema das vias extrínseca e intrínseca da apoptose, com caspases iniciadoras e executoras",
+      "titulo_commons": "File:Apop1.png",
+      "autor": "Tsgupta",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Apop1.png",
+      "trocada": false
+    }
+  ],
+  "c4_1": [
+    {
+      "arquivo": "imagens/c4_1-1.png",
+      "legenda": "Compare as substituições e seus efeitos nos códons e na proteína. Uma troca de base não implica necessariamente troca de aminoácido.",
+      "legenda_it": "Confronta le sostituzioni e i loro effetti sui codoni e sulla proteina. Un cambiamento di base non implica necessariamente un cambiamento di amminoacido.",
+      "alt": "Diagrama de mutações pontuais e efeitos sobre a proteína",
+      "titulo_commons": "File:Point mutations-en.svg",
+      "autor": "User:Mikey641",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Point%20mutations-en.svg",
+      "trocada": false
+    }
+  ],
+  "c4_2": [
+    {
+      "arquivo": "imagens/c4_2-1.png",
+      "legenda": "Observe a remoção da base, a formação do sítio abásico e o preenchimento seguido de ligação. A glicosilase e a ligase atuam em etapas diferentes.",
+      "legenda_it": "Osserva la rimozione della base, la formazione del sito abasico e il riempimento seguito dalla ligazione. La glicosilasi e la ligasi agiscono in fasi diverse.",
+      "alt": "Etapas do reparo por excisão de bases",
+      "titulo_commons": "File:BER basic pathway.svg",
+      "autor": "Amazinglarry (talk) at en.wikipedia",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:BER%20basic%20pathway.svg",
+      "trocada": false
+    }
+  ],
+  "c7_4": [
+    {
+      "arquivo": "imagens/c7_4-1.png",
+      "legenda": "Acompanhe a separação dos homólogos na primeira divisão e das cromátides na segunda. Entre as divisões não ocorre nova replicação do DNA.",
+      "legenda_it": "Segui la separazione degli omologhi nella prima divisione e dei cromatidi nella seconda. Tra le divisioni non avviene una nuova replicazione del DNA.",
+      "alt": "Esquema das duas divisões meióticas",
+      "titulo_commons": "File:Meiosis Overview new.svg",
+      "autor": "Rdbickel",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Meiosis%20Overview%20new.svg",
+      "trocada": false
+    }
+  ],
+  "c4_3": [
+    {
+      "arquivo": "imagens/c4_3-1.png",
+      "legenda": "Observe os 22 pares de autossomos e os cromossomos X e Y. A organização por pares não transforma homólogos em cromátides irmãs.",
+      "legenda_it": "Osserva le 22 coppie di autosomi e i cromosomi X e Y. La disposizione in coppie non trasforma gli omologhi in cromatidi fratelli.",
+      "alt": "Cariótipo humano masculino com 46 cromossomos",
+      "titulo_commons": "File:NHGRI human male karyotype.png",
+      "autor": "Courtesy: National Human Genome Research Institute",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:NHGRI%20human%20male%20karyotype.png",
+      "trocada": false
+    }
+  ],
+  "c4_4": [
+    {
+      "arquivo": "imagens/c4_4-1.png",
+      "legenda": "Conte separadamente os genótipos e os fenótipos do cruzamento entre heterozigotos. Sob dominância completa, 1:2:1 genotípico corresponde a 3:1 fenotípico.",
+      "legenda_it": "Conta separatamente i genotipi e i fenotipi dell’incrocio tra eterozigoti. Con dominanza completa, il rapporto genotipico 1:2:1 corrisponde a quello fenotipico 3:1.",
+      "alt": "Quadro de Punnett de um cruzamento monohíbrido",
+      "titulo_commons": "File:Punnett Square.svg",
+      "autor": "Pbroks13",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Punnett%20Square.svg",
+      "trocada": false
+    }
+  ],
+  "c4_5": [
+    {
+      "arquivo": "imagens/c4_5-1.png",
+      "legenda": "Observe que dois portadores podem ter um descendente afetado de qualquer sexo. As proporções indicam probabilidades por gestação, não uma sequência obrigatória de filhos.",
+      "legenda_it": "Osserva che due portatori possono avere un discendente affetto di entrambi i sessi. Le proporzioni indicano probabilità per gravidanza, non una sequenza obbligatoria di figli.",
+      "alt": "Diagrama de transmissão autossômica recessiva",
+      "titulo_commons": "File:Autosomal recessive - en.svg",
+      "autor": "Domaina, Kashmiri and SUM1",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Autosomal%20recessive%20-%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c1_3": [
+    {
+      "arquivo": "imagens/c1_3-1.png",
+      "legenda": "Compare sequência, estruturas locais, dobramento de uma cadeia e associação de subunidades. Observe que estrutura quaternária exige múltiplas cadeias.",
+      "legenda_it": "Confronta sequenza, strutture locali, ripiegamento di una catena e associazione di subunità. Osserva che la struttura quaternaria richiede più catene.",
+      "alt": "Níveis de organização estrutural das proteínas",
+      "titulo_commons": "File:Protein structure (full).png",
+      "autor": "Thomas Shafee",
+      "licenca": "CC BY 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Protein%20structure%20(full).png",
+      "trocada": false
+    }
+  ],
+  "c1_5": [
+    {
+      "arquivo": "imagens/c1_5-1.png",
+      "legenda": "Siga a ativação por E1, a conjugação por E2 e a participação de E3 na ligação ao substrato. Diferencie a ativação da ubiquitina da fosforilação de proteínas.",
+      "legenda_it": "Segui l’attivazione da parte di E1, la coniugazione da parte di E2 e il ruolo di E3 nel legame al substrato. Distingui l’attivazione dell’ubiquitina dalla fosforilazione delle proteine.",
+      "alt": "Esquema da cascata E1 E2 E3 de ubiquitinação",
+      "titulo_commons": "File:Ubiquitylation.svg",
+      "autor": "User Rogerdodd on en.wikipedia - vectorised by WYassineMrabetTalk✉",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Ubiquitylation.svg",
+      "trocada": false
+    }
+  ],
+  "c1_1": [
+    {
+      "arquivo": "imagens/c1_1-1.png",
+      "legenda": "Localize nucleoide, plasmídeos, ribossomos e membrana plasmática. O nucleoide não é envolvido por membrana e plasmídeos não são obrigatórios em toda bactéria.",
+      "legenda_it": "Individua nucleoide, plasmidi, ribosomi e membrana plasmatica. Il nucleoide non è delimitato da una membrana e i plasmidi non sono obbligatori in ogni batterio.",
+      "alt": "Diagrama de célula procariótica com estruturas identificadas",
+      "titulo_commons": "File:Average prokaryote cell- en.svg",
+      "autor": "Mariana Ruiz Villarreal, LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Average%20prokaryote%20cell-%20en.svg",
+      "trocada": false
+    }
+  ],
+  "c1_2": [
+    {
+      "arquivo": "imagens/c1_2-1.png",
+      "legenda": "Acompanhe o caminho de cada tipo de genoma até o mRNA. Compare os grupos IV, V, VI e VII para distinguir tradução direta, transcrição e transcrição reversa.",
+      "legenda_it": "Segui il percorso di ciascun tipo di genoma fino all’mRNA. Confronta i gruppi IV, V, VI e VII per distinguere traduzione diretta, trascrizione e trascrizione inversa.",
+      "alt": "Diagrama dos grupos de Baltimore e vias de produção de mRNA",
+      "titulo_commons": "File:Baltimore Classification.svg",
+      "autor": "Original: Graham Beards (GrahamColm) at English Wikipedia Vector:  gesamtszenario",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Baltimore%20Classification.svg",
+      "trocada": false
+    }
+  ],
+  "c2_1": [
+    {
+      "arquivo": "imagens/c2_1-1.png",
+      "legenda": "Identifique as duas cromátides irmãs, o centrômero e os braços p e q. A figura representa um cromossomo duplicado, e não dois cromossomos homólogos.",
+      "legenda_it": "Identifica i due cromatidi fratelli, il centromero e i bracci p e q. La figura rappresenta un cromosoma duplicato, non due cromosomi omologhi.",
+      "alt": "Cromossomo duplicado com cromátides centrômero e braços",
+      "titulo_commons": "File:Chromosome.svg",
+      "autor": "File:Chromosome-upright.png Original version: Magnus Manske, this version with upright chromosome: User:Dietzel65 Vector:  derivative work Tryphon",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Chromosome.svg",
+      "trocada": false
+    }
+  ],
+  "c2_4": [
+    {
+      "arquivo": "imagens/c2_4-1.png",
+      "legenda": "Observe as sequências de inserção que flanqueiam genes transportados em um transposon composto bacteriano. Compare essa organização com retrotransposons: a figura não representa uma Alu.",
+      "legenda_it": "Osserva le sequenze di inserzione che fiancheggiano i geni trasportati in un trasposone composito batterico. Confronta questa organizzazione con i retrotrasposoni: la figura non rappresenta una Alu.",
+      "alt": "Esquema de transposon composto com sequências de inserção flanqueadoras",
+      "titulo_commons": "File:Composite transposon.svg",
+      "autor": "Jacek FH",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Composite%20transposon.svg",
+      "trocada": false
+    }
+  ],
+  "c2_3": [
+    {
+      "arquivo": "imagens/c2_3-1.png",
+      "legenda": "Observe a adição do grupo metil à citosina, sem alteração da ordem das bases. Diferencie essa marca no DNA de modificações nas histonas.",
+      "legenda_it": "Osserva l’aggiunta del gruppo metile alla citosina, senza modificare l’ordine delle basi. Distingui questo segno sul DNA dalle modificazioni degli istoni.",
+      "alt": "Diagrama da metilação da citosina no DNA",
+      "titulo_commons": "File:DNA methylation.svg",
+      "autor": "Mariuswalter",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:DNA%20methylation.svg",
+      "trocada": false
+    }
+  ],
+  "c5_3": [
+    {
+      "arquivo": "imagens/c5_3-1.png",
+      "legenda": "Observe as duas membranas do envelope e os poros que o atravessam. O nucléolo está no interior nuclear e não possui membrana própria.",
+      "legenda_it": "Osserva le due membrane dell’involucro e i pori che lo attraversano. Il nucleolo si trova all’interno del nucleo e non possiede una membrana propria.",
+      "alt": "Diagrama legendado do núcleo com envelope, poros, cromatina e nucléolo.",
+      "titulo_commons": "File:Diagram human cell nucleus.svg",
+      "autor": "Mariana Ruiz LadyofHats",
+      "licenca": "Public domain",
+      "licenca_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Diagram%20human%20cell%20nucleus.svg",
+      "trocada": false
+    }
+  ],
+  "c5_11": [
+    {
+      "arquivo": "imagens/c5_11-1.png",
+      "legenda": "Observe os dímeros de tubulina organizados em protofilamentos na parede do tubo. Protofilamento e microtúbulo designam níveis diferentes de organização.",
+      "legenda_it": "Osserva i dimeri di tubulina organizzati in protofilamenti nella parete del tubo. Protofilamento e microtubulo indicano livelli diversi di organizzazione.",
+      "alt": "Esquema legendado da estrutura de um microtúbulo e de suas subunidades de tubulina.",
+      "titulo_commons": "File:Microtubule Structure.svg",
+      "autor": "Lydiawc1020",
+      "licenca": "CC BY-SA 4.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Microtubule%20Structure.svg",
+      "trocada": false
+    }
+  ],
+  "c7_3": [
+    {
+      "arquivo": "imagens/c7_3-1.png",
+      "legenda": "Acompanhe o alinhamento e a separação das cromátides irmãs durante a mitose. Distinga a distribuição dos cromossomos da divisão final do citoplasma.",
+      "legenda_it": "Segui l’allineamento e la separazione dei cromatidi fratelli durante la mitosi. Distingui la distribuzione dei cromosomi dalla divisione finale del citoplasma.",
+      "alt": "Diagrama das fases da mitose com cromossomos, fuso e divisão celular.",
+      "titulo_commons": "File:Mitosis schematic diagram-en.svg",
+      "autor": "Original:  Jpablo cad  and  juliana osorio\ntranslation: Matt\nDerivative work:  M3.dahl",
+      "licenca": "CC BY-SA 3.0",
+      "licenca_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "pagina": "https://commons.wikimedia.org/wiki/File:Mitosis%20schematic%20diagram-en.svg",
+      "trocada": false
+    }
+  ]
+}

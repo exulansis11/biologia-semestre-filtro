@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+*.log
+
+# Registros de trabalho e cópias de segurança locais (não vão para o repositório)
+logs-*/
+codex-*.txt
+aulas/codex-log.txt
+referencia/*
+!referencia/dados-originais/

@@ -1,0 +1,1977 @@
+{
+  "trilha": "t1",
+  "secoes": {
+    "c5_1": {
+      "txt": [
+        "A **membrana plasmática** (*membrana plasmatica*) delimita a célula sem isolá-la do ambiente. No modelo do mosaico fluido, a bicamada de fosfolipídios (*doppio strato fosfolipidico*) contém proteínas integrais e periféricas. Fosfolipídios são anfipáticos: cabeças polares ficam voltadas à água e caudas hidrofóbicas se encontram no interior. A membrana tem espessura da ordem de **7–10 nm**, incluindo a organização observada ao microscópio eletrônico; a região lipídica é mais fina. Isso corresponde a 0,007–0,010 µm ou 70–100 Å, não a vários micrômetros.",
+        "O colesterol modula a fluidez: restringe movimentos em temperaturas elevadas e dificulta o empacotamento rígido em temperaturas baixas. Lipídios e muitas proteínas se deslocam lateralmente, mas a passagem espontânea de um fosfolipídio entre folhetos é rara. A distribuição é assimétrica. Glicolipídios e glicoproteínas expõem açúcares na face externa, formando o **glicocálice** (*glicocalice*), importante no reconhecimento e na proteção celular; essas cadeias não ficam orientadas para o citosol.",
+        "A permeabilidade seletiva depende do tamanho, da polaridade e da carga. O₂, CO₂ e pequenas moléculas apolares atravessam diretamente a bicamada por difusão simples. Água também atravessa, mas aquaporinas tornam seu fluxo muito mais rápido. Íons, glicose e aminoácidos dependem de proteínas para um transporte fisiologicamente eficiente. Para um íon, considere o **gradiente eletroquímico** (*gradiente elettrochimico*): concentração e voltagem podem favorecer o mesmo sentido ou se opor. Osmose é o movimento passivo de água em resposta à diferença de concentração efetiva de solutos.",
+        "No **transporte passivo** (*trasporto passivo*), o soluto desce seu gradiente, sem acoplamento a uma fonte energética. Canais são poros seletivos que podem abrir por voltagem, ligante ou estímulo mecânico. Carreadores ligam o substrato e alternam a exposição de seus sítios; os GLUT realizam uniporte e difusão facilitada de glicose. Carreadores apresentam saturação e Vmax. Canais têm capacidade finita, mas seu fluxo usualmente não exibe a saturação clássica dos carreadores na faixa fisiológica; não interprete isso como capacidade infinita.",
+        "No **transporte ativo primário** (*trasporto attivo primario*), a hidrólise de ATP se acopla diretamente ao transporte. ATPases tipo P formam um intermediário fosforilado. A Na⁺/K⁺-ATPase expulsa **3 Na⁺**, importa **2 K⁺** e consome **1 ATP** por ciclo: sai uma carga positiva líquida, portanto ela é eletrogênica. SERCA transporta Ca²⁺ para o RE; PMCA o extrude pela membrana plasmática. ATPases tipo V acidificam endossomos e lisossomos bombeando H⁺; ATP sintases tipo F normalmente usam o retorno de H⁺ para produzir ATP, embora possam funcionar reversamente.",
+        "Transportadores **ABC** utilizam ATP; a glicoproteína P/MDR1 expulsa vários fármacos e pode favorecer resistência à quimioterapia. A CFTR é uma exceção funcional: pertence à família ABC, mas atua como canal de Cl⁻ regulado por ATP, sem bombear cloreto contra seu gradiente. No **transporte ativo secundário** (*trasporto attivo secondario*), a energia vem de um gradiente previamente criado. SGLT faz simporte Na⁺/glicose no intestino e no rim; especificamente SGLT1 acopla **2 Na⁺ a 1 glicose**, enquanto SGLT2 acopla 1:1. O NCX usualmente troca **3 Na⁺ por 1 Ca²⁺**, podendo inverter o sentido conforme os gradientes. Inibir a bomba reduz progressivamente a força motriz desses transportes; não significa que SGLT hidrolise ATP diretamente."
+      ],
+      "chave": [
+        "Mosaico fluido: bicamada anfipática, colesterol e proteínas; glicocálice externo.",
+        "Membrana ≈ 7–10 nm; 1 nm = 10 Å = 0,001 µm.",
+        "Passivo acompanha o gradiente eletroquímico; GLUT é carreador e satura.",
+        "Na⁺/K⁺-ATPase: 3 Na⁺ saem, 2 K⁺ entram por ATP; saldo de +1 para fora.",
+        "P: intermediário fosforilado; V: acidificação; F: síntese de ATP pelo gradiente de H⁺.",
+        "ABC: ATP; CFTR é canal de Cl⁻, MDR1 exporta fármacos.",
+        "SGLT1 = 2 Na⁺:1 glicose; SGLT2 = 1:1; NCX usualmente = 3 Na⁺:1 Ca²⁺."
+      ],
+      "pega": "Transporte secundário usa energia do gradiente, mesmo sem hidrolisar ATP diretamente. Não generalize a estequiometria de SGLT1 para SGLT2.",
+      "num": [
+        [
+          "Espessura da membrana plasmática",
+          "≈ 7–10 nm",
+          "Ordem nanométrica; a bicamada lipídica isolada é mais fina."
+        ],
+        [
+          "Conversão de comprimento",
+          "1 nm = 10 Å = 0,001 µm",
+          "7 nm = 70 Å = 0,007 µm."
+        ],
+        [
+          "Na⁺/K⁺-ATPase: Na⁺",
+          "3 íons para fora/ciclo",
+          "Não inverter com o K⁺."
+        ],
+        [
+          "Na⁺/K⁺-ATPase: K⁺ e ATP",
+          "2 íons para dentro; 1 ATP/ciclo",
+          "Saldo: uma carga positiva para fora."
+        ],
+        [
+          "SGLT1",
+          "2 Na⁺ : 1 glicose",
+          "Simporte intestinal e também renal."
+        ],
+        [
+          "SGLT2",
+          "1 Na⁺ : 1 glicose",
+          "Transportador renal; não confundir com SGLT1."
+        ],
+        [
+          "NCX, modo usual de extrusão de Ca²⁺",
+          "3 Na⁺ entram : 1 Ca²⁺ sai",
+          "Pode inverter conforme o gradiente eletroquímico."
+        ]
+      ],
+      "voc": [
+        [
+          "doppio strato fosfolipidico",
+          "bicamada fosfolipídica"
+        ],
+        [
+          "glicocalice",
+          "glicocálice"
+        ],
+        [
+          "diffusione facilitata",
+          "difusão facilitada"
+        ],
+        [
+          "trasportatore",
+          "carreador/transportador"
+        ],
+        [
+          "canale ionico",
+          "canal iônico"
+        ],
+        [
+          "gradiente elettrochimico",
+          "gradiente eletroquímico"
+        ],
+        [
+          "simporto",
+          "simporte"
+        ],
+        [
+          "antiporto",
+          "antiporte"
+        ],
+        [
+          "pompa elettrogenica",
+          "bomba eletrogênica"
+        ],
+        [
+          "acquaporina",
+          "aquaporina"
+        ]
+      ],
+      "detalhes": [
+        "Os açúcares do **glicocálice** ficam no folheto não citosólico: na membrana plasmática, estão voltados ao exterior.",
+        "A difusão **lateral** ocorre dentro do mesmo folheto; o *flip-flop* transfere um lipídio **entre folhetos**.",
+        "O **colesterol** amortece variações de fluidez: dificulta o empacotamento a baixas temperaturas e restringe movimentos a temperaturas elevadas.",
+        "Uma cauda com dupla ligação **cis** apresenta uma dobra que dificulta o empacotamento; não equivale a uma cauda saturada.",
+        "A **tonicidade** (*tonicità*) depende dos solutos efetivamente não penetrantes na escala de tempo considerada; iso-osmótico não significa sempre isotônico.",
+        "A água pode atravessar a bicamada, mas **aquaporinas** aumentam sua permeabilidade sem hidrolisar ATP.",
+        "**Uniporte, simporte e antiporte** descrevem organização e sentido do transporte, não determinam sozinhos se ele é ativo ou passivo.",
+        "**SERCA** bombeia Ca²⁺ do citosol para o lúmen do RE; **PMCA** o transporta do citosol para o exterior celular.",
+        "A **Na⁺/K⁺-ATPase** é eletrogênica porque exporta uma carga positiva líquida por ciclo, não porque transfere apenas um íon.",
+        "Na **CFTR**, ATP participa da regulação da abertura; o Cl⁻ atravessa o canal a favor de seu gradiente eletroquímico.",
+        "**SGLT** depende indiretamente de energia metabólica: não hidrolisa ATP diretamente, mas utiliza o gradiente de Na⁺.",
+        "**1 Å = 0,1 nm**; uma membrana de 8 nm mede 80 Å, e não 0,8 Å."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Cell membrane detailed diagram en.svg",
+          "busca": "LadyofHats cell membrane detailed diagram glycocalyx",
+          "legenda": "Observe as cabeças polares, as caudas hidrofóbicas e os carboidratos na face externa. A distribuição dos componentes evidencia a assimetria da membrana.",
+          "legenda_it": "Osserva le teste polari, le code idrofobiche e i carboidrati sulla faccia esterna. La distribuzione dei componenti evidenzia l’asimmetria della membrana.",
+          "alt": "Bicamada com proteínas, colesterol e cadeias de carboidratos externas."
+        },
+        {
+          "titulo": "File:Scheme sodium-potassium pump-en.svg",
+          "busca": "LadyofHats sodium potassium pump ATP",
+          "legenda": "Acompanhe os sentidos de transporte: saem três Na⁺ e entram dois K⁺ por ATP. O saldo é uma carga positiva para fora por ciclo.",
+          "legenda_it": "Segui le direzioni del trasporto: tre Na⁺ escono e due K⁺ entrano per ogni ATP. Il bilancio è una carica positiva verso l’esterno per ciclo.",
+          "alt": "Ciclo da bomba de sódio e potássio com ATP e fluxos iônicos."
+        }
+      ],
+      "prof": {
+        "ideia": "A bicamada assimétrica seleciona o que atravessa a membrana, enquanto proteínas permitem fluxos específicos. O aluno deve distinguir transporte passivo, ativo primário e ativo secundário pela direção do fluxo e pela fonte de energia.",
+        "explicar": [
+          "Comece pela analogia de uma fronteira seletiva. Desenhe cabeças polares voltadas à água e caudas para dentro; na imagem da membrana do app, localize proteínas, colesterol e glicocálice externo e retome a espessura de 7–10 nm.",
+          "Compare movimento lateral e flip-flop; desenhe a dobra de uma cauda cis e explique como o colesterol amortece mudanças de fluidez conforme a temperatura.",
+          "Trace setas separadas para concentração e força elétrica. Compare difusão simples, aquaporinas, canais e GLUT; explique a saturação dos carreadores e diferencie osmolaridade de tonicidade pela permeabilidade aos solutos.",
+          "Use o modelo da bomba no app para contar 3 Na⁺ saindo, 2 K⁺ entrando e 1 ATP consumido. Relacione o saldo positivo para fora à eletrogenicidade e apresente SERCA, PMCA e as funções das ATPases P, V e F.",
+          "Acople a seta de entrada de Na⁺ à de glicose no SGLT. Compare SGLT1, com 2 Na⁺:1 glicose, e SGLT2, com 1:1; use a ouabaína no modelo para discutir a perda progressiva da força motriz e situe o NCX usual como 3 Na⁺ entrando por 1 Ca²⁺ saindo.",
+          "Separe organização e energia: uniporte, simporte e antiporte descrevem o transporte, mas não bastam para classificá-lo como ativo ou passivo. Contraste MDR1 com CFTR, cujo ATP regula a abertura enquanto Cl⁻ segue o gradiente."
+        ],
+        "perguntas": [
+          [
+            "Para que lado ficam os açúcares do glicocálice?",
+            "Para o exterior celular, na face não citosólica."
+          ],
+          [
+            "Por que uma aquaporina não torna a osmose um transporte ativo?",
+            "Ela facilita a passagem passiva de água, sem hidrolisar ATP."
+          ],
+          [
+            "Qual é o saldo de cargas da Na⁺/K⁺-ATPase por ciclo?",
+            "Uma carga positiva líquida para fora, com consumo de 1 ATP."
+          ],
+          [
+            "SGLT1 usa ATP diretamente? Qual é seu acoplamento?",
+            "Não; usa o gradiente de Na⁺, com 2 Na⁺ por glicose."
+          ],
+          [
+            "O ATP faz a CFTR bombear Cl⁻ contra o gradiente?",
+            "Não; regula a abertura do canal e o Cl⁻ segue seu gradiente eletroquímico."
+          ],
+          [
+            "Soluções iso-osmóticas são necessariamente isotônicas?",
+            "Não; a tonicidade depende dos solutos efetivamente não penetrantes no tempo considerado."
+          ]
+        ],
+        "erros": [
+          "Confundir nanômetros com micrômetros: retome 1 nm = 0,001 µm e converta a espessura da membrana antes de comparar tamanhos.",
+          "Dizer que colesterol sempre aumenta a fluidez: compare sua ação em temperaturas baixas e elevadas, em vez de atribuir um efeito único.",
+          "Classificar todo transporte por proteína como ativo: contraste GLUT e canais passivos com bombas e cotransportes acoplados.",
+          "Afirmar que SGLT hidrolisa ATP ou que SGLT1 e SGLT2 têm a mesma razão: desenhe a bomba separada e escreva os acoplamentos de cada transportador.",
+          "Tratar toda proteína ABC como bomba de soluto: use CFTR como exceção funcional e separe regulação por ATP da direção do fluxo de Cl⁻."
+        ],
+        "ponte": "Com os gradientes mantidos pela bomba e a permeabilidade seletiva dos canais, podemos explicar de onde vem a voltagem da membrana e como nasce o impulso nervoso.",
+        "tempo": "22–25 min"
+      }
+    },
+    "c5_2": {
+      "txt": [
+        "O **potencial de repouso** (*potenziale di riposo*) é a diferença de voltagem entre o interior e o exterior da célula sem disparo. Em um neurônio típico fica perto de **−70 mV**, tomando o exterior como referência zero. Esse valor é ilustrativo: depende do tipo celular e das condições. Não significa que todo o citoplasma tenha grande excesso de cargas negativas; uma pequena separação de cargas junto à membrana basta, enquanto os líquidos permanecem quase eletricamente neutros em seu volume.",
+        "A Na⁺/K⁺-ATPase mantém Na⁺ elevado fora e K⁺ elevado dentro. Como referência fisiológica aproximada, K⁺ intracelular fica em **140 mM** e extracelular em **4 mM**; Na⁺ intracelular em **10–15 mM** e extracelular em **140–145 mM**. Os canais de vazamento de K⁺ (*canali di perdita del potassio*) permitem sua saída a favor da concentração. A negatividade interna crescente se opõe eletricamente à saída. No potencial de equilíbrio, as forças se compensam e não há fluxo líquido daquele íon, mesmo com os canais abertos.",
+        "O equilíbrio de K⁺ costuma ficar perto de **−90 mV** e o de Na⁺ perto de **+60 mV**, conforme as concentrações. O repouso fica mais próximo do equilíbrio de K⁺ porque a permeabilidade a ele predomina, mas também há contribuição de outros íons. A bomba tem pequeno efeito eletrogênico direto; seu papel principal é conservar gradientes. Aumentar moderadamente o K⁺ externo reduz a força química de saída, torna seu potencial de equilíbrio menos negativo e **despolariza** o repouso. Despolarizar significa ficar menos negativo, sem necessariamente ultrapassar zero.",
+        "Um estímulo graduado que alcance o **limiar** (*soglia*), aproximadamente **−55 mV** no exemplo, desencadeia abertura regenerativa de canais de Na⁺ dependentes de voltagem. Na⁺ entra, abrindo mais canais: ocorre a fase ascendente do **potencial de ação** (*potenziale d'azione*), cujo pico pode chegar a **+30 mV**. A amplitude nesse exemplo é 100 mV, pois +30 − (−70) = 100. O pico não é o potencial de equilíbrio do Na⁺, pois a permeabilidade muda durante o disparo.",
+        "Os canais de Na⁺ se inativam e canais de K⁺ dependentes de voltagem abrem com atraso. A saída de K⁺ produz **repolarização** (*ripolarizzazione*). Como esses canais demoram a fechar, aparece hiperpolarização transitória. A bomba não executa a descida rápida do potencial; repõe os gradientes ao longo do tempo. Um potencial de ação neuronal dura tipicamente cerca de **1–2 ms**, com variação entre neurônios, e é tudo ou nada: aumentar o estímulo acima do limiar modifica sobretudo a frequência de disparos, não a amplitude de cada evento.",
+        "No **período refratário absoluto** (*periodo refrattario assoluto*), canais de Na⁺ inativados não podem reabrir imediatamente; no relativo, parte recuperou, mas a condutância de K⁺ ainda elevada exige estímulo maior. A região recém-ativada ajuda a impedir retorno fisiológico do impulso. Uma estimulação artificial no meio do axônio pode gerar propagação para ambos os lados. A mielina reduz perdas de corrente e permite condução saltatória entre nós de Ranvier. Velocidades aproximadas vão de **0,5–2 m/s** em fibras amielínicas lentas até **120 m/s** em grandes fibras mielínicas. No terminal axonal, despolarização abre canais de Ca²⁺; sua entrada aciona a fusão vesicular mediada por SNARE e libera neurotransmissor."
+      ],
+      "chave": [
+        "Repouso neuronal ilustrativo ≈ −70 mV; limiar ≈ −55 mV; pico ≈ +30 mV.",
+        "K⁺ alto dentro e Na⁺ alto fora; permeabilidade ao K⁺ predomina no repouso.",
+        "Equilíbrios aproximados: K⁺ ≈ −90 mV; Na⁺ ≈ +60 mV.",
+        "Subida = entrada de Na⁺; descida = inativação de Na⁺ e saída de K⁺.",
+        "Absoluto: Na⁺ inativado; relativo: recuperação parcial e condutância de K⁺ elevada.",
+        "Mielina permite condução saltatória; estímulo maior aumenta sobretudo a frequência.",
+        "Ca²⁺ no terminal liga o sinal elétrico à exocitose."
+      ],
+      "pega": "A repolarização rápida resulta de canais, não da bomba. De −70 a −55 mV há despolarização de 15 mV, mesmo permanecendo negativo.",
+      "num": [
+        [
+          "Potencial de repouso neuronal",
+          "≈ −70 mV",
+          "Interior relativo ao exterior; varia conforme a célula."
+        ],
+        [
+          "Limiar ilustrativo",
+          "≈ −55 mV",
+          "15 mV acima do repouso de −70 mV."
+        ],
+        [
+          "Pico ilustrativo",
+          "≈ +30 mV",
+          "Amplitude desde −70 mV: ≈ 100 mV."
+        ],
+        [
+          "Equilíbrio do K⁺",
+          "≈ −90 mV",
+          "Depende da razão entre concentrações."
+        ],
+        [
+          "Equilíbrio do Na⁺",
+          "≈ +60 mV",
+          "Não confundir com o pico do disparo."
+        ],
+        [
+          "K⁺ intracelular / extracelular",
+          "≈ 140 / 4 mM",
+          "Concentrações de referência, não universais."
+        ],
+        [
+          "Na⁺ intracelular / extracelular",
+          "≈ 10–15 / 140–145 mM",
+          "Gradiente favorece entrada no repouso."
+        ],
+        [
+          "Duração do potencial neuronal",
+          "≈ 1–2 ms",
+          "Ordem de milissegundos; há variação."
+        ],
+        [
+          "Condução em fibras amielínicas lentas",
+          "≈ 0,5–2 m/s",
+          "Não aplicar a toda fibra."
+        ],
+        [
+          "Condução em grandes fibras mielínicas",
+          "Até ≈ 120 m/s",
+          "Mielina e diâmetro influenciam a velocidade."
+        ]
+      ],
+      "voc": [
+        [
+          "potenziale di riposo",
+          "potencial de repouso"
+        ],
+        [
+          "potenziale di equilibrio",
+          "potencial de equilíbrio"
+        ],
+        [
+          "soglia",
+          "limiar"
+        ],
+        [
+          "depolarizzazione",
+          "despolarização"
+        ],
+        [
+          "ripolarizzazione",
+          "repolarização"
+        ],
+        [
+          "iperpolarizzazione",
+          "hiperpolarização"
+        ],
+        [
+          "canali voltaggio-dipendenti",
+          "canais dependentes de voltagem"
+        ],
+        [
+          "periodo refrattario assoluto",
+          "período refratário absoluto"
+        ],
+        [
+          "conduzione saltatoria",
+          "condução saltatória"
+        ],
+        [
+          "nodi di Ranvier",
+          "nós de Ranvier"
+        ]
+      ],
+      "detalhes": [
+        "**Despolarização** significa potencial menos negativo; passar de −70 para −60 mV já é despolarizar, sem inverter o sinal.",
+        "No **potencial de equilíbrio** de um íon permeante, o fluxo líquido desse íon é zero; isso não exige concentrações iguais nos dois lados.",
+        "Potencial de **repouso** não é equilíbrio termodinâmico: a célula mantém gradientes com gasto contínuo de energia.",
+        "Um canal de Na⁺ **fechado e disponível** pode abrir ao estímulo; um canal **inativado** precisa recuperar a disponibilidade com a repolarização.",
+        "A **tetrodotoxina (TTX)** bloqueia muitos canais de Na⁺ dependentes de voltagem; não é um inibidor da Na⁺/K⁺-ATPase.",
+        "No refratário **relativo**, um estímulo maior pode provocar outro disparo; no absoluto, os canais de Na⁺ ainda indisponíveis impedem sua geração normal.",
+        "A **repolarização rápida** depende da inativação dos canais de Na⁺ e da saída de K⁺ por canais, não de aceleração da bomba.",
+        "O pico do potencial de ação **não coincide necessariamente com E_Na**: as condutâncias de Na⁺ e K⁺ mudam durante o evento.",
+        "Na condução saltatória, a corrente se espalha **passivamente sob a mielina** e o potencial de ação se regenera nos nós de Ranvier.",
+        "A mielina **aumenta a resistência** e **diminui a capacitância** da membrana internodal, favorecendo a propagação rápida.",
+        "A propagação do potencial de ação ao longo de um axônio íntegro ocorre **sem decremento de amplitude**; potenciais graduados podem diminuir com a distância.",
+        "No terminal pré-sináptico, a entrada de **Ca²⁺**, e não a saída de K⁺ por si só, desencadeia a liberação rápida do neurotransmissor."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Action potential schematic.svg",
+          "busca": "action potential schematic depolarization repolarization hyperpolarization",
+          "legenda": "Distinga despolarização, repolarização e hiperpolarização pelo sentido da mudança de voltagem. A subida começa ainda em valores negativos.",
+          "legenda_it": "Distingui depolarizzazione, ripolarizzazione e iperpolarizzazione in base alla direzione della variazione di potenziale. La fase ascendente inizia quando il potenziale è ancora negativo.",
+          "alt": "Gráfico das fases do potencial de ação ao longo do tempo."
+        },
+        {
+          "titulo": "File:Propagation of action potential along myelinated nerve fiber en.svg",
+          "busca": "saltatory conduction myelinated axon nodes diagram",
+          "legenda": "Observe a separação entre os internódios mielinizados e os nós de Ranvier. A corrente se espalha sob a mielina, e o potencial de ação se regenera nos nós.",
+          "legenda_it": "Osserva la separazione tra gli internodi mielinizzati e i nodi di Ranvier. La corrente si propaga sotto la mielina e il potenziale d’azione si rigenera nei nodi.",
+          "alt": "Diagrama da propagação saltatória em axônio mielinizado."
+        }
+      ],
+      "prof": {
+        "ideia": "O potencial de membrana depende dos gradientes iônicos e das permeabilidades, e o potencial de ação resulta de mudanças coordenadas nos canais. O aluno deve relacionar cada fase ao fluxo responsável e distinguir a manutenção dos gradientes pela bomba da repolarização rápida.",
+        "explicar": [
+          "Use a analogia de uma bateria para separar gradientes armazenados e caminhos de passagem. Desenhe dentro e fora, tomando o exterior como referência, e marque K⁺ alto dentro e Na⁺ alto fora com as concentrações da tabela.",
+          "Desenhe a saída de K⁺ por vazamento e a força elétrica oposta. Diferencie equilíbrio de um íon, sem fluxo líquido, do repouso celular; marque aproximadamente −90 mV para K⁺, +60 mV para Na⁺ e −70 mV para o repouso ilustrativo.",
+          "Na imagem do potencial de ação do app, trace repouso, limiar de −55 mV e pico de +30 mV. Calcule a amplitude de 100 mV e associe a subida à entrada regenerativa de Na⁺ e a descida à inativação de Na⁺ e saída de K⁺.",
+          "Desenhe os estados fechado disponível, aberto e inativado do canal de Na⁺. Explique a recuperação com a repolarização e compare os períodos refratários absoluto e relativo; situe a hiperpolarização pela persistência da condutância de K⁺.",
+          "No modelo de potencial do app, compare estímulos abaixo e acima do limiar e investigue TTX e aumento de K⁺ externo. Peça previsões antes de observar os efeitos e relacione estímulo maior sobretudo à frequência, não à amplitude do disparo.",
+          "Na imagem do axônio mielinizado, marque corrente passiva nos internódios e regeneração nos nós. Explique resistência maior e capacitância menor, compare as velocidades da tabela e termine no terminal, onde a entrada de Ca²⁺ desencadeia exocitose."
+        ],
+        "perguntas": [
+          [
+            "Passar de −70 para −60 mV é o quê?",
+            "Despolarização, mesmo sem inverter o sinal."
+          ],
+          [
+            "No equilíbrio do K⁺, as concentrações precisam ser iguais?",
+            "Não; forças química e elétrica se compensam e o fluxo líquido é zero."
+          ],
+          [
+            "Quais fluxos explicam a subida e a descida do potencial de ação?",
+            "Entrada de Na⁺ na subida; inativação de Na⁺ e saída de K⁺ na descida."
+          ],
+          [
+            "Por que um estímulo maior pode funcionar no refratário relativo?",
+            "Parte dos canais de Na⁺ recuperou, mas a condutância de K⁺ ainda elevada dificulta atingir o limiar."
+          ],
+          [
+            "Onde o potencial de ação se regenera na condução saltatória?",
+            "Nos nós de Ranvier; sob a mielina, a corrente se espalha passivamente."
+          ],
+          [
+            "Qual íon conecta a chegada do impulso à liberação de neurotransmissor?",
+            "Ca²⁺, que entra no terminal por canais dependentes de voltagem."
+          ]
+        ],
+        "erros": [
+          "Atribuir a descida rápida à bomba: sobreponha ao gráfico a inativação dos canais de Na⁺ e a saída de K⁺; reserve à bomba a manutenção dos gradientes.",
+          "Confundir pico com equilíbrio do Na⁺ ou trocar o sinal da amplitude: marque +30 mV e +60 mV separadamente e calcule +30 − (−70) = 100 mV.",
+          "Igualar canal fechado disponível e canal inativado: desenhe os estados e mostre que a inativação exige recuperação antes de outra abertura.",
+          "Dizer que estímulo mais forte gera potencial de ação mais alto: retome o tudo ou nada e compare frequência de disparos com amplitude de cada evento.",
+          "Afirmar que o impulso se regenera sob a mielina ou perde amplitude ao longo do axônio íntegro: distinga espalhamento passivo internodal e regeneração nos nós."
+        ],
+        "ponte": "Ao chegar ao terminal, o sinal elétrico abre canais de Ca²⁺; agora vamos acompanhar como esse sinal aciona a fusão vesicular e como as proteínas chegam ao destino correto.",
+        "tempo": "25–30 min"
+      }
+    },
+    "c5_9": {
+      "txt": [
+        "A **via secretora** (*via secretoria*) conecta retículo endoplasmático, Golgi e destinos como membrana plasmática, meio extracelular e sistema endossomal. Uma proteína solúvel com sequência-sinal de entrada no RE é reconhecida pela SRP e translocada pelo Sec61. Sem outro sinal de localização, tende a seguir a secreção constitutiva. Proteínas residentes e enzimas lisossomais exigem informações adicionais de endereçamento. A seleção da carga permite que compartimentos conectados mantenham identidades e funções diferentes.",
+        "O **tráfego vesicular** (*traffico vescicolare*) envolve seleção de carga, brotamento, desprendimento, transporte, reconhecimento e fusão. Revestimentos concentram cargas com seus receptores e curvam a membrana; usualmente são removidos antes da fusão. **COPII** participa da saída do RE para o Golgi, no sentido anterógrado. **COPI** faz recuperação do Golgi para o RE e transporte retrógrado entre cisternas do Golgi. Não confunda a direção de uma via com a função de sua proteína de fusão: o revestimento seleciona e forma transportadores; não substitui SNARE.",
+        "Proteínas solúveis residentes do RE podem terminar em **KDEL**, sequência de quatro aminoácidos: lisina, aspartato, glutamato e leucina. Quando escapam ao Golgi, um receptor reconhece KDEL e promove seu retorno em transportadores COPI. Portanto, chamar KDEL de retenção é uma abreviação: trata-se principalmente de **recuperação** (*recupero*), não de uma barreira que impede qualquer saída. Proteínas transmembrana residentes usam outros sinais. Enzimas lisossomais solúveis podem ser marcadas com manose-6-fosfato e reconhecidas no trans-Golgi; sem o endereçamento adequado, podem ser secretadas indevidamente.",
+        "A **clatrina** (*clatrina*), associada a adaptadores AP, atua no transporte do trans-Golgi para endossomos e na endocitose da membrana plasmática. Na endocitose clássica, a dinamina, uma GTPase, ajuda a estrangular o colo e desprender a vesícula. Não generalize a participação da dinamina a todo brotamento COPI ou COPII. Vesículas revestidas por clatrina têm tipicamente diâmetro da ordem de **100 nm**, com faixa aproximada de **50–150 nm**; pequenas vesículas sinápticas claras têm cerca de **40–50 nm**. O revestimento e o método de medida influenciam o tamanho observado.",
+        "As **RAB**, pequenas GTPases, ajudam a especificar identidade e recrutam efetores de ancoragem no alvo correto. As **SNARE** aproximam e fundem as bicamadas: no esquema didático, v-SNARE da vesícula se associa a t-SNARE da membrana-alvo. O complexo neuronal clássico reúne quatro hélices fornecidas por três proteínas: uma da sinaptobrevina, uma da sintaxina e duas da SNAP-25. Após fusão, NSF e α-SNAP promovem desmontagem com gasto de ATP. SNAP-25 não é a mesma proteína que α-SNAP. Toxinas botulínica e tetânica clivam componentes SNARE e bloqueiam liberação de neurotransmissores, em circuitos diferentes.",
+        "A **secreção constitutiva** (*secrezione costitutiva*) é contínua e ocorre em todas as células, renovando membrana e liberando proteínas. Na **secreção regulada** (*secrezione regolata*), grânulos ficam armazenados até um sinal; exemplos incluem insulina, enzimas digestivas e neurotransmissores. No terminal nervoso, Ca²⁺ que entra por canais dependentes de voltagem liga-se ao sensor sinaptotagmina e favorece a fusão rápida mediada por SNARE. Ca²⁺ livre citosólico em repouso é da ordem de **100 nM (0,1 µM)**, contra **1–2 mM** no meio extracelular, um gradiente de quatro ordens de grandeza. O aumento local permite resposta rápida, sem exigir que o citosol inteiro atinja a concentração extracelular. Após exocitose, endocitose recupera membrana para reciclagem."
+      ],
+      "chave": [
+        "COPII: RE → Golgi; COPI: Golgi → RE e recuperação entre cisternas.",
+        "Clatrina + adaptadores AP: trans-Golgi/endossomos e endocitose; dinamina participa da cisão endocítica.",
+        "RAB: identidade e ancoragem; SNARE: fusão; NSF/α-SNAP: desmontagem com ATP.",
+        "KDEL tem 4 aminoácidos e recupera proteínas solúveis do RE.",
+        "Complexo SNARE neuronal: 4 hélices de 3 proteínas; SNAP-25 fornece 2.",
+        "Constitutiva é contínua; regulada exige sinal e geralmente aumento de Ca²⁺.",
+        "Vesícula sináptica ≈ 40–50 nm; Ca²⁺ citosólico basal ≈ 100 nM."
+      ],
+      "pega": "Proteína solúvel que entrou no RE e não possui outro sinal tende a ser secretada. KDEL recupera para o RE; manose-6-fosfato direciona enzimas lisossomais.",
+      "num": [
+        [
+          "Vesícula sináptica clara: diâmetro",
+          "≈ 40–50 nm",
+          "0,040–0,050 µm; menor que uma vesícula de 100 nm."
+        ],
+        [
+          "Vesícula revestida por clatrina: diâmetro",
+          "≈ 50–150 nm",
+          "Ordem de 100 nm; tamanho depende da carga e da medida."
+        ],
+        [
+          "Ca²⁺ livre citosólico em repouso",
+          "≈ 100 nM = 0,1 µM",
+          "Sinal de secreção eleva o Ca²⁺ local."
+        ],
+        [
+          "Ca²⁺ livre extracelular",
+          "≈ 1–2 mM",
+          "≈ 10 000–20 000 vezes o basal citosólico."
+        ],
+        [
+          "Sequência KDEL",
+          "4 aminoácidos",
+          "Lys-Asp-Glu-Leu; recuperação de proteínas solúveis."
+        ],
+        [
+          "Complexo SNARE neuronal",
+          "4 hélices de 3 proteínas",
+          "Sinaptobrevina (1), sintaxina (1), SNAP-25 (2)."
+        ],
+        [
+          "Conversão entre nM e µM",
+          "1 µM = 1 000 nM",
+          "100 nM = 10⁻⁷ M, não 10⁻⁴ M."
+        ]
+      ],
+      "voc": [
+        [
+          "via secretoria",
+          "via secretora"
+        ],
+        [
+          "traffico vescicolare",
+          "tráfego vesicular"
+        ],
+        [
+          "rivestimento",
+          "revestimento"
+        ],
+        [
+          "gemmazione",
+          "brotamento"
+        ],
+        [
+          "recupero",
+          "recuperação"
+        ],
+        [
+          "membrana bersaglio",
+          "membrana-alvo"
+        ],
+        [
+          "ancoraggio",
+          "ancoragem"
+        ],
+        [
+          "fusione",
+          "fusão"
+        ],
+        [
+          "secrezione costitutiva",
+          "secreção constitutiva"
+        ],
+        [
+          "secrezione regolata",
+          "secreção regulada"
+        ],
+        [
+          "vescicola sinaptica",
+          "vesícula sináptica"
+        ],
+        [
+          "mannosio-6-fosfato",
+          "manose-6-fosfato"
+        ]
+      ],
+      "detalhes": [
+        "A **SRP** reconhece a sequência-sinal na **cadeia polipeptídica nascente** (*catena nascente*), não uma sequência de bases no mRNA.",
+        "**KDEL** fica na extremidade **C-terminal** de muitas proteínas solúveis residentes do RE; não é o sinal N-terminal de entrada no RE.",
+        "O receptor de **KDEL** recupera proteínas que escaparam ao Golgi; o retorno usa COPI, não COPII.",
+        "O lúmen do RE, do Golgi e das vesículas é **topologicamente equivalente ao exterior celular**; a fusão não o mistura ao citosol.",
+        "Um domínio voltado para o **lúmen** de uma vesícula secretora fica voltado para o **exterior** após sua fusão completa com a membrana plasmática.",
+        "Os revestimentos **COPI, COPII e clatrina** atuam no brotamento e na seleção de carga; geralmente são removidos antes da fusão.",
+        "A **clatrina** é recrutada por adaptadores e não substitui receptores de carga nem proteínas SNARE.",
+        "A **dinamina** é uma GTPase associada à cisão endocítica clássica; não confundir seu GTP com o ATP usado por NSF.",
+        "**RAB** recruta efetores de ancoragem; **SNARE** promove a aproximação e a fusão das membranas.",
+        "**SNAP-25** fornece duas hélices ao complexo SNARE neuronal; **α-SNAP** é outra proteína, que auxilia NSF na desmontagem.",
+        "A **manose-6-fosfato** é uma marca em carboidratos de muitas hidrolases lisossomais solúveis; não é uma sequência de seis aminoácidos.",
+        "Na exocitose rápida neuronal, **sinaptotagmina** atua como sensor de Ca²⁺; não é o revestimento da vesícula."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Endomembrane system diagram en.svg",
+          "busca": "LadyofHats endomembrane system diagram",
+          "legenda": "Siga a via do RE ao Golgi e às vesículas que chegam à membrana plasmática. Os compartimentos trocam carga sem perder a separação entre lúmen e citosol.",
+          "legenda_it": "Segui il percorso dal RE al Golgi e alle vescicole che raggiungono la membrana plasmatica. I compartimenti scambiano il carico mantenendo la separazione tra lume e citosol.",
+          "alt": "Sistema de endomembranas com RE, Golgi e vesículas."
+        },
+        {
+          "titulo": "File:Exocytosis types.svg",
+          "busca": "LadyofHats exocytosis types constitutive regulated",
+          "legenda": "Compare a secreção constitutiva com a regulada, que armazena vesículas até receber um sinal. Na fusão completa, a face luminal da vesícula passa a ficar exposta ao exterior.",
+          "legenda_it": "Confronta la secrezione costitutiva con quella regolata, che conserva le vescicole fino all’arrivo di un segnale. Nella fusione completa, la faccia luminale della vescicola viene esposta all’esterno.",
+          "alt": "Comparação entre exocitose constitutiva e regulada."
+        }
+      ],
+      "prof": {
+        "ideia": "O tráfego vesicular combina endereçamento da carga, brotamento, ancoragem e fusão, preservando a orientação das membranas. O aluno deve prever destinos e distinguir revestimentos, RAB, SNARE e o sensor de Ca²⁺ na secreção regulada.",
+        "explicar": [
+          "Use a analogia de encomendas com endereço e desenhe RE → Golgi → destinos sobre a imagem do sistema de endomembranas do app. Mostre a SRP reconhecendo a sequência-sinal na proteína nascente e a entrada pelo Sec61.",
+          "Marque COPII na saída do RE e COPI no retorno. Compare recuperação por KDEL C-terminal com o destino lisossomal por manose-6-fosfato; peça o destino provável de uma proteína solúvel que entrou no RE e não recebeu outro sinal.",
+          "Desenhe a endocitose com clatrina, adaptadores e dinamina na cisão, sem estender esse mecanismo a todo brotamento. Compare vesículas sinápticas de 40–50 nm com vesículas de clatrina de 50–150 nm usando a mesma unidade.",
+          "Separe as etapas no quadro: revestimento seleciona carga e ajuda o brotamento; RAB recruta efetores de ancoragem; SNARE aproxima e funde membranas. Desenhe as 4 hélices de 3 proteínas do complexo neuronal, com 2 fornecidas por SNAP-25.",
+          "Após a fusão, situe NSF e α-SNAP na desmontagem com ATP e diferencie α-SNAP de SNAP-25. Contraste esse ATP com o GTP usado pela dinamina e lembre que toxinas botulínica e tetânica clivam SNARE em circuitos diferentes.",
+          "Na imagem dos tipos de exocitose do app, compare secreção constitutiva e regulada. Relacione Ca²⁺ basal de 100 nM ao extracelular de 1–2 mM e mostre a sinaptotagmina como sensor do aumento local que favorece a fusão rápida.",
+          "Siga um açúcar voltado para o lúmen desde o RE até a superfície celular. Desenhe a fusão completa sem inverter a proteína: a face luminal torna-se extracelular, enquanto a endocitose recupera membrana."
+        ],
+        "perguntas": [
+          [
+            "A SRP reconhece um sinal no mRNA ou na proteína?",
+            "Na cadeia polipeptídica nascente."
+          ],
+          [
+            "Qual revestimento leva carga do RE ao Golgi e qual participa do retorno?",
+            "COPII na saída; COPI no retorno."
+          ],
+          [
+            "KDEL impede absolutamente que uma proteína saia do RE?",
+            "Não; permite recuperar muitas proteínas solúveis que escaparam ao Golgi."
+          ],
+          [
+            "Quem ancora, quem funde e quem desmonta o complexo após a fusão?",
+            "RAB recruta efetores de ancoragem; SNARE funde; NSF e α-SNAP desmontam com ATP."
+          ],
+          [
+            "Qual é a diferença entre SNAP-25 e α-SNAP?",
+            "SNAP-25 fornece duas hélices ao complexo neuronal; α-SNAP auxilia NSF na desmontagem."
+          ],
+          [
+            "Após fusão completa, para onde aponta um domínio antes voltado ao lúmen vesicular?",
+            "Para o exterior celular, preservando a orientação da membrana."
+          ]
+        ],
+        "erros": [
+          "Trocar COPI e COPII ou atribuir fusão aos revestimentos: escreva as setas de ida e retorno e reserve a fusão às SNARE.",
+          "Confundir KDEL com sinal de entrada no RE ou manose-6-fosfato: distinga sequência C-terminal de recuperação, sequência-sinal reconhecida pela SRP e marca de destino lisossomal.",
+          "Trocar SNAP-25 por α-SNAP: desenhe as hélices com SNAP-25 no complexo e coloque α-SNAP ao lado de NSF após a fusão.",
+          "Achar que exocitose vira a proteína ao avesso ou mistura lúmen e citosol: acompanhe o mesmo domínio luminal até sua exposição ao exterior.",
+          "Confundir sensor de Ca²⁺, máquina de fusão e escala de concentração: associe sinaptotagmina ao sensor, SNARE à fusão e retome 100 nM = 0,1 µM antes de comparar com mM."
+        ],
+        "ponte": "Feche a trilha reconstruindo a sequência gradientes → potencial de ação → entrada de Ca²⁺ → fusão por SNARE, e use as questões da unidade para verificar mecanismos, destinos e unidades.",
+        "tempo": "25–30 min"
+      }
+    }
+  },
+  "questoes": [
+    {
+      "id": "xt1_01",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Una membrana spessa 8 nm ha uno spessore di:",
+      "opts": [
+        "0,008 µm",
+        "0,08 µm",
+        "0,8 µm",
+        "8 µm",
+        "80 µm"
+      ],
+      "ex": "8 nm correspondem a 0,008 µm.",
+      "exp": [
+        "Use **1 µm = 1 000 nm**.",
+        "Divida 8 por 1 000: 0,008 µm; em ångströms, são 80 Å.",
+        "Por que as outras erram: 0,08 µm equivale a 80 nm; 0,8 µm a 800 nm; 8 µm a 8 000 nm; 80 µm a 80 000 nm. Todas superestimam a espessura."
+      ]
+    },
+    {
+      "id": "xt1_02",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Dopo 10 cicli della Na⁺/K⁺-ATPasi, quanti ioni Na⁺ sono espulsi e quanti ATP sono consumati?",
+      "opts": [
+        "30 Na⁺ e 10 ATP",
+        "20 Na⁺ e 10 ATP",
+        "30 Na⁺ e 30 ATP",
+        "10 Na⁺ e 30 ATP",
+        "50 Na⁺ e 10 ATP"
+      ],
+      "ex": "Cada ciclo expulsa 3 Na⁺ e usa 1 ATP.",
+      "exp": [
+        "Escreva a razão: **3 Na⁺ para fora por ATP**.",
+        "Multiplique ambos por 10: 30 Na⁺ e 10 ATP.",
+        "Por que as outras erram: 20 confunde Na⁺ com os 2 K⁺; 30 ATP conta um ATP por Na⁺; 10 Na⁺/30 ATP inverte a razão; 50 Na⁺ soma Na⁺ e K⁺ como se fossem todos sódio."
+      ]
+    },
+    {
+      "id": "xt1_03",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "SGLT1 trasporta 5 molecole di glucosio. Quanti ioni Na⁺ le accompagnano secondo la sua stechiometria?",
+      "opts": [
+        "10",
+        "5",
+        "2",
+        "15",
+        "0"
+      ],
+      "ex": "SGLT1 acopla 2 Na⁺ por glicose.",
+      "exp": [
+        "Diferencie **SGLT1 (2:1)** de SGLT2 (1:1).",
+        "Para 5 glicoses, calcule 2 × 5 = 10 íons Na⁺.",
+        "Por que as outras erram: 5 usa a razão de SGLT2; 2 é apenas um ciclo; 15 usa indevidamente o número de Na⁺ da ATPase; 0 ignora o acoplamento obrigatório ao Na⁺."
+      ]
+    },
+    {
+      "id": "xt1_04",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Quale affermazione sulla CFTR è FALSA?",
+      "opts": [
+        "Pompa Cl⁻ contro gradiente a ogni ciclo di ATP",
+        "Appartiene alla famiglia ABC",
+        "È un canale per Cl⁻",
+        "La sua attività è regolata da ATP",
+        "Permette un flusso di Cl⁻ secondo il gradiente elettrochimico"
+      ],
+      "ex": "CFTR é um canal ABC, não uma bomba de Cl⁻.",
+      "exp": [
+        "O enunciado pede a **FALSA**.",
+        "A classificação ABC não obriga toda proteína da família a bombear substratos; CFTR conduz Cl⁻ passivamente.",
+        "Por que as outras erram: pertencer a ABC, ser canal de Cl⁻, ter atividade regulada por ATP e permitir fluxo pelo gradiente são quatro afirmações verdadeiras; nenhuma delas atende ao pedido de falsa."
+      ]
+    },
+    {
+      "id": "xt1_05",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Quale associazione è corretta?",
+      "opts": [
+        "SERCA — trasporto di Ca²⁺ nel RE",
+        "PMCA — ingresso di Ca²⁺ nel citosol",
+        "V-ATPasi — sintesi di ATP nel lisosoma",
+        "GLUT — simporto Na⁺/glucosio",
+        "MDR1 — canale per acqua"
+      ],
+      "ex": "SERCA é uma ATPase tipo P que acumula Ca²⁺ no RE.",
+      "exp": [
+        "Localize o destino do cálcio: SERCA reduz o Ca²⁺ citosólico transferindo-o para o RE.",
+        "Ela usa ATP diretamente, caracterizando transporte ativo primário.",
+        "Por que as outras erram: PMCA extrude Ca²⁺ da célula; V-ATPase consome ATP para bombear H⁺; GLUT é uniporte passivo sem Na⁺; MDR1 exporta fármacos, enquanto aquaporinas conduzem água."
+      ]
+    },
+    {
+      "id": "xt1_06",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Quale processo è passivo?",
+      "opts": [
+        "Ingresso di glucosio tramite GLUT secondo gradiente",
+        "Ingresso di glucosio tramite SGLT1 contro il suo gradiente",
+        "Espulsione di Na⁺ tramite Na⁺/K⁺-ATPasi",
+        "Accumulo di Ca²⁺ nel RE tramite SERCA",
+        "Acidificazione lisosomiale tramite V-ATPasi"
+      ],
+      "ex": "GLUT realiza difusão facilitada, sem acoplamento energético.",
+      "exp": [
+        "Proteína transportadora não implica transporte ativo: examine o gradiente e a energia.",
+        "GLUT permite glicose descer seu gradiente, mesmo apresentando saturação.",
+        "Por que as outras erram: SGLT1 usa a energia do Na⁺ (ativo secundário); a Na⁺/K⁺-ATPase, SERCA e V-ATPase usam ATP diretamente (ativo primário)."
+      ]
+    },
+    {
+      "id": "xt1_07",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Per ogni ciclo della Na⁺/K⁺-ATPasi, la carica positiva netta trasferita verso l’esterno è pari a ____ carica elementare.",
+      "acc": [
+        "1",
+        "una"
+      ],
+      "ex": "O saldo é uma carga positiva para fora.",
+      "exp": [
+        "Saem 3 cátions monovalentes e entram 2.",
+        "O saldo para fora é **3 − 2 = 1**.",
+        "Somar e responder 5 conta íons movimentados, não carga líquida; zero ignoraria a assimetria da bomba."
+      ]
+    },
+    {
+      "id": "xt1_08",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Il rivestimento glucidico sulla faccia esterna della membrana è il ____.",
+      "acc": [
+        "glicocalice",
+        "il glicocalice"
+      ],
+      "ex": "Glicocálice é formado por cadeias de açúcares externas.",
+      "exp": [
+        "Localize os açúcares de glicoproteínas e glicolipídios: ficam expostos ao exterior.",
+        "Esse conjunto recebe em italiano o nome **glicocalice**.",
+        "Colesterol regula fluidez e não forma o revestimento glicídico; bicamada designa a matriz lipídica inteira."
+      ]
+    },
+    {
+      "id": "xt1_09",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Un neurone passa da −70 mV a −55 mV. La variazione è:",
+      "opts": [
+        "+15 mV, depolarizzazione",
+        "−15 mV, iperpolarizzazione",
+        "+125 mV, depolarizzazione",
+        "−125 mV, ripolarizzazione",
+        "0 mV, perché entrambi i valori sono negativi"
+      ],
+      "ex": "ΔV = −55 − (−70) = +15 mV: ficou menos negativo.",
+      "exp": [
+        "Calcule **valor final menos inicial**, mantendo os sinais.",
+        "A mudança positiva aproxima a membrana do limiar, portanto é despolarização.",
+        "Por que as outras erram: −15 tem sinal invertido; +125 soma módulos; −125 combina soma e sinal incorreto; zero confunde sinal negativo com ausência de diferença."
+      ]
+    },
+    {
+      "id": "xt1_10",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Dal riposo a −70 mV al picco a +30 mV, l’ampiezza del potenziale d’azione è:",
+      "opts": [
+        "100 mV",
+        "40 mV",
+        "30 mV",
+        "70 mV",
+        "−100 mV"
+      ],
+      "ex": "A amplitude entre esses dois níveis é 100 mV.",
+      "exp": [
+        "Identifique o intervalo completo, que atravessa zero.",
+        "Faça **+30 − (−70) = 100 mV**.",
+        "Por que as outras erram: 40 subtrai módulos; 30 considera só o pico relativo ao exterior; 70 considera só o repouso; −100 inverte a ordem da variação e não expressa a amplitude positiva."
+      ]
+    },
+    {
+      "id": "xt1_11",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Un impulso percorre 0,6 m a 60 m/s. Il tempo richiesto è:",
+      "opts": [
+        "10 ms",
+        "1 ms",
+        "100 ms",
+        "10 s",
+        "36 s"
+      ],
+      "ex": "t = distância/velocidade = 0,01 s = 10 ms.",
+      "exp": [
+        "Use **t = d/v**, sem incluir atrasos sinápticos.",
+        "0,6/60 = 0,01 segundo; multiplique por 1 000 para obter milissegundos.",
+        "Por que as outras erram: 1 ms é dez vezes menor; 100 ms é dez vezes maior; 10 s confunde segundos com milissegundos; 36 resulta de multiplicar distância e velocidade, com unidades incompatíveis."
+      ]
+    },
+    {
+      "id": "xt1_12",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Durante il periodo refrattario assoluto, un secondo potenziale d’azione non nasce perché:",
+      "opts": [
+        "Molti canali del Na⁺ sono inattivati",
+        "La pompa Na⁺/K⁺ ha consumato tutto l’ATP",
+        "Tutti gli ioni Na⁺ sono già entrati",
+        "I canali del K⁺ sono scomparsi",
+        "La mielina impedisce ogni corrente"
+      ],
+      "ex": "A inativação impede reabertura imediata dos canais de Na⁺.",
+      "exp": [
+        "Separe canal fechado disponível de canal **inativado**, temporariamente indisponível.",
+        "É preciso recuperação dependente de tempo e voltagem para um novo disparo.",
+        "Por que as outras erram: não há esgotamento global de ATP; apenas pequena fração dos íons cruza por disparo; canais de K⁺ não desaparecem; mielina favorece condução e não explica refratariedade."
+      ]
+    },
+    {
+      "id": "xt1_13",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Quale affermazione sul potenziale d’azione neuronale è FALSA?",
+      "opts": [
+        "La rapida ripolarizzazione è prodotta dalla pompa Na⁺/K⁺",
+        "L’ingresso di Na⁺ favorisce la fase ascendente",
+        "L’uscita di K⁺ favorisce la fase discendente",
+        "La mielina permette la conduzione saltatoria",
+        "Nel terminale l’ingresso di Ca²⁺ favorisce l’esocitosi"
+      ],
+      "ex": "A repolarização rápida decorre da mudança de condutâncias, sobretudo saída de K⁺.",
+      "exp": [
+        "Procure a **FALSA**, mesmo que a bomba seja indispensável a longo prazo.",
+        "A bomba mantém gradientes; canais explicam a mudança de voltagem em milissegundos.",
+        "Por que as outras erram: entrada de Na⁺ na subida e saída de K⁺ na descida estão corretas; mielina permite condução saltatória; Ca²⁺ terminal desencadeia exocitose. As quatro são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt1_14",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Se aumenta moderatamente il K⁺ extracellulare, senza altre variazioni, il potenziale di riposo tende a:",
+      "opts": [
+        "Diventare meno negativo",
+        "Diventare più negativo",
+        "Coincidere sempre con +60 mV",
+        "Restare identico per definizione",
+        "Oscillare obbligatoriamente tra +30 e +60 mV"
+      ],
+      "ex": "Mais K⁺ externo reduz o gradiente de saída e despolariza o repouso.",
+      "exp": [
+        "No repouso a permeabilidade ao K⁺ predomina.",
+        "Elevar K⁺ fora torna seu potencial de equilíbrio menos negativo, deslocando também o repouso.",
+        "Por que as outras erram: ficar mais negativo seria a tendência oposta; +60 mV corresponde aproximadamente ao equilíbrio do Na⁺; repouso não é fixo por definição; não existe oscilação obrigatória entre os valores positivos citados."
+      ]
+    },
+    {
+      "id": "xt1_15",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "La durata tipica di un potenziale d’azione neuronale è dell’ordine dei ____, non dei secondi.",
+      "acc": [
+        "millisecondi",
+        "millisecondo",
+        "ms"
+      ],
+      "ex": "O evento neuronal típico dura cerca de 1–2 ms.",
+      "exp": [
+        "Diferencie duração do disparo e tempo de propagação por todo o axônio.",
+        "O disparo local é da ordem de **milissegundos**; em italiano, millisecondi.",
+        "Segundos são cerca de mil vezes maiores; microssegundos são cerca de mil vezes menores que um milissegundo."
+      ]
+    },
+    {
+      "id": "xt1_16",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "I tratti senza mielina in cui si rigenera il potenziale d’azione sono i nodi di ____.",
+      "acc": [
+        "ranvier"
+      ],
+      "ex": "A regeneração ocorre nos nós de Ranvier.",
+      "exp": [
+        "A mielina isola os segmentos internodais, reduzindo perdas de corrente.",
+        "Nos **nós de Ranvier**, canais dependentes de voltagem permitem regenerar o disparo.",
+        "Não confunda o nó com a bainha de mielina ou com o terminal sináptico, onde ocorre liberação de neurotransmissor."
+      ]
+    },
+    {
+      "id": "xt1_17",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Una vescicola sinaptica di 50 nm ha un diametro di:",
+      "opts": [
+        "0,05 µm",
+        "0,5 µm",
+        "5 µm",
+        "50 µm",
+        "500 µm"
+      ],
+      "ex": "50 nm = 0,05 µm.",
+      "exp": [
+        "Use **1 µm = 1 000 nm**.",
+        "50/1 000 = 0,05 µm; continua sendo uma estrutura nanométrica.",
+        "Por que as outras erram: 0,5 µm equivale a 500 nm; 5 µm a 5 000 nm; 50 µm a 50 000 nm; 500 µm a 500 000 nm. Todos os distratores são grandes demais."
+      ]
+    },
+    {
+      "id": "xt1_18",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Con Ca²⁺ esterno a 1 mM e citosolico a 100 nM, il rapporto esterno/interno è:",
+      "opts": [
+        "10 000",
+        "10",
+        "100",
+        "1 000",
+        "0,0001"
+      ],
+      "ex": "1 mM/100 nM = 10⁻³/10⁻⁷ = 10⁴.",
+      "exp": [
+        "Converta as duas concentrações para mol/L: **1 mM = 10⁻³ M** e 100 nM = 10⁻⁷ M.",
+        "Divida: 10⁻³/10⁻⁷ = 10⁴ = 10 000.",
+        "Por que as outras erram: 10, 100 e 1 000 subestimam a diferença por conversão incorreta; 0,0001 é a razão invertida, interno/externo."
+      ]
+    },
+    {
+      "id": "xt1_19",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Nel complesso SNARE neuronale classico, quante eliche sono fornite complessivamente da sinaptobrevina, sintaxina e SNAP-25?",
+      "opts": [
+        "4",
+        "3",
+        "2",
+        "5",
+        "25"
+      ],
+      "ex": "São quatro hélices: uma, uma e duas, respectivamente.",
+      "exp": [
+        "Conte hélices, e não apenas nomes de proteínas.",
+        "Sinaptobrevina fornece 1, sintaxina 1 e SNAP-25 fornece 2: **1 + 1 + 2 = 4**.",
+        "Por que as outras erram: 3 conta proteínas; 2 conta só as hélices de SNAP-25; 5 acrescenta uma hélice inexistente nesse feixe; 25 confunde o nome da proteína com número de hélices."
+      ]
+    },
+    {
+      "id": "xt1_20",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Una proteina solubile con KDEL sfuggita al RE viene recuperata prevalentemente tramite:",
+      "opts": [
+        "Recettore KDEL e trasportatori COPI",
+        "Recettore KDEL e trasportatori COPII verso il Golgi",
+        "Mannosio-6-fosfato e invio al lisosoma",
+        "Importina e poro nucleare",
+        "GLUT e membrana plasmatica"
+      ],
+      "ex": "KDEL é reconhecido no Golgi e permite retorno ao RE por COPI.",
+      "exp": [
+        "O verbo **recuperar** indica transporte retrógrado.",
+        "O receptor reconhece KDEL na proteína solúvel e a encaminha de volta ao RE.",
+        "Por que as outras erram: COPII segue na direção de saída do RE; M6P endereça enzimas lisossomais; importina atua na importação nuclear; GLUT transporta glicose e não proteínas luminais."
+      ]
+    },
+    {
+      "id": "xt1_21",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Quale associazione è FALSA nel traffico vescicolare?",
+      "opts": [
+        "RAB — fusione diretta delle membrane lipidiche senza SNARE",
+        "COPII — uscita dal RE",
+        "Clatrina — endocitosi mediata da recettori",
+        "Dinamina — distacco di vescicole endocitiche",
+        "NSF e α-SNAP — disassemblaggio delle SNARE con ATP"
+      ],
+      "ex": "RAB atua na identidade e ancoragem; SNARE executa a fusão.",
+      "exp": [
+        "Separe reconhecimento/ancoragem de **fusão**.",
+        "A associação falsa atribui a RAB a função do complexo SNARE.",
+        "Por que as outras erram: COPII participa da saída do RE; clatrina reveste vesículas endocíticas; dinamina participa da cisão; NSF/α-SNAP desmontam SNARE com ATP. As quatro associações são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt1_22",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "La tossina botulinica riduce la liberazione del neurotrasmettitore perché:",
+      "opts": [
+        "Taglia proteine SNARE necessarie alla fusione",
+        "Blocca la sintesi di tutti i fosfolipidi",
+        "Trasforma COPI in COPII",
+        "Pompa Ca²⁺ nel terminale",
+        "Converte KDEL in mannosio-6-fosfato"
+      ],
+      "ex": "A clivagem de SNARE impede a fusão exocítica.",
+      "exp": [
+        "O evento necessário para liberar a carga é a fusão da vesícula com a membrana.",
+        "A toxina cliva componentes **SNARE**, interrompendo esse evento mesmo com vesículas presentes.",
+        "Por que as outras erram: não bloqueia globalmente a síntese de fosfolipídios; revestimentos COPI/COPII não se convertem entre si por essa ação; não funciona como bomba de Ca²⁺; KDEL é sequência peptídica e não é convertido em M6P."
+      ]
+    },
+    {
+      "id": "xt1_23",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "La piccola GTPasi che contribuisce all’identità e all’ancoraggio delle vescicole appartiene alla famiglia ____.",
+      "acc": [
+        "rab",
+        "le rab"
+      ],
+      "ex": "RAB recruta efetores e ajuda a especificar o destino.",
+      "exp": [
+        "O enunciado pede uma família de **pequenas GTPases** ligada à identidade de membrana.",
+        "A resposta é RAB; suas formas ligadas a nucleotídeos regulam interações com efetores.",
+        "SNARE realiza fusão e não é essa GTPase; dinamina também usa GTP, mas atua na cisão endocítica."
+      ]
+    },
+    {
+      "id": "xt1_24",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "La sequenza KDEL contiene ____ amminoacidi.",
+      "acc": [
+        "4",
+        "quattro"
+      ],
+      "ex": "KDEL contém quatro resíduos: lisina, aspartato, glutamato e leucina.",
+      "exp": [
+        "Cada letra do código de uma letra representa um aminoácido.",
+        "Conte **K, D, E, L**: quatro resíduos, não quatro nucleotídeos.",
+        "Não responda 12: seriam os nucleotídeos de quatro códons no RNA, mas a pergunta trata do peptídeo."
+      ]
+    },
+    {
+      "id": "xt1_25",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Quale affermazione sull’asimmetria della membrana plasmatica è ERRATA?",
+      "opts": [
+        "Le catene glucidiche del glicocalice sono rivolte verso il citosol",
+        "I glicolipidi espongono i loro zuccheri verso l’esterno",
+        "Il movimento laterale avviene nello stesso foglietto",
+        "Il flip-flop trasferisce lipidi tra i due foglietti",
+        "Le due facce della membrana hanno composizione diversa"
+      ],
+      "ex": "O glicocálice está na face externa; a alternativa que o coloca no citosol é a errada.",
+      "exp": [
+        "Observe a negação: a questão pede a afirmação **errada**.",
+        "As cadeias de carboidratos do glicocálice se projetam para o exterior, não para o citosol; deve ser marcada a alternativa que orienta essas cadeias para o citosol.",
+        "A exposição externa dos açúcares dos glicolipídios está correta, assim como a composição diferente das faces.",
+        "Movimento lateral conserva o folheto; flip-flop troca o folheto. Essas duas definições estão corretas."
+      ]
+    },
+    {
+      "id": "xt1_26",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Quale associazione tra pompa del Ca²⁺ e direzione del trasporto è corretta?",
+      "opts": [
+        "SERCA: dal citosol al lume del RE",
+        "SERCA: dal lume del RE al citosol",
+        "PMCA: dall’esterno cellulare al citosol",
+        "PMCA: dal citosol al lume del RE",
+        "SERCA: dal citosol alla matrice mitocondriale"
+      ],
+      "ex": "SERCA abastece o RE com Ca²⁺; PMCA extrude Ca²⁺ pela membrana plasmática.",
+      "exp": [
+        "Localize a bomba: **SERCA** está na membrana do retículo endoplasmático e transporta Ca²⁺ para seu lúmen.",
+        "O sentido RE → citosol corresponde à liberação de Ca²⁺ por canais, não ao bombeamento por SERCA.",
+        "PMCA transporta Ca²⁺ do citosol para fora da célula: a entrada extracelular está invertida.",
+        "PMCA não abastece o RE; SERCA não bombeia para a matriz mitocondrial. Os dois últimos distratores trocam o compartimento."
+      ]
+    },
+    {
+      "id": "xt1_27",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Due soluzioni iso-osmotiche separate da una membrana cellulare sono necessariamente isotoniche?",
+      "opts": [
+        "No, perché la tonicità dipende anche dalla permeabilità ai soluti nel tempo considerato",
+        "Sì, perché ogni soluto è impermeante",
+        "Sì, perché l’acqua attraversa solo mediante trasporto attivo",
+        "No, perché le acquaporine idrolizzano ATP per spostare acqua",
+        "Sì, perché l’osmolarità misura soltanto i soluti non penetranti"
+      ],
+      "ex": "Iso-osmolaridade compara a concentração total de partículas; tonicidade depende dos solutos efetivamente não penetrantes.",
+      "exp": [
+        "Separe **osmolaridade** de **tonicidade**: permeabilidade e tempo de observação importam para o efeito sobre o volume celular.",
+        "A alternativa que relaciona tonicidade à permeabilidade dos solutos ao longo do tempo reconhece que um soluto permeante pode não sustentar o mesmo efeito osmótico de um não penetrante.",
+        "Nem todo soluto é impermeante, e a osmolaridade não conta apenas partículas não penetrantes: esses dois distratores confundem as definições.",
+        "A água atravessa passivamente; aquaporinas são canais e não hidrolisam ATP para bombeá-la. As duas justificativas sobre transporte ativo estão erradas."
+      ]
+    },
+    {
+      "id": "xt1_28",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Quale affermazione sui lipidi di membrana è FALSA?",
+      "opts": [
+        "Un doppio legame cis rende la coda identica a una coda satura rettilinea",
+        "Un doppio legame cis ostacola l’impacchettamento delle code",
+        "Il colesterolo ostacola l’impacchettamento rigido a basse temperature",
+        "Il colesterolo limita il movimento dei fosfolipidi a temperature elevate",
+        "Le teste polari dei fosfolipidi sono a contatto con l’acqua"
+      ],
+      "ex": "A ligação dupla cis introduz uma dobra; não torna a cauda equivalente a uma saturada.",
+      "exp": [
+        "A questão pede a frase **falsa**: a cauda com dupla ligação cis tem geometria diferente da cauda saturada retilínea.",
+        "A dobra dificulta o empacotamento das caudas, tornando verdadeira a afirmação de que a ligação dupla cis dificulta esse empacotamento.",
+        "O colesterol amortece variações de fluidez: dificulta o empacotamento rígido no frio e restringe movimentos no calor; ambas as frases estão corretas.",
+        "As cabeças polares interagem com a água nos dois lados da bicamada; essa orientação também é correta."
+      ]
+    },
+    {
+      "id": "xt1_29",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Il passaggio di un fosfolipide da un foglietto all’altro della bicapa si chiama ____.",
+      "acc": [
+        "flip-flop",
+        "flip flop"
+      ],
+      "ex": "Flip-flop é o movimento transversal entre folhetos.",
+      "exp": [
+        "Identifique o destino: o lipídio termina no **outro folheto**, não em outra posição do mesmo folheto.",
+        "O nome do movimento transversal é **flip-flop**; a passagem espontânea de fosfolipídios é rara.",
+        "Difusão lateral ocorre no mesmo folheto; simporte e antiporte descrevem transporte acoplado de solutos, não esse movimento lipídico."
+      ]
+    },
+    {
+      "id": "xt1_30",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Quale affermazione su un canale del Na⁺ voltaggio-dipendente è corretta?",
+      "opts": [
+        "Lo stato inattivato richiede il recupero della disponibilità prima di una nuova apertura",
+        "Lo stato inattivato equivale sempre allo stato chiuso disponibile",
+        "La tetrodotossina blocca il canale inibendo la pompa Na⁺/K⁺",
+        "L’apertura provoca normalmente l’uscita di Na⁺ durante la fase ascendente",
+        "La ripolarizzazione impedisce sempre il recupero dall’inattivazione"
+      ],
+      "ex": "Inativado e fechado disponível são estados diferentes; a repolarização favorece a recuperação.",
+      "exp": [
+        "Um canal **fechado disponível** pode responder à despolarização; o inativado ainda precisa recuperar sua disponibilidade.",
+        "A afirmação de que o canal inativado precisa recuperar sua disponibilidade está correta; equipará-lo ao estado fechado disponível apaga essa diferença funcional.",
+        "A TTX bloqueia muitos canais de Na⁺ diretamente, não por inibição da bomba.",
+        "Na fase ascendente usual, Na⁺ entra; a repolarização favorece, em vez de impedir, a recuperação da inativação."
+      ]
+    },
+    {
+      "id": "xt1_31",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Al potenziale di equilibrio del K⁺, con canali del K⁺ aperti, quale affermazione è corretta?",
+      "opts": [
+        "Il flusso netto di K⁺ è nullo anche se le concentrazioni sono diverse",
+        "Le concentrazioni di K⁺ devono essere uguali sui due lati",
+        "Tutti i canali del K⁺ devono essere chiusi",
+        "Il potenziale deve essere necessariamente di 0 mV",
+        "L’intera cellula si trova necessariamente in equilibrio termodinamico"
+      ],
+      "ex": "No equilíbrio eletroquímico do K⁺, as forças química e elétrica se compensam.",
+      "exp": [
+        "Considere apenas o **K⁺**: a força elétrica pode compensar seu gradiente de concentração, anulando o fluxo líquido.",
+        "Concentrações iguais não são necessárias; por isso o potencial de equilíbrio pode ser diferente de zero. Os distratores sobre igualdade e 0 mV estão errados.",
+        "Canais abertos permitem movimentos nos dois sentidos; fluxo líquido nulo não exige fechamento dos canais.",
+        "Equilíbrio de um íon não implica equilíbrio termodinâmico da célula inteira, que mantém processos com gasto de energia."
+      ]
+    },
+    {
+      "id": "xt1_32",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Tutte le seguenti descrizioni della conduzione saltatoria sono corrette TRANNE una. Quale?",
+      "opts": [
+        "Il potenziale d’azione si rigenera soltanto sotto la mielina e mai nei nodi",
+        "La corrente si propaga passivamente negli internodi",
+        "I nodi di Ranvier permettono la rigenerazione del potenziale d’azione",
+        "La mielina aumenta la resistenza della membrana internodale",
+        "La mielina riduce la capacità elettrica della membrana internodale"
+      ],
+      "ex": "A regeneração ocorre nos nós; sob a mielina, a corrente se espalha passivamente.",
+      "exp": [
+        "**TRANNE** pede a exceção: a frase que situa a regeneração apenas sob a mielina e nunca nos nós inverte sua localização.",
+        "A corrente percorre os internódios de modo passivo, como afirma corretamente a descrição da propagação internodal.",
+        "Os nós concentram canais que permitem regenerar o potencial de ação; a descrição da regeneração nos nós está correta.",
+        "A mielina aumenta a resistência e reduz a capacitância internodal; essas propriedades elétricas explicam a propagação mais rápida."
+      ]
+    },
+    {
+      "id": "xt1_33",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Quale affermazione sul periodo refrattario RELATIVO è corretta?",
+      "opts": [
+        "Uno stimolo più intenso può generare un nuovo potenziale d’azione",
+        "Nessuno stimolo può generare un nuovo potenziale d’azione per definizione",
+        "Tutti i canali del Na⁺ sono necessariamente ancora inattivati",
+        "La conduttanza residua del K⁺ facilita sempre il raggiungimento della soglia",
+        "La pompa Na⁺/K⁺ deve invertire il suo ciclo per consentire il nuovo impulso"
+      ],
+      "ex": "No relativo, parte dos canais de Na⁺ já recuperou a disponibilidade, mas a excitabilidade ainda é menor.",
+      "exp": [
+        "No refratário **relativo**, um estímulo mais forte pode alcançar o limiar e produzir novo disparo.",
+        "A impossibilidade de novo disparo normal caracteriza o absoluto, não o relativo.",
+        "Parte dos canais de Na⁺ já recuperou; afirmar que todos permanecem inativados elimina justamente essa recuperação.",
+        "A condutância de K⁺ ainda alta dificulta atingir o limiar. A bomba não precisa inverter seu ciclo para restaurar a excitabilidade."
+      ]
+    },
+    {
+      "id": "xt1_34",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Un neurone passa da −70 mV a −60 mV senza invertire il segno del potenziale: questa variazione è una ____.",
+      "acc": [
+        "depolarizzazione"
+      ],
+      "ex": "Ficar menos negativo já é despolarização.",
+      "exp": [
+        "Calcule o sentido da mudança: −60 − (−70) = **+10 mV**.",
+        "O interior ficou menos negativo; o termo italiano é **depolarizzazione**.",
+        "Hiperpolarização seria uma mudança para valor mais negativo; a inversão de sinal não é requisito para despolarizar."
+      ]
+    },
+    {
+      "id": "xt1_35",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Quale affermazione sulla SRP è corretta?",
+      "opts": [
+        "Riconosce una sequenza segnale nella catena polipeptidica nascente",
+        "Riconosce direttamente KDEL come sequenza di basi dell’mRNA",
+        "È il recettore del mannosio-6-fosfato nel trans-Golgi",
+        "Forma il rivestimento COPII per recuperare proteine dal Golgi al RE",
+        "Disassembla il complesso SNARE dopo la fusione"
+      ],
+      "ex": "A SRP reconhece um sinal proteico durante a síntese e dirige o complexo ao RE.",
+      "exp": [
+        "A sequência-sinal emerge na **proteína nascente**, onde é reconhecida pela SRP.",
+        "KDEL é uma sequência de aminoácidos associada à recuperação de residentes do RE, não uma sequência de bases reconhecida pela SRP.",
+        "O receptor de manose-6-fosfato atua no endereçamento lisossomal; não é SRP.",
+        "A recuperação Golgi → RE usa COPI, não COPII; a desmontagem das SNARE depende de NSF e α-SNAP, não de SRP."
+      ]
+    },
+    {
+      "id": "xt1_36",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Quale descrizione del segnale KDEL è corretta?",
+      "opts": [
+        "È una sequenza C-terminale di molte proteine solubili residenti del RE",
+        "È il segnale N-terminale universale di ingresso nel RE",
+        "È una modifica glucidica che indirizza tutte le proteine ai lisosomi",
+        "È riconosciuto da COPII per il ritorno dal Golgi al RE",
+        "Impedisce in modo assoluto che una proteina lasci il RE"
+      ],
+      "ex": "KDEL é um sinal C-terminal de recuperação de muitas proteínas solúveis do RE.",
+      "exp": [
+        "Localize as extremidades: **KDEL é C-terminal** em muitas proteínas residentes solúveis.",
+        "O sinal de entrada no RE e o de recuperação têm funções diferentes; KDEL não é um sinal N-terminal universal.",
+        "KDEL é uma sequência peptídica, não a marca de carboidrato manose-6-fosfato que endereça muitas hidrolases lisossomais.",
+        "O receptor KDEL promove recuperação via COPI. A saída pode ocorrer: o sinal não constitui uma barreira absoluta de retenção."
+      ]
+    },
+    {
+      "id": "xt1_37",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Quale associazione proteina-funzione è ERRATA?",
+      "opts": [
+        "α-SNAP: fornisce le due eliche di SNAP-25 nel complesso SNARE neuronale",
+        "SNAP-25: contribuisce con due eliche al complesso SNARE neuronale",
+        "NSF: usa ATP nel disassemblaggio del complesso SNARE",
+        "Dinamina: usa GTP nella scissione endocitica classica",
+        "Sinaptotagmina: agisce da sensore del Ca²⁺ nell’esocitosi neuronale rapida"
+      ],
+      "ex": "α-SNAP e SNAP-25 são proteínas diferentes; as duas hélices pertencem a SNAP-25.",
+      "exp": [
+        "A questão pede a associação **errada**: α-SNAP não substitui SNAP-25 como componente das quatro hélices do complexo neuronal.",
+        "SNAP-25 contribui com duas hélices; sinaptobrevina e sintaxina fornecem uma cada. A associação entre SNAP-25 e a contribuição de duas hélices está correta.",
+        "NSF usa ATP na desmontagem, auxiliada por α-SNAP; dinamina é uma GTPase da cisão endocítica. Ambas as associações estão corretas.",
+        "Sinaptotagmina detecta Ca²⁺ na exocitose rápida neuronal; não é o revestimento vesicular. A associação entre sinaptotagmina e a detecção de Ca²⁺ está correta."
+      ]
+    },
+    {
+      "id": "xt1_38",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Durante la fusione COMPLETA di una vescicola secretoria con la membrana plasmatica, un dominio proteico rivolto al lume vescicolare:",
+      "opts": [
+        "Viene esposto all’ambiente extracellulare",
+        "Diventa rivolto al citosol per inversione della proteina",
+        "Entra necessariamente nella matrice mitocondriale",
+        "Attraversa spontaneamente la bicapa per restare luminale",
+        "Viene trasferito nel nucleoplasma attraverso COPI"
+      ],
+      "ex": "A fusão preserva a orientação: o lado luminal passa a ser extracelular.",
+      "exp": [
+        "O lúmen da via secretora é **topologicamente equivalente ao exterior celular**.",
+        "A fusão completa conecta o lúmen ao exterior; o domínio fica exposto ao meio extracelular, preservando sua orientação.",
+        "A proteína não precisa inverter-se nem atravessar a bicamada: os dois distratores sobre inversão ou travessia estão errados.",
+        "A exocitose não direciona esse domínio à matriz mitocondrial ou ao nucleoplasma; COPI não é uma via de importação nuclear."
+      ]
+    },
+    {
+      "id": "xt1_39",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "La GTPasi che contribuisce alla scissione delle vescicole nella classica endocitosi mediata da clatrina è la ____.",
+      "acc": [
+        "dinamina"
+      ],
+      "ex": "A dinamina participa da constrição e cisão do colo vesicular.",
+      "exp": [
+        "Identifique a etapa: **cisão** separa a vesícula da membrana de origem.",
+        "A proteína pedida é a **dinamina**, uma GTPase; o nucleotídeo envolvido é GTP.",
+        "Clatrina forma o revestimento; SNARE promove fusão e NSF usa ATP na desmontagem do complexo SNARE. Essas funções não substituem a cisão."
+      ]
+    }
+  ],
+  "resolvidas": [
+    {
+      "id": "rt1_01",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Una Na⁺/K⁺-ATPasi compie 20 cicli. Qual è il bilancio corretto?",
+      "o": [
+        "40 Na⁺ fuori, 60 K⁺ dentro, 20 ATP",
+        "60 Na⁺ fuori, 40 K⁺ dentro, 20 ATP",
+        "60 Na⁺ dentro, 40 K⁺ fuori, 20 ATP",
+        "60 Na⁺ fuori, 40 K⁺ dentro, 100 ATP",
+        "20 Na⁺ fuori, 20 K⁺ dentro, 20 ATP"
+      ],
+      "c": 1,
+      "passos": [
+        "Anote por ciclo: 3 Na⁺ saem, 2 K⁺ entram, 1 ATP é hidrolisado.",
+        "Multiplique cada quantidade por 20: 60, 40 e 20.",
+        "O saldo eletrogênico é 20 cargas positivas para fora; não é o total de 100 íons transportados."
+      ],
+      "por": [
+        "Inverte os coeficientes de Na⁺ e K⁺.",
+        "",
+        "Inverte o sentido dos transportes.",
+        "Conta um ATP por íon, em vez de um por ciclo.",
+        "Ignora a estequiometria 3:2."
+      ],
+      "pega": "Conte ATP por ciclo, não por íon transportado."
+    },
+    {
+      "id": "rt1_02",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "Dopo l’inibizione della Na⁺/K⁺-ATPasi, quale trasporto di glucosio dipende direttamente dal gradiente di Na⁺ che si riduce?",
+      "o": [
+        "Diffusione tramite GLUT",
+        "Diffusione semplice nella bicapa",
+        "Simporto tramite SGLT1",
+        "Trasporto tramite acquaporina",
+        "Trasporto tramite CFTR"
+      ],
+      "c": 2,
+      "passos": [
+        "A bomba mantém Na⁺ baixo dentro da célula.",
+        "Sem sua atividade, o gradiente tende a diminuir progressivamente.",
+        "SGLT1 acopla entrada de glicose à entrada de Na⁺ e perde força motriz; não hidrolisa ATP diretamente."
+      ],
+      "por": [
+        "GLUT depende do gradiente de glicose, não de Na⁺ diretamente.",
+        "Glicose não atravessa eficientemente a bicamada sem transportador.",
+        "",
+        "Aquaporina conduz água, não glicose.",
+        "CFTR é canal de Cl⁻, não transportador de glicose."
+      ],
+      "pega": "Uma dependência indireta de ATP ainda caracteriza gasto de energia no transporte secundário."
+    },
+    {
+      "id": "rt1_03",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Un impulso percorre 1 m in una fibra a 100 m/s. Ignorando le sinapsi, impiega:",
+      "o": [
+        "100 s",
+        "1 s",
+        "100 ms",
+        "10 ms",
+        "0,1 ms"
+      ],
+      "c": 3,
+      "passos": [
+        "Use tempo = distância/velocidade.",
+        "1 m / (100 m/s) = 0,01 s.",
+        "Como 1 s = 1 000 ms, o tempo é 10 ms. Isso é propagação por um metro, não duração de um disparo local."
+      ],
+      "por": [
+        "Multiplica ou inverte a relação entre distância e velocidade.",
+        "Ignora o fator 100 da velocidade.",
+        "É dez vezes o resultado correto.",
+        "",
+        "É cem vezes menor que o resultado correto."
+      ],
+      "pega": "Converta segundos em milissegundos só depois de calcular o quociente."
+    },
+    {
+      "id": "rt1_04",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Un neurone passa da −70 mV a −80 mV. Quale interpretazione è corretta?",
+      "o": [
+        "Iperpolarizzazione di 10 mV",
+        "Depolarizzazione di 10 mV",
+        "Depolarizzazione di 150 mV",
+        "Nessuna variazione elettrica",
+        "Raggiungimento del potenziale di equilibrio del Na⁺"
+      ],
+      "c": 0,
+      "passos": [
+        "Calcule ΔV = −80 − (−70) = −10 mV.",
+        "O interior ficou mais negativo: houve hiperpolarização.",
+        "Isso pode ocorrer com aumento transitório da condutância ao K⁺; não prova alteração na quantidade de bombas."
+      ],
+      "por": [
+        "",
+        "Despolarização significaria ficar menos negativo.",
+        "Soma os módulos e ainda inverte a interpretação.",
+        "Os dois valores diferem em 10 mV.",
+        "O equilíbrio do Na⁺ é tipicamente positivo, perto de +60 mV."
+      ],
+      "pega": "Mais negativo significa hiperpolarizado, mesmo quando o módulo da voltagem aumenta."
+    },
+    {
+      "id": "rt1_05",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Quale struttura ha il diametro MINORE, usando i valori indicati?",
+      "o": [
+        "Vescicola di clatrina: 100 nm",
+        "Vescicola sinaptica: 40 nm",
+        "Batterio: 1 µm",
+        "Cellula animale: 20 µm",
+        "Nucleo: 5 µm"
+      ],
+      "c": 1,
+      "passos": [
+        "A pergunta pede o menor diâmetro, não o menor número sem considerar unidades.",
+        "Converta para nm: 100, 40, 1 000, 20 000 e 5 000.",
+        "40 nm é o menor valor e corresponde à vesícula sináptica; os valores indicados são exemplos, não tamanhos universais."
+      ],
+      "por": [
+        "100 nm é maior que 40 nm.",
+        "",
+        "1 µm equivale a 1 000 nm.",
+        "20 µm equivalem a 20 000 nm.",
+        "5 µm equivalem a 5 000 nm."
+      ],
+      "pega": "Compare grandezas depois de converter todas para a mesma unidade."
+    },
+    {
+      "id": "rt1_06",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Una proteina solubile entra nel RE, non possiede KDEL né un segnale lisosomiale. Il destino più probabile è:",
+      "o": [
+        "Importazione nel nucleo tramite RAB",
+        "Recupero obbligatorio nel RE tramite COPII",
+        "Secrezione costitutiva dopo il passaggio nel Golgi",
+        "Accumulo nel lisosoma tramite KDEL",
+        "Ritorno libero nel citosol attraverso la bicapa"
+      ],
+      "c": 2,
+      "passos": [
+        "A sequência-sinal já encaminhou a proteína ao lúmen do RE.",
+        "Sem sinal adicional, uma proteína solúvel tende a seguir RE → Golgi → exterior.",
+        "KDEL permitiria recuperação por COPI; M6P pode endereçar enzimas lisossomais.",
+        "Na secreção constitutiva não é necessário armazenar grânulos à espera de um sinal agudo de Ca²⁺."
+      ],
+      "por": [
+        "RAB atua no tráfego vesicular, não como receptor de importação nuclear.",
+        "COPII promove saída do RE, não recuperação obrigatória.",
+        "",
+        "KDEL recupera ao RE; não é sinal lisossomal.",
+        "A proteína não difunde livremente pela bicamada."
+      ],
+      "pega": "Entrar no RE define uma rota; permanecer no RE exige informações adicionais."
+    },
+    {
+      "id": "rt1_07",
+      "u": 5,
+      "ct": "c5_1",
+      "q": "La CFTR appartiene alla famiglia ABC. Quale conclusione è corretta?",
+      "o": [
+        "Ogni ione Cl⁻ viene pompato contro gradiente consumando un ATP",
+        "La CFTR è un canale del Na⁺ identico a SGLT1",
+        "L’ATP regola l’apertura, mentre il Cl⁻ attraversa il canale secondo il gradiente elettrochimico",
+        "La CFTR non interagisce mai con ATP perché è un canale",
+        "L’apertura del canale impone sempre l’ingresso del Cl⁻ nella cellula"
+      ],
+      "c": 2,
+      "passos": [
+        "Pertencer à família **ABC** não basta para concluir que a proteína bombeia seu substrato contra gradiente.",
+        "CFTR é a exceção funcional: atua como **canal de Cl⁻** cuja abertura é regulada por ATP.",
+        "Diferencie a energia da regulação do canal da força que move os íons: o fluxo de Cl⁻ acompanha seu gradiente eletroquímico.",
+        "O sentido do fluxo depende das condições eletroquímicas, e não de uma entrada obrigatória de Cl⁻."
+      ],
+      "por": [
+        "Confunde regulação do canal com bombeamento de um Cl⁻ por ATP.",
+        "CFTR conduz Cl⁻; SGLT1 é simportador Na⁺/glicose, não canal de Na⁺.",
+        "",
+        "Ser canal não impede interação regulatória com ATP.",
+        "O sentido depende do gradiente eletroquímico; não é necessariamente para dentro."
+      ],
+      "pega": "ATP pode regular um canal sem bombear diretamente os íons que o atravessam."
+    },
+    {
+      "id": "rt1_08",
+      "u": 5,
+      "ct": "c5_2",
+      "q": "Durante un potenziale d’azione, il neurone scende da +30 mV a −70 mV. Quale spiegazione è corretta?",
+      "o": [
+        "La Na⁺/K⁺-ATPasi accelera e produce da sola la discesa in pochi millisecondi",
+        "I canali del Na⁺ si inattivano e l’uscita di K⁺ attraverso canali favorisce la ripolarizzazione",
+        "Il K⁺ entra per rendere negativo l’interno della cellula",
+        "L’ingresso di Ca²⁺ è il meccanismo generale della discesa nel potenziale neuronale descritto",
+        "I canali del Na⁺ restano tutti aperti e disponibili durante l’intera discesa"
+      ],
+      "c": 1,
+      "passos": [
+        "A voltagem volta a valores negativos: a fase descrita é **repolarização**, com variação de −100 mV.",
+        "A inativação dos canais de Na⁺ reduz a corrente de entrada; a abertura dos canais de K⁺ permite saída de carga positiva.",
+        "Essa mudança de condutâncias explica a descida rápida. A bomba mantém gradientes ao longo do tempo, mas não executa sozinha essa fase.",
+        "Entradas de K⁺ ou de Ca²⁺ não explicam o mecanismo descrito; canais de Na⁺ inativados não são canais abertos disponíveis."
+      ],
+      "por": [
+        "Atribui à bomba uma fase rápida produzida principalmente por mudanças de condutância dos canais.",
+        "",
+        "Inverte o sentido do fluxo de K⁺ nessa fase; a saída de carga positiva favorece a negatividade interna.",
+        "Entrada de Ca²⁺ acrescenta carga positiva e não é a explicação da repolarização neuronal descrita.",
+        "Ignora a inativação dos canais de Na⁺ durante o potencial de ação."
+      ],
+      "pega": "A queda rápida da voltagem não equivale à restauração imediata de todos os gradientes iônicos."
+    },
+    {
+      "id": "rt1_09",
+      "u": 5,
+      "ct": "c5_9",
+      "q": "Una glicoproteina transmembrana espone uno zucchero nel lume del RE. Dopo il passaggio nel Golgi e l’esocitosi con fusione completa, dove si trova lo zucchero?",
+      "o": [
+        "Sul lato citosolico della membrana plasmatica",
+        "Nella matrice mitocondriale, dopo il trasporto COPII",
+        "Nel nucleoplasma, dopo il recupero tramite KDEL",
+        "Sulla faccia extracellulare della membrana plasmatica",
+        "Libero nel citosol per inversione spontanea della glicoproteina"
+      ],
+      "c": 3,
+      "passos": [
+        "Marque a face inicial: o açúcar está voltado para o **lúmen do RE**, não para o citosol.",
+        "Brotamento e fusão vesicular preservam a orientação dos domínios da proteína entre RE, Golgi e vesícula.",
+        "Na fusão completa com a membrana plasmática, o lúmen vesicular se conecta ao exterior. O açúcar passa a integrar a face extracelular.",
+        "Não há inversão da glicoproteína nem transporte para mitocôndria ou núcleo nessa via."
+      ],
+      "por": [
+        "A face luminal não passa a ser citosólica durante o transporte vesicular.",
+        "COPII atua na saída do RE para o Golgi, não na importação para a matriz mitocondrial.",
+        "KDEL recupera muitas proteínas solúveis para o RE, não para o nucleoplasma.",
+        "",
+        "A orientação é preservada; não ocorre inversão espontânea para liberar o açúcar no citosol."
+      ],
+      "pega": "Lúmen da via secretora e exterior celular são topologicamente equivalentes."
+    }
+  ],
+  "traducao": {
+    "0": "0",
+    "1": "1",
+    "2": "2",
+    "3": "3",
+    "4": "4",
+    "5": "5",
+    "10": "10",
+    "15": "15",
+    "25": "25",
+    "100": "100",
+    "Una membrana spessa 8 nm ha uno spessore di:": "Uma membrana de 8 nm tem espessura de:",
+    "0,008 µm": "0,008 µm",
+    "0,08 µm": "0,08 µm",
+    "0,8 µm": "0,8 µm",
+    "8 µm": "8 µm",
+    "80 µm": "80 µm",
+    "Dopo 10 cicli della Na⁺/K⁺-ATPasi, quanti ioni Na⁺ sono espulsi e quanti ATP sono consumati?": "Após 10 ciclos da Na⁺/K⁺-ATPase, quantos íons Na⁺ são expulsos e quantos ATP são consumidos?",
+    "30 Na⁺ e 10 ATP": "30 Na⁺ e 10 ATP",
+    "20 Na⁺ e 10 ATP": "20 Na⁺ e 10 ATP",
+    "30 Na⁺ e 30 ATP": "30 Na⁺ e 30 ATP",
+    "10 Na⁺ e 30 ATP": "10 Na⁺ e 30 ATP",
+    "50 Na⁺ e 10 ATP": "50 Na⁺ e 10 ATP",
+    "SGLT1 trasporta 5 molecole di glucosio. Quanti ioni Na⁺ le accompagnano secondo la sua stechiometria?": "SGLT1 transporta 5 moléculas de glicose. Quantos íons Na⁺ as acompanham segundo sua estequiometria?",
+    "Quale affermazione sulla CFTR è FALSA?": "Qual afirmação sobre a CFTR é FALSA?",
+    "Pompa Cl⁻ contro gradiente a ogni ciclo di ATP": "Bombeia Cl⁻ contra o gradiente a cada ciclo de ATP",
+    "Appartiene alla famiglia ABC": "Pertence à família ABC",
+    "È un canale per Cl⁻": "É um canal de Cl⁻",
+    "La sua attività è regolata da ATP": "Sua atividade é regulada por ATP",
+    "Permette un flusso di Cl⁻ secondo il gradiente elettrochimico": "Permite fluxo de Cl⁻ segundo o gradiente eletroquímico",
+    "Quale associazione è corretta?": "Qual associação está correta?",
+    "SERCA — trasporto di Ca²⁺ nel RE": "SERCA — transporte de Ca²⁺ para o RE",
+    "PMCA — ingresso di Ca²⁺ nel citosol": "PMCA — entrada de Ca²⁺ no citosol",
+    "V-ATPasi — sintesi di ATP nel lisosoma": "V-ATPase — síntese de ATP no lisossomo",
+    "GLUT — simporto Na⁺/glucosio": "GLUT — simporte Na⁺/glicose",
+    "MDR1 — canale per acqua": "MDR1 — canal de água",
+    "Quale processo è passivo?": "Qual processo é passivo?",
+    "Ingresso di glucosio tramite GLUT secondo gradiente": "Entrada de glicose por GLUT segundo o gradiente",
+    "Ingresso di glucosio tramite SGLT1 contro il suo gradiente": "Entrada de glicose por SGLT1 contra seu gradiente",
+    "Espulsione di Na⁺ tramite Na⁺/K⁺-ATPasi": "Expulsão de Na⁺ por Na⁺/K⁺-ATPase",
+    "Accumulo di Ca²⁺ nel RE tramite SERCA": "Acúmulo de Ca²⁺ no RE por SERCA",
+    "Acidificazione lisosomiale tramite V-ATPasi": "Acidificação lisossomal por V-ATPase",
+    "Per ogni ciclo della Na⁺/K⁺-ATPasi, la carica positiva netta trasferita verso l’esterno è pari a ____ carica elementare.": "A cada ciclo da Na⁺/K⁺-ATPase, a carga positiva líquida transferida para fora equivale a ____ carga elementar.",
+    "Il rivestimento glucidico sulla faccia esterna della membrana è il ____.": "O revestimento glicídico na face externa da membrana é o ____.",
+    "Un neurone passa da −70 mV a −55 mV. La variazione è:": "Um neurônio passa de −70 mV a −55 mV. A variação é:",
+    "+15 mV, depolarizzazione": "+15 mV, despolarização",
+    "−15 mV, iperpolarizzazione": "−15 mV, hiperpolarização",
+    "+125 mV, depolarizzazione": "+125 mV, despolarização",
+    "−125 mV, ripolarizzazione": "−125 mV, repolarização",
+    "0 mV, perché entrambi i valori sono negativi": "0 mV, pois ambos os valores são negativos",
+    "Dal riposo a −70 mV al picco a +30 mV, l’ampiezza del potenziale d’azione è:": "Do repouso a −70 mV ao pico de +30 mV, a amplitude do potencial de ação é:",
+    "100 mV": "100 mV",
+    "40 mV": "40 mV",
+    "30 mV": "30 mV",
+    "70 mV": "70 mV",
+    "−100 mV": "−100 mV",
+    "Un impulso percorre 0,6 m a 60 m/s. Il tempo richiesto è:": "Um impulso percorre 0,6 m a 60 m/s. O tempo necessário é:",
+    "10 ms": "10 ms",
+    "1 ms": "1 ms",
+    "100 ms": "100 ms",
+    "10 s": "10 s",
+    "36 s": "36 s",
+    "Durante il periodo refrattario assoluto, un secondo potenziale d’azione non nasce perché:": "Durante o período refratário absoluto, um segundo potencial de ação não surge porque:",
+    "Molti canali del Na⁺ sono inattivati": "Muitos canais de Na⁺ estão inativados",
+    "La pompa Na⁺/K⁺ ha consumato tutto l’ATP": "A bomba Na⁺/K⁺ consumiu todo o ATP",
+    "Tutti gli ioni Na⁺ sono già entrati": "Todos os íons Na⁺ já entraram",
+    "I canali del K⁺ sono scomparsi": "Os canais de K⁺ desapareceram",
+    "La mielina impedisce ogni corrente": "A mielina impede toda corrente",
+    "Quale affermazione sul potenziale d’azione neuronale è FALSA?": "Qual afirmação sobre o potencial de ação neuronal é FALSA?",
+    "La rapida ripolarizzazione è prodotta dalla pompa Na⁺/K⁺": "A repolarização rápida é produzida pela bomba Na⁺/K⁺",
+    "L’ingresso di Na⁺ favorisce la fase ascendente": "A entrada de Na⁺ favorece a fase ascendente",
+    "L’uscita di K⁺ favorisce la fase discendente": "A saída de K⁺ favorece a fase descendente",
+    "La mielina permette la conduzione saltatoria": "A mielina permite condução saltatória",
+    "Nel terminale l’ingresso di Ca²⁺ favorisce l’esocitosi": "No terminal a entrada de Ca²⁺ favorece exocitose",
+    "Se aumenta moderatamente il K⁺ extracellulare, senza altre variazioni, il potenziale di riposo tende a:": "Se o K⁺ extracelular aumenta moderadamente, sem outras mudanças, o potencial de repouso tende a:",
+    "Diventare meno negativo": "Ficar menos negativo",
+    "Diventare più negativo": "Ficar mais negativo",
+    "Coincidere sempre con +60 mV": "Coincidir sempre com +60 mV",
+    "Restare identico per definizione": "Permanecer idêntico por definição",
+    "Oscillare obbligatoriamente tra +30 e +60 mV": "Oscilar obrigatoriamente entre +30 e +60 mV",
+    "La durata tipica di un potenziale d’azione neuronale è dell’ordine dei ____, non dei secondi.": "A duração típica de um potencial de ação neuronal é da ordem dos ____, não dos segundos.",
+    "I tratti senza mielina in cui si rigenera il potenziale d’azione sono i nodi di ____.": "Os trechos sem mielina onde o potencial de ação se regenera são os nós de ____.",
+    "Una vescicola sinaptica di 50 nm ha un diametro di:": "Uma vesícula sináptica de 50 nm tem diâmetro de:",
+    "0,05 µm": "0,05 µm",
+    "0,5 µm": "0,5 µm",
+    "5 µm": "5 µm",
+    "50 µm": "50 µm",
+    "500 µm": "500 µm",
+    "Con Ca²⁺ esterno a 1 mM e citosolico a 100 nM, il rapporto esterno/interno è:": "Com Ca²⁺ externo a 1 mM e citosólico a 100 nM, a razão externo/interno é:",
+    "10 000": "10 000",
+    "1 000": "1 000",
+    "0,0001": "0,0001",
+    "Nel complesso SNARE neuronale classico, quante eliche sono fornite complessivamente da sinaptobrevina, sintaxina e SNAP-25?": "No complexo SNARE neuronal clássico, quantas hélices são fornecidas ao todo por sinaptobrevina, sintaxina e SNAP-25?",
+    "Una proteina solubile con KDEL sfuggita al RE viene recuperata prevalentemente tramite:": "Uma proteína solúvel com KDEL que escapou do RE é recuperada principalmente por:",
+    "Recettore KDEL e trasportatori COPI": "Receptor KDEL e transportadores COPI",
+    "Recettore KDEL e trasportatori COPII verso il Golgi": "Receptor KDEL e transportadores COPII para o Golgi",
+    "Mannosio-6-fosfato e invio al lisosoma": "Manose-6-fosfato e envio ao lisossomo",
+    "Importina e poro nucleare": "Importina e poro nuclear",
+    "GLUT e membrana plasmatica": "GLUT e membrana plasmática",
+    "Quale associazione è FALSA nel traffico vescicolare?": "Qual associação é FALSA no tráfego vesicular?",
+    "COPII — uscita dal RE": "COPII — saída do RE",
+    "Clatrina — endocitosi mediata da recettori": "Clatrina — endocitose mediada por receptores",
+    "Dinamina — distacco di vescicole endocitiche": "Dinamina — desprendimento de vesículas endocíticas",
+    "NSF e α-SNAP — disassemblaggio delle SNARE con ATP": "NSF e α-SNAP — desmontagem das SNARE com ATP",
+    "La tossina botulinica riduce la liberazione del neurotrasmettitore perché:": "A toxina botulínica reduz a liberação do neurotransmissor porque:",
+    "Taglia proteine SNARE necessarie alla fusione": "Cliva proteínas SNARE necessárias à fusão",
+    "Blocca la sintesi di tutti i fosfolipidi": "Bloqueia a síntese de todos os fosfolipídios",
+    "Trasforma COPI in COPII": "Transforma COPI em COPII",
+    "Pompa Ca²⁺ nel terminale": "Bombeia Ca²⁺ para o terminal",
+    "Converte KDEL in mannosio-6-fosfato": "Converte KDEL em manose-6-fosfato",
+    "La piccola GTPasi che contribuisce all’identità e all’ancoraggio delle vescicole appartiene alla famiglia ____.": "A pequena GTPase que contribui para a identidade e a ancoragem das vesículas pertence à família ____.",
+    "La sequenza KDEL contiene ____ amminoacidi.": "A sequência KDEL contém ____ aminoácidos.",
+    "RAB — fusione diretta delle membrane lipidiche senza SNARE": "RAB — fusão direta das bicamadas sem SNARE",
+    "Una Na⁺/K⁺-ATPasi compie 20 cicli. Qual è il bilancio corretto?": "Uma Na⁺/K⁺-ATPase completa 20 ciclos. Qual é o balanço correto?",
+    "40 Na⁺ fuori, 60 K⁺ dentro, 20 ATP": "40 Na⁺ para fora, 60 K⁺ para dentro, 20 ATP",
+    "60 Na⁺ fuori, 40 K⁺ dentro, 20 ATP": "60 Na⁺ para fora, 40 K⁺ para dentro, 20 ATP",
+    "60 Na⁺ dentro, 40 K⁺ fuori, 20 ATP": "60 Na⁺ para dentro, 40 K⁺ para fora, 20 ATP",
+    "60 Na⁺ fuori, 40 K⁺ dentro, 100 ATP": "60 Na⁺ para fora, 40 K⁺ para dentro, 100 ATP",
+    "20 Na⁺ fuori, 20 K⁺ dentro, 20 ATP": "20 Na⁺ para fora, 20 K⁺ para dentro, 20 ATP",
+    "Dopo l’inibizione della Na⁺/K⁺-ATPasi, quale trasporto di glucosio dipende direttamente dal gradiente di Na⁺ che si riduce?": "Após a inibição da Na⁺/K⁺-ATPase, qual transporte de glicose depende diretamente do gradiente de Na⁺ que diminui?",
+    "Diffusione tramite GLUT": "Difusão por GLUT",
+    "Diffusione semplice nella bicapa": "Difusão simples pela bicamada",
+    "Simporto tramite SGLT1": "Simporte por SGLT1",
+    "Trasporto tramite acquaporina": "Transporte por aquaporina",
+    "Trasporto tramite CFTR": "Transporte por CFTR",
+    "Un impulso percorre 1 m in una fibra a 100 m/s. Ignorando le sinapsi, impiega:": "Um impulso percorre 1 m em uma fibra a 100 m/s. Ignorando sinapses, leva:",
+    "100 s": "100 s",
+    "1 s": "1 s",
+    "0,1 ms": "0,1 ms",
+    "Un neurone passa da −70 mV a −80 mV. Quale interpretazione è corretta?": "Um neurônio passa de −70 mV a −80 mV. Qual interpretação está correta?",
+    "Iperpolarizzazione di 10 mV": "Hiperpolarização de 10 mV",
+    "Depolarizzazione di 10 mV": "Despolarização de 10 mV",
+    "Depolarizzazione di 150 mV": "Despolarização de 150 mV",
+    "Nessuna variazione elettrica": "Nenhuma variação elétrica",
+    "Raggiungimento del potenziale di equilibrio del Na⁺": "Atingimento do potencial de equilíbrio do Na⁺",
+    "Quale struttura ha il diametro MINORE, usando i valori indicati?": "Qual estrutura tem o MENOR diâmetro, usando os valores indicados?",
+    "Vescicola di clatrina: 100 nm": "Vesícula de clatrina: 100 nm",
+    "Vescicola sinaptica: 40 nm": "Vesícula sináptica: 40 nm",
+    "Batterio: 1 µm": "Bactéria: 1 µm",
+    "Cellula animale: 20 µm": "Célula animal: 20 µm",
+    "Nucleo: 5 µm": "Núcleo: 5 µm",
+    "Una proteina solubile entra nel RE, non possiede KDEL né un segnale lisosomiale. Il destino più probabile è:": "Uma proteína solúvel entra no RE e não possui KDEL nem sinal lisossomal. O destino mais provável é:",
+    "Importazione nel nucleo tramite RAB": "Importação nuclear por RAB",
+    "Recupero obbligatorio nel RE tramite COPII": "Recuperação obrigatória para o RE por COPII",
+    "Secrezione costitutiva dopo il passaggio nel Golgi": "Secreção constitutiva após passagem pelo Golgi",
+    "Accumulo nel lisosoma tramite KDEL": "Acúmulo no lisossomo por KDEL",
+    "Ritorno libero nel citosol attraverso la bicapa": "Retorno livre ao citosol pela bicamada",
+    "SRP": "SRP (partícula de reconhecimento de sinal)",
+    "clatrina": "clatrina",
+    "COPI": "COPI",
+    "importina": "importina",
+    "2 ATP, 2 FADH₂, 2 acetil-CoA": "2 ATP, 2 FADH₂, 2 acetil-CoA",
+    "36 ATP": "36 ATP",
+    "1 ATP, 1 NADH, 1 piruvato": "1 ATP, 1 NADH, 1 piruvato",
+    "O₂": "O₂",
+    "NAD⁺": "NAD⁺",
+    "FAD": "FAD",
+    "CO₂": "CO₂",
+    "citocromo c": "citocromo c",
+    "mitofagia": "mitofagia",
+    "A": "A",
+    "P": "P",
+    "E": "E",
+    "Z": "Z",
+    "frameshift": "mudança do quadro de leitura",
+    "conservativa": "conservativa",
+    "45,X": "45,X",
+    "47,XXY": "47,XXY",
+    "47,XX,+21": "47,XX,+21",
+    "47,XYY": "47,XYY",
+    "46,XX": "46,XX",
+    "3:1": "3:1",
+    "1:2:1": "1:2:1",
+    "1:1": "1:1",
+    "9:3:3:1": "9:3:3:1",
+    "poliploidia": "poliploidia",
+    "oncogene": "oncogene",
+    "GTP": "GTP",
+    "GDP": "GDP",
+    "ATP": "ATP",
+    "cAMP": "cAMP",
+    "Ca²⁺": "Ca²⁺",
+    "IP₃ e DAG": "IP₃ e DAG",
+    "cGMP": "cGMP",
+    "NO": "NO",
+    "acetilcolina": "acetilcolina",
+    "DNA": "DNA",
+    "citoplasma": "citoplasma",
+    "−70 mV": "−70 mV",
+    "+30 mV": "+30 mV",
+    "0 mV": "0 mV",
+    "−10 mV": "−10 mV",
+    "+70 mV": "+70 mV",
+    "1 NADH e 1 ATP": "1 NADH e 1 ATP",
+    "6 NADH e 2 FADH₂": "6 NADH e 2 FADH₂",
+    "acetil-CoA": "acetil-CoA",
+    "citrato": "citrato",
+    "5'→3'": "5'→3'",
+    "3'→5'": "3'→5'",
+    "triptofano": "triptofano",
+    "NHEJ": "NHEJ",
+    "1:1:1:1": "1:1:1:1",
+    "9:7": "9:7",
+    "1/2": "1/2",
+    "1/4": "1/4",
+    "3/4": "3/4",
+    "ciclina B": "ciclina B",
+    "ciclina D": "ciclina D",
+    "ciclina E": "ciclina E",
+    "ciclina C": "ciclina C",
+    "IP₃": "IP₃",
+    "DAG": "DAG",
+    "Ras": "Ras",
+    "5'-UACGGA-3'": "5'-UACGGA-3'",
+    "5'-ATGCCT-3'": "5'-ATGCCT-3'",
+    "5'-AUGCCU-3'": "5'-AUGCCU-3'",
+    "5'-AGGCAU-3'": "5'-AGGCAU-3'",
+    "5'-UCCGUA-3'": "5'-UCCGUA-3'",
+    "1/8": "1/8",
+    "1/16": "1/16",
+    "2/3": "2/3",
+    "1/3": "1/3",
+    "BCL-2": "BCL-2",
+    "BCL-XL": "BCL-XL",
+    "BAX e BAK": "BAX e BAK",
+    "triplo X": "triplo X",
+    "materna": "materna",
+    "paterna": "paterna",
+    "Quale affermazione sull’asimmetria della membrana plasmatica è ERRATA?": "Qual afirmação sobre a assimetria da membrana plasmática está ERRADA?",
+    "Le catene glucidiche del glicocalice sono rivolte verso il citosol": "As cadeias de carboidratos do glicocálice estão voltadas para o citosol",
+    "I glicolipidi espongono i loro zuccheri verso l’esterno": "Os glicolipídios expõem seus açúcares para o exterior",
+    "Il movimento laterale avviene nello stesso foglietto": "O movimento lateral ocorre no mesmo folheto",
+    "Il flip-flop trasferisce lipidi tra i due foglietti": "O flip-flop transfere lipídios entre os dois folhetos",
+    "Le due facce della membrana hanno composizione diversa": "As duas faces da membrana têm composição diferente",
+    "Quale associazione tra pompa del Ca²⁺ e direzione del trasporto è corretta?": "Qual associação entre bomba de Ca²⁺ e sentido do transporte está correta?",
+    "SERCA: dal citosol al lume del RE": "SERCA: do citosol para o lúmen do RE",
+    "SERCA: dal lume del RE al citosol": "SERCA: do lúmen do RE para o citosol",
+    "PMCA: dall’esterno cellulare al citosol": "PMCA: do exterior celular para o citosol",
+    "PMCA: dal citosol al lume del RE": "PMCA: do citosol para o lúmen do RE",
+    "SERCA: dal citosol alla matrice mitocondriale": "SERCA: do citosol para a matriz mitocondrial",
+    "Due soluzioni iso-osmotiche separate da una membrana cellulare sono necessariamente isotoniche?": "Duas soluções iso-osmóticas separadas por uma membrana celular são necessariamente isotônicas?",
+    "No, perché la tonicità dipende anche dalla permeabilità ai soluti nel tempo considerato": "Não, porque a tonicidade também depende da permeabilidade aos solutos no tempo considerado",
+    "Sì, perché ogni soluto è impermeante": "Sim, porque todo soluto é impermeante",
+    "Sì, perché l’acqua attraversa solo mediante trasporto attivo": "Sim, porque a água atravessa apenas por transporte ativo",
+    "No, perché le acquaporine idrolizzano ATP per spostare acqua": "Não, porque as aquaporinas hidrolisam ATP para deslocar água",
+    "Sì, perché l’osmolarità misura soltanto i soluti non penetranti": "Sim, porque a osmolaridade mede apenas os solutos não penetrantes",
+    "Quale affermazione sui lipidi di membrana è FALSA?": "Qual afirmação sobre os lipídios de membrana é FALSA?",
+    "Un doppio legame cis rende la coda identica a una coda satura rettilinea": "Uma ligação dupla cis torna a cauda idêntica a uma cauda saturada retilínea",
+    "Un doppio legame cis ostacola l’impacchettamento delle code": "Uma ligação dupla cis dificulta o empacotamento das caudas",
+    "Il colesterolo ostacola l’impacchettamento rigido a basse temperature": "O colesterol dificulta o empacotamento rígido a baixas temperaturas",
+    "Il colesterolo limita il movimento dei fosfolipidi a temperature elevate": "O colesterol limita o movimento dos fosfolipídios a temperaturas elevadas",
+    "Le teste polari dei fosfolipidi sono a contatto con l’acqua": "As cabeças polares dos fosfolipídios estão em contato com a água",
+    "Il passaggio di un fosfolipide da un foglietto all’altro della bicapa si chiama ____.": "A passagem de um fosfolipídio de um folheto para o outro da bicamada chama-se ____.",
+    "Quale affermazione su un canale del Na⁺ voltaggio-dipendente è corretta?": "Qual afirmação sobre um canal de Na⁺ dependente de voltagem está correta?",
+    "Lo stato inattivato richiede il recupero della disponibilità prima di una nuova apertura": "O estado inativado exige a recuperação da disponibilidade antes de uma nova abertura",
+    "Lo stato inattivato equivale sempre allo stato chiuso disponibile": "O estado inativado equivale sempre ao estado fechado disponível",
+    "La tetrodotossina blocca il canale inibendo la pompa Na⁺/K⁺": "A tetrodotoxina bloqueia o canal inibindo a bomba Na⁺/K⁺",
+    "L’apertura provoca normalmente l’uscita di Na⁺ durante la fase ascendente": "A abertura provoca normalmente a saída de Na⁺ durante a fase ascendente",
+    "La ripolarizzazione impedisce sempre il recupero dall’inattivazione": "A repolarização sempre impede a recuperação da inativação",
+    "Al potenziale di equilibrio del K⁺, con canali del K⁺ aperti, quale affermazione è corretta?": "No potencial de equilíbrio do K⁺, com canais de K⁺ abertos, qual afirmação está correta?",
+    "Il flusso netto di K⁺ è nullo anche se le concentrazioni sono diverse": "O fluxo líquido de K⁺ é nulo mesmo que as concentrações sejam diferentes",
+    "Le concentrazioni di K⁺ devono essere uguali sui due lati": "As concentrações de K⁺ devem ser iguais nos dois lados",
+    "Tutti i canali del K⁺ devono essere chiusi": "Todos os canais de K⁺ devem estar fechados",
+    "Il potenziale deve essere necessariamente di 0 mV": "O potencial deve ser necessariamente de 0 mV",
+    "L’intera cellula si trova necessariamente in equilibrio termodinamico": "A célula inteira está necessariamente em equilíbrio termodinâmico",
+    "Tutte le seguenti descrizioni della conduzione saltatoria sono corrette TRANNE una. Quale?": "Todas as descrições da condução saltatória a seguir estão corretas EXCETO uma. Qual?",
+    "Il potenziale d’azione si rigenera soltanto sotto la mielina e mai nei nodi": "O potencial de ação se regenera apenas sob a mielina e nunca nos nós",
+    "La corrente si propaga passivamente negli internodi": "A corrente se propaga passivamente nos internódios",
+    "I nodi di Ranvier permettono la rigenerazione del potenziale d’azione": "Os nós de Ranvier permitem a regeneração do potencial de ação",
+    "La mielina aumenta la resistenza della membrana internodale": "A mielina aumenta a resistência da membrana internodal",
+    "La mielina riduce la capacità elettrica della membrana internodale": "A mielina reduz a capacitância elétrica da membrana internodal",
+    "Quale affermazione sul periodo refrattario RELATIVO è corretta?": "Qual afirmação sobre o período refratário RELATIVO está correta?",
+    "Uno stimolo più intenso può generare un nuovo potenziale d’azione": "Um estímulo mais intenso pode gerar um novo potencial de ação",
+    "Nessuno stimolo può generare un nuovo potenziale d’azione per definizione": "Nenhum estímulo pode gerar um novo potencial de ação por definição",
+    "Tutti i canali del Na⁺ sono necessariamente ancora inattivati": "Todos os canais de Na⁺ necessariamente ainda estão inativados",
+    "La conduttanza residua del K⁺ facilita sempre il raggiungimento della soglia": "A condutância residual de K⁺ sempre facilita atingir o limiar",
+    "La pompa Na⁺/K⁺ deve invertire il suo ciclo per consentire il nuovo impulso": "A bomba Na⁺/K⁺ deve inverter seu ciclo para permitir o novo impulso",
+    "Un neurone passa da −70 mV a −60 mV senza invertire il segno del potenziale: questa variazione è una ____.": "Um neurônio passa de −70 mV para −60 mV sem inverter o sinal do potencial: essa variação é uma ____.",
+    "Quale affermazione sulla SRP è corretta?": "Qual afirmação sobre a SRP está correta?",
+    "Riconosce una sequenza segnale nella catena polipeptidica nascente": "Reconhece uma sequência-sinal na cadeia polipeptídica nascente",
+    "Riconosce direttamente KDEL come sequenza di basi dell’mRNA": "Reconhece diretamente KDEL como sequência de bases do mRNA",
+    "È il recettore del mannosio-6-fosfato nel trans-Golgi": "É o receptor de manose-6-fosfato no trans-Golgi",
+    "Forma il rivestimento COPII per recuperare proteine dal Golgi al RE": "Forma o revestimento COPII para recuperar proteínas do Golgi para o RE",
+    "Disassembla il complesso SNARE dopo la fusione": "Desmonta o complexo SNARE após a fusão",
+    "Quale descrizione del segnale KDEL è corretta?": "Qual descrição do sinal KDEL está correta?",
+    "È una sequenza C-terminale di molte proteine solubili residenti del RE": "É uma sequência C-terminal de muitas proteínas solúveis residentes do RE",
+    "È il segnale N-terminale universale di ingresso nel RE": "É o sinal N-terminal universal de entrada no RE",
+    "È una modifica glucidica che indirizza tutte le proteine ai lisosomi": "É uma modificação em carboidratos que direciona todas as proteínas aos lisossomos",
+    "È riconosciuto da COPII per il ritorno dal Golgi al RE": "É reconhecido por COPII para o retorno do Golgi para o RE",
+    "Impedisce in modo assoluto che una proteina lasci il RE": "Impede de modo absoluto que uma proteína saia do RE",
+    "Quale associazione proteina-funzione è ERRATA?": "Qual associação entre proteína e função está ERRADA?",
+    "α-SNAP: fornisce le due eliche di SNAP-25 nel complesso SNARE neuronale": "α-SNAP: fornece as duas hélices de SNAP-25 no complexo SNARE neuronal",
+    "SNAP-25: contribuisce con due eliche al complesso SNARE neuronale": "SNAP-25: contribui com duas hélices para o complexo SNARE neuronal",
+    "NSF: usa ATP nel disassemblaggio del complesso SNARE": "NSF: usa ATP na desmontagem do complexo SNARE",
+    "Dinamina: usa GTP nella scissione endocitica classica": "Dinamina: usa GTP na cisão endocítica clássica",
+    "Sinaptotagmina: agisce da sensore del Ca²⁺ nell’esocitosi neuronale rapida": "Sinaptotagmina: atua como sensor de Ca²⁺ na exocitose neuronal rápida",
+    "Durante la fusione COMPLETA di una vescicola secretoria con la membrana plasmatica, un dominio proteico rivolto al lume vescicolare:": "Durante a fusão COMPLETA de uma vesícula secretora com a membrana plasmática, um domínio proteico voltado para o lúmen vesicular:",
+    "Viene esposto all’ambiente extracellulare": "Fica exposto ao ambiente extracelular",
+    "Diventa rivolto al citosol per inversione della proteina": "Passa a ficar voltado para o citosol por inversão da proteína",
+    "Entra necessariamente nella matrice mitocondriale": "Entra necessariamente na matriz mitocondrial",
+    "Attraversa spontaneamente la bicapa per restare luminale": "Atravessa espontaneamente a bicamada para permanecer luminal",
+    "Viene trasferito nel nucleoplasma attraverso COPI": "É transferido para o nucleoplasma por COPI",
+    "La GTPasi che contribuisce alla scissione delle vescicole nella classica endocitosi mediata da clatrina è la ____.": "A GTPase que contribui para a cisão das vesículas na endocitose clássica mediada por clatrina é a ____.",
+    "La CFTR appartiene alla famiglia ABC. Quale conclusione è corretta?": "A CFTR pertence à família ABC. Qual conclusão está correta?",
+    "Ogni ione Cl⁻ viene pompato contro gradiente consumando un ATP": "Cada íon Cl⁻ é bombeado contra o gradiente consumindo um ATP",
+    "La CFTR è un canale del Na⁺ identico a SGLT1": "A CFTR é um canal de Na⁺ idêntico a SGLT1",
+    "L’ATP regola l’apertura, mentre il Cl⁻ attraversa il canale secondo il gradiente elettrochimico": "O ATP regula a abertura, enquanto o Cl⁻ atravessa o canal segundo o gradiente eletroquímico",
+    "La CFTR non interagisce mai con ATP perché è un canale": "A CFTR nunca interage com ATP porque é um canal",
+    "L’apertura del canale impone sempre l’ingresso del Cl⁻ nella cellula": "A abertura do canal sempre impõe a entrada de Cl⁻ na célula",
+    "Durante un potenziale d’azione, il neurone scende da +30 mV a −70 mV. Quale spiegazione è corretta?": "Durante um potencial de ação, o neurônio desce de +30 mV para −70 mV. Qual explicação está correta?",
+    "La Na⁺/K⁺-ATPasi accelera e produce da sola la discesa in pochi millisecondi": "A Na⁺/K⁺-ATPase acelera e produz sozinha a descida em poucos milissegundos",
+    "I canali del Na⁺ si inattivano e l’uscita di K⁺ attraverso canali favorisce la ripolarizzazione": "Os canais de Na⁺ se inativam e a saída de K⁺ por canais favorece a repolarização",
+    "Il K⁺ entra per rendere negativo l’interno della cellula": "O K⁺ entra para tornar negativo o interior da célula",
+    "L’ingresso di Ca²⁺ è il meccanismo generale della discesa nel potenziale neuronale descritto": "A entrada de Ca²⁺ é o mecanismo geral da descida no potencial neuronal descrito",
+    "I canali del Na⁺ restano tutti aperti e disponibili durante l’intera discesa": "Os canais de Na⁺ permanecem todos abertos e disponíveis durante toda a descida",
+    "Una glicoproteina transmembrana espone uno zucchero nel lume del RE. Dopo il passaggio nel Golgi e l’esocitosi con fusione completa, dove si trova lo zucchero?": "Uma glicoproteína transmembrana expõe um açúcar no lúmen do RE. Após passar pelo Golgi e sofrer exocitose com fusão completa, onde está o açúcar?",
+    "Sul lato citosolico della membrana plasmatica": "No lado citosólico da membrana plasmática",
+    "Nella matrice mitocondriale, dopo il trasporto COPII": "Na matriz mitocondrial, após o transporte COPII",
+    "Nel nucleoplasma, dopo il recupero tramite KDEL": "No nucleoplasma, após a recuperação por KDEL",
+    "Sulla faccia extracellulare della membrana plasmatica": "Na face extracelular da membrana plasmática",
+    "Libero nel citosol per inversione spontanea della glicoproteina": "Livre no citosol por inversão espontânea da glicoproteína"
+  },
+  "passos": [
+    [
+      "c",
+      "c5_1",
+      "Comece pela fronteira: o que atravessa a membrana e como."
+    ],
+    [
+      "r",
+      "rt1_01",
+      "Calcule o balanço de vários ciclos da bomba."
+    ],
+    [
+      "r",
+      "rt1_02",
+      "Relacione a bomba ao transporte secundário."
+    ],
+    [
+      "r",
+      "rt1_07",
+      "Separe a regulação por ATP do fluxo de Cl⁻ pela CFTR."
+    ],
+    [
+      "m",
+      "bomba",
+      "Veja a bomba funcionando e o que a ouabaína faz com o SGLT1."
+    ],
+    [
+      "r",
+      "r5a",
+      "Teste a ideia mais cobrada: a bomba sustenta os outros transportes."
+    ],
+    [
+      "c",
+      "c5_2",
+      "Com os gradientes que a bomba cria, nasce a voltagem da membrana."
+    ],
+    [
+      "r",
+      "rt1_03",
+      "Calcule o tempo de propagação do impulso."
+    ],
+    [
+      "r",
+      "rt1_04",
+      "Leia corretamente o sinal da variação de voltagem."
+    ],
+    [
+      "r",
+      "rt1_08",
+      "Identifique quem produz a descida rápida do potencial de ação."
+    ],
+    [
+      "m",
+      "pot",
+      "Dispare potenciais de ação: limiar, refratário, TTX e K⁺ externo."
+    ],
+    [
+      "r",
+      "r5b",
+      "Aplique: mudar o K⁺ de fora muda o repouso."
+    ],
+    [
+      "c",
+      "c5_9",
+      "No fim do axônio, o impulso vira exocitose: entram as SNARE."
+    ],
+    [
+      "r",
+      "rt1_05",
+      "Compare tamanhos usando a mesma unidade."
+    ],
+    [
+      "r",
+      "rt1_06",
+      "Use os sinais de destino para prever a secreção."
+    ],
+    [
+      "r",
+      "rt1_09",
+      "Acompanhe a orientação de um açúcar do RE até o glicocálice."
+    ],
+    [
+      "q",
+      5,
+      "Feche com questões da unidade."
+    ]
+  ]
+}

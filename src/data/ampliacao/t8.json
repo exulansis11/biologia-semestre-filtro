@@ -1,0 +1,1914 @@
+{
+  "trilha": "t8",
+  "secoes": {
+    "c5_3": {
+      "txt": [
+        "O **núcleo** (*nucleo*) organiza o genoma e separa transcrição e processamento de RNA da tradução citoplasmática. Seu diâmetro costuma ser da ordem de **5–10 µm**, variando com o tipo celular; o nucléolo frequentemente mede cerca de **1–3 µm**, também com grande variação. O **envelope nuclear** (*involucro nucleare*) possui duas membranas. A externa continua com o retículo endoplasmático e pode apresentar ribossomos; o espaço perinuclear comunica-se com o lúmen do RE. A membrana interna associa-se à **lâmina nuclear** (*lamina nucleare*), rede de laminas, proteínas da família dos filamentos intermediários que sustentam o núcleo e participam da ancoragem e organização da cromatina.",
+        "Os **complexos do poro nuclear** (*complessi del poro nucleare*) atravessam o envelope e contêm nucleoporinas. O complexo inteiro mede aproximadamente **120 nm de diâmetro externo**, com variação entre organismos; essa medida não corresponde à abertura livre de seu canal. Moléculas pequenas atravessam por difusão. Uma referência didática para difusão relativamente eficiente é uma massa abaixo de aproximadamente **40 kDa**, mas não existe corte absoluto: tamanho, forma e interações também importam. Uma proteína de 60 kDa com sinal apropriado pode entrar eficientemente por transporte mediado, sem precisar de vesículas.",
+        "O **sinal de localização nuclear** (*segnale di localizzazione nucleare*, NLS) clássico é rico em lisina e arginina. Importinas reconhecem a carga e interagem com nucleoporinas para atravessar a barreira seletiva. No núcleo, a ligação de **Ran-GTP** favorece a liberação da carga da importina. A RanGEF associada à cromatina promove troca de GDP por GTP; no lado citoplasmático, RanGAP estimula a hidrólise. Assim, predomina Ran-GTP dentro e Ran-GDP fora. Esse gradiente confere direção ao ciclo, sem transformar o poro em bomba que hidrolisa ATP a cada proteína transportada.",
+        "Na exportação, um **sinal de exportação nuclear** (*segnale di esportazione nucleare*, NES) é reconhecido por exportinas. No núcleo, exportina, carga e Ran-GTP formam um complexo; no citosol, a hidrólise de GTP favorece sua desmontagem. Portanto, Ran-GTP promove efeitos diferentes nos ciclos de importação e exportação. Proteínas podem atravessar o poro **já dobradas**, inclusive em complexos. Isso contrasta com a importação usual pela maquinaria TOM/TIM mitocondrial e com a translocação pelo translocon do RE, nas quais a cadeia atravessa essencialmente desdobrada. Não confunda transporte nuclear com brotamento de vesículas.",
+        "O **nucléolo** (*nucleolo*) concentra produção de rRNA e montagem inicial das subunidades ribossomais. Em humanos, organiza-se nas NOR, regiões organizadoras nucleolares dos braços curtos dos cromossomos acrocêntricos **13, 14, 15, 21 e 22**: cinco pares, dez cromossomos em uma célula diploide típica. Isso não implica dez nucléolos separados, pois regiões podem se reunir. A RNA polimerase I produz um precursor inicialmente 47S, processado em intermediários como o **45S**, do qual derivam **18S, 5,8S e 28S**. O rRNA **5S** é transcrito pela polimerase III no nucleoplasma e depois incorporado à montagem nucleolar.",
+        "As partículas pré-ribossomais são exportadas e completam sua maturação. O ribossomo citosólico eucariótico é **80S**, com subunidades **40S e 60S**; valores S indicam sedimentação e não se somam aritmeticamente. O nucléolo é um **condensado nuclear** (*condensato nucleare*), sem membrana própria. Separação de fase líquido-líquido e interações multivalentes ajudam a concentrar componentes, sem exigir compartimentos selados. Outros exemplos são os *speckles* de splicing, corpos de Cajal e corpos PML. Esses ambientes são dinâmicos; não se deve tratar todo condensado como uma gota ideal nem confundir ausência de membrana nucleolar com ausência de envelope ao redor do núcleo."
+      ],
+      "chave": [
+        "Envelope com duas membranas; externa contínua com RE; laminas sustentam a face interna.",
+        "NLS clássico rico em Lys/Arg; importina medeia entrada de proteínas dobradas.",
+        "RanGEF nuclear e RanGAP citoplasmática mantêm a assimetria Ran-GTP/Ran-GDP.",
+        "Ran-GTP libera carga de importina e favorece montagem do complexo de exportação.",
+        "NOR humanas: pares 13, 14, 15, 21 e 22; não equivalem ao número de nucléolos.",
+        "Pol I: precursor 47S/45S → 18S, 5,8S, 28S; Pol III: 5S fora do nucléolo.",
+        "Nucléolo, speckles, Cajal e PML: condensados sem membrana própria."
+      ],
+      "pega": "120 nm mede o complexo do poro inteiro; ≈40 kDa é referência gradual de difusão, não limite rígido de importação.",
+      "num": [
+        [
+          "Diâmetro nuclear típico",
+          "≈ 5–10 µm",
+          "Varia com o tipo celular."
+        ],
+        [
+          "Diâmetro nucleolar ilustrativo",
+          "≈ 1–3 µm",
+          "Número e tamanho variam com atividade e tipo celular."
+        ],
+        [
+          "Diâmetro externo do complexo do poro",
+          "≈ 120 nm = 0,12 µm",
+          "Não é o diâmetro livre do canal."
+        ],
+        [
+          "Referência de difusão pelo poro",
+          "≈ 40 kDa",
+          "Faixa didática, não limiar absoluto."
+        ],
+        [
+          "Membranas do envelope",
+          "2",
+          "A externa continua com o RE."
+        ],
+        [
+          "Cromossomos humanos com NOR",
+          "13, 14, 15, 21, 22",
+          "Cinco pares; dez cromossomos em célula diploide típica."
+        ],
+        [
+          "Produtos de rRNA derivados de 45S",
+          "18S, 5,8S e 28S",
+          "O 5S é transcrito separadamente por Pol III."
+        ],
+        [
+          "Ribossomo citosólico eucariótico",
+          "80S: 40S + 60S",
+          "S expressa sedimentação, não soma de massas."
+        ]
+      ],
+      "voc": [
+        [
+          "involucro nucleare",
+          "envelope nuclear"
+        ],
+        [
+          "poro nucleare",
+          "poro nuclear"
+        ],
+        [
+          "nucleoporina",
+          "nucleoporina"
+        ],
+        [
+          "segnale di localizzazione nucleare",
+          "sinal de localização nuclear"
+        ],
+        [
+          "importina",
+          "importina"
+        ],
+        [
+          "esportina",
+          "exportina"
+        ],
+        [
+          "nucleolo",
+          "nucléolo"
+        ],
+        [
+          "lamina nucleare",
+          "lâmina nuclear"
+        ],
+        [
+          "condensato nucleare",
+          "condensado nuclear"
+        ],
+        [
+          "separazione di fase",
+          "separação de fase"
+        ]
+      ],
+      "detalhes": [
+        "O **espaço perinuclear** (*spazio perinucleare*) comunica-se com o **lúmen do RE**, não com o nucleoplasma.",
+        "A **lâmina nuclear** fica na face **nucleoplasmática da membrana interna**; não reveste o espaço entre as duas membranas.",
+        "O **poro nuclear** atravessa o envelope onde as membranas interna e externa se unem; não é uma vesícula.",
+        "O **NLS clássico** é uma sequência da **proteína**, não do mRNA que a codifica.",
+        "O NLS clássico **em geral não é clivado** após a importação, permitindo novas entradas quando o núcleo se reorganiza.",
+        "Uma sequência NLS funcional **não precisa ocupar a extremidade N-terminal** da proteína.",
+        "No ciclo clássico, **importina α reconhece o NLS** e importina β participa da interação com o poro.",
+        "**Ran-GTP** nuclear tem dois papéis: favorece a **montagem** do complexo de exportação e a **liberação** da carga trazida pela importina.",
+        "**RanGEF troca GDP por GTP** na Ran; não fosforila o GDP ligado para convertê-lo em GTP.",
+        "O rRNA **5S** é transcrito pela **RNA polimerase III no nucleoplasma**, antes de participar da montagem nucleolar.",
+        "As **NOR** situam-se nos **braços curtos** dos acrocêntricos humanos 13, 14, 15, 21 e 22; várias NOR podem contribuir para um nucléolo.",
+        "A referência de **≈40 kDa para difusão** pelo poro não é um teto absoluto para transporte mediado de proteínas maiores."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Diagram human cell nucleus.svg",
+          "busca": "human cell nucleus nuclear envelope pores nucleolus LadyofHats",
+          "legenda": "Observe as duas membranas do envelope e os poros que o atravessam. O nucléolo está no interior nuclear e não possui membrana própria.",
+          "legenda_it": "Osserva le due membrane dell’involucro e i pori che lo attraversano. Il nucleolo si trova all’interno del nucleo e non possiede una membrana propria.",
+          "alt": "Diagrama legendado do núcleo com envelope, poros, cromatina e nucléolo."
+        }
+      ],
+      "prof": {
+        "ideia": "O núcleo compartimentaliza o genoma, mas mantém trocas seletivas pelos poros, orientadas pelo ciclo de Ran. O nucléolo concentra produção de rRNA e montagem inicial de subunidades ribossomais sem possuir membrana própria.",
+        "explicar": [
+          "Use a analogia de uma portaria seletiva. Na imagem do núcleo do app, localize envelope, poros e nucléolo; desenhe as duas membranas, a continuidade da externa com o RE e a lâmina na face nucleoplasmática da interna.",
+          "Compare na tabela num o núcleo de ≈5–10 µm, o nucléolo de ≈1–3 µm e o poro de ≈120 nm. Ressalte que a medida do poro é externa e que ≈40 kDa é referência gradual de difusão, sem limitar o transporte mediado.",
+          "Desenhe a entrada de uma proteína dobrada com NLS rico em lisina e arginina: importina α reconhece o sinal e importina β interage com o poro. Mostre que o NLS pertence à proteína, pode ser interno e em geral permanece após a entrada.",
+          "Marque RanGEF no núcleo e RanGAP no lado citoplasmático. Acompanhe a troca de GDP por GTP, a liberação da carga importada por Ran-GTP nuclear e a hidrólise favorecida no citoplasma.",
+          "Desenhe ao lado a exportação com NES: carga, exportina e Ran-GTP se associam no núcleo e se separam após hidrólise no citosol. Peça ao aluno para comparar o efeito de Ran-GTP nos dois ciclos.",
+          "Trace NOR → precursor 47S/45S → rRNA 18S, 5,8S e 28S, indicando Pol I; acrescente a produção separada de 5S por Pol III no nucleoplasma. Localize as NOR nos braços curtos dos cromossomos 13, 14, 15, 21 e 22, sem igualar NOR a número de nucléolos.",
+          "Retome o nucléolo da imagem como condensado dinâmico sem membrana e cite speckles, Cajal e PML. Feche com montagem e exportação das pré-subunidades: 40S e 60S compõem o ribossomo 80S, pois sedimentação não é soma aritmética."
+        ],
+        "perguntas": [
+          [
+            "Com qual compartimento o espaço perinuclear se comunica?",
+            "Com o lúmen do RE."
+          ],
+          [
+            "Uma proteína dobrada de 60 kDa com NLS funcional pode entrar no núcleo?",
+            "Sim, por transporte mediado por importinas através do poro."
+          ],
+          [
+            "O que RanGEF faz com o nucleotídeo ligado à Ran?",
+            "Promove a troca de GDP por GTP, sem fosforilar o GDP."
+          ],
+          [
+            "Como Ran-GTP atua sobre a carga na importação e na exportação?",
+            "Favorece liberação da carga importada e montagem do complexo de exportação no núcleo."
+          ],
+          [
+            "Onde e por qual polimerase é produzido o rRNA 5S?",
+            "No nucleoplasma, pela RNA polimerase III."
+          ],
+          [
+            "Por que dez cromossomos com NOR não exigem dez nucléolos?",
+            "Várias NOR podem contribuir para um mesmo nucléolo."
+          ]
+        ],
+        "erros": [
+          "Tratar ≈120 nm como abertura livre do canal ou ≈40 kDa como teto de entrada: diferencie diâmetro externo, difusão e transporte mediado.",
+          "Desenhar a lâmina entre as membranas ou ligar o espaço perinuclear ao nucleoplasma: refaça o corte do envelope com lâmina na face nuclear interna e continuidade do espaço com o lúmen do RE.",
+          "Colocar o NLS no mRNA ou afirmar que ele sempre é removido: localize o sinal na proteína e explique sua manutenção para novas importações.",
+          "Atribuir o mesmo efeito de Ran-GTP aos dois transportes: compare liberação na importação com associação na exportação, ambas no núcleo.",
+          "Dar membrana ao nucléolo ou atribuir 5S à Pol I: diferencie condensado de compartimento membranoso e separe a síntese de 5S por Pol III da via 47S/45S."
+        ],
+        "ponte": "As laminas que sustentam o núcleo pertencem aos filamentos intermediários; vamos situá-las entre os três componentes do citoesqueleto e seus movimentos.",
+        "tempo": "20–25 min"
+      }
+    },
+    "c5_11": {
+      "txt": [
+        "O **citoesqueleto** (*citoscheletro*) é uma rede dinâmica que sustenta a forma celular, distribui organelas e produz movimentos. Seus três componentes principais têm diâmetros diferentes: **microfilamentos de actina ≈7 nm**, **filamentos intermediários ≈10 nm** e **microtúbulos ≈25 nm**. Esses valores descrevem espessura, não comprimento; um mesmo filamento pode ter extensão de vários micrômetros. Para comparar unidades, 25 nm equivalem a 0,025 µm ou 250 Å. Não confunda a espessura de um microtúbulo com o diâmetro de um cílio inteiro, que contém vários microtúbulos e outras estruturas.",
+        "Os **microtúbulos** (*microtubuli*) são tubos ocos geralmente formados por **13 protofilamentos**. Cada protofilamento reúne heterodímeros de α e β-tubulina orientados na mesma direção, criando extremidades mais e menos. Ambas podem apresentar dinâmica, mas a extremidade mais costuma crescer mais rapidamente. No centrossomo, principal centro organizador de microtúbulos de muitas células animais, complexos de γ-tubulina nucleiam e frequentemente ancoram extremidades menos. Outros locais também podem nuclear microtúbulos. O centrossomo típico contém **dois centríolos**, cada um com **nove trincas** de microtúbulos, imersos no material pericentriolar.",
+        "A tubulina incorpora GTP, e a hidrólise do GTP da β-tubulina após incorporação favorece instabilidade. Uma capa de tubulina ligada a GTP estabiliza a extremidade em crescimento. Sua perda pode provocar **catástrofe**, transição para encurtamento; a retomada do crescimento é o resgate. Essa **instabilidade dinâmica** (*instabilità dinamica*) permite que o fuso explore o espaço e capture cromossomos. Colchicina e vincristina inibem a montagem e podem favorecer perda de microtúbulos; **taxol/paclitaxel estabiliza** o polímero e suprime sua dinâmica. Tanto desestabilização como estabilização excessiva comprometem a divisão.",
+        "Motores sobre microtúbulos hidrolisam **ATP**, embora a dinâmica da tubulina esteja ligada a GTP. Cinesinas transportadoras convencionais caminham para a extremidade mais; dineína citoplasmática dirige-se à menos. Existem cinesinas com outras funções e direções, portanto a regra não é universal para toda a família. No axônio, com orientação predominantemente mais para o terminal, cinesina convencional sustenta transporte anterógrado e dineína o retrógrado. Cílios e flagelos móveis clássicos apresentam axonema **9+2**, com nove duplas periféricas e dois microtúbulos centrais: **20 túbulos** na contagem estrutural. Dineínas axonemais geram deslizamento convertido em curvatura. Cílios primários geralmente têm organização 9+0.",
+        "Os **microfilamentos** (*microfilamenti*) resultam da polimerização de actina G em **actina F**, organizada em duas cadeias helicoidais. Também são polares. Actina liga ATP e sua hidrólise acompanha a dinâmica do filamento, mas o motor miosina utiliza seu próprio ATP para produzir força. **Miosina II** participa da contração muscular e do anel contrátil da citocinese; **miosina V** transporta cargas sobre actina. Feixes de actina sustentam microvilosidades, enquanto redes ramificadas formam lamelipódios na migração. Microvilosidades não possuem o axonema microtubular dos cílios; compartilhar uma projeção superficial não significa compartilhar estrutura ou função.",
+        "Os **filamentos intermediários** (*filamenti intermedi*) formam estruturas resistentes à tração. Sua montagem antiparalela produz filamentos **sem polaridade**, sem motores direcionais associados e sem necessidade direta de ATP ou GTP para polimerizar. Isso não significa que sua regulação seja independente de energia: fosforilações podem controlar a organização. Queratinas predominam em epitélios, vimentina em células mesenquimais, desmina em músculo e neurofilamentos em neurônios. **Laminas** formam a rede nuclear. Filamentos intermediários citoplasmáticos ligam-se a desmossomos e hemidesmossomos, distribuindo tensão entre células ou para a matriz. A classificação depende da proteína e da arquitetura, não apenas de uma medida isolada."
+      ],
+      "chave": [
+        "Diâmetros: actina ≈7 nm; intermediários ≈10 nm; microtúbulos ≈25 nm.",
+        "Microtúbulos: α/β-tubulina, geralmente 13 protofilamentos; γ-tubulina nucleia.",
+        "Tubulina: GTP; actina: ATP; motores de ambas as redes: ATP.",
+        "Cinesina convencional → mais; dineína → menos; axônio: anterógrado e retrógrado.",
+        "Axonema móvel clássico: 9 duplas + 2 centrais; centríolo: 9 trincas.",
+        "Taxol estabiliza; colchicina e vincristina prejudicam montagem e dinâmica.",
+        "Actina: microvilosidades, lamelipódios e anel; intermediários: resistência, sem polaridade."
+      ],
+      "pega": "9+2 descreve nove duplas e dois túbulos centrais, não onze túbulos; centríolos possuem nove trincas.",
+      "num": [
+        [
+          "Microfilamento de actina",
+          "≈ 7 nm",
+          "Menor diâmetro entre os três componentes."
+        ],
+        [
+          "Filamento intermediário",
+          "≈ 10 nm",
+          "Resistência à tração; sem polaridade."
+        ],
+        [
+          "Microtúbulo",
+          "≈ 25 nm = 250 Å",
+          "Tubo oco; 0,025 µm."
+        ],
+        [
+          "Parede do microtúbulo típico",
+          "13 protofilamentos",
+          "Cada protofilamento contém dímeros α/β."
+        ],
+        [
+          "Axonema móvel clássico",
+          "9 duplas + 2 centrais = 20 túbulos",
+          "Não confundir grupos periféricos com túbulos."
+        ],
+        [
+          "Centríolo típico",
+          "9 trincas = 27 túbulos",
+          "Não tem par central."
+        ],
+        [
+          "Centrossomo típico",
+          "2 centríolos",
+          "Nucleação ocorre no material pericentriolar."
+        ],
+        [
+          "Subunidades do heterodímero de tubulina",
+          "2: α e β",
+          "Motor consome ATP; dinâmica da tubulina depende de GTP."
+        ]
+      ],
+      "voc": [
+        [
+          "microtubulo",
+          "microtúbulo"
+        ],
+        [
+          "microfilamento",
+          "microfilamento"
+        ],
+        [
+          "filamento intermedio",
+          "filamento intermediário"
+        ],
+        [
+          "estremità più",
+          "extremidade mais"
+        ],
+        [
+          "estremità meno",
+          "extremidade menos"
+        ],
+        [
+          "chinesina",
+          "cinesina"
+        ],
+        [
+          "dineina",
+          "dineína"
+        ],
+        [
+          "miosina",
+          "miosina"
+        ],
+        [
+          "instabilità dinamica",
+          "instabilidade dinâmica"
+        ],
+        [
+          "anello contrattile",
+          "anel contrátil"
+        ],
+        [
+          "microvillo",
+          "microvilosidade"
+        ],
+        [
+          "fuso mitotico",
+          "fuso mitótico"
+        ]
+      ],
+      "detalhes": [
+        "As extremidades **mais e menos** indicam **polaridade estrutural**, não cargas elétricas positiva e negativa.",
+        "No centrossomo, a nucleação depende de complexos de **γ-tubulina no material pericentriolar**, não apenas da parede do centríolo.",
+        "Na instabilidade dinâmica, **catástrofe** (*catastrofe*) é a passagem de crescimento para encurtamento; **resgate** é o inverso.",
+        "A dinâmica do microtúbulo envolve **GTP da tubulina**, enquanto cinesinas e dineínas usam **ATP** para gerar movimento.",
+        "A **cinesina convencional** caminha para a extremidade mais, mas essa direção **não é universal para toda cinesina**.",
+        "As **microvilosidades** têm feixes de **actina**; cílios e flagelos eucarióticos têm axonema de **microtúbulos**.",
+        "A organização **9+0 não garante imobilidade**: cílios nodais embrionários móveis são uma exceção à regra didática.",
+        "No axonema **9+2**, são **nove duplas periféricas e dois túbulos centrais**; o corpo basal típico tem nove trincas.",
+        "As dineínas axonemais geram **deslizamento entre duplas**; restrições estruturais convertem esse deslizamento em curvatura.",
+        "**Filamentos intermediários** são apolares pela organização antiparalela de suas subunidades; não sustentam transporte por motores direcionais.",
+        "A montagem de filamentos intermediários **não requer hidrólise direta de ATP ou GTP**, embora sua regulação possa envolver fosforilação.",
+        "**Laminas nucleares** (*lamine nucleari*) são filamentos intermediários; não confunda **lâmina nuclear** com **lâmina basal** da matriz extracelular."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Microtubule Structure.svg",
+          "busca": "microtubule structure alpha beta tubulin protofilaments diagram",
+          "legenda": "Observe os dímeros de tubulina organizados em protofilamentos na parede do tubo. Protofilamento e microtúbulo designam níveis diferentes de organização.",
+          "legenda_it": "Osserva i dimeri di tubulina organizzati in protofilamenti nella parete del tubo. Protofilamento e microtubulo indicano livelli diversi di organizzazione.",
+          "alt": "Esquema legendado da estrutura de um microtúbulo e de suas subunidades de tubulina."
+        }
+      ],
+      "prof": {
+        "ideia": "Actina, filamentos intermediários e microtúbulos diferem em espessura, polaridade, dinâmica e função. A organização dos polímeros e a ação de motores explicam transporte, movimento ciliar e montagem do fuso.",
+        "explicar": [
+          "Apresente a célula como uma estrutura com suportes e trilhos dinâmicos. Monte um quadro com actina ≈7 nm, intermediários ≈10 nm e microtúbulos ≈25 nm, deixando claro que são diâmetros, não comprimentos.",
+          "Na imagem de microtúbulo do app, aponte dímeros α/β, os 13 protofilamentos e o tubo completo. Desenhe extremidades mais e menos como polaridade estrutural; localize γ-tubulina no material pericentriolar, onde ocorre nucleação.",
+          "Desenhe crescimento com capa de GTP, catástrofe e resgate. Compare colchicina/vincristina com taxol: perder microtúbulos ou estabilizá-los demais prejudica a dinâmica necessária ao fuso.",
+          "Coloque motores sobre os trilhos: cinesina convencional para mais e dineína citoplasmática para menos. No axônio, relacione essas direções a transporte anterógrado e retrógrado; separe GTP da tubulina de ATP dos motores.",
+          "Faça cortes transversais lado a lado: centríolo com nove trincas, axonema móvel clássico com nove duplas e dois centrais. Use num para contar 27 e 20 túbulos; mostre como dineína gera deslizamento convertido em curvatura e cite cílios nodais móveis 9+0.",
+          "Desenhe actina G formando actina F e associe feixes a microvilosidades, redes a lamelipódios, miosina II ao anel contrátil e miosina V ao transporte. Diferencie a dinâmica da actina ligada a ATP do ATP consumido pela miosina.",
+          "Retome os suportes resistentes à tração: intermediários têm organização antiparalela e são apolares. Associe queratinas a epitélios, vimentina a células mesenquimais, desmina a músculo, neurofilamentos a neurônios e laminas ao núcleo; a regulação pode envolver fosforilação."
+        ],
+        "perguntas": [
+          [
+            "Qual componente tem menor diâmetro e qual tem maior?",
+            "Actina, ≈7 nm; microtúbulo, ≈25 nm."
+          ],
+          [
+            "Onde ocorre a nucleação de microtúbulos no centrossomo típico?",
+            "Nos complexos de γ-tubulina do material pericentriolar."
+          ],
+          [
+            "Por que o taxol pode prejudicar a mitose mesmo preservando microtúbulos?",
+            "Estabiliza o polímero e suprime a dinâmica necessária ao fuso."
+          ],
+          [
+            "Qual nucleotídeo se relaciona à dinâmica da tubulina e qual move a dineína?",
+            "GTP da tubulina e ATP da dineína."
+          ],
+          [
+            "Como contar os túbulos de um axonema 9+2 e de um centríolo típico?",
+            "Nove duplas mais dois centrais dão 20; nove trincas dão 27."
+          ],
+          [
+            "Por que filamentos intermediários não servem de trilhos para motores direcionais?",
+            "Sua organização antiparalela produz filamentos sem polaridade."
+          ]
+        ],
+        "erros": [
+          "Interpretar mais e menos como cargas elétricas: mostre que indicam orientação estrutural e que a direção para mais vale para a cinesina convencional, sem generalizar a toda a família.",
+          "Confundir GTP do microtúbulo com combustível do motor: escreva separadamente dinâmica da tubulina/GTP e movimento de cinesina ou dineína/ATP.",
+          "Ler 9+2 como onze túbulos ou trocar duplas por trincas: conte os elementos no corte e identifique axonema e centríolo antes de calcular.",
+          "Equiparar cílios a microvilosidades ou dizer que todo 9+0 é imóvel: contraste microtúbulos com actina e use o cílio nodal embrionário como exceção de motilidade.",
+          "Afirmar que filamentos intermediários exigem hidrólise direta de ATP/GTP para montagem ou que são imutáveis: separe montagem apolar de regulação por fosforilação e diferencie lâmina nuclear de lâmina basal."
+        ],
+        "ponte": "Agora vamos usar a dinâmica dos microtúbulos para entender o fuso e a contração de actina com miosina II para distinguir mitose de citocinese.",
+        "tempo": "20–25 min"
+      }
+    },
+    "c7_3": {
+      "txt": [
+        "A **mitose** (*mitosi*) distribui cromossomos previamente duplicados entre dois núcleos; a **citocinese** (*citodieresi*) divide o citoplasma. Em condições normais e na ausência de mutações ou erros de segregação, formam-se duas células-filhas geneticamente equivalentes à célula-mãe antes da replicação. O DNA é duplicado na fase S, antes da mitose: a divisão não inclui uma nova replicação. Cromossomos são contados pelas unidades centroméricas ainda não separadas; cada cromátide contém uma molécula de DNA dupla fita. Assim, duplicar o DNA não duplica imediatamente o número de cromossomos.",
+        "Em uma célula somática humana típica, G1 apresenta **46 cromossomos, 46 moléculas de DNA e 2C** de conteúdo de DNA. Após S e na metáfase, existem **46 cromossomos duplicados, 92 cromátides e 4C**. A ploidia permanece **2n**: os dois conjuntos homólogos continuam presentes, apenas replicados. C representa a quantidade de DNA de um genoma haploide não replicado; n representa conjuntos cromossômicos. Ao separar as irmãs na anáfase, cada uma passa a ser um cromossomo-filho: contam-se **92 cromossomos na célula inteira**, mas **46 em cada polo**. Esse aumento transitório da contagem não deve ser confundido com tetraploidia estável.",
+        "Na **prófase** (*profase*), condensinas ajudam a compactar cromossomos e o fuso começa a se organizar entre os centrossomos. Cada cromossomo duplicado mantém suas irmãs associadas por coesinas. Na **prometáfase** (*prometafase*) da mitose aberta típica de células animais, CDK1 associada à ciclina B promove fosforilação das laminas e de outros alvos, contribuindo para a desmontagem do envelope nuclear. Microtúbulos passam a acessar os **cinetócoros** (*cinetocori*), complexos proteicos montados nas regiões centroméricas. Centrossomo organiza microtúbulos; centrômero é região cromossômica; cinetócoro é a interface de ligação. São três estruturas distintas.",
+        "Na **metáfase** (*metafase*), cromossomos biorientados alinham-se na placa equatorial, com cinetócoros irmãos ligados a polos opostos. O **checkpoint do fuso** (*punto di controllo del fuso*) impede o início prematuro da anáfase, sobretudo em resposta a cinetócoros não ligados. Ligações incorretas são corrigidas por mecanismos que incluem regulação dependente de tensão. Microtúbulos cinetocóricos conectam cromossomos ao fuso; interpolares se sobrepõem entre os polos; astrais contribuem para posicionar o fuso e sua interação com o córtex. Alinhamento visual isolado não substitui ligação funcional correta.",
+        "Com as ligações adequadas, **APC/C-Cdc20**, uma ubiquitina ligase, marca securina e ciclina B para degradação pelo proteassomo. A perda de **securina** libera a **separase**, que cliva coesina e permite a separação das cromátides na **anáfase** (*anafase*). A degradação da ciclina B reduz a atividade de CDK1 e favorece saída da mitose. APC/C não é a protease que corta coesina. Na anáfase A, cromossomos se aproximam dos polos com encurtamento de microtúbulos cinetocóricos; na anáfase B, os polos se afastam. Esses processos cooperam, sem exigir velocidades universais ou uma duração fixa de mitose.",
+        "Na **telófase** (*telofase*), o envelope se reorganiza em torno de cada conjunto, cromossomos descondensam e a atividade nucleolar é restabelecida. Cada núcleo recebe **46 cromossomos e 2C** no exemplo humano. A citocinese animal geralmente começa antes de a telófase terminar: um **anel de actina e miosina II** produz o sulco de clivagem, seguido da separação final da ponte entre as células. Em vegetais, forma-se uma placa celular, em vez desse estrangulamento típico. Se a segregação nuclear ocorrer sem citocinese, pode surgir uma célula binucleada. Na mitose separam-se irmãs; na meiose I separam-se homólogos, portanto as contagens devem sempre indicar fase e região consideradas."
+      ],
+      "chave": [
+        "Mitose distribui DNA replicado em S; citocinese divide o citoplasma.",
+        "Humano G1: 46 cromossomos, 46 moléculas de DNA, 2C; metáfase: 46, 92, 4C.",
+        "Anáfase: 92 cromossomos na célula inteira; 46 em cada polo.",
+        "CDK1-ciclina B fosforila laminas; cinetócoro recebe microtúbulos.",
+        "Checkpoint do fuso impede anáfase antes das ligações adequadas.",
+        "APC/C ubiquitina securina e ciclina B; separase cliva coesina.",
+        "Telófase recompõe núcleos; actina e miosina II executam citocinese animal."
+      ],
+      "pega": "4C não significa 4n: a metáfase humana típica tem DNA duplicado, mas permanece diploide.",
+      "num": [
+        [
+          "Humano típico em G1",
+          "46 cromossomos; 46 moléculas de DNA",
+          "2n, 2C."
+        ],
+        [
+          "Humano típico em metáfase",
+          "46 cromossomos; 92 cromátides",
+          "2n, 4C."
+        ],
+        [
+          "Anáfase humana: célula inteira",
+          "92 cromossomos-filhos; 4C no total",
+          "Após separação dos centrômeros irmãos."
+        ],
+        [
+          "Anáfase humana: cada polo",
+          "46 cromossomos; 2C",
+          "Não atribuir 92 a cada polo."
+        ],
+        [
+          "Após mitose e citocinese normais",
+          "2 células, cada uma com 46 cromossomos",
+          "Cada filha possui 2C antes de outra fase S."
+        ],
+        [
+          "Cromossomo duplicado",
+          "2 cromátides; 2 moléculas de DNA",
+          "Uma molécula dupla fita por cromátide."
+        ],
+        [
+          "Conteúdo de DNA na fase S",
+          "2C → 4C",
+          "A quantidade dobra; a ploidia permanece 2n."
+        ],
+        [
+          "Polos do fuso mitótico normal",
+          "2",
+          "Cinetócoros irmãos ligam-se a polos opostos."
+        ]
+      ],
+      "voc": [
+        [
+          "profase",
+          "prófase"
+        ],
+        [
+          "prometafase",
+          "prometáfase"
+        ],
+        [
+          "metafase",
+          "metáfase"
+        ],
+        [
+          "anafase",
+          "anáfase"
+        ],
+        [
+          "telofase",
+          "telófase"
+        ],
+        [
+          "cromatidi fratelli",
+          "cromátides irmãs"
+        ],
+        [
+          "cinetocoro",
+          "cinetócoro"
+        ],
+        [
+          "coesina",
+          "coesina"
+        ],
+        [
+          "securina",
+          "securina"
+        ],
+        [
+          "separasi",
+          "separase"
+        ],
+        [
+          "solco di divisione",
+          "sulco de clivagem"
+        ],
+        [
+          "citodieresi",
+          "citocinese"
+        ]
+      ],
+      "detalhes": [
+        "**Centrômero** é uma região do cromossomo; **cinetócoro** (*cinetocoro*) é o complexo proteico que recebe microtúbulos.",
+        "Na metáfase mitótica normal, cinetócoros **irmãos ligam-se a polos opostos**; não é o pareamento de homólogos da meiose I.",
+        "**Um cinetócoro não ligado** pode manter ativo o checkpoint do fuso mesmo quando os demais cromossomos parecem alinhados.",
+        "**APC/C é uma ubiquitina ligase**, não a protease que cliva coesina nem o proteassomo que degrada securina.",
+        "**Separase cliva coesina**; securina é o inibidor cuja degradação permite ativar a separase.",
+        "A degradação da **ciclina B reduz a atividade de CDK1**; não exige que a própria CDK1 seja degradada.",
+        "**Anáfase A** aproxima cromossomos dos polos; **anáfase B** afasta os polos entre si.",
+        "Microtúbulos **cinetocóricos** ligam-se aos cromossomos; **interpolares** sobrepõem-se entre polos; **astrais** interagem com o córtex.",
+        "Em uma célula com **2n = 4**, a anáfase normal tem **8 cromossomos na célula inteira e 4 por polo**, antes da citocinese.",
+        "O conteúdo **4C na metáfase não significa 4n**: replicação do DNA não acrescenta conjuntos homólogos.",
+        "A citocinese animal depende de **actina e miosina II no córtex**, não de um anel de microtúbulos.",
+        "Na citocinese vegetal típica, vesículas formam uma **placa celular** (*piastra cellulare*) que cresce do centro para a periferia."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Mitosis schematic diagram-en.svg",
+          "busca": "mitosis schematic diagram phases chromosomes spindle cytokinesis",
+          "legenda": "Acompanhe o alinhamento e a separação das cromátides irmãs durante a mitose. Distinga a distribuição dos cromossomos da divisão final do citoplasma.",
+          "legenda_it": "Segui l’allineamento e la separazione dei cromatidi fratelli durante la mitosi. Distingui la distribuzione dei cromosomi dalla divisione finale del citoplasma.",
+          "alt": "Diagrama das fases da mitose com cromossomos, fuso e divisão celular."
+        }
+      ],
+      "prof": {
+        "ideia": "A mitose separa cromátides irmãs de cromossomos duplicados na fase S, enquanto a citocinese divide o citoplasma. A ligação correta ao fuso e o controle APC/C–securina–separase coordenam a segregação, sem confundir conteúdo de DNA com ploidia.",
+        "explicar": [
+          "Use a analogia de distribuir cópias já prontas: a duplicação aconteceu em S. Desenhe um cromossomo antes e depois da replicação e conte unidades centroméricas ainda não separadas, cromátides e moléculas de DNA.",
+          "Use num para montar a sequência humana: G1 com 46 cromossomos e 2C; metáfase com 46 cromossomos, 92 cromátides e 4C, ainda 2n. Diferencie C, quantidade de DNA, de n, conjuntos cromossômicos.",
+          "Na imagem das fases da mitose do app, acompanhe prófase e prometáfase. Relacione condensinas à compactação e CDK1–ciclina B à fosforilação de laminas e desmontagem do envelope; desenhe separados centrossomo, centrômero e cinetócoro.",
+          "Desenhe biorientação na metáfase, com cinetócoros irmãos ligados a polos opostos. Distinga microtúbulos cinetocóricos, interpolares e astrais; deixe um cinetócoro livre para explicar por que alinhamento aparente não basta ao checkpoint.",
+          "Trace APC/C-Cdc20 → ubiquitinação de securina → degradação pelo proteassomo → liberação da separase → clivagem de coesina. Em paralelo, indique que degradação de ciclina B reduz CDK1 e favorece a saída da mitose.",
+          "Na anáfase da imagem, diferencie cromossomos que se aproximam dos polos, anáfase A, de polos que se afastam, anáfase B. Conte 92 cromossomos na célula humana inteira e 46 por polo, sem interpretar o aumento transitório como tetraploidia estável.",
+          "Complete com telófase, recomposição do envelope e retorno da atividade nucleolar. Compare anel de actina/miosina II animal com placa celular vegetal que cresce do centro para a periferia; discuta a célula binucleada quando a segregação ocorre sem citocinese."
+        ],
+        "perguntas": [
+          [
+            "Por que a metáfase humana tem 4C, mas continua 2n?",
+            "O DNA foi duplicado sem acrescentar conjuntos homólogos."
+          ],
+          [
+            "Qual estrutura recebe microtúbulos na região centromérica?",
+            "O cinetócoro, um complexo proteico."
+          ],
+          [
+            "Um único cinetócoro não ligado pode adiar a anáfase?",
+            "Sim, pode manter o checkpoint ativo e inibir a ativação de APC/C-Cdc20."
+          ],
+          [
+            "Quem marca securina, quem a degrada e quem corta coesina?",
+            "APC/C ubiquitina securina, o proteassomo a degrada e separase cliva coesina."
+          ],
+          [
+            "Quantos cromossomos há na anáfase humana na célula inteira e por polo?",
+            "92 na célula inteira e 46 por polo."
+          ],
+          [
+            "O que distingue anáfase A de B e mitose de citocinese?",
+            "A aproxima cromossomos dos polos; B afasta os polos. Mitose distribui cromossomos; citocinese divide o citoplasma."
+          ]
+        ],
+        "erros": [
+          "Dobrar o número de cromossomos na fase S ou traduzir 4C como 4n: reconte centrômeros ainda não separados e mantenha distintas quantidade de DNA e ploidia.",
+          "Misturar centrossomo, centrômero e cinetócoro: desenhe o organizador do fuso, a região cromossômica e o complexo proteico de ligação em locais distintos.",
+          "Liberar anáfase porque quase todos os cromossomos parecem alinhados: mostre que um cinetócoro não ligado pode manter o checkpoint ativo e adiar a ativação de APC/C-Cdc20.",
+          "Dizer que APC/C corta coesina ou que CDK1 precisa ser degradada: refaça a cadeia ubiquitina ligase–proteassomo–separase e destaque a degradação de ciclina B.",
+          "Atribuir 92 cromossomos a cada polo ou supor que segregação garante duas células: explicite o local da contagem e separe mitose de citocinese, incluindo a possibilidade de binucleação."
+        ],
+        "ponte": "Feche a trilha pedindo ao aluno que conecte envelope nuclear, dinâmica do fuso e anel contrátil; nas questões finais, exija sempre a fase e a região usadas em cada contagem.",
+        "tempo": "25–30 min"
+      }
+    }
+  },
+  "questoes": [
+    {
+      "id": "xt8_01",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Un complesso del poro nucleare con diametro esterno di 120 nm misura:",
+      "opts": [
+        "0,12 µm",
+        "1,2 µm",
+        "12 µm",
+        "0,012 µm",
+        "120 µm"
+      ],
+      "ex": "Como 1 µm = 1 000 nm, 120 ÷ 1 000 = 0,12 µm. A medida se refere ao complexo inteiro.",
+      "exp": [
+        "Como 1 µm = 1 000 nm, 120 ÷ 1 000 = 0,12 µm. A medida se refere ao complexo inteiro.",
+        "1,2 µm equivalem a 1 200 nm: dez vezes o valor dado.",
+        "12 µm equivalem a 12 000 nm: cem vezes o valor dado.",
+        "0,012 µm equivalem a 12 nm: dez vezes menos.",
+        "120 µm equivalem a 120 000 nm: trocar a unidade sem converter multiplica o comprimento por mil."
+      ]
+    },
+    {
+      "id": "xt8_02",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Un nucleo di 6 µm e un nucleolo di 2 µm hanno un rapporto tra i diametri pari a:",
+      "opts": [
+        "3",
+        "12",
+        "0,33",
+        "9",
+        "27"
+      ],
+      "ex": "A razão pedida é diâmetro nuclear dividido pelo nucleolar: 6/2 = 3; as unidades se cancelam.",
+      "exp": [
+        "A razão pedida é diâmetro nuclear dividido pelo nucleolar: 6/2 = 3; as unidades se cancelam.",
+        "12 resulta do produto dos números, não da razão.",
+        "0,33 aproxima a razão inversa, nucléolo/núcleo.",
+        "9 é o quadrado de 3; corresponderia à razão de áreas de círculos com esses diâmetros.",
+        "27 é o cubo de 3; corresponderia à razão de volumes de esferas, hipótese que não foi pedida."
+      ]
+    },
+    {
+      "id": "xt8_03",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "In una cellula umana diploide tipica, quanti cromosomi appartengono alle cinque coppie acrocentriche portatrici delle NOR?",
+      "opts": [
+        "10",
+        "5",
+        "20",
+        "22",
+        "46"
+      ],
+      "ex": "Os pares 13, 14, 15, 21 e 22 reúnem 5 × 2 = 10 cromossomos; isso não determina o número de nucléolos.",
+      "exp": [
+        "Os pares 13, 14, 15, 21 e 22 reúnem 5 × 2 = 10 cromossomos; isso não determina o número de nucléolos.",
+        "5 conta os pares, não os cromossomos individuais.",
+        "20 duplicaria novamente a contagem; replicar DNA não dobra o número de cromossomos.",
+        "22 é o identificador de um dos pares, não a quantidade de portadores.",
+        "46 é o total de cromossomos da célula típica; nem todos pertencem a esses pares."
+      ]
+    },
+    {
+      "id": "xt8_04",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Quale associazione è corretta per la biogenesi dei ribosomi umani?",
+      "opts": [
+        "RNA polimerasi III — trascrizione del rRNA 5S nel nucleoplasma",
+        "RNA polimerasi I — sintesi del rRNA 5S nel citosol",
+        "RNA polimerasi II — produzione di tutti gli rRNA maturi",
+        "Precursore 45S — traduzione delle proteine ribosomiali",
+        "Nucleolo — compartimento delimitato da una propria membrana"
+      ],
+      "ex": "O 5S é transcrito por Pol III no nucleoplasma e incorporado à montagem ribossomal no nucléolo.",
+      "exp": [
+        "O 5S é transcrito por Pol III no nucleoplasma e incorporado à montagem ribossomal no nucléolo.",
+        "Pol I atua no precursor dos rRNAs 18S, 5,8S e 28S; não transcreve 5S no citosol.",
+        "Pol II transcreve sobretudo precursores de mRNA e outros RNAs, não todos os rRNAs.",
+        "45S é precursor de RNA ribossomal, não maquinaria tradutora de proteínas.",
+        "O nucléolo é um condensado sem membrana própria; o envelope delimita o núcleo."
+      ]
+    },
+    {
+      "id": "xt8_05",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Durante il ciclo classico di importazione nucleare, Ran-GTP nel nucleo favorisce:",
+      "opts": [
+        "Il rilascio del carico dall’importina",
+        "Il legame della SRP al segnale NLS",
+        "La degradazione di tutte le nucleoporine",
+        "La conversione del poro in una vescicola",
+        "Lo svolgimento obbligatorio della proteina importata"
+      ],
+      "ex": "Ran-GTP liga-se à importina no núcleo e favorece a dissociação da carga; RanGEF nuclear sustenta esse estado.",
+      "exp": [
+        "Ran-GTP liga-se à importina no núcleo e favorece a dissociação da carga; RanGEF nuclear sustenta esse estado.",
+        "SRP reconhece sinais de direcionamento ao RE, não o NLS clássico.",
+        "O transporte usa nucleoporinas funcionais; não exige sua destruição.",
+        "O complexo do poro é uma passagem no envelope, sem formar vesícula para cada carga.",
+        "O poro admite proteínas dobradas; desdobramento obrigatório caracteriza outras rotas de translocação."
+      ]
+    },
+    {
+      "id": "xt8_06",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Quale affermazione sui condensati nucleari è FALSA?",
+      "opts": [
+        "Sono tutti delimitati da un doppio strato lipidico proprio",
+        "Possono concentrare proteine e RNA",
+        "Il nucleolo è un esempio",
+        "I corpi di Cajal sono esempi",
+        "Le interazioni multivalenti possono contribuire alla loro formazione"
+      ],
+      "ex": "A falsa é a exigência de bicamada própria: condensados nucleares são compartimentos sem membrana.",
+      "exp": [
+        "A falsa é a exigência de bicamada própria: condensados nucleares são compartimentos sem membrana.",
+        "Concentrar proteínas e RNA é uma propriedade compatível com condensados, portanto a afirmação sobre essa concentração é verdadeira.",
+        "O nucléolo é exemplo clássico, portanto sua identificação como condensado é verdadeira.",
+        "Corpos de Cajal são condensados nucleares, tornando verdadeira sua identificação como exemplos.",
+        "Interações multivalentes contribuem para organização e separação de fase; a afirmação sobre a contribuição dessas interações é verdadeira."
+      ]
+    },
+    {
+      "id": "xt8_07",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Il segnale classico ricco di lisina e arginina per l’importazione nucleare ha la sigla ____.",
+      "acc": [
+        "NLS",
+        "nls"
+      ],
+      "ex": "NLS é o sinal de localização nuclear reconhecido por importinas.",
+      "exp": [
+        "A direção pedida é entrada no núcleo; a sigla correspondente é NLS.",
+        "Lisina e arginina são resíduos básicos frequentes no NLS clássico.",
+        "NES indica exportação; KDEL indica recuperação de proteínas ao RE e não substitui NLS."
+      ]
+    },
+    {
+      "id": "xt8_08",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Il precursore 45S dà origine a 18S, 5,8S e ____S.",
+      "acc": [
+        "28"
+      ],
+      "ex": "O terceiro rRNA derivado do precursor é 28S.",
+      "exp": [
+        "O processamento do precursor gera rRNAs da subunidade pequena e da grande.",
+        "18S participa da pequena; 5,8S e 28S participam da grande, logo a lacuna é 28.",
+        "5S é transcrito separadamente por Pol III; 40S e 60S designam subunidades, não esse produto do precursor."
+      ]
+    },
+    {
+      "id": "xt8_09",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quale elemento ha il diametro MINORE, usando i valori tipici indicati?",
+      "opts": [
+        "Filamento di actina: 7 nm",
+        "Filamento intermedio: 10 nm",
+        "Microtubulo: 25 nm",
+        "Complesso del poro: 120 nm",
+        "Nucleo: 6 µm"
+      ],
+      "ex": "Convertendo tudo para nm: 7, 10, 25, 120 e 6 000. O menor valor é o da actina.",
+      "exp": [
+        "Convertendo tudo para nm: 7, 10, 25, 120 e 6 000. O menor valor é o da actina.",
+        "10 nm é maior que 7 nm; intermediário descreve posição entre as outras duas espessuras do citoesqueleto.",
+        "25 nm é maior que 7 nm; microtúbulo é o mais espesso dos três filamentos principais.",
+        "120 nm descreve o complexo do poro inteiro e supera os três filamentos.",
+        "6 µm são 6 000 nm; comparar apenas o número 6 ignoraria a unidade."
+      ]
+    },
+    {
+      "id": "xt8_10",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Un microtubulo con diametro di 25 nm ha diametro pari a quanti ångström?",
+      "opts": [
+        "250 Å",
+        "2,5 Å",
+        "25 Å",
+        "2 500 Å",
+        "0,25 Å"
+      ],
+      "ex": "1 nm = 10 Å; portanto 25 nm × 10 = 250 Å.",
+      "exp": [
+        "1 nm = 10 Å; portanto 25 nm × 10 = 250 Å.",
+        "2,5 Å resulta de dividir por dez, invertendo a conversão.",
+        "25 Å equivalem a 2,5 nm; manter o número não conserva o comprimento.",
+        "2 500 Å equivalem a 250 nm: dez vezes o valor pedido.",
+        "0,25 Å equivalem a 0,025 nm: mil vezes menos que 25 nm."
+      ]
+    },
+    {
+      "id": "xt8_11",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quanti tubuli si contano nelle nove doppiette e nei due microtubuli centrali di un assonema 9+2 classico?",
+      "opts": [
+        "20",
+        "11",
+        "18",
+        "27",
+        "9"
+      ],
+      "ex": "Cada dupla contém dois túbulos: 9 × 2 + 2 = 20. O túbulo B da dupla compartilha parte da parede com A.",
+      "exp": [
+        "Cada dupla contém dois túbulos: 9 × 2 + 2 = 20. O túbulo B da dupla compartilha parte da parede com A.",
+        "11 soma nove grupos a dois túbulos, tratando cada dupla como unidade simples.",
+        "18 conta apenas os túbulos periféricos e esquece o par central.",
+        "27 é a contagem das nove trincas de um centríolo, outra estrutura.",
+        "9 conta só os grupos periféricos, sem distinguir duplas e sem os centrais."
+      ]
+    },
+    {
+      "id": "xt8_12",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quale associazione tra polimero e nucleotide è corretta?",
+      "opts": [
+        "Tubulina — GTP; actina — ATP",
+        "Tubulina — ATP; actina — GTP",
+        "Tubulina — GTP; filamenti intermedi — GTP obbligatorio",
+        "Actina — GTP; filamenti intermedi — ATP obbligatorio",
+        "Tubulina e actina — nessun nucleotide"
+      ],
+      "ex": "A dinâmica de tubulina está ligada a GTP e a de actina a ATP. Os motores utilizam ATP separadamente.",
+      "exp": [
+        "A dinâmica de tubulina está ligada a GTP e a de actina a ATP. Os motores utilizam ATP separadamente.",
+        "A associação de tubulina a ATP e de actina a GTP inverte os nucleotídeos desses polímeros.",
+        "A montagem de filamentos intermediários não exige ligação e hidrólise de GTP por suas subunidades.",
+        "Actina não usa GTP como nucleotídeo de montagem; intermediários não exigem ATP diretamente para polimerizar.",
+        "Ambos os polímeros têm subunidades que ligam nucleotídeos; ausência de motor não seria ausência de nucleotídeo."
+      ]
+    },
+    {
+      "id": "xt8_13",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "In un assone con estremità più dei microtubuli rivolte al terminale, quale trasporto è retrogrado?",
+      "opts": [
+        "Dineina citoplasmatica verso il corpo cellulare",
+        "Chinesina convenzionale verso il terminale",
+        "Miosina II lungo i filamenti intermedi",
+        "Dineina verso l’estremità più",
+        "Chinesina convenzionale lungo l’actina"
+      ],
+      "ex": "Retrógrado significa retorno ao corpo celular; dineína citoplasmática caminha para a extremidade menos.",
+      "exp": [
+        "Retrógrado significa retorno ao corpo celular; dineína citoplasmática caminha para a extremidade menos.",
+        "Cinesina convencional em direção ao terminal realiza transporte anterógrado nessa orientação.",
+        "Miosina II atua sobre actina, e filamentos intermediários não são trilhos para motores direcionais.",
+        "Dineína citoplasmática dirige-se à extremidade menos, não à mais.",
+        "Cinesina convencional usa microtúbulos; motores sobre actina são miosinas."
+      ]
+    },
+    {
+      "id": "xt8_14",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quale affermazione sul citoscheletro è FALSA?",
+      "opts": [
+        "I filamenti intermedi hanno polarità e motori direzionali",
+        "Le lamine sono filamenti intermedi nucleari",
+        "La miosina II partecipa all’anello contrattile",
+        "Il taxolo stabilizza i microtubuli",
+        "I microvilli contengono fasci di actina"
+      ],
+      "ex": "É falsa a afirmação de que filamentos intermediários têm polaridade e motores direcionais: filamentos intermediários são apolares e não têm motores direcionais associados.",
+      "exp": [
+        "É falsa a afirmação de que filamentos intermediários têm polaridade e motores direcionais: filamentos intermediários são apolares e não têm motores direcionais associados.",
+        "Laminas pertencem à família dos filamentos intermediários, portanto a afirmação sobre as laminas é verdadeira.",
+        "Actina e miosina II geram o sulco de citocinese; a afirmação sobre a participação da miosina II no anel contrátil é verdadeira.",
+        "Taxol estabiliza o polímero e suprime dinâmica; a afirmação sobre a estabilização de microtúbulos por taxol é verdadeira mesmo que isso bloqueie a mitose.",
+        "Feixes de actina sustentam microvilosidades; a afirmação sobre feixes de actina nas microvilosidades é verdadeira, diferentemente dos cílios microtubulares."
+      ]
+    },
+    {
+      "id": "xt8_15",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "La parete di un microtubulo tipico è formata da ____ protofilamenti.",
+      "acc": [
+        "13",
+        "tredici"
+      ],
+      "ex": "Microtúbulos típicos possuem 13 protofilamentos na parede.",
+      "exp": [
+        "Cada protofilamento é uma fileira de heterodímeros α/β-tubulina.",
+        "Treze fileiras associadas lateralmente formam o tubo oco típico.",
+        "9+2 descreve o axonema inteiro e 25 nm é diâmetro; nenhum desses números responde à quantidade de protofilamentos."
+      ]
+    },
+    {
+      "id": "xt8_16",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "La proteina della famiglia delle tubuline che contribuisce alla nucleazione nel centrosoma è la ____-tubulina.",
+      "acc": [
+        "gamma",
+        "γ"
+      ],
+      "ex": "Complexos de γ-tubulina fornecem um molde para nucleação de microtúbulos.",
+      "exp": [
+        "A pergunta distingue nucleação da composição da parede.",
+        "γ-tubulina organiza complexos no material pericentriolar associados à extremidade menos.",
+        "α e β compõem os dímeros do polímero; actina forma microfilamentos e não é uma tubulina nucleadora."
+      ]
+    },
+    {
+      "id": "xt8_17",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Una cellula somatica umana tipica in metafase contiene:",
+      "opts": [
+        "46 cromosomi e 92 cromatidi",
+        "92 cromosomi e 92 cromatidi",
+        "46 cromosomi e 46 cromatidi",
+        "23 cromosomi e 46 cromatidi",
+        "92 cromosomi e 184 cromatidi"
+      ],
+      "ex": "Na metáfase, as irmãs ainda estão unidas: 46 cromossomos duplicados × 2 cromátides = 92 cromátides.",
+      "exp": [
+        "Na metáfase, as irmãs ainda estão unidas: 46 cromossomos duplicados × 2 cromátides = 92 cromátides.",
+        "92 cromossomos é a contagem da célula inteira após separação das irmãs na anáfase, não na metáfase.",
+        "46 moléculas de DNA correspondem a G1; a replicação já ocorreu antes da metáfase.",
+        "23 cromossomos duplicados descrevem um conjunto haploide replicado, não a célula somática diploide típica.",
+        "92 cromossomos duplicados e 184 cromátides exigiriam outra constituição cromossômica, não a situação dada."
+      ]
+    },
+    {
+      "id": "xt8_18",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "All’anafase di una mitosi umana normale, quanti cromosomi figli si trovano nell’intera cellula prima della citodieresi?",
+      "opts": [
+        "92",
+        "46",
+        "23",
+        "184",
+        "2"
+      ],
+      "ex": "A separação transforma 92 cromátides em 92 cromossomos-filhos na célula inteira, com 46 destinados a cada polo.",
+      "exp": [
+        "A separação transforma 92 cromátides em 92 cromossomos-filhos na célula inteira, com 46 destinados a cada polo.",
+        "46 é a contagem por polo; o enunciado pede a célula inteira.",
+        "23 corresponde ao número haploide humano e não ao total em anáfase somática.",
+        "184 duplicaria novamente o DNA, mas não há uma nova fase S durante a mitose.",
+        "2 é o número de polos ou dos futuros núcleos, não de cromossomos."
+      ]
+    },
+    {
+      "id": "xt8_19",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Una cellula diploide ha 8 pg di DNA in G1. Quanto DNA avrà ciascuna figlia dopo una mitosi e una citodieresi normali?",
+      "opts": [
+        "8 pg",
+        "4 pg",
+        "16 pg",
+        "32 pg",
+        "0 pg"
+      ],
+      "ex": "A fase S eleva 8 pg a 16 pg; a segregação normal reparte esse total igualmente, deixando 8 pg em cada filha.",
+      "exp": [
+        "A fase S eleva 8 pg a 16 pg; a segregação normal reparte esse total igualmente, deixando 8 pg em cada filha.",
+        "4 pg resultaria de dividir o conteúdo inicial sem considerar a replicação anterior à mitose.",
+        "16 pg é o total após S ou na célula inteira antes da partição, não em cada filha normal.",
+        "32 pg pressupõe duplicação adicional que o enunciado não contém.",
+        "0 pg implicaria perda de todo o DNA; mitose normal conserva uma cópia completa para cada filha."
+      ]
+    },
+    {
+      "id": "xt8_20",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Quale sequenza permette l’inizio dell’anafase?",
+      "opts": [
+        "APC/C ubiquitina la securina; la separasi libera taglia la coesina",
+        "La separasi sintetizza securina e rafforza la coesina",
+        "APC/C taglia direttamente il DNA centromerico",
+        "La ciclina B aumenta e impedisce la degradazione della securina",
+        "La miosina II taglia la coesina nel cinetocoro"
+      ],
+      "ex": "APC/C-Cdc20 marca securina para degradação; sem a inibidora, separase cliva a coesina que mantém as irmãs associadas.",
+      "exp": [
+        "APC/C-Cdc20 marca securina para degradação; sem a inibidora, separase cliva a coesina que mantém as irmãs associadas.",
+        "Separase é protease: não sintetiza securina nem reforça a união entre irmãs.",
+        "APC/C é ubiquitina ligase; não corta DNA, e separar cromossomos não exige romper seus centrômeros.",
+        "Para sair da mitose, ciclina B é degradada e a atividade de CDK1 cai; seu aumento não é o gatilho descrito.",
+        "Miosina II é motor de actina na citocinese, não a protease da coesina."
+      ]
+    },
+    {
+      "id": "xt8_21",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Quale evento caratterizza la prometafase nella mitosi aperta delle cellule animali?",
+      "opts": [
+        "Disassemblaggio dell’involucro nucleare e cattura dei cinetocori",
+        "Replicazione dell’intero genoma",
+        "Separazione dei cromosomi omologhi come nella meiosi I",
+        "Formazione di quattro nuclei aploidi",
+        "Riformazione completa dell’involucro attorno ai cromosomi figli"
+      ],
+      "ex": "Na prometáfase, a desmontagem do envelope permite o acesso do fuso aos cinetócoros; fosforilação de laminas contribui para isso.",
+      "exp": [
+        "Na prometáfase, a desmontagem do envelope permite o acesso do fuso aos cinetócoros; fosforilação de laminas contribui para isso.",
+        "A replicação ocorre na fase S da intérfase, não na prometáfase.",
+        "Mitose separa cromátides irmãs na anáfase; homólogos são separados na meiose I.",
+        "Quatro núcleos haploides são resultado associado às duas divisões meióticas, não a essa fase mitótica.",
+        "A reconstrução dos envelopes caracteriza telófase, após segregação."
+      ]
+    },
+    {
+      "id": "xt8_22",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Quale affermazione sul checkpoint del fuso è corretta?",
+      "opts": [
+        "Può ritardare l’anafase in presenza di cinetocori non attaccati",
+        "Verifica soltanto la quantità di ATP nel nucleolo",
+        "Induce una nuova fase S prima di ogni anafase",
+        "Taglia direttamente la coesina",
+        "È il motore dell’anello di actina"
+      ],
+      "ex": "Cinetócoros não ligados sustentam sinal que restringe ativação de APC/C-Cdc20, atrasando a separação das irmãs.",
+      "exp": [
+        "Cinetócoros não ligados sustentam sinal que restringe ativação de APC/C-Cdc20, atrasando a separação das irmãs.",
+        "O sinal do checkpoint depende da ligação dos cinetócoros, não apenas de ATP nucleolar.",
+        "Não ocorre nova replicação entre metáfase e anáfase; o DNA já foi duplicado em S.",
+        "Separase cliva coesina; checkpoint regula a liberação desse processo, sem atuar como protease.",
+        "Miosina II é o motor do anel; o checkpoint do fuso controla a transição para anáfase."
+      ]
+    },
+    {
+      "id": "xt8_23",
+      "tipo": "cp",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "La proteasi che taglia la coesina all’inizio dell’anafase è la ____.",
+      "acc": [
+        "separasi"
+      ],
+      "ex": "Separase cliva coesina após a remoção da inibição por securina.",
+      "exp": [
+        "As irmãs são mantidas juntas por coesina; sua clivagem permite segregação.",
+        "A protease responsável é separase, em italiano separasi.",
+        "Securina é a inibidora, APC/C marca proteínas com ubiquitina e condensinas compactam cromossomos: nenhum substitui a protease."
+      ]
+    },
+    {
+      "id": "xt8_24",
+      "tipo": "cp",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Nell’anello contrattile della citodieresi animale, l’actina interagisce con la miosina di tipo ____.",
+      "acc": [
+        "II",
+        "ii",
+        "2",
+        "due"
+      ],
+      "ex": "Miosina II e actina geram a constrição do sulco de clivagem.",
+      "exp": [
+        "A citocinese animal utiliza um anel cortical contrátil, distinto do fuso microtubular.",
+        "A classe de motor do anel é miosina II, preenchendo a lacuna com II ou 2.",
+        "Miosina V está ligada a transporte de cargas; dineína e cinesina usam microtúbulos, não o anel de actina."
+      ]
+    },
+    {
+      "id": "xt8_25",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Quale affermazione sul segnale di localizzazione nucleare classico è ERRATA?",
+      "opts": [
+        "Viene sempre rimosso mediante taglio dopo l’importazione",
+        "È una sequenza amminoacidica della proteina",
+        "Può trovarsi in una regione interna della proteina",
+        "È spesso ricco di lisina e arginina",
+        "Può consentire una nuova importazione dopo la mitosi"
+      ],
+      "ex": "A afirmação errada é a remoção obrigatória: o NLS clássico em geral permanece na proteína.",
+      "exp": [
+        "A afirmação errada é a remoção obrigatória: o NLS clássico em geral permanece na proteína.",
+        "Ele é um sinal de aminoácidos, frequentemente rico em Lys e Arg; portanto, as opções sobre sequência proteica e composição estão corretas.",
+        "O NLS pode ser interno: sua função não exige posição N-terminal.",
+        "A conservação do sinal permite reimportação após a reorganização do núcleo; essa alternativa também está correta."
+      ]
+    },
+    {
+      "id": "xt8_26",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Con quale compartimento è in continuità lo spazio perinucleare?",
+      "opts": [
+        "Con il lume del reticolo endoplasmatico",
+        "Con il nucleoplasma attraverso un’apertura permanente della membrana interna",
+        "Con la matrice mitocondriale",
+        "Con il citosol attraverso il lume dei ribosomi",
+        "Con l’interno del nucleolo delimitato da una membrana"
+      ],
+      "ex": "O espaço entre as duas membranas nucleares tem continuidade com o lúmen do RE.",
+      "exp": [
+        "O espaço entre as duas membranas nucleares tem continuidade com o lúmen do RE.",
+        "O nucleoplasma está do outro lado da membrana interna; não é uma extensão do espaço perinuclear.",
+        "A matriz mitocondrial pertence a outra organela e não tem essa continuidade.",
+        "Ribossomos não constituem canais entre esses compartimentos; a alternativa sobre seu lúmen inventa uma conexão.",
+        "O nucléolo não possui membrana delimitante nem lúmen contínuo com o RE."
+      ]
+    },
+    {
+      "id": "xt8_27",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Nel ciclo di esportazione mediato da esportina e Ran, dove si forma il complesso carico-esportina-Ran-GTP?",
+      "opts": [
+        "Nel nucleoplasma, prima del passaggio attraverso il poro",
+        "Nel lume del reticolo endoplasmatico, dopo il taglio dell’NLS",
+        "Nel citosol, dove Ran-GTP è normalmente più abbondante",
+        "Nella matrice mitocondriale, tramite TOM/TIM",
+        "Nello spazio perinucleare, tramite vescicole COPII"
+      ],
+      "ex": "O complexo de exportação monta-se no nucleoplasma: Ran-GTP favorece a associação entre exportina e carga.",
+      "exp": [
+        "O complexo de exportação monta-se no nucleoplasma: Ran-GTP favorece a associação entre exportina e carga.",
+        "No citosol, a hidrólise de GTP favorece a desmontagem; Ran-GTP não predomina ali.",
+        "O lúmen do RE não é o local de montagem, e clivar NLS não é a etapa que inicia esse ciclo.",
+        "TOM/TIM pertencem à importação mitocondrial; COPII participa do transporte a partir do RE, sem carregar esse complexo através do envelope."
+      ]
+    },
+    {
+      "id": "xt8_28",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Tutte le seguenti affermazioni sulle NOR umane sono corrette, TRANNE una. Quale?",
+      "opts": [
+        "Ogni NOR deve formare un nucleolo distinto e separato",
+        "Si trovano sui bracci corti di alcuni cromosomi acrocentrici",
+        "Sono presenti sui cromosomi 13, 14, 15, 21 e 22",
+        "Contengono sequenze di DNA per il precursore dei rRNA 18S, 5,8S e 28S",
+        "Più NOR possono contribuire allo stesso nucleolo"
+      ],
+      "ex": "É falsa a correspondência obrigatória de uma NOR para um nucléolo separado: várias regiões podem se reunir.",
+      "exp": [
+        "É falsa a correspondência obrigatória de uma NOR para um nucléolo separado: várias regiões podem se reunir.",
+        "A localização nos braços curtos e a lista 13, 14, 15, 21 e 22 estão corretas para as NOR humanas.",
+        "As NOR contêm os genes do precursor que origina 18S, 5,8S e 28S; o 5S é transcrito separadamente.",
+        "A afirmação de que várias NOR podem contribuir para o mesmo nucléolo está correta: essas regiões podem se reunir em vez de formar nucléolos separados."
+      ]
+    },
+    {
+      "id": "xt8_29",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Nel nucleoplasma, il rRNA 5S è trascritto dalla RNA polimerasi ____ (indicare il numero romano).",
+      "acc": [
+        "III",
+        "iii",
+        "3"
+      ],
+      "ex": "O rRNA 5S é produzido pela RNA polimerase III; a resposta em algarismos romanos é III.",
+      "exp": [
+        "O rRNA 5S é produzido pela RNA polimerase III; a resposta em algarismos romanos é III.",
+        "A polimerase I transcreve o precursor de 18S, 5,8S e 28S; ela não é a resposta para o 5S.",
+        "A polimerase II transcreve os precursores de mRNA, entre outros RNAs; não confunda 5S com 5,8S nem nucleoplasma com nucléolo."
+      ]
+    },
+    {
+      "id": "xt8_30",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quale affermazione sulle ciglia e sui microvilli è FALSA?",
+      "opts": [
+        "Tutte le ciglia con assonema 9+0 sono immobili",
+        "Le ciglia nodali embrionali possono essere mobili pur avendo assonema 9+0",
+        "I microvilli contengono fasci di actina",
+        "Le ciglia mobili classiche hanno un assonema 9+2",
+        "Le dineine assonemali contribuiscono al movimento ciliare"
+      ],
+      "ex": "É falsa a generalização de que todo axonema 9+0 é imóvel: os cílios nodais móveis constituem uma exceção.",
+      "exp": [
+        "É falsa a generalização de que todo axonema 9+0 é imóvel: os cílios nodais móveis constituem uma exceção.",
+        "A alternativa sobre cílios nodais é correta e impede usar apenas o par central como critério absoluto de motilidade.",
+        "Microvilosidades são sustentadas por actina; não são pequenos cílios com axonema.",
+        "O arranjo 9+2 é o padrão clássico de cílios móveis, e dineínas axonemais geram o deslizamento que permite a curvatura; ambas as opções estão corretas."
+      ]
+    },
+    {
+      "id": "xt8_31",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Nel centrosoma animale tipico, quale struttura nuclea i microtubuli e si associa alle loro estremità meno?",
+      "opts": [
+        "I complessi di γ-tubulina nel materiale pericentriolare",
+        "La miosina II nell’anello contrattile",
+        "Le lamine sulla membrana nucleare interna",
+        "I fasci di actina dei microvilli",
+        "La chinesina convenzionale all’estremità più"
+      ],
+      "ex": "Complexos de γ-tubulina no material pericentriolar nucleiam microtúbulos e frequentemente ancoram a extremidade menos.",
+      "exp": [
+        "Complexos de γ-tubulina no material pericentriolar nucleiam microtúbulos e frequentemente ancoram a extremidade menos.",
+        "Miosina II é um motor de actina na contração e na citocinese; não é o nucleador centrossômico.",
+        "Laminas pertencem aos filamentos intermediários nucleares; feixes de actina de microvilosidades pertencem a outro sistema de filamentos.",
+        "Cinesina convencional caminha sobre microtúbulos para a extremidade mais; esse transporte não substitui a nucleação por γ-tubulina."
+      ]
+    },
+    {
+      "id": "xt8_32",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quale affermazione sui filamenti intermedi è ERRATA?",
+      "opts": [
+        "La loro polimerizzazione richiede direttamente l’idrolisi di GTP da parte delle subunità",
+        "La loro organizzazione antiparallela determina assenza di polarità",
+        "Le cheratine sono filamenti intermedi degli epiteli",
+        "Le lamine formano una rete sul lato nucleoplasmatico dell’involucro",
+        "La fosforilazione può regolarne l’organizzazione"
+      ],
+      "ex": "É errada a exigência de hidrólise direta de GTP para montar filamentos intermediários; essa associação lembra a tubulina.",
+      "exp": [
+        "É errada a exigência de hidrólise direta de GTP para montar filamentos intermediários; essa associação lembra a tubulina.",
+        "A organização antiparalela explica a ausência de polaridade; essa opção está correta.",
+        "Queratinas epiteliais e laminas nucleares são exemplos corretos de filamentos intermediários.",
+        "A fosforilação pode regular a rede, inclusive a desmontagem das laminas; não requerer GTP para polimerizar não significa ausência de regulação energética."
+      ]
+    },
+    {
+      "id": "xt8_33",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Quale associazione distingue correttamente il nucleotide della dinamica del polimero da quello usato dal motore?",
+      "opts": [
+        "Microtubulo: GTP della tubulina; dineina: ATP",
+        "Microtubulo: ATP della tubulina; dineina: GTP",
+        "Actina: GTP; miosina II: GTP",
+        "Filamento intermedio: GTP obbligatorio; chinesina: ATP",
+        "Microtubulo: GTP della tubulina; chinesina: GTP"
+      ],
+      "ex": "Tubulina liga GTP e dineína utiliza ATP como motor; a associação entre GTP da tubulina e ATP da dineína está correta.",
+      "exp": [
+        "Tubulina liga GTP e dineína utiliza ATP como motor; a associação entre GTP da tubulina e ATP da dineína está correta.",
+        "A associação de tubulina a ATP e de dineína a GTP troca os nucleotídeos dos dois mecanismos: tubulina não usa ATP como seu nucleotídeo de montagem.",
+        "Actina liga ATP, e miosina II também hidrolisa ATP; atribuir GTP a ambas está errado.",
+        "Filamentos intermediários não exigem GTP para montagem, embora cinesina use ATP; o uso de ATP pela cinesina não torna correta a exigência de GTP para filamentos intermediários.",
+        "A associação de GTP tanto à tubulina quanto à cinesina acerta tubulina, mas erra o motor: cinesina usa ATP, não GTP."
+      ]
+    },
+    {
+      "id": "xt8_34",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Nell’instabilità dinamica dei microtubuli, il passaggio dalla crescita all’accorciamento è detto ____.",
+      "acc": [
+        "catastrofe"
+      ],
+      "ex": "A transição de crescimento para encurtamento chama-se catástrofe; em italiano, catastrofe.",
+      "exp": [
+        "A transição de crescimento para encurtamento chama-se catástrofe; em italiano, catastrofe.",
+        "A perda da capa estabilizadora de tubulina ligada a GTP favorece essa transição.",
+        "Resgate é a transição contrária, de encurtamento para crescimento; nucleação é o início de um novo polímero, não a resposta pedida."
+      ]
+    },
+    {
+      "id": "xt8_35",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Quale affermazione sul passaggio metafase-anafase è ERRATA?",
+      "opts": [
+        "APC/C taglia direttamente la coesina con attività proteasica",
+        "APC/C ubiquitina la securina",
+        "Il proteasoma degrada la securina ubiquitinata",
+        "La separasi può tagliare la coesina dopo la rimozione dell’inibizione",
+        "La degradazione della ciclina B riduce l’attività di CDK1"
+      ],
+      "ex": "APC/C é uma ubiquitina ligase, não uma protease de coesina; por isso, a afirmação de que APC/C cliva diretamente a coesina é errada.",
+      "exp": [
+        "APC/C é uma ubiquitina ligase, não uma protease de coesina; por isso, a afirmação de que APC/C cliva diretamente a coesina é errada.",
+        "Ubiquitinar securina por APC/C e degradá-la pelo proteassomo são etapas distintas e corretamente descritas.",
+        "A separase, liberada da inibição por securina, é a protease que cliva coesina; essa opção está correta.",
+        "A ciclina B também é degradada, reduzindo a atividade de CDK1 e favorecendo a saída da mitose; não é necessário degradar a própria CDK1."
+      ]
+    },
+    {
+      "id": "xt8_36",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Quale evento definisce l’anafase B, distinguendola dall’anafase A?",
+      "opts": [
+        "L’allontanamento reciproco dei poli del fuso",
+        "L’avvicinamento dei cromosomi ai poli senza considerare la distanza tra i poli",
+        "La duplicazione del DNA tra i due poli",
+        "L’appaiamento dei cromosomi omologhi",
+        "La ricostituzione completa dell’involucro nucleare"
+      ],
+      "ex": "Anáfase B designa o afastamento dos polos, aumentando a distância entre eles.",
+      "exp": [
+        "Anáfase B designa o afastamento dos polos, aumentando a distância entre eles.",
+        "A aproximação de cromossomos aos polos descreve anáfase A; ambos os movimentos podem cooperar.",
+        "Duplicação do DNA ocorre em S, antes da mitose, e não durante anáfase B.",
+        "Pareamento de homólogos pertence à prófase I da meiose; reconstituição completa do envelope é característica da telófase, não a definição pedida."
+      ]
+    },
+    {
+      "id": "xt8_37",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Una cellula con 2n = 4 è in anafase mitotica normale, prima della citodieresi. Quale conteggio distingue correttamente l’intera cellula da ciascun polo?",
+      "opts": [
+        "8 cromosomi nell’intera cellula; 4 diretti a ciascun polo",
+        "4 cromosomi nell’intera cellula; 2 diretti a ciascun polo",
+        "8 cromosomi nell’intera cellula; 8 diretti a ciascun polo",
+        "4 cromosomi nell’intera cellula; 4 diretti a ciascun polo",
+        "16 cromosomi nell’intera cellula; 8 diretti a ciascun polo"
+      ],
+      "ex": "Antes de separar as irmãs, a metáfase tem quatro cromossomos duplicados; após a separação, cada cromátide passa a ser um cromossomo-filho.",
+      "exp": [
+        "Antes de separar as irmãs, a metáfase tem quatro cromossomos duplicados; após a separação, cada cromátide passa a ser um cromossomo-filho.",
+        "Na anáfase há oito cromossomos no corpo celular ainda único, com quatro destinados a cada polo; a opção com oito cromossomos no total e quatro por polo está correta.",
+        "Quatro no total e dois por polo reduz indevidamente a contagem como se fosse segregação de conjuntos haploides.",
+        "Oito no total e oito em cada polo, ou quatro no total e quatro em cada polo, são contagens incompatíveis com dois polos.",
+        "Dezesseis no total pressupõe duplicação adicional inexistente: nenhuma nova fase S ocorre nessa anáfase."
+      ]
+    },
+    {
+      "id": "xt8_38",
+      "tipo": "mc",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Nella citodieresi tipica di una cellula vegetale superiore, quale processo sostituisce il solco di divisione animale?",
+      "opts": [
+        "La formazione di una piastra cellulare che si estende dal centro verso la periferia",
+        "La contrazione di un anello di microtubuli nella parete preesistente",
+        "La separazione dei cromosomi omologhi senza divisione del citoplasma",
+        "La fusione dei due nuclei figli in un unico nucleo",
+        "La dissoluzione della parete mediante la separasi"
+      ],
+      "ex": "Vesículas contribuem para formar uma placa celular que se expande do centro para a periferia, estabelecendo a divisão entre as filhas.",
+      "exp": [
+        "Vesículas contribuem para formar uma placa celular que se expande do centro para a periferia, estabelecendo a divisão entre as filhas.",
+        "Microtúbulos auxiliam a organização da citocinese vegetal, mas não constituem um anel contrátil que estrangula a parede.",
+        "Segregar homólogos descreve meiose I e não substitui a divisão citoplasmática; fundir núcleos-filhos também não realiza citocinese.",
+        "Separase cliva coesina cromossômica; ela não dissolve a parede celular para produzir a divisão."
+      ]
+    },
+    {
+      "id": "xt8_39",
+      "tipo": "cp",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Il complesso proteico assemblato sul centromero che lega i microtubuli del fuso è il ____.",
+      "acc": [
+        "cinetocoro"
+      ],
+      "ex": "O complexo proteico de ligação ao fuso é o cinetócoro, em italiano cinetocoro.",
+      "exp": [
+        "O complexo proteico de ligação ao fuso é o cinetócoro, em italiano cinetocoro.",
+        "Centrômero é a região cromossômica onde esse complexo se organiza; região de DNA e complexo proteico não são sinônimos.",
+        "Centrossomo organiza microtúbulos e fica no polo do fuso em muitas células animais; não é o ponto de ligação sobre o cromossomo."
+      ]
+    }
+  ],
+  "resolvidas": [
+    {
+      "id": "rt8_01",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Un nucleo ha diametro di 6 µm; un complesso del poro ha diametro esterno di 120 nm. Il rapporto tra questi diametri è:",
+      "o": [
+        "0,05",
+        "5",
+        "50",
+        "500",
+        "720"
+      ],
+      "c": 2,
+      "passos": [
+        "A razão pedida é diâmetro do núcleo/diâmetro externo do complexo, e não razão de volumes.",
+        "Converta 6 µm em 6 000 nm; o complexo mede 120 nm.",
+        "Calcule 6 000/120 = 50; a razão é adimensional.",
+        "O resultado compara os tamanhos externos; não permite concluir qual é o limite de tamanho de uma carga transportada."
+      ],
+      "por": [
+        "Dividir 6 por 120 sem converter as unidades produz 0,05 incorretamente.",
+        "5 resulta de erro de fator dez na conversão ou divisão.",
+        "",
+        "500 é dez vezes o resultado correto.",
+        "720 é o produto dos números fornecidos, sem sequer compatibilizar unidades."
+      ],
+      "pega": "Converta comprimentos para a mesma unidade antes de formar razões."
+    },
+    {
+      "id": "rt8_02",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Una proteina ripiegata di 60 kDa porta un NLS funzionale. Quale descrizione dell’importazione nucleare è più appropriata?",
+      "o": [
+        "La SRP la introduce nel nucleo attraverso il RE",
+        "L’importina la trasporta attraverso il poro e Ran-GTP favorisce il rilascio nucleare",
+        "La proteina deve essere tagliata in frammenti inferiori a 40 kDa",
+        "Una vescicola COPII attraversa l’involucro nucleare",
+        "Ran-GDP nucleare blocca irreversibilmente l’importina sul DNA"
+      ],
+      "c": 1,
+      "passos": [
+        "Identifique o NLS como sinal de entrada nuclear reconhecido por importinas.",
+        "A proteína de 60 kDa é um exemplo de carga que utiliza transporte mediado eficiente; 40 kDa não é um limite absoluto para atravessar o poro.",
+        "Proteínas podem atravessar dobradas: não se exige digestão nem desdobramento obrigatório.",
+        "Ran-GTP, enriquecida no núcleo por ação de RanGEF, favorece liberação da carga; RanGAP no lado citoplasmático contribui para reciclar o sistema."
+      ],
+      "por": [
+        "SRP encaminha proteínas ao RE, não reconhece o NLS para importação nuclear.",
+        "",
+        "A referência de difusão não exige fragmentação de cargas grandes; receptores permitem seu transporte.",
+        "COPII participa da saída do RE na via secretória, não dessa passagem pelo poro.",
+        "No núcleo predomina Ran-GTP; o ciclo envolve associações reversíveis e não fixação irreversível ao DNA."
+      ],
+      "pega": "O estado dobrado da carga é compatível com importação pelo poro."
+    },
+    {
+      "id": "rt8_03",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Un centriolo tipico contiene nove triplette di microtubuli. Quanti tubuli comprende la sua organizzazione periferica?",
+      "o": [
+        "9",
+        "18",
+        "20",
+        "27",
+        "13"
+      ],
+      "c": 3,
+      "passos": [
+        "O enunciado descreve centríolo, não axonema de cílio móvel.",
+        "Cada uma das nove trincas reúne três túbulos, com compartilhamento de paredes entre componentes.",
+        "Multiplique 9 × 3 = 27 túbulos. Não acrescente par central ao centríolo.",
+        "Um centrossomo típico contém dois centríolos; a pergunta pede somente um."
+      ],
+      "por": [
+        "9 conta as trincas, não seus túbulos.",
+        "18 seria a contagem de nove duplas periféricas.",
+        "20 é a contagem do axonema clássico 9+2, não do centríolo.",
+        "",
+        "13 é a quantidade típica de protofilamentos da parede de um microtúbulo simples, outra escala estrutural."
+      ],
+      "pega": "Diferencie protofilamento, túbulo, dupla e trinca antes de contar."
+    },
+    {
+      "id": "rt8_04",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Il paclitaxel stabilizza i microtubuli. Perché può compromettere la mitosi pur non distruggendo il fuso?",
+      "o": [
+        "Perché sostituisce l’actina dei microvilli con tubulina",
+        "Perché impedisce alle lamine di legare la miosina V",
+        "Perché attiva direttamente la separasi prima della metafase",
+        "Perché elimina tutti i filamenti intermedi",
+        "Perché il fuso richiede una dinamica controllata di crescita e accorciamento"
+      ],
+      "c": 4,
+      "passos": [
+        "Reconheça o alvo: paclitaxel atua em microtúbulos e estabiliza o polímero.",
+        "O fuso precisa de mudanças controladas de comprimento e de ligações funcionais para capturar e segregar cromossomos.",
+        "Suprimir excessivamente a dinâmica pode prejudicar ligações adequadas e manter o checkpoint ativo, mesmo com microtúbulos presentes.",
+        "Assim, bloquear mitose não exige necessariamente despolimerização; estabilização excessiva também pode fazê-lo."
+      ],
+      "por": [
+        "O fármaco não converte microvilosidades de actina em estruturas de tubulina.",
+        "Laminas são filamentos intermediários e miosina V caminha sobre actina; essa associação não explica o alvo do fármaco.",
+        "Ativação direta de separase não é o mecanismo de estabilização de microtúbulos.",
+        "O alvo não são todos os filamentos intermediários; a presença deles não substitui a dinâmica do fuso.",
+        ""
+      ],
+      "pega": "Estabilidade excessiva também pode impedir a função de uma estrutura dinâmica."
+    },
+    {
+      "id": "rt8_05",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Una cellula diploide con 2n = 6 completa la fase S e arriva in metafase. Quale conteggio è corretto?",
+      "o": [
+        "6 cromosomi, 12 cromatidi, 4C",
+        "12 cromosomi, 12 cromatidi, 4C",
+        "6 cromosomi, 6 cromatidi, 2C",
+        "3 cromosomi, 6 cromatidi, 2C",
+        "12 cromosomi, 24 cromatidi, 8C"
+      ],
+      "c": 0,
+      "passos": [
+        "2n = 6 informa seis cromossomos em G1, cada um inicialmente com uma molécula de DNA.",
+        "S duplica o DNA: cada cromossomo passa a ter duas cromátides irmãs, totalizando doze.",
+        "Na metáfase as irmãs permanecem unidas: a contagem é seis cromossomos duplicados, não doze.",
+        "O conteúdo passa de 2C a 4C, enquanto a ploidia continua 2n. A alternativa com 6, 12 e 4C é correta."
+      ],
+      "por": [
+        "",
+        "Doze cromossomos na célula inteira só aparecem após separação das irmãs nessa mitose, já na anáfase.",
+        "Essa contagem corresponde ao estado não replicado de G1, não à metáfase.",
+        "Três cromossomos duplicados representariam um conjunto haploide replicado, não o caso diploide descrito.",
+        "Pressupõe duplicações adicionais de cromossomos e de DNA inexistentes no enunciado."
+      ],
+      "pega": "Conte cromossomos pelas unidades ainda não separadas, e DNA por cromátides."
+    },
+    {
+      "id": "rt8_06",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "Una cellula umana completa la segregazione mitotica, ma l’anello contrattile non funziona. Quale esito immediato è più plausibile?",
+      "o": [
+        "Quattro cellule aploidi con 23 cromosomi ciascuna",
+        "Una cellula priva di DNA",
+        "Una cellula binucleata con 46 cromosomi in ciascun nucleo, se gli involucri si riformano",
+        "Due cellule figlie normali grazie alla sola degradazione della securina",
+        "Una nuova replicazione obbligatoria prima della telofase"
+      ],
+      "c": 2,
+      "passos": [
+        "A segregação já foi concluída: no exemplo humano normal, cada polo recebe 46 cromossomos e 2C de DNA.",
+        "A telófase pode reconstruir envelopes e formar dois núcleos mesmo quando a divisão citoplasmática falha.",
+        "Sem constrição adequada por actina e miosina II, pode permanecer um único corpo celular binucleado.",
+        "Mitose e citocinese são processos coordenados, mas mecanicamente distintos; liberar separase não basta para separar o citoplasma."
+      ],
+      "por": [
+        "Quatro células haploides não resultam de uma mitose; isso confundiria o processo com meiose.",
+        "Falha do anel não implica eliminação do DNA já segregado.",
+        "",
+        "Degradar securina permite separar irmãs, mas não substitui a contração cortical necessária à citocinese.",
+        "A replicação não é obrigatória entre anáfase e telófase; uma eventual fase S posterior exigiria novo ciclo."
+      ],
+      "pega": "Separar cromossomos não garante dividir o citoplasma."
+    },
+    {
+      "id": "rt8_07",
+      "u": 5,
+      "ct": "c5_3",
+      "q": "Una proteina con NES viene esportata tramite esportina. Quale sequenza di eventi è corretta nel ciclo dipendente da Ran?",
+      "o": [
+        "Ran-GDP assembla il complesso nel citosol e lo invia nel lume del RE",
+        "Ran-GTP assembla il complesso nel nucleo; l’idrolisi del GTP nel citosol ne favorisce lo smontaggio",
+        "L’esportina taglia il NES nel nucleolo e attraversa il RE",
+        "RanGEF fosforila GDP nel citosol e apre una vescicola nucleare",
+        "Ran-GTP deve essere assente dal nucleo perché l’esportina leghi il carico"
+      ],
+      "c": 1,
+      "passos": [
+        "Identifique NES como sinal de exportação; a carga deve sair do nucleoplasma pelo poro.",
+        "Ran-GTP favorece a associação entre exportina e carga no núcleo, onde sua concentração é alta.",
+        "Após atravessar o poro, a hidrólise de GTP favorece a desmontagem do complexo no lado citoplasmático.",
+        "Compare com a importação: Ran-GTP favorece liberação da carga da importina, mas montagem do complexo de exportação."
+      ],
+      "por": [
+        "Inverte local e estado de Ran; o lúmen do RE não é o trajeto desse ciclo.",
+        "",
+        "Exportina é receptor de transporte, não uma protease que precisa cortar NES no nucléolo.",
+        "RanGEF promove troca de nucleotídeos no núcleo, não fosforilação de GDP nem transporte por vesícula.",
+        "A ligação cooperativa da carga à exportina é favorecida pela presença de Ran-GTP no núcleo."
+      ],
+      "pega": "Ran-GTP tem efeitos distintos sobre a associação da carga a importinas e exportinas."
+    },
+    {
+      "id": "rt8_08",
+      "u": 5,
+      "ct": "c5_11",
+      "q": "Un ciglio nodale embrionale ha assonema 9+0 ed è mobile. Quale conclusione è corretta?",
+      "o": [
+        "Il movimento dimostra che il ciglio contiene un fascio di actina anziché microtubuli",
+        "Il simbolo 9+0 indica nove triplette lungo tutto l’assonema",
+        "Tutte le strutture 9+0 sono necessariamente immobili, quindi l’osservazione è impossibile",
+        "L’assenza della coppia centrale non esclude in assoluto la motilità ciliare",
+        "La motilità richiede che la dineina utilizzi GTP anziché ATP"
+      ],
+      "c": 3,
+      "passos": [
+        "O padrão 9+0 indica ausência do par central no axonema, com nove duplas periféricas no arranjo descrito.",
+        "Cílios primários são geralmente imóveis, mas cílios nodais móveis mostram que a regra não é absoluta.",
+        "Dineínas axonemais podem gerar movimento sem o par central; o enunciado é compatível com essa exceção.",
+        "Não troque axonema por feixe de actina nem duplas do axonema por trincas do corpo basal; motores de dineína usam ATP."
+      ],
+      "por": [
+        "Cílios possuem axonema de microtúbulos; feixes de actina caracterizam microvilosidades.",
+        "Nove trincas descrevem o corpo basal típico; no axonema referido há nove duplas.",
+        "Transforma uma tendência em regra absoluta e ignora os cílios nodais móveis.",
+        "",
+        "Dineína hidrolisa ATP; GTP da tubulina está ligado à dinâmica do polímero."
+      ],
+      "pega": "9+0 descreve uma organização estrutural; não é garantia universal de imobilidade."
+    },
+    {
+      "id": "rt8_09",
+      "u": 7,
+      "ct": "c7_3",
+      "q": "In una cellula animale, quasi tutti i cromosomi sono allineati ma un cinetocoro non è ancora legato al fuso. Quale risposta è prevista dal checkpoint?",
+      "o": [
+        "Attivare subito la separasi perché l’allineamento della maggioranza è sufficiente",
+        "Replicare nuovamente il DNA per compensare il cinetocoro libero",
+        "Inibire l’attivazione di APC/C-Cdc20 e ritardare l’anafase",
+        "Degradare tutta la coesina direttamente mediante APC/C",
+        "Completare la citodieresi prima di correggere l’attacco"
+      ],
+      "c": 2,
+      "passos": [
+        "O checkpoint do fuso responde a cinetócoros não ligados; o alinhamento da maioria não basta.",
+        "O sinal de espera restringe a ativação de APC/C-Cdc20, retardando a ubiquitinação de securina e o início da anáfase.",
+        "Sem remoção da inibição por securina, a separase não desencadeia a clivagem normal de coesina.",
+        "A célula deve corrigir a ligação antes de prosseguir; nova replicação e citocinese antecipada não resolvem o defeito."
+      ],
+      "por": [
+        "Não é uma votação por maioria: um cinetócoro não ligado pode sustentar o sinal de espera.",
+        "Replicação ocorre em S e não corrige a ligação entre cinetócoro e fuso.",
+        "",
+        "APC/C é ubiquitina ligase; a protease de coesina é separase, que não deve ser liberada prematuramente.",
+        "Dividir o citoplasma antes da segregação correta favoreceria erros, não a resposta protetora do checkpoint."
+      ],
+      "pega": "Alinhamento aparente não substitui ligação funcional de todos os cinetócoros."
+    }
+  ],
+  "traducao": {
+    "2": "2",
+    "3": "3",
+    "5": "5",
+    "9": "9",
+    "10": "10",
+    "11": "11",
+    "12": "12",
+    "13": "13",
+    "18": "18",
+    "20": "20",
+    "22": "22",
+    "23": "23",
+    "27": "27",
+    "46": "46",
+    "50": "50",
+    "92": "92",
+    "184": "184",
+    "500": "500",
+    "720": "720",
+    "Un complesso del poro nucleare con diametro esterno di 120 nm misura:": "Um complexo do poro nuclear com diâmetro externo de 120 nm mede:",
+    "0,12 µm": "0,12 µm",
+    "1,2 µm": "1,2 µm",
+    "12 µm": "12 µm",
+    "0,012 µm": "0,012 µm",
+    "120 µm": "120 µm",
+    "Un nucleo di 6 µm e un nucleolo di 2 µm hanno un rapporto tra i diametri pari a:": "Um núcleo de 6 µm e um nucléolo de 2 µm têm razão entre os diâmetros igual a:",
+    "0,33": "0,33",
+    "In una cellula umana diploide tipica, quanti cromosomi appartengono alle cinque coppie acrocentriche portatrici delle NOR?": "Em uma célula humana diploide típica, quantos cromossomos pertencem aos cinco pares acrocêntricos portadores das NOR?",
+    "Quale associazione è corretta per la biogenesi dei ribosomi umani?": "Qual associação está correta para a biogênese dos ribossomos humanos?",
+    "RNA polimerasi III — trascrizione del rRNA 5S nel nucleoplasma": "RNA polimerase III — transcrição do rRNA 5S no nucleoplasma",
+    "RNA polimerasi I — sintesi del rRNA 5S nel citosol": "RNA polimerase I — síntese do rRNA 5S no citosol",
+    "RNA polimerasi II — produzione di tutti gli rRNA maturi": "RNA polimerase II — produção de todos os rRNAs maduros",
+    "Precursore 45S — traduzione delle proteine ribosomiali": "Precursor 45S — tradução das proteínas ribossomais",
+    "Nucleolo — compartimento delimitato da una propria membrana": "Nucléolo — compartimento delimitado por membrana própria",
+    "Durante il ciclo classico di importazione nucleare, Ran-GTP nel nucleo favorisce:": "Durante o ciclo clássico de importação nuclear, Ran-GTP no núcleo favorece:",
+    "Il rilascio del carico dall’importina": "A liberação da carga da importina",
+    "Il legame della SRP al segnale NLS": "A ligação de SRP ao sinal NLS",
+    "La degradazione di tutte le nucleoporine": "A degradação de todas as nucleoporinas",
+    "La conversione del poro in una vescicola": "A conversão do poro em vesícula",
+    "Lo svolgimento obbligatorio della proteina importata": "O desdobramento obrigatório da proteína importada",
+    "Quale affermazione sui condensati nucleari è FALSA?": "Qual afirmação sobre condensados nucleares é FALSA?",
+    "Sono tutti delimitati da un doppio strato lipidico proprio": "Todos são delimitados por bicamada lipídica própria",
+    "Possono concentrare proteine e RNA": "Podem concentrar proteínas e RNA",
+    "Il nucleolo è un esempio": "O nucléolo é um exemplo",
+    "I corpi di Cajal sono esempi": "Os corpos de Cajal são exemplos",
+    "Le interazioni multivalenti possono contribuire alla loro formazione": "Interações multivalentes podem contribuir para sua formação",
+    "Il segnale classico ricco di lisina e arginina per l’importazione nucleare ha la sigla ____.": "O sinal clássico rico em lisina e arginina para importação nuclear tem a sigla ____.",
+    "Il precursore 45S dà origine a 18S, 5,8S e ____S.": "O precursor 45S origina 18S, 5,8S e ____S.",
+    "Quale elemento ha il diametro MINORE, usando i valori tipici indicati?": "Qual elemento tem o MENOR diâmetro, usando os valores típicos indicados?",
+    "Filamento di actina: 7 nm": "Filamento de actina: 7 nm",
+    "Filamento intermedio: 10 nm": "Filamento intermediário: 10 nm",
+    "Microtubulo: 25 nm": "Microtúbulo: 25 nm",
+    "Complesso del poro: 120 nm": "Complexo do poro: 120 nm",
+    "Nucleo: 6 µm": "Núcleo: 6 µm",
+    "Un microtubulo con diametro di 25 nm ha diametro pari a quanti ångström?": "Um microtúbulo com diâmetro de 25 nm tem diâmetro igual a quantos ångströms?",
+    "250 Å": "250 Å",
+    "2,5 Å": "2,5 Å",
+    "25 Å": "25 Å",
+    "2 500 Å": "2 500 Å",
+    "0,25 Å": "0,25 Å",
+    "Quanti tubuli si contano nelle nove doppiette e nei due microtubuli centrali di un assonema 9+2 classico?": "Quantos túbulos se contam nas nove duplas e nos dois microtúbulos centrais de um axonema 9+2 clássico?",
+    "Quale associazione tra polimero e nucleotide è corretta?": "Qual associação entre polímero e nucleotídeo está correta?",
+    "Tubulina — GTP; actina — ATP": "Tubulina — GTP; actina — ATP",
+    "Tubulina — ATP; actina — GTP": "Tubulina — ATP; actina — GTP",
+    "Tubulina — GTP; filamenti intermedi — GTP obbligatorio": "Tubulina — GTP; filamentos intermediários — GTP obrigatório",
+    "Actina — GTP; filamenti intermedi — ATP obbligatorio": "Actina — GTP; filamentos intermediários — ATP obrigatório",
+    "Tubulina e actina — nessun nucleotide": "Tubulina e actina — nenhum nucleotídeo",
+    "In un assone con estremità più dei microtubuli rivolte al terminale, quale trasporto è retrogrado?": "Em um axônio com extremidades mais dos microtúbulos voltadas ao terminal, qual transporte é retrógrado?",
+    "Dineina citoplasmatica verso il corpo cellulare": "Dineína citoplasmática em direção ao corpo celular",
+    "Chinesina convenzionale verso il terminale": "Cinesina convencional em direção ao terminal",
+    "Miosina II lungo i filamenti intermedi": "Miosina II ao longo dos filamentos intermediários",
+    "Dineina verso l’estremità più": "Dineína em direção à extremidade mais",
+    "Chinesina convenzionale lungo l’actina": "Cinesina convencional ao longo da actina",
+    "Quale affermazione sul citoscheletro è FALSA?": "Qual afirmação sobre o citoesqueleto é FALSA?",
+    "I filamenti intermedi hanno polarità e motori direzionali": "Filamentos intermediários possuem polaridade e motores direcionais",
+    "Le lamine sono filamenti intermedi nucleari": "Laminas são filamentos intermediários nucleares",
+    "La miosina II partecipa all’anello contrattile": "Miosina II participa do anel contrátil",
+    "Il taxolo stabilizza i microtubuli": "Taxol estabiliza microtúbulos",
+    "I microvilli contengono fasci di actina": "Microvilosidades contêm feixes de actina",
+    "La parete di un microtubulo tipico è formata da ____ protofilamenti.": "A parede de um microtúbulo típico é formada por ____ protofilamentos.",
+    "La proteina della famiglia delle tubuline che contribuisce alla nucleazione nel centrosoma è la ____-tubulina.": "A proteína da família das tubulinas que contribui para a nucleação no centrossomo é a ____-tubulina.",
+    "Una cellula somatica umana tipica in metafase contiene:": "Uma célula somática humana típica em metáfase contém:",
+    "46 cromosomi e 92 cromatidi": "46 cromossomos e 92 cromátides",
+    "92 cromosomi e 92 cromatidi": "92 cromossomos e 92 cromátides",
+    "46 cromosomi e 46 cromatidi": "46 cromossomos e 46 cromátides",
+    "23 cromosomi e 46 cromatidi": "23 cromossomos e 46 cromátides",
+    "92 cromosomi e 184 cromatidi": "92 cromossomos e 184 cromátides",
+    "All’anafase di una mitosi umana normale, quanti cromosomi figli si trovano nell’intera cellula prima della citodieresi?": "Na anáfase de uma mitose humana normal, quantos cromossomos-filhos estão na célula inteira antes da citocinese?",
+    "Una cellula diploide ha 8 pg di DNA in G1. Quanto DNA avrà ciascuna figlia dopo una mitosi e una citodieresi normali?": "Uma célula diploide tem 8 pg de DNA em G1. Quanto DNA terá cada filha após uma mitose e citocinese normais?",
+    "8 pg": "8 pg",
+    "4 pg": "4 pg",
+    "16 pg": "16 pg",
+    "32 pg": "32 pg",
+    "0 pg": "0 pg",
+    "Quale sequenza permette l’inizio dell’anafase?": "Qual sequência permite o início da anáfase?",
+    "APC/C ubiquitina la securina; la separasi libera taglia la coesina": "APC/C ubiquitina securina; a separase livre cliva coesina",
+    "La separasi sintetizza securina e rafforza la coesina": "Separase sintetiza securina e reforça coesina",
+    "APC/C taglia direttamente il DNA centromerico": "APC/C corta diretamente o DNA centromérico",
+    "La ciclina B aumenta e impedisce la degradazione della securina": "Ciclina B aumenta e impede degradação de securina",
+    "La miosina II taglia la coesina nel cinetocoro": "Miosina II cliva coesina no cinetócoro",
+    "Quale evento caratterizza la prometafase nella mitosi aperta delle cellule animali?": "Qual evento caracteriza a prometáfase na mitose aberta de células animais?",
+    "Disassemblaggio dell’involucro nucleare e cattura dei cinetocori": "Desmontagem do envelope nuclear e captura dos cinetócoros",
+    "Replicazione dell’intero genoma": "Replicação do genoma inteiro",
+    "Separazione dei cromosomi omologhi come nella meiosi I": "Separação dos cromossomos homólogos como na meiose I",
+    "Formazione di quattro nuclei aploidi": "Formação de quatro núcleos haploides",
+    "Riformazione completa dell’involucro attorno ai cromosomi figli": "Reconstrução completa do envelope ao redor dos cromossomos-filhos",
+    "Quale affermazione sul checkpoint del fuso è corretta?": "Qual afirmação sobre o checkpoint do fuso está correta?",
+    "Può ritardare l’anafase in presenza di cinetocori non attaccati": "Pode atrasar a anáfase na presença de cinetócoros não ligados",
+    "Verifica soltanto la quantità di ATP nel nucleolo": "Verifica apenas a quantidade de ATP no nucléolo",
+    "Induce una nuova fase S prima di ogni anafase": "Induz uma nova fase S antes de cada anáfase",
+    "Taglia direttamente la coesina": "Cliva diretamente coesina",
+    "È il motore dell’anello di actina": "É o motor do anel de actina",
+    "La proteasi che taglia la coesina all’inizio dell’anafase è la ____.": "A protease que cliva coesina no início da anáfase é a ____.",
+    "Nell’anello contrattile della citodieresi animale, l’actina interagisce con la miosina di tipo ____.": "No anel contrátil da citocinese animal, actina interage com miosina do tipo ____.",
+    "Un nucleo ha diametro di 6 µm; un complesso del poro ha diametro esterno di 120 nm. Il rapporto tra questi diametri è:": "Um núcleo tem diâmetro de 6 µm; um complexo do poro tem diâmetro externo de 120 nm. A razão entre esses diâmetros é:",
+    "0,05": "0,05",
+    "Una proteina ripiegata di 60 kDa porta un NLS funzionale. Quale descrizione dell’importazione nucleare è più appropriata?": "Uma proteína dobrada de 60 kDa possui NLS funcional. Qual descrição da importação nuclear é mais apropriada?",
+    "La SRP la introduce nel nucleo attraverso il RE": "SRP a introduz no núcleo através do RE",
+    "L’importina la trasporta attraverso il poro e Ran-GTP favorisce il rilascio nucleare": "Importina a transporta pelo poro e Ran-GTP favorece liberação nuclear",
+    "La proteina deve essere tagliata in frammenti inferiori a 40 kDa": "A proteína deve ser cortada em fragmentos menores que 40 kDa",
+    "Una vescicola COPII attraversa l’involucro nucleare": "Uma vesícula COPII atravessa o envelope nuclear",
+    "Ran-GDP nucleare blocca irreversibilmente l’importina sul DNA": "Ran-GDP nuclear bloqueia irreversivelmente importina no DNA",
+    "Un centriolo tipico contiene nove triplette di microtubuli. Quanti tubuli comprende la sua organizzazione periferica?": "Um centríolo típico contém nove trincas de microtúbulos. Quantos túbulos compreende sua organização periférica?",
+    "Il paclitaxel stabilizza i microtubuli. Perché può compromettere la mitosi pur non distruggendo il fuso?": "Paclitaxel estabiliza microtúbulos. Por que pode comprometer a mitose mesmo sem destruir o fuso?",
+    "Perché sostituisce l’actina dei microvilli con tubulina": "Porque substitui actina das microvilosidades por tubulina",
+    "Perché impedisce alle lamine di legare la miosina V": "Porque impede laminas de ligarem miosina V",
+    "Perché attiva direttamente la separasi prima della metafase": "Porque ativa diretamente separase antes da metáfase",
+    "Perché elimina tutti i filamenti intermedi": "Porque elimina todos os filamentos intermediários",
+    "Perché il fuso richiede una dinamica controllata di crescita e accorciamento": "Porque o fuso requer dinâmica controlada de crescimento e encurtamento",
+    "Una cellula diploide con 2n = 6 completa la fase S e arriva in metafase. Quale conteggio è corretto?": "Uma célula diploide com 2n = 6 completa a fase S e chega à metáfase. Qual contagem está correta?",
+    "6 cromosomi, 12 cromatidi, 4C": "6 cromossomos, 12 cromátides, 4C",
+    "12 cromosomi, 12 cromatidi, 4C": "12 cromossomos, 12 cromátides, 4C",
+    "6 cromosomi, 6 cromatidi, 2C": "6 cromossomos, 6 cromátides, 2C",
+    "3 cromosomi, 6 cromatidi, 2C": "3 cromossomos, 6 cromátides, 2C",
+    "12 cromosomi, 24 cromatidi, 8C": "12 cromossomos, 24 cromátides, 8C",
+    "Una cellula umana completa la segregazione mitotica, ma l’anello contrattile non funziona. Quale esito immediato è più plausibile?": "Uma célula humana completa a segregação mitótica, mas o anel contrátil não funciona. Qual resultado imediato é mais plausível?",
+    "Quattro cellule aploidi con 23 cromosomi ciascuna": "Quatro células haploides com 23 cromossomos cada",
+    "Una cellula priva di DNA": "Uma célula sem DNA",
+    "Una cellula binucleata con 46 cromosomi in ciascun nucleo, se gli involucri si riformano": "Uma célula binucleada com 46 cromossomos em cada núcleo, se os envelopes se reconstituírem",
+    "Due cellule figlie normali grazie alla sola degradazione della securina": "Duas células-filhas normais graças apenas à degradação de securina",
+    "Una nuova replicazione obbligatoria prima della telofase": "Uma nova replicação obrigatória antes da telófase",
+    "Quale affermazione sul segnale di localizzazione nucleare classico è ERRATA?": "Qual afirmação sobre o sinal clássico de localização nuclear está ERRADA?",
+    "Viene sempre rimosso mediante taglio dopo l’importazione": "É sempre removido por clivagem após a importação",
+    "È una sequenza amminoacidica della proteina": "É uma sequência de aminoácidos da proteína",
+    "Può trovarsi in una regione interna della proteina": "Pode estar em uma região interna da proteína",
+    "È spesso ricco di lisina e arginina": "É frequentemente rico em lisina e arginina",
+    "Può consentire una nuova importazione dopo la mitosi": "Pode permitir nova importação após a mitose",
+    "Con quale compartimento è in continuità lo spazio perinucleare?": "Com qual compartimento o espaço perinuclear tem continuidade?",
+    "Con il lume del reticolo endoplasmatico": "Com o lúmen do retículo endoplasmático",
+    "Con il nucleoplasma attraverso un’apertura permanente della membrana interna": "Com o nucleoplasma por uma abertura permanente da membrana interna",
+    "Con la matrice mitocondriale": "Com a matriz mitocondrial",
+    "Con il citosol attraverso il lume dei ribosomi": "Com o citosol pelo lúmen dos ribossomos",
+    "Con l’interno del nucleolo delimitato da una membrana": "Com o interior do nucléolo delimitado por uma membrana",
+    "Nel ciclo di esportazione mediato da esportina e Ran, dove si forma il complesso carico-esportina-Ran-GTP?": "No ciclo de exportação mediado por exportina e Ran, onde se forma o complexo carga-exportina-Ran-GTP?",
+    "Nel nucleoplasma, prima del passaggio attraverso il poro": "No nucleoplasma, antes da passagem pelo poro",
+    "Nel lume del reticolo endoplasmatico, dopo il taglio dell’NLS": "No lúmen do retículo endoplasmático, após a clivagem do NLS",
+    "Nel citosol, dove Ran-GTP è normalmente più abbondante": "No citosol, onde Ran-GTP normalmente é mais abundante",
+    "Nella matrice mitocondriale, tramite TOM/TIM": "Na matriz mitocondrial, por TOM/TIM",
+    "Nello spazio perinucleare, tramite vescicole COPII": "No espaço perinuclear, por vesículas COPII",
+    "Tutte le seguenti affermazioni sulle NOR umane sono corrette, TRANNE una. Quale?": "Todas as seguintes afirmações sobre as NOR humanas estão corretas, EXCETO uma. Qual?",
+    "Ogni NOR deve formare un nucleolo distinto e separato": "Cada NOR deve formar um nucléolo distinto e separado",
+    "Si trovano sui bracci corti di alcuni cromosomi acrocentrici": "Localizam-se nos braços curtos de alguns cromossomos acrocêntricos",
+    "Sono presenti sui cromosomi 13, 14, 15, 21 e 22": "Estão presentes nos cromossomos 13, 14, 15, 21 e 22",
+    "Contengono sequenze di DNA per il precursore dei rRNA 18S, 5,8S e 28S": "Contêm sequências de DNA para o precursor dos rRNA 18S, 5,8S e 28S",
+    "Più NOR possono contribuire allo stesso nucleolo": "Várias NOR podem contribuir para o mesmo nucléolo",
+    "Nel nucleoplasma, il rRNA 5S è trascritto dalla RNA polimerasi ____ (indicare il numero romano).": "No nucleoplasma, o rRNA 5S é transcrito pela RNA polimerase ____ (indique o número romano).",
+    "Quale affermazione sulle ciglia e sui microvilli è FALSA?": "Qual afirmação sobre cílios e microvilosidades é FALSA?",
+    "Tutte le ciglia con assonema 9+0 sono immobili": "Todos os cílios com axonema 9+0 são imóveis",
+    "Le ciglia nodali embrionali possono essere mobili pur avendo assonema 9+0": "Cílios nodais embrionários podem ser móveis apesar do axonema 9+0",
+    "Le ciglia mobili classiche hanno un assonema 9+2": "Cílios móveis clássicos têm axonema 9+2",
+    "Le dineine assonemali contribuiscono al movimento ciliare": "Dineínas axonemais contribuem para o movimento ciliar",
+    "Nel centrosoma animale tipico, quale struttura nuclea i microtubuli e si associa alle loro estremità meno?": "No centrossomo animal típico, qual estrutura nucleia microtúbulos e se associa às suas extremidades menos?",
+    "I complessi di γ-tubulina nel materiale pericentriolare": "Os complexos de γ-tubulina no material pericentriolar",
+    "La miosina II nell’anello contrattile": "A miosina II no anel contrátil",
+    "Le lamine sulla membrana nucleare interna": "As laminas na membrana nuclear interna",
+    "I fasci di actina dei microvilli": "Os feixes de actina das microvilosidades",
+    "La chinesina convenzionale all’estremità più": "A cinesina convencional na extremidade mais",
+    "Quale affermazione sui filamenti intermedi è ERRATA?": "Qual afirmação sobre filamentos intermediários está ERRADA?",
+    "La loro polimerizzazione richiede direttamente l’idrolisi di GTP da parte delle subunità": "Sua polimerização requer diretamente hidrólise de GTP pelas subunidades",
+    "La loro organizzazione antiparallela determina assenza di polarità": "Sua organização antiparalela determina ausência de polaridade",
+    "Le cheratine sono filamenti intermedi degli epiteli": "Queratinas são filamentos intermediários dos epitélios",
+    "Le lamine formano una rete sul lato nucleoplasmatico dell’involucro": "Laminas formam uma rede no lado nucleoplasmático do envelope",
+    "La fosforilazione può regolarne l’organizzazione": "Fosforilação pode regular sua organização",
+    "Quale associazione distingue correttamente il nucleotide della dinamica del polimero da quello usato dal motore?": "Qual associação distingue corretamente o nucleotídeo da dinâmica do polímero daquele usado pelo motor?",
+    "Microtubulo: GTP della tubulina; dineina: ATP": "Microtúbulo: GTP da tubulina; dineína: ATP",
+    "Microtubulo: ATP della tubulina; dineina: GTP": "Microtúbulo: ATP da tubulina; dineína: GTP",
+    "Actina: GTP; miosina II: GTP": "Actina: GTP; miosina II: GTP",
+    "Filamento intermedio: GTP obbligatorio; chinesina: ATP": "Filamento intermediário: GTP obrigatório; cinesina: ATP",
+    "Microtubulo: GTP della tubulina; chinesina: GTP": "Microtúbulo: GTP da tubulina; cinesina: GTP",
+    "Nell’instabilità dinamica dei microtubuli, il passaggio dalla crescita all’accorciamento è detto ____.": "Na instabilidade dinâmica dos microtúbulos, a passagem de crescimento para encurtamento é chamada de ____.",
+    "Quale affermazione sul passaggio metafase-anafase è ERRATA?": "Qual afirmação sobre a transição metáfase-anáfase está ERRADA?",
+    "APC/C taglia direttamente la coesina con attività proteasica": "APC/C corta diretamente coesina com atividade de protease",
+    "APC/C ubiquitina la securina": "APC/C ubiquitina securina",
+    "Il proteasoma degrada la securina ubiquitinata": "O proteassomo degrada securina ubiquitinada",
+    "La separasi può tagliare la coesina dopo la rimozione dell’inibizione": "A separase pode cortar coesina após a remoção da inibição",
+    "La degradazione della ciclina B riduce l’attività di CDK1": "A degradação da ciclina B reduz a atividade de CDK1",
+    "Quale evento definisce l’anafase B, distinguendola dall’anafase A?": "Qual evento define a anáfase B, distinguindo-a da anáfase A?",
+    "L’allontanamento reciproco dei poli del fuso": "O afastamento entre os polos do fuso",
+    "L’avvicinamento dei cromosomi ai poli senza considerare la distanza tra i poli": "A aproximação dos cromossomos aos polos sem considerar a distância entre os polos",
+    "La duplicazione del DNA tra i due poli": "A duplicação de DNA entre os dois polos",
+    "L’appaiamento dei cromosomi omologhi": "O pareamento dos cromossomos homólogos",
+    "La ricostituzione completa dell’involucro nucleare": "A reconstituição completa do envelope nuclear",
+    "Una cellula con 2n = 4 è in anafase mitotica normale, prima della citodieresi. Quale conteggio distingue correttamente l’intera cellula da ciascun polo?": "Uma célula com 2n = 4 está em anáfase mitótica normal, antes da citocinese. Qual contagem distingue corretamente a célula inteira de cada polo?",
+    "8 cromosomi nell’intera cellula; 4 diretti a ciascun polo": "8 cromossomos na célula inteira; 4 dirigidos a cada polo",
+    "4 cromosomi nell’intera cellula; 2 diretti a ciascun polo": "4 cromossomos na célula inteira; 2 dirigidos a cada polo",
+    "8 cromosomi nell’intera cellula; 8 diretti a ciascun polo": "8 cromossomos na célula inteira; 8 dirigidos a cada polo",
+    "4 cromosomi nell’intera cellula; 4 diretti a ciascun polo": "4 cromossomos na célula inteira; 4 dirigidos a cada polo",
+    "16 cromosomi nell’intera cellula; 8 diretti a ciascun polo": "16 cromossomos na célula inteira; 8 dirigidos a cada polo",
+    "Nella citodieresi tipica di una cellula vegetale superiore, quale processo sostituisce il solco di divisione animale?": "Na citocinese típica de uma célula vegetal superior, qual processo substitui o sulco de divisão animal?",
+    "La formazione di una piastra cellulare che si estende dal centro verso la periferia": "A formação de uma placa celular que se estende do centro para a periferia",
+    "La contrazione di un anello di microtubuli nella parete preesistente": "A contração de um anel de microtúbulos na parede preexistente",
+    "La separazione dei cromosomi omologhi senza divisione del citoplasma": "A separação dos cromossomos homólogos sem divisão do citoplasma",
+    "La fusione dei due nuclei figli in un unico nucleo": "A fusão dos dois núcleos-filhos em um único núcleo",
+    "La dissoluzione della parete mediante la separasi": "A dissolução da parede pela separase",
+    "Il complesso proteico assemblato sul centromero che lega i microtubuli del fuso è il ____.": "O complexo proteico montado no centrômero que liga microtúbulos do fuso é o ____.",
+    "Una proteina con NES viene esportata tramite esportina. Quale sequenza di eventi è corretta nel ciclo dipendente da Ran?": "Uma proteína com NES é exportada por exportina. Qual sequência de eventos está correta no ciclo dependente de Ran?",
+    "Ran-GDP assembla il complesso nel citosol e lo invia nel lume del RE": "Ran-GDP monta o complexo no citosol e o envia ao lúmen do RE",
+    "Ran-GTP assembla il complesso nel nucleo; l’idrolisi del GTP nel citosol ne favorisce lo smontaggio": "Ran-GTP monta o complexo no núcleo; a hidrólise de GTP no citosol favorece sua desmontagem",
+    "L’esportina taglia il NES nel nucleolo e attraversa il RE": "A exportina cliva o NES no nucléolo e atravessa o RE",
+    "RanGEF fosforila GDP nel citosol e apre una vescicola nucleare": "RanGEF fosforila GDP no citosol e abre uma vesícula nuclear",
+    "Ran-GTP deve essere assente dal nucleo perché l’esportina leghi il carico": "Ran-GTP deve estar ausente do núcleo para a exportina ligar a carga",
+    "Un ciglio nodale embrionale ha assonema 9+0 ed è mobile. Quale conclusione è corretta?": "Um cílio nodal embrionário tem axonema 9+0 e é móvel. Qual conclusão está correta?",
+    "Il movimento dimostra che il ciglio contiene un fascio di actina anziché microtubuli": "O movimento demonstra que o cílio contém um feixe de actina em vez de microtúbulos",
+    "Il simbolo 9+0 indica nove triplette lungo tutto l’assonema": "O símbolo 9+0 indica nove trincas ao longo de todo o axonema",
+    "Tutte le strutture 9+0 sono necessariamente immobili, quindi l’osservazione è impossibile": "Todas as estruturas 9+0 são necessariamente imóveis, logo a observação é impossível",
+    "L’assenza della coppia centrale non esclude in assoluto la motilità ciliare": "A ausência do par central não exclui de modo absoluto a motilidade ciliar",
+    "La motilità richiede che la dineina utilizzi GTP anziché ATP": "A motilidade exige que a dineína utilize GTP em vez de ATP",
+    "In una cellula animale, quasi tutti i cromosomi sono allineati ma un cinetocoro non è ancora legato al fuso. Quale risposta è prevista dal checkpoint?": "Em uma célula animal, quase todos os cromossomos estão alinhados, mas um cinetócoro ainda não está ligado ao fuso. Qual resposta é prevista pelo checkpoint?",
+    "Attivare subito la separasi perché l’allineamento della maggioranza è sufficiente": "Ativar imediatamente a separase porque o alinhamento da maioria é suficiente",
+    "Replicare nuovamente il DNA per compensare il cinetocoro libero": "Replicar novamente o DNA para compensar o cinetócoro livre",
+    "Inibire l’attivazione di APC/C-Cdc20 e ritardare l’anafase": "Inibir a ativação de APC/C-Cdc20 e retardar a anáfase",
+    "Degradare tutta la coesina direttamente mediante APC/C": "Degradar toda a coesina diretamente por APC/C",
+    "Completare la citodieresi prima di correggere l’attacco": "Completar a citocinese antes de corrigir a ligação"
+  },
+  "passos": [
+    [
+      "c",
+      "c5_3",
+      "O núcleo, seus poros e o nucléolo."
+    ],
+    [
+      "r",
+      "rt8_01",
+      "Compare núcleo e poro após converter as unidades."
+    ],
+    [
+      "r",
+      "rt8_02",
+      "Acompanhe uma carga com NLS até sua liberação nuclear."
+    ],
+    [
+      "r",
+      "rt8_07",
+      "Compare o efeito de Ran-GTP na importação e na exportação."
+    ],
+    [
+      "c",
+      "c5_11",
+      "Os três tipos de filamento do citoesqueleto."
+    ],
+    [
+      "r",
+      "rt8_03",
+      "Conte os túbulos de um centríolo sem confundir com o axonema."
+    ],
+    [
+      "r",
+      "rt8_04",
+      "Explique por que estabilizar demais também bloqueia o fuso."
+    ],
+    [
+      "r",
+      "rt8_08",
+      "Examine uma exceção à associação entre 9+0 e imobilidade."
+    ],
+    [
+      "r",
+      "r5f",
+      "Taxol e o fuso."
+    ],
+    [
+      "r",
+      "r7e",
+      "Securina, separase e coesina."
+    ],
+    [
+      "c",
+      "c7_3",
+      "Mitose e citocinese, passo a passo."
+    ],
+    [
+      "r",
+      "rt8_05",
+      "Separe contagem de cromossomos, cromátides e conteúdo de DNA."
+    ],
+    [
+      "r",
+      "rt8_06",
+      "Distinga segregação dos cromossomos e divisão do citoplasma."
+    ],
+    [
+      "r",
+      "rt8_09",
+      "Verifique por que um único cinetócoro não ligado pode adiar a anáfase."
+    ],
+    [
+      "q",
+      7,
+      "Feche com questões da unidade."
+    ]
+  ]
+}

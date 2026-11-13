@@ -1,0 +1,1124 @@
+[
+  {
+    "id": "c5_1",
+    "u": 5,
+    "t": "Membrana plasmática e transporte",
+    "it": "membrana, trasporto passivo e attivo, pompe ATPasi, trasportatori ABC, canali",
+    "le": "ECB 11–12",
+    "txt": [
+      "A membrana segue o **modelo do mosaico fluido**: bicamada de fosfolipídios anfipáticos, colesterol (regula a fluidez) e proteínas integrais ou periféricas. Os glicolipídios e as glicoproteínas formam o glicocálice na face externa.",
+      "A bicamada deixa passar sozinhos só gases (O₂, CO₂) e moléculas pequenas apolares. Íons, glicose e aminoácidos precisam de proteínas de transporte.",
+      "**Transporte passivo** (a favor do gradiente, sem gasto de energia):",
+      "- Difusão simples: direto pela bicamada.",
+      "- Difusão facilitada por **canais**: poros seletivos, muito rápidos, abertos por voltagem, ligante ou estímulo mecânico. Aquaporinas para água.",
+      "- Difusão facilitada por **carreadores** (uniporte): mudam de conformação e **saturam**, como os GLUT da glicose.",
+      "**Transporte ativo primário** (gasta ATP diretamente):",
+      "- Bombas tipo **P**: fosforilam a si mesmas. Exemplos: Na⁺/K⁺-ATPase e as bombas de Ca²⁺ (SERCA no RE, PMCA na membrana).",
+      "- Tipo **V**: bombeiam H⁺ para acidificar lisossomos e endossomos.",
+      "- Tipo **F**: a ATP sintase, que funciona ao contrário e produz ATP.",
+      "- **Transportadores ABC**: usam ATP para levar moléculas variadas. O MDR expulsa fármacos e causa resistência à quimioterapia. A **CFTR** pertence à família, mas funciona como canal de Cl⁻.",
+      "**Transporte ativo secundário**: usa o gradiente de Na⁺ que a bomba criou. O SGLT faz simporte de Na⁺ com glicose no intestino e no rim; o NCX faz antiporte de Na⁺ com Ca²⁺."
+    ],
+    "chave": [
+      "Na⁺/K⁺-ATPase: 3 Na⁺ saem, 2 K⁺ entram, 1 ATP por ciclo; é eletrogênica",
+      "Canais não saturam na prática; carreadores saturam (têm Vmax)",
+      "SGLT = ativo secundário; GLUT = difusão facilitada",
+      "CFTR é proteína ABC que funciona como canal de cloro"
+    ],
+    "pega": "«O transporte ativo secundário não usa energia» está errado: ele usa a energia do gradiente de Na⁺, que custou ATP para a bomba criar."
+  },
+  {
+    "id": "c5_2",
+    "u": 5,
+    "t": "Potencial de repouso e potencial de ação",
+    "it": "potenziale di riposo, potenziale d'azione, canali voltaggio-dipendenti, periodo refrattario",
+    "le": "ECB 12",
+    "txt": [
+      "No neurônio, o **potencial de repouso** fica perto de −70 mV, com o interior negativo. Ele depende sobretudo dos **canais de vazamento de K⁺**: o K⁺ sai a favor do gradiente e deixa cargas negativas para trás. A bomba Na⁺/K⁺ mantém os gradientes, mas contribui pouco diretamente para a voltagem.",
+      "O potencial de equilíbrio do K⁺ fica perto de −90 mV e o do Na⁺ perto de +60 mV. O repouso fica perto do K⁺ porque a membrana em repouso é muito mais permeável a ele.",
+      "**Fases do potencial de ação:**",
+      "- Um estímulo leva a membrana até o **limiar** (cerca de −55 mV).",
+      "- **Despolarização**: abrem os canais de Na⁺ voltagem-dependentes, o Na⁺ entra e a membrana chega a cerca de +30 mV.",
+      "- **Repolarização**: os canais de Na⁺ se **inativam** e os de K⁺ voltagem-dependentes abrem; o K⁺ sai.",
+      "- **Hiperpolarização** pós-potencial: os canais de K⁺ demoram a fechar.",
+      "O potencial de ação é **tudo ou nada**. O **período refratário** absoluto, enquanto o Na⁺ está inativado, faz o impulso andar num só sentido. Na fibra mielinizada a condução é **saltatória**, de um nó de Ranvier ao outro.",
+      "No terminal do axônio, a despolarização abre canais de **Ca²⁺** voltagem-dependentes. O Ca²⁺ dispara a exocitose do neurotransmissor, mediada pelas proteínas SNARE."
+    ],
+    "chave": [
+      "Repouso: permeabilidade ao K⁺ (canais de vazamento)",
+      "Subida: entrada de Na⁺; descida: saída de K⁺",
+      "Refratário absoluto = canais de Na⁺ inativados",
+      "Mais K⁺ fora da célula (hipercalemia) despolariza o repouso"
+    ],
+    "pega": "A repolarização não é feita pela bomba Na⁺/K⁺: é a saída de K⁺ por canais. A bomba é lenta demais para isso."
+  },
+  {
+    "id": "c5_3",
+    "u": 5,
+    "t": "Núcleo, poro nuclear, nucléolo e condensados",
+    "it": "nucleo, involucro nucleare, poro nucleare, importina, nucleolo, condensati nucleari",
+    "le": "ECB 5 e 15",
+    "txt": [
+      "O **envelope nuclear** tem duas membranas; a externa continua com o RE. Por dentro, a **lâmina nuclear** de laminas (um tipo de filamento intermediário) dá sustentação e ancora a cromatina.",
+      "Os **complexos do poro**, feitos de nucleoporinas, deixam passar livremente moléculas pequenas. Proteínas grandes precisam de sinal:",
+      "- **NLS** (sinal de localização nuclear, rico em Lys e Arg), reconhecido pela **importina**.",
+      "- **NES** (sinal de exportação), reconhecido pela **exportina**.",
+      "- A **Ran** dá a direção: Ran-GTP dentro do núcleo, porque a RanGEF está presa à cromatina, e Ran-GDP no citosol, porque a RanGAP é citosólica.",
+      "As proteínas entram no núcleo **já dobradas**. Isso é diferente da mitocôndria e do RE, onde elas entram desdobradas.",
+      "O **nucléolo** forma-se em torno das regiões organizadoras do nucléolo (NOR), nos braços curtos dos acrocêntricos 13, 14, 15, 21 e 22. Ali a **RNA polimerase I** transcreve o rRNA 45S, que é cortado em 18S, 5,8S e 28S. O 5S vem da polimerase III, fora do nucléolo. As subunidades do ribossomo são montadas no nucléolo e exportadas.",
+      "**Condensados nucleares** são compartimentos sem membrana formados por **separação de fase líquido-líquido**. Exemplos: o próprio nucléolo, os *speckles* de splicing, os corpos de Cajal e os corpos PML."
+    ],
+    "chave": [
+      "Importina reconhece NLS; Ran-GTP fica no núcleo",
+      "Proteínas atravessam o poro dobradas",
+      "Nucléolo: RNA pol I, rRNA 45S → 18S, 5,8S, 28S",
+      "Condensados: sem membrana, por separação de fase"
+    ],
+    "pega": "O rRNA 5S não é feito no nucléolo: vem da RNA polimerase III, no nucleoplasma."
+  },
+  {
+    "id": "c5_4",
+    "u": 5,
+    "t": "Glicólise, piruvato e ciclo de Krebs",
+    "it": "glicolisi, piruvato deidrogenasi, ciclo di Krebs, fermentazione lattica",
+    "le": "ECB 13",
+    "txt": [
+      "A **glicólise** acontece no **citosol** em 10 reações. Investe 2 ATP e produz 4, com saldo de **2 ATP, 2 NADH e 2 piruvatos** por glicose. As enzimas reguladas são a hexoquinase, a **fosfofrutoquinase-1** (o principal ponto de controle) e a piruvato quinase.",
+      "Sem O₂, a **fermentação lática** (lactato desidrogenase) transforma piruvato em lactato para regenerar NAD⁺ e manter a glicólise. É o que acontece na hemácia, que não tem mitocôndria, e no músculo em esforço intenso.",
+      "Com O₂, o piruvato entra na matriz mitocondrial. A **piruvato desidrogenase** o converte em **acetil-CoA**, liberando CO₂ e NADH.",
+      "O **ciclo de Krebs**, na matriz, une acetil-CoA e oxaloacetato em citrato. A cada volta produz **3 NADH, 1 FADH₂, 1 GTP e 2 CO₂**. Cada glicose dá duas voltas.",
+      "A succinato desidrogenase é ao mesmo tempo enzima do ciclo e o **complexo II** da cadeia respiratória, presa à membrana interna."
+    ],
+    "chave": [
+      "Glicólise: citosol, saldo 2 ATP + 2 NADH",
+      "Piruvato desidrogenase: piruvato → acetil-CoA (matriz)",
+      "Krebs por volta: 3 NADH, 1 FADH₂, 1 GTP, 2 CO₂",
+      "Fermentação só regenera NAD⁺; não produz ATP extra"
+    ],
+    "pega": "Krebs produz pouco ATP direto (1 GTP por volta). A maior parte da energia sai como NADH e FADH₂, que só viram ATP na cadeia respiratória."
+  },
+  {
+    "id": "c5_5",
+    "u": 5,
+    "t": "Cadeia respiratória, ATP sintase e mitocôndria",
+    "it": "catena di trasporto degli elettroni, ATP sintasi, chemiosmosi, bilancio energetico",
+    "le": "ECB 14",
+    "txt": [
+      "A cadeia fica na **membrana mitocondrial interna**, dobrada em cristas.",
+      "- **Complexo I** (NADH desidrogenase): recebe elétrons do NADH e bombeia H⁺.",
+      "- **Complexo II** (succinato desidrogenase): recebe do FADH₂ e **não bombeia** H⁺.",
+      "- A **ubiquinona** leva os elétrons ao **complexo III**, que bombeia H⁺.",
+      "- O **citocromo c**, solúvel no espaço intermembranas, leva-os ao **complexo IV** (citocromo c oxidase), que bombeia H⁺ e entrega os elétrons ao **O₂, formando H₂O**.",
+      "O bombeamento cria um gradiente eletroquímico de H⁺, a **força próton-motriz**. Os prótons voltam pela **ATP sintase** (porção F₀ gira, porção F₁ catalisa) e geram ATP: é a **teoria quimiosmótica** de Mitchell.",
+      "Rendimento: cerca de 2,5 ATP por NADH e 1,5 por FADH₂, ou seja, **30–32 ATP por glicose**.",
+      "- **Desacopladores**, como a termogenina (UCP1) da gordura marrom, deixam o H⁺ voltar sem fazer ATP: a energia vira calor.",
+      "- **Cianeto** e CO bloqueiam o complexo IV. A **oligomicina** bloqueia a ATP sintase.",
+      "A mitocôndria tem **DNA próprio circular** (herança materna), ribossomos de tipo bacteriano e origem **endossimbiótica**. A maioria das suas proteínas, porém, vem do núcleo e entra por TOM e TIM graças a uma pré-sequência N-terminal."
+    ],
+    "chave": [
+      "Aceptor final de elétrons: O₂ (vira H₂O)",
+      "Complexo II não bombeia prótons",
+      "ATP sintase: gradiente de H⁺ → ATP (quimiosmose)",
+      "Total ≈ 30–32 ATP por glicose"
+    ],
+    "pega": "Bloquear a ATP sintase também para o consumo de O₂ (o gradiente fica alto demais). Um desacoplador faz o contrário: o consumo de O₂ sobe e o ATP cai."
+  },
+  {
+    "id": "c5_6",
+    "u": 5,
+    "t": "Peroxissomos",
+    "it": "perossisomi, catalasi, beta-ossidazione, plasmalogeni, PTS1",
+    "le": "ECB 15",
+    "txt": [
+      "O peroxissomo tem uma só membrana e **não tem DNA**. Suas proteínas são feitas no citosol e entram **já dobradas**, guiadas pelo sinal **PTS1** (tripeptídeo SKL no C-terminal) e pelas peroxinas (PEX).",
+      "**Funções catabólicas e detoxificantes:**",
+      "- Oxidases geram H₂O₂, e a **catalase** o decompõe em H₂O e O₂.",
+      "- **β-oxidação de ácidos graxos de cadeia muito longa** (VLCFA): o peroxissomo os encurta e passa à mitocôndria.",
+      "- No fígado, detoxifica parte do etanol e de outras moléculas.",
+      "**Funções biossintéticas:** síntese de **plasmalogênios**, fosfolipídios importantes na mielina, e etapas dos ácidos biliares.",
+      "**Doenças:** a **síndrome de Zellweger** é falha na formação do peroxissomo. A **adrenoleucodistrofia ligada ao X** é defeito no transportador ABCD1, que leva ao acúmulo de VLCFA."
+    ],
+    "chave": [
+      "Catalase: H₂O₂ → H₂O + O₂",
+      "β-oxidação de cadeia muito longa começa no peroxissomo",
+      "Sinal de importação: PTS1 (SKL)",
+      "Plasmalogênios → mielina"
+    ],
+    "pega": "A β-oxidação dos ácidos graxos comuns é mitocondrial. Só os de cadeia muito longa começam no peroxissomo."
+  },
+  {
+    "id": "c5_7",
+    "u": 5,
+    "t": "Retículo endoplasmático e complexo de Golgi",
+    "it": "RE ruvido e liscio, apparato di Golgi, cis-Golgi, trans-Golgi network, glicosilazione",
+    "le": "ECB 15",
+    "txt": [
+      "**RE rugoso**: tem ribossomos e produz proteínas de secreção, de membrana e lisossomais.",
+      "**RE liso**: produz lipídios (fosfolipídios, esteroides). No hepatócito detoxifica com o citocromo P450. É reservatório de **Ca²⁺**; no músculo chama-se retículo sarcoplasmático e recapta Ca²⁺ pela SERCA.",
+      "O **Golgi** tem polaridade:",
+      "- Face **cis**: recebe vesículas do RE pelo compartimento intermediário (ERGIC).",
+      "- Cisternas **mediais**: modificam açúcares.",
+      "- **Trans** e **trans-Golgi network** (TGN): fazem a triagem para secreção constitutiva, secreção regulada ou lisossomo.",
+      "**Glicosilação:**",
+      "- **N-ligada**: começa no RE. Um oligossacarídeo pré-montado no dolicol é transferido inteiro para uma **Asn**.",
+      "- **O-ligada**: em Ser ou Thr, feita no Golgi.",
+      "- A **manose-6-fosfato**, que marca enzimas para o lisossomo, é adicionada no **cis-Golgi**."
+    ],
+    "chave": [
+      "RE liso: lipídios, P450, reserva de Ca²⁺",
+      "N-glicosilação começa no RE (Asn); O-glicosilação no Golgi (Ser/Thr)",
+      "TGN = estação de triagem",
+      "Manose-6-fosfato: adicionada no cis-Golgi"
+    ],
+    "pega": "A glicosilação N-ligada não é feita açúcar por açúcar sobre a proteína: o bloco inteiro é transferido do dolicol de uma vez."
+  },
+  {
+    "id": "c5_8",
+    "u": 5,
+    "t": "Endereçamento de proteínas e controle de qualidade no RE",
+    "it": "smistamento delle proteine, SRP, traslocone, calnessina, calreticolina, UPR, ERAD, fibrosi cistica",
+    "le": "ECB 15",
+    "txt": [
+      "Toda proteína começa a ser feita no citosol. O destino depende do **sinal** que ela carrega:",
+      "- Sem sinal: fica no citosol.",
+      "- **Sequência-sinal** N-terminal hidrofóbica: vai para o RE.",
+      "- Pré-sequência anfipática: vai para a mitocôndria.",
+      "- NLS: vai para o núcleo.",
+      "- PTS: vai para o peroxissomo.",
+      "**Entrada no RE (co-traducional):**",
+      "- A **SRP** reconhece a sequência-sinal assim que ela sai do ribossomo e pausa a tradução.",
+      "- A SRP leva o complexo ao **receptor de SRP** na membrana do RE.",
+      "- O ribossomo se acopla ao **translocon (Sec61)** e a proteína entra no lúmen enquanto é traduzida. A peptidase do sinal corta a sequência-sinal.",
+      "- Em proteínas transmembrana, sinais internos de parada ou de âncora deixam segmentos presos na membrana.",
+      "**Controle de qualidade:**",
+      "- A **calnexina** (de membrana) e a **calreticulina** (do lúmen) seguram as glicoproteínas até elas dobrarem bem. A **BiP** é a Hsp70 do RE.",
+      "- Proteínas que não dobram voltam ao citosol, são ubiquitinadas e destruídas no proteassomo: é o **ERAD**.",
+      "- Se proteínas mal dobradas se acumulam, os sensores IRE1, PERK e ATF6 ativam a **UPR**. A célula freia a tradução, faz mais chaperonas e aumenta o ERAD. Se o estresse persiste, entra em **apoptose**.",
+      "**Fibrose cística:** doença autossômica recessiva do gene CFTR (cromossomo 7). Na mutação mais comum, **ΔF508**, a CFTR dobra mal, fica retida no RE e é degradada por ERAD. Sem o canal de Cl⁻ na membrana, as secreções ficam espessas."
+    ],
+    "chave": [
+      "SRP → receptor de SRP → Sec61 (co-traducional)",
+      "Calnexina/calreticulina: retêm até dobrar",
+      "Mal dobrada → ERAD (proteassomo); acúmulo → UPR",
+      "ΔF508: CFTR retida no RE e degradada"
+    ],
+    "pega": "A SRP é citosólica e reconhece o sinal durante a tradução, não depois que a proteína está pronta."
+  },
+  {
+    "id": "c5_9",
+    "u": 5,
+    "t": "Via secretora e tráfego vesicular",
+    "it": "via secretoria, traffico vescicolare, COPII, COPI, clatrina, SNARE, RAB, KDEL",
+    "le": "ECB 15",
+    "txt": [
+      "Cada tipo de vesícula tem um **revestimento** próprio:",
+      "- **COPII**: do RE para o Golgi (anterógrado).",
+      "- **COPI**: do Golgi de volta ao RE e entre cisternas (retrógrado). Recupera as proteínas residentes do RE que têm o sinal **KDEL**, via receptor de KDEL.",
+      "- **Clatrina** com adaptadores (AP): do TGN para os endossomos e na endocitose. A **dinamina** (uma GTPase) estrangula o colo e solta a vesícula.",
+      "As **RAB** são GTPases pequenas que dão identidade a cada membrana e ancoram a vesícula no alvo certo.",
+      "As **SNARE** fazem a fusão: a v-SNARE da vesícula se enrola com a t-SNARE da membrana-alvo e força as bicamadas a se unirem. Depois, NSF e SNAP desmontam o complexo gastando ATP. As toxinas **botulínica e tetânica** cortam SNARE e bloqueiam a liberação de neurotransmissor.",
+      "**Tipos de secreção:**",
+      "- **Constitutiva**: contínua, em todas as células.",
+      "- **Regulada**: grânulos armazenados que só se fundem com um sinal, em geral a entrada de Ca²⁺. Exemplos: insulina, enzimas digestivas, neurotransmissores."
+    ],
+    "chave": [
+      "COPII anterógrado; COPI retrógrado; clatrina = TGN/endocitose",
+      "RAB = identidade e ancoragem; SNARE = fusão",
+      "KDEL = retenção no RE",
+      "Secreção regulada depende de Ca²⁺"
+    ],
+    "pega": "Uma proteína solúvel com sequência-sinal e sem nenhum outro sinal é secretada por padrão. Para ficar no RE precisa de KDEL; para ir ao lisossomo, de manose-6-fosfato."
+  },
+  {
+    "id": "c5_10",
+    "u": 5,
+    "t": "Endocitose, lisossomos, autofagia e mitofagia",
+    "it": "endocitosi, endosomi, lisosomi, mannosio-6-fosfato, autofagia, mitofagia",
+    "le": "ECB 15",
+    "txt": [
+      "**Formas de endocitose:**",
+      "- **Fagocitose**: partículas grandes, em macrófagos e neutrófilos, movida por actina.",
+      "- **Pinocitose** e macropinocitose: líquido.",
+      "- **Endocitose mediada por receptor**, com clatrina. O exemplo clássico é o LDL: na hipercolesterolemia familiar (autossômica dominante), o receptor de LDL falha e o colesterol sobe no sangue.",
+      "**Caminho do material endocitado:** endossomo inicial (pH ≈ 6; o ligante solta do receptor, que é reciclado) → endossomo tardio → **lisossomo** (pH ≈ 4,5–5). O pH ácido vem da **V-ATPase**, e as hidrolases ácidas digerem o conteúdo.",
+      "**Via da manose-6-fosfato:**",
+      "- No cis-Golgi, uma fosfotransferase marca as enzimas lisossomais com M6P.",
+      "- No TGN, o receptor de M6P as leva aos endossomos e as solta no pH ácido.",
+      "- Sem a fosfotransferase (**doença da célula I**), as enzimas são secretadas e aparecem no plasma.",
+      "Defeitos em enzimas lisossomais causam **doenças de depósito**, como Tay-Sachs, Gaucher e Pompe.",
+      "**Autofagia:**",
+      "- Uma membrana dupla (fagóforo) envolve parte do citoplasma e forma o **autofagossomo** (marcador LC3), que se funde ao lisossomo.",
+      "- O **mTOR** ativo, com nutrientes, inibe a autofagia; o jejum a ativa.",
+      "**Mitofagia:** numa mitocôndria despolarizada, a **PINK1** se acumula e recruta a **Parkin** (ubiquitina ligase), que marca a organela para a autofagia. Mutações nos dois genes causam formas familiares de Parkinson."
+    ],
+    "chave": [
+      "V-ATPase acidifica o lisossomo",
+      "M6P: marca no cis-Golgi, receptor no TGN",
+      "Doença da célula I: enzimas lisossomais no plasma",
+      "mTOR inibe a autofagia; PINK1/Parkin = mitofagia"
+    ],
+    "pega": "Endossomo e lisossomo não têm o mesmo pH: o endossomo inicial é só levemente ácido (≈ 6)."
+  },
+  {
+    "id": "c5_11",
+    "u": 5,
+    "t": "Citoesqueleto",
+    "it": "citoscheletro, microtubuli, microfilamenti, filamenti intermedi, chinesina, dineina, miosina",
+    "le": "ECB 17",
+    "txt": [
+      "**Microtúbulos** (≈ 25 nm):",
+      "- Tubos de dímeros de α e β-tubulina, **polares** (ponta + e ponta −).",
+      "- Nascem do centrossomo; a γ-tubulina fica na ponta −.",
+      "- Têm **instabilidade dinâmica**, que depende de GTP.",
+      "- Motores: **cinesina** anda para a ponta + (no axônio, do corpo celular para o terminal) e **dineína** para a ponta −.",
+      "- Formam cílios e flagelos (arranjo 9+2) e o **fuso mitótico**.",
+      "- Fármacos: colchicina e vincristina despolimerizam; **taxol estabiliza**.",
+      "**Microfilamentos** (≈ 7 nm):",
+      "- Actina G polimerizada em actina F, também polar e dependente de ATP.",
+      "- Motores: miosina II na contração; miosina V no transporte.",
+      "- Formam microvilosidades, lamelipódios e o **anel contrátil** da citocinese.",
+      "**Filamentos intermediários** (≈ 10 nm):",
+      "- **Não polares e sem motores.** Dão resistência mecânica.",
+      "- Tipos: queratinas (epitélio), vimentina (mesênquima), desmina (músculo), neurofilamentos (neurônio) e **laminas** (núcleo).",
+      "- Ligam-se a desmossomos e hemidesmossomos."
+    ],
+    "chave": [
+      "Cinesina → ponta +; dineína → ponta −",
+      "Taxol estabiliza; colchicina e vincristina despolimerizam",
+      "Filamentos intermediários: sem polaridade, sem motor",
+      "Laminas = filamento intermediário nuclear"
+    ],
+    "pega": "Os três tipos não usam o mesmo nucleotídeo: tubulina usa GTP, actina usa ATP, e os filamentos intermediários não usam nenhum."
+  },
+  {
+    "id": "c3_1",
+    "u": 3,
+    "t": "Replicação do DNA e telômeros",
+    "it": "replicazione semiconservativa, elicasi, primasi, DNA polimerasi, frammenti di Okazaki, ligasi, telomerasi",
+    "le": "ECB 6",
+    "txt": [
+      "A replicação é **semiconservativa**: cada dupla-hélice nova tem uma fita antiga e uma nova. Bactérias têm uma origem; eucariotos têm **muitas**.",
+      "**Enzimas, na ordem:**",
+      "- A **helicase** (MCM em eucariotos) abre a dupla-hélice.",
+      "- As proteínas SSB (RPA) estabilizam a fita simples.",
+      "- A **topoisomerase** alivia o superenrolamento à frente da forquilha.",
+      "- A **primase** faz um primer de RNA.",
+      "- A **DNA polimerase** alonga sempre **5'→3'** e revisa os erros com sua exonuclease 3'→5'.",
+      "- O primer é removido (polimerase I em bactérias; RNase H e FEN1 em eucariotos) e a **ligase** sela os cortes.",
+      "Como as fitas são antiparalelas, uma é **contínua** (*leading*, guida) e a outra **descontínua** (*lagging*, lenta), feita em **fragmentos de Okazaki**.",
+      "O DNA replica uma só vez por ciclo. As origens são **licenciadas** em G1 e disparadas em S.",
+      "Na ponta do cromossomo linear, o último primer não pode ser substituído, e o DNA encurtaria a cada divisão. A **telomerase**, uma transcriptase reversa com **molde de RNA próprio**, alonga os telômeros (TTAGGG). Ela fica ativa em células germinativas, células-tronco e na maioria dos cânceres."
+    ],
+    "chave": [
+      "Polimerase: só 5'→3', precisa de primer",
+      "Fita descontínua → fragmentos de Okazaki → ligase",
+      "Telomerase = transcriptase reversa com molde de RNA",
+      "Topoisomerase alivia a tensão; helicase abre"
+    ],
+    "pega": "A primase faz primer de RNA, não de DNA. E a RNA polimerase não precisa de primer; a DNA polimerase precisa."
+  },
+  {
+    "id": "c3_2",
+    "u": 3,
+    "t": "Genes procarióticos e eucarióticos",
+    "it": "geni procariotici, operone, geni eucariotici, introni, esoni, promotore, enhancer",
+    "le": "ECB 7–8",
+    "txt": [
+      "Diferenças que caem em prova:",
+      "- **Procarioto**: genes em **operons** (mRNA policistrônico), sem íntrons, transcrição e tradução **acopladas** no citoplasma, uma só RNA polimerase guiada pelo fator **σ**, ribossomo posicionado pela sequência de **Shine-Dalgarno**.",
+      "- **Eucarioto**: mRNA monocistrônico, **íntrons e éxons**, promotor com TATA box, **enhancers** que agem à distância, processamento no núcleo e tradução no citosol.",
+      "Eucariotos têm **três RNA polimerases**:",
+      "- **I**: rRNA grandes (no nucléolo).",
+      "- **II**: mRNA e a maioria dos microRNA.",
+      "- **III**: tRNA e rRNA 5S."
+    ],
+    "chave": [
+      "Operon = vários genes, um promotor, mRNA policistrônico",
+      "Eucarioto: RNA pol I (rRNA), II (mRNA), III (tRNA, 5S)",
+      "Procarioto: transcrição e tradução acopladas"
+    ],
+    "pega": "Mitocôndrias e cloroplastos lembram bactérias (DNA circular, ribossomos 70S), mas os genes nucleares humanos nunca formam operons clássicos."
+  },
+  {
+    "id": "c3_3",
+    "u": 3,
+    "t": "Transcrição, sua regulação e o operon lac",
+    "it": "trascrizione, RNA polimerasi II, fattori generali, TATA box, attivatori, operone lac, CAP-cAMP",
+    "le": "ECB 7–8",
+    "txt": [
+      "A RNA polimerase lê o molde 3'→5' e sintetiza o RNA **5'→3'**, sem primer. O RNA tem a mesma sequência da fita **codificante** (não-molde), com U no lugar de T.",
+      "**Início em eucariotos:**",
+      "- O **TFIID**, pela TBP, liga-se ao TATA box.",
+      "- Outros fatores gerais e a RNA pol II se juntam.",
+      "- O **TFIIH** abre o DNA (helicase) e fosforila a cauda CTD da pol II, liberando o início.",
+      "- **Ativadores** ligados a enhancers falam com a polimerase pelo **mediador** e recrutam coativadores, como as histona acetiltransferases.",
+      "**Operon lac de *E. coli*** (genes lacZ, β-galactosidase; lacY, permease; lacA):",
+      "- O **repressor** (gene lacI) liga-se ao **operador** e bloqueia a transcrição.",
+      "- A **alolactose** (indutor) solta o repressor.",
+      "- Com pouca glicose, o **cAMP** sobe, e o complexo **CAP-cAMP** ativa fortemente o promotor.",
+      "**Quatro situações:**",
+      "- Sem lactose: desligado, com ou sem glicose.",
+      "- Lactose + glicose: repressor solto, mas CAP inativo → expressão **baixa**.",
+      "- Lactose sem glicose: expressão **máxima**.",
+      "O operon **trp** é o contrário: é **repressível**. O triptofano age como correpressor e desliga o operon quando sobra."
+    ],
+    "chave": [
+      "RNA = sequência da fita codificante, com U",
+      "TFIID/TBP liga o TATA; TFIIH fosforila a CTD",
+      "Lac máximo = lactose presente + glicose ausente",
+      "Lac é induzível; trp é repressível"
+    ],
+    "pega": "A glicose não se liga ao repressor. Ela age baixando o cAMP, o que deixa o CAP inativo."
+  },
+  {
+    "id": "c3_4",
+    "u": 3,
+    "t": "Controle da expressão gênica",
+    "it": "controllo dell'espressione genica, splicing alternativo, microRNA, regolazione traduzionale",
+    "le": "ECB 8",
+    "txt": [
+      "Todas as células do corpo têm o mesmo genoma. Elas são diferentes porque **expressam genes diferentes**. O controle acontece em vários níveis:",
+      "- **Cromatina**: acetilação abre, metilação do DNA fecha.",
+      "- **Transcrição**: fatores de transcrição, enhancers, silenciadores.",
+      "- **Processamento**: o **splicing alternativo** gera várias proteínas de um gene.",
+      "- **Exportação** e **estabilidade** do mRNA.",
+      "- **Tradução**: microRNA na 3' UTR; o exemplo da **ferritina** é o sistema IRE/IRP, em que, com pouco ferro, a IRP liga a 5' UTR e bloqueia a tradução.",
+      "- **Pós-tradução**: fosforilação, localização e degradação.",
+      "Os **microRNA** são transcritos pela pol II, cortados por Drosha e Dicer e carregados no complexo RISC. O pareamento parcial com a 3' UTR reprime a tradução ou desestabiliza o mRNA."
+    ],
+    "chave": [
+      "Mesmo genoma, expressão diferente = diferenciação",
+      "Splicing alternativo: 1 gene → várias proteínas",
+      "miRNA age sobretudo na 3' UTR"
+    ],
+    "pega": "A regulação não é só transcricional. Em questões sobre um gene transcrito normalmente mas sem proteína, pense em tradução, estabilidade do mRNA ou degradação da proteína."
+  },
+  {
+    "id": "c3_5",
+    "u": 3,
+    "t": "Maturação dos RNA e regiões não traduzidas",
+    "it": "cappuccio 5', poliadenilazione, splicing, spliceosoma, rRNA, tRNA, UTR, NMD",
+    "le": "ECB 7",
+    "txt": [
+      "**mRNA:**",
+      "- O **cap 5'** é uma 7-metilguanosina em ligação 5'-5'. Protege o RNA, ajuda a exportação e é reconhecido no início da tradução.",
+      "- O **splicing** é feito pelo **spliceossomo** (snRNPs). O íntron começa em GU, termina em AG e tem um A no ponto de ramificação, que forma o laço (*lariat*).",
+      "- Na **poliadenilação**, o RNA é cortado após o sinal AAUAAA e recebe cerca de 200 A.",
+      "**rRNA:** o 45S é cortado no nucléolo em 18S, 5,8S e 28S. Pequenos RNA nucleolares (snoRNA) modificam as bases.",
+      "**tRNA:** feito pela pol III. Remove íntron e extremidades, recebe **CCA** na ponta 3' (onde o aminoácido se liga) e tem muitas bases modificadas.",
+      "**Regiões não traduzidas (UTR):**",
+      "- A **5' UTR** pode ter estruturas que atrapalham a varredura do ribossomo.",
+      "- A **3' UTR** tem sítios de microRNA, elementos ricos em AU que encurtam a vida do mRNA e sinais que localizam o RNA na célula.",
+      "**NMD** (decaimento mediado por nonsense): degrada mRNA com códon de parada prematuro, evitando proteínas truncadas."
+    ],
+    "chave": [
+      "Cap 5' + cauda poli-A + splicing = mRNA maduro",
+      "Íntron: GU…A…AG",
+      "tRNA recebe CCA na 3'",
+      "3' UTR: miRNA e estabilidade"
+    ],
+    "pega": "UTR não são íntrons: elas ficam no mRNA maduro, só não são traduzidas."
+  },
+  {
+    "id": "c3_6",
+    "u": 3,
+    "t": "Código genético e tradução",
+    "it": "codice genetico, codone, anticodone, aminoacil-tRNA sintetasi, ribosoma, siti A P E",
+    "le": "ECB 7",
+    "txt": [
+      "O **código genético** tem 64 códons: 61 de sentido e 3 de parada (**UAA, UAG, UGA**). É **degenerado** (vários códons por aminoácido), não ambíguo e quase universal. A **oscilação** (*wobble*) na 3ª base deixa um tRNA ler mais de um códon.",
+      "As **aminoacil-tRNA sintetases**, uma para cada aminoácido, ligam o aminoácido certo ao tRNA certo, gastando ATP. Esse é o verdadeiro passo de leitura do código.",
+      "**Ribossomos:** 80S (40S + 60S) em eucariotos; 70S (30S + 50S) em procariotos. A ligação peptídica é feita pelo **rRNA**: o ribossomo é uma **ribozima**.",
+      "**Etapas:**",
+      "- **Início**: a subunidade 40S, com o Met-tRNA iniciador e os eIF, liga-se ao cap e varre até o primeiro **AUG** em bom contexto (Kozak).",
+      "- **Alongamento**: o aminoacil-tRNA entra no **sítio A** (eEF1, GTP); forma-se a ligação peptídica; o ribossomo transloca (eEF2, GTP); o tRNA passa ao **P** e sai pelo **E**.",
+      "- **Término**: um fator de liberação reconhece o códon de parada.",
+      "Vários ribossomos num mesmo mRNA formam um **polissomo**. Antibióticos como tetraciclina, estreptomicina, cloranfenicol e eritromicina atacam o ribossomo 70S bacteriano."
+    ],
+    "chave": [
+      "Stop: UAA, UAG, UGA; início: AUG (Met)",
+      "Sítios: A entra, P segura a cadeia, E sai",
+      "Peptidil transferase = rRNA (ribozima)",
+      "Sintetases garantem o aminoácido certo"
+    ],
+    "pega": "O ribossomo não verifica o aminoácido, só o pareamento códon-anticódon. Se a sintetase errar, o aminoácido errado entra."
+  },
+  {
+    "id": "c3_7",
+    "u": 3,
+    "t": "Dobramento, chaperonas e degradação de proteínas",
+    "it": "ripiegamento, chaperon, Hsp70, chaperonine, ubiquitina, proteasoma, amiloide",
+    "le": "ECB 4 e 7",
+    "txt": [
+      "A sequência de aminoácidos contém a informação para o dobramento (experimento de Anfinsen), mas na célula lotada as **chaperonas** ajudam:",
+      "- **Hsp70**: liga trechos hidrofóbicos ainda na tradução, gastando ATP.",
+      "- **Chaperoninas** (Hsp60, TRiC): oferecem uma câmara isolada para a proteína dobrar.",
+      "Proteínas mal dobradas podem formar **agregados amiloides**, como o β-amiloide no Alzheimer e os príons.",
+      "**Degradação por ubiquitina-proteassomo:**",
+      "- **E1** ativa a ubiquitina (gasta ATP), **E2** a conjuga e **E3** escolhe o alvo (é a que dá especificidade).",
+      "- Uma cadeia de ubiquitinas ligadas pela **Lys48** leva ao **proteassomo 26S**: a parte 19S reconhece e desdobra (ATP), e o cilindro 20S corta.",
+      "- A ubiquitinação em Lys63, ou com uma só ubiquitina, serve para sinalização e endocitose, não para degradação.",
+      "A degradação também pode ser lisossômica, por autofagia. As ciclinas são exemplo de degradação programada: o APC/C as ubiquitina."
+    ],
+    "chave": [
+      "E3 ligase = especificidade",
+      "Poli-ubiquitina K48 → proteassomo 26S",
+      "Hsp70 co-traducional; chaperoninas = câmara",
+      "Amiloide = agregado de mal dobradas"
+    ],
+    "pega": "Ubiquitina não significa sempre degradação: depende do tipo de cadeia."
+  },
+  {
+    "id": "c4_1",
+    "u": 4,
+    "t": "Mutações: tipos e causas",
+    "it": "mutazioni puntiformi, silente, missenso, nonsenso, frameshift, espansione di triplette",
+    "le": "ECB 6 · Thompson (mutação)",
+    "txt": [
+      "**Mutações pontuais:**",
+      "- **Transição** (purina por purina, ou pirimidina por pirimidina) ou **transversão** (purina por pirimidina).",
+      "- Pelo efeito: **silenciosa** (mesmo aminoácido), **missense** (troca de aminoácido; na anemia falciforme, Glu6Val), **nonsense** (vira códon de parada) e **frameshift** (inserção ou deleção que não é múltipla de 3).",
+      "**Expansões de trinucleotídeos:** CAG na doença de Huntington, CGG no X frágil. Podem crescer de uma geração para a outra (**antecipação**).",
+      "**Causas espontâneas:** erro de replicação, despurinação, desaminação de C em U.",
+      "**Causas induzidas:**",
+      "- **UV**: dímeros de pirimidina (timina).",
+      "- Agentes alquilantes e intercalantes.",
+      "- **Radiação ionizante**: quebras de dupla fita.",
+      "Mutação **germinativa** passa aos filhos; **somática** não (mas causa câncer). Pelo efeito na proteína, pode ser de **perda** ou **ganho de função**, ou **dominante negativa** (a proteína defeituosa estraga a normal)."
+    ],
+    "chave": [
+      "Nonsense = stop prematuro",
+      "Frameshift = indel não múltiplo de 3",
+      "UV → dímeros de pirimidina; ionizante → dupla fita",
+      "Expansão de tripletos → antecipação"
+    ],
+    "pega": "Nem toda substituição muda a proteína: na 3ª base do códon muitas são silenciosas."
+  },
+  {
+    "id": "c4_2",
+    "u": 4,
+    "t": "Reparo do DNA",
+    "it": "riparazione per escissione di basi (BER), di nucleotidi (NER), mismatch repair, ricombinazione omologa, NHEJ",
+    "le": "ECB 6",
+    "txt": [
+      "**Danos em uma fita** (a outra serve de molde):",
+      "- **BER**, excisão de bases: uma glicosilase retira a base danificada (uracila, 8-oxoguanina); a AP endonuclease corta; polimerase e ligase completam.",
+      "- **NER**, excisão de nucleotídeos: remove um trecho de cerca de 25–30 nucleotídeos com uma lesão volumosa que deforma a hélice, como os dímeros de UV. O defeito causa **xeroderma pigmentoso**.",
+      "- **MMR**, reparo de mau pareamento: corrige erros que escaparam da revisão da polimerase (MSH2, MLH1). O defeito causa a **síndrome de Lynch**, com câncer colorretal hereditário e instabilidade de microssatélites.",
+      "**Quebras de dupla fita:**",
+      "- **Recombinação homóloga (HR)**: usa a cromátide irmã como molde, portanto só nas fases S e G2. É **precisa**. Usa BRCA1 e BRCA2.",
+      "- **NHEJ**, junção de pontas não homólogas: liga as pontas diretamente (Ku70/80), em qualquer fase. É **sujeita a erro**.",
+      "Os sensores **ATM** e **ATR** detectam o dano e ativam **p53**, que para o ciclo ou leva à apoptose."
+    ],
+    "chave": [
+      "UV → NER → xeroderma pigmentoso",
+      "Erros de replicação → MMR → Lynch",
+      "HR precisa da irmã (S/G2), é exata; NHEJ é propensa a erro",
+      "BRCA1/2 = recombinação homóloga"
+    ],
+    "pega": "O NHEJ não precisa de molde, por isso funciona em G1, mas pode perder ou ganhar bases."
+  },
+  {
+    "id": "c4_3",
+    "u": 4,
+    "t": "Cariótipo e alterações cromossômicas",
+    "it": "cariotipo, diploidia, omologhi, aneuploidia, poliploidia, traslocazione robertsoniana, inversione, delezione",
+    "le": "ECB 5 e 19 · Thompson (citogenética)",
+    "txt": [
+      "O cariótipo humano tem **46 cromossomos**: 22 pares de autossomos e XX ou XY. Os **homólogos** são os dois cromossomos do par, um materno e um paterno. Pela posição do centrômero, os cromossomos são metacêntricos, submetacêntricos ou **acrocêntricos** (13, 14, 15, 21, 22). O cariótipo é feito em metáfase, com bandeamento G.",
+      "**Alterações numéricas:**",
+      "- **Euploidias** são múltiplos inteiros do conjunto, como a triploidia (69 cromossomos, letal).",
+      "- **Aneuploidias** são cromossomos a mais ou a menos, por **não-disjunção**. Exemplos: Down 47,+21 (risco cresce com a idade materna), Edwards +18, Patau +13, Turner 45,X, Klinefelter 47,XXY, 47,XXX, 47,XYY.",
+      "- **Mosaicismo**: duas linhagens celulares no mesmo indivíduo, por erro mitótico depois da fecundação.",
+      "**Alterações estruturais:**",
+      "- **Deleção**: falta um pedaço (cri du chat, 5p−).",
+      "- **Duplicação**.",
+      "- **Inversão** paracêntrica (não inclui o centrômero) ou pericêntrica (inclui).",
+      "- **Translocação recíproca**: troca entre dois cromossomos. Se é balanceada, o portador é normal, mas tem risco de gametas desequilibrados. A t(9;22), o **cromossomo Filadélfia**, gera BCR-ABL na leucemia mieloide crônica.",
+      "- **Translocação robertsoniana**: fusão de dois acrocêntricos pelos centrômeros. O portador tem **45 cromossomos** e é normal, mas uma t(14;21) pode dar filhos com **Down familiar**.",
+      "- Isocromossomo e cromossomo em anel."
+    ],
+    "chave": [
+      "Aneuploidia = cromossomo a mais ou a menos; poliploidia = conjunto inteiro",
+      "Robertsoniana: só acrocêntricos, portador com 45",
+      "Filadélfia t(9;22) → BCR-ABL",
+      "Mosaicismo = erro mitótico pós-zigótico"
+    ],
+    "pega": "Um portador de translocação balanceada não tem doença: o problema aparece nos gametas e nos filhos."
+  },
+  {
+    "id": "c4_4",
+    "u": 4,
+    "t": "Genética mendeliana",
+    "it": "leggi di Mendel, segregazione, assortimento indipendente, dominanza, codominanza, reincrocio",
+    "le": "ECB 19",
+    "txt": [
+      "**Leis de Mendel:**",
+      "- 1ª lei, **segregação**: os dois alelos de um gene se separam nos gametas.",
+      "- 2ª lei, **distribuição independente**: genes em cromossomos diferentes (ou muito distantes) se distribuem de forma independente.",
+      "**Proporções clássicas:**",
+      "- Aa × Aa → 3:1 no fenótipo, 1:2:1 no genótipo.",
+      "- AaBb × AaBb → 9:3:3:1.",
+      "- **Cruzamento-teste** (com o homozigoto recessivo aa): 1:1 se o testado é Aa.",
+      "**Variações:**",
+      "- **Codominância**: AB do sistema ABO.",
+      "- Dominância incompleta, alelos múltiplos.",
+      "- **Penetrância incompleta** (nem todo portador manifesta) e **expressividade variável** (graus diferentes).",
+      "- Pleiotropia, epistasia.",
+      "- **Ligação gênica**: genes próximos no mesmo cromossomo não seguem 9:3:3:1; a recombinação entre eles depende da distância.",
+      "**Probabilidade:** **regra do produto** para eventos independentes que acontecem juntos (e) e **regra da soma** para eventos excludentes (ou). Exemplo: dois filhos afetados de pais Aa × Aa = 1/4 × 1/4 = 1/16."
+    ],
+    "chave": [
+      "Aa × Aa: 1/4 aa, 1/2 Aa, 1/4 AA",
+      "Filho sadio de Aa × Aa: 2/3 de chance de ser portador",
+      "Cruzamento-teste usa aa",
+      "«e» multiplica; «ou» soma"
+    ],
+    "pega": "Sabendo que um filho é sadio, a chance de ser portador é 2/3, não 1/2: o aa já foi excluído."
+  },
+  {
+    "id": "c4_5",
+    "u": 4,
+    "t": "Heredogramas: como reconhecer cada padrão",
+    "it": "alberi genealogici, autosomica dominante, autosomica recessiva, X-linked, Y-linked, ereditarietà mitocondriale",
+    "le": "Thompson (padrões de herança)",
+    "txt": [
+      "**Símbolos:** quadrado = homem, círculo = mulher, preenchido = afetado, ponto ou meio preenchido = portador, linha dupla = consanguinidade.",
+      "**Os padrões:**",
+      "- **Autossômica dominante**: aparece em todas as gerações; homens e mulheres igualmente; pode passar de **pai para filho homem**; afetado × sadio dá 50% de risco. Exemplos: Huntington, Marfan, acondroplasia, hipercolesterolemia familiar.",
+      "- **Autossômica recessiva**: pula gerações; pais sadios portadores; consanguinidade frequente; risco de 25% por gestação de dois portadores. Exemplos: fibrose cística, anemia falciforme, fenilcetonúria, Tay-Sachs, talassemias.",
+      "- **Ligada ao X recessiva**: quase só homens; passa pelas mães portadoras; **nunca de pai para filho homem**; todas as filhas de homem afetado são portadoras. Exemplos: hemofilia A e B, Duchenne, daltonismo, deficiência de G6PD.",
+      "- **Ligada ao X dominante**: homem afetado passa a **todas as filhas e a nenhum filho**; mais mulheres afetadas, em geral com quadro mais leve. Exemplos: raquitismo hipofosfatêmico, síndrome de Rett.",
+      "- **Ligada ao Y**: só de pai para todos os filhos homens.",
+      "- **Mitocondrial**: a mãe passa a **todos os filhos**, de ambos os sexos; o homem afetado **não transmite**. Há **heteroplasmia** (mistura de mitocôndrias normais e mutadas), por isso a gravidade varia. Exemplos: LHON, MELAS.",
+      "**Roteiro para resolver:**",
+      "- Dois pais sadios com filho afetado → recessiva.",
+      "- Pai afetado com filho homem afetado → exclui herança ligada ao X.",
+      "- Só homens afetados, passando por mulheres sadias → ligada ao X recessiva.",
+      "- Só a mãe transmite, a todos → mitocondrial."
+    ],
+    "chave": [
+      "Pai → filho homem afetado exclui ligada ao X",
+      "XD: pai afetado → todas as filhas",
+      "Mitocondrial: só via materna, a todos os filhos",
+      "AR: pais portadores, 25%"
+    ],
+    "pega": "Na ligada ao X recessiva, o filho homem de uma portadora tem 50% de risco, e não 25%: a conta é só entre os meninos."
+  },
+  {
+    "id": "c7_1",
+    "u": 7,
+    "t": "Ciclo celular, ponto de restrição e entrada em S",
+    "it": "ciclo cellulare, cicline, CDK, punto di restrizione, Rb, E2F, p53, p21, checkpoint",
+    "le": "ECB 18",
+    "txt": [
+      "As fases são **G1, S, G2 e M**. G0 é a saída do ciclo (quiescência). As **CDK** só funcionam ligadas a **ciclinas**, cujos níveis sobem e descem porque são sintetizadas e degradadas a cada ciclo.",
+      "**Pares ciclina-CDK:**",
+      "- **Ciclina D-CDK4/6** em G1, induzida por fatores de crescimento (via Ras-MAPK).",
+      "- **Ciclina E-CDK2** na transição G1/S.",
+      "- **Ciclina A-CDK2** na fase S.",
+      "- **Ciclina B-CDK1** (MPF) na entrada em mitose.",
+      "**Ponto de restrição (R):**",
+      "- O **Rb** hipofosforilado prende o fator de transcrição **E2F**.",
+      "- A ciclina D-CDK4/6 e depois a ciclina E-CDK2 **fosforilam o Rb**.",
+      "- O E2F fica livre e liga os genes da fase S: ciclinas E e A, DNA polimerase e outros. É uma alça que se reforça.",
+      "- Depois do ponto R, a célula segue o ciclo mesmo sem fator de crescimento.",
+      "**Inibidores de CDK:** família INK4 (**p16**) contra CDK4/6; família CIP/KIP (**p21**, p27) contra CDK2.",
+      "**Pontos de checagem:**",
+      "- **G1/S**: dano ao DNA → p53 → p21 → parada.",
+      "- **Intra-S** e **G2/M**: DNA danificado ou não replicado.",
+      "- **Do fuso**: cinetócoros soltos ativam MAD2, que inibe Cdc20-APC/C e segura a anáfase.",
+      "**Entrada em S:** em G1 as origens são **licenciadas** (ORC, Cdc6, Cdt1 carregam a MCM). Em S, CDK e DDK as disparam. A geminina impede que uma origem dispare duas vezes."
+    ],
+    "chave": [
+      "CDK4/6 fosforila Rb → E2F livre → fase S",
+      "p16 inibe CDK4/6; p21 (induzido por p53) inibe CDK2",
+      "Ciclina B-CDK1 = entrada em mitose",
+      "Checkpoint do fuso: MAD2 segura o APC/C"
+    ],
+    "pega": "O Rb ativo é o hipofosforilado. Fosforilado, ele está inativo e libera o ciclo."
+  },
+  {
+    "id": "c7_2",
+    "u": 7,
+    "t": "Câncer: oncogenes, supressores e vírus oncogênicos",
+    "it": "proto-oncogeni, oncogeni, oncosoppressori, ipotesi di Knudson, virus oncogeni, HPV E6 E7",
+    "le": "ECB 20",
+    "txt": [
+      "Um **proto-oncogene** vira **oncogene** de três formas:",
+      "- **Mutação pontual**: Ras no códon 12.",
+      "- **Amplificação**: HER2 (ERBB2) no câncer de mama, N-MYC no neuroblastoma.",
+      "- **Translocação**: BCR-ABL; MYC na t(8;14) do linfoma de Burkitt.",
+      "É **ganho de função** e dominante na célula: basta um alelo.",
+      "**Supressores de tumor** (Rb, p53, APC, BRCA1/2, p16) causam câncer por **perda de função** e são recessivos na célula. Segundo a **hipótese dos dois eventos de Knudson**, no retinoblastoma hereditário a pessoa já nasce com um alelo mutado e precisa de só mais um evento; na forma esporádica, precisa de dois. Os genes de reparo (*caretakers*) também contam.",
+      "**Vírus oncogênicos:**",
+      "- **HPV** (câncer de colo do útero): a **E6** leva o p53 à degradação e a **E7** sequestra o Rb.",
+      "- **EBV**: linfoma de Burkitt, carcinoma de nasofaringe.",
+      "- **HBV e HCV**: carcinoma hepatocelular.",
+      "- **HTLV-1**: leucemia de células T.",
+      "- **HHV-8**: sarcoma de Kaposi.",
+      "- **Retrovírus agudamente transformantes** carregam um oncogene próprio (v-onc), como o v-src do vírus do sarcoma de Rous.",
+      "Tumores também costumam reativar a telomerase, escapar da apoptose e formar novos vasos."
+    ],
+    "chave": [
+      "Oncogene: ganho de função, 1 alelo basta",
+      "Supressor: perda de função, 2 alelos (Knudson)",
+      "HPV: E6 → p53; E7 → Rb",
+      "HER2 amplificado; BCR-ABL translocado; Ras mutado"
+    ],
+    "pega": "A E6 não liga o Rb e a E7 não degrada o p53: troque as duas e a alternativa estará errada."
+  },
+  {
+    "id": "c7_3",
+    "u": 7,
+    "t": "Mitose e citocinese",
+    "it": "mitosi, profase, prometafase, metafase, anafase, telofase, fuso, APC/C, separasi, citodieresi",
+    "le": "ECB 18",
+    "txt": [
+      "**Fases da mitose:**",
+      "- **Prófase**: os cromossomos condensam (condensinas) e o fuso se forma entre os centrossomos.",
+      "- **Prometáfase**: o envelope nuclear se desfaz (a CDK1 fosforila as laminas) e os microtúbulos capturam os **cinetócoros**.",
+      "- **Metáfase**: cromossomos alinhados na placa equatorial. Aqui atua o **checkpoint do fuso**.",
+      "- **Anáfase**: o **APC/C-Cdc20** ubiquitina a **securina**; a **separase**, livre, corta a **coesina**, e as cromátides irmãs se separam. A ciclina B também é degradada, o que permite sair da mitose.",
+      "- **Telófase**: o envelope se refaz em volta de cada conjunto de cromossomos.",
+      "**Citocinese**: um **anel contrátil de actina e miosina II** estrangula a célula no sulco de clivagem.",
+      "O resultado são duas células-filhas geneticamente iguais à mãe."
+    ],
+    "chave": [
+      "Separase corta coesina; securina a inibia",
+      "APC/C degrada securina e ciclina B",
+      "Citocinese = actina + miosina II",
+      "Laminas fosforiladas → envelope se desfaz"
+    ],
+    "pega": "Na mitose separam-se as cromátides irmãs; na meiose I separam-se os homólogos."
+  },
+  {
+    "id": "c7_4",
+    "u": 7,
+    "t": "Meiose, gametogênese e células-tronco",
+    "it": "meiosi, crossing-over, chiasmi, non-disgiunzione, spermatogenesi, ovogenesi, cellule staminali",
+    "le": "ECB 19–20",
+    "txt": [
+      "A **meiose I** é **reducional** (separa os homólogos). A **meiose II** é equacional (separa as cromátides), como uma mitose.",
+      "**Prófase I:**",
+      "- Leptóteno.",
+      "- Zigóteno: os homólogos pareiam (sinapse) pelo complexo sinaptonêmico.",
+      "- **Paquíteno**: crossing-over.",
+      "- Diplóteno: aparecem os quiasmas.",
+      "- Diacinese.",
+      "**Fontes de variabilidade:** crossing-over e distribuição independente dos homólogos (2²³ combinações).",
+      "**Não-disjunção:**",
+      "- Na **meiose I**: os quatro gametas são anormais (2 com n+1, 2 com n−1).",
+      "- Na **meiose II**: dois normais, um n+1 e um n−1.",
+      "**Gametogênese:**",
+      "- **Espermatogênese**: contínua desde a puberdade; cada espermatócito I dá 4 espermatozoides.",
+      "- **Ovogênese**: começa no feto. O ovócito I fica parado na **prófase I** (diplóteno) até a puberdade; o ovócito II fica parado na **metáfase II** até a fecundação. Resulta 1 óvulo e corpos polares. Esse longo bloqueio ajuda a explicar o aumento de não-disjunção com a idade materna.",
+      "**Células-tronco** se autorrenovam e se diferenciam:",
+      "- **Totipotente**: o zigoto.",
+      "- **Pluripotente**: massa celular interna, células ES e **iPS** (reprogramadas com Oct4, Sox2, Klf4, c-Myc).",
+      "- **Multipotente**: a hematopoiética.",
+      "- Unipotente.",
+      "Elas vivem em **nichos** e podem fazer divisão assimétrica."
+    ],
+    "chave": [
+      "Crossing-over: paquíteno da prófase I",
+      "Não-disjunção em I: 4 anormais; em II: 2 normais",
+      "Ovócito I parado em prófase I; ovócito II em metáfase II",
+      "iPS = Oct4, Sox2, Klf4, c-Myc"
+    ],
+    "pega": "O ovócito II não completa a meiose II sozinho: só termina se for fecundado."
+  },
+  {
+    "id": "c7_5",
+    "u": 7,
+    "t": "Morte celular: necrose e apoptose",
+    "it": "necrosi, apoptosi, caspasi, via intrinseca, via estrinseca, BCL-2, BAX, citocromo c, apoptosoma",
+    "le": "ECB 18",
+    "txt": [
+      "**Necrose**: morte acidental. A célula incha e se rompe, e há **inflamação**.",
+      "**Apoptose**: morte programada e silenciosa. A célula encolhe, a cromatina condensa, o DNA é cortado em escada (múltiplos de cerca de 180 pb), formam-se bolhas e corpos apoptóticos. A **fosfatidilserina** vai para a face externa e sinaliza aos fagócitos. **Não há inflamação**.",
+      "As **caspases** são proteases de cisteína que cortam depois de aspartato. **Iniciadoras**: 8 e 9. **Executoras**: 3, 6 e 7.",
+      "**Via extrínseca:** um ligante (FasL, TNF) se liga a um **receptor de morte**. O adaptador FADD monta o DISC, que ativa a **caspase-8**.",
+      "**Via intrínseca (mitocondrial):**",
+      "- Dano ao DNA ou estresse ativa proteínas **BH3-only** (Bid, Bad, Puma, Noxa).",
+      "- Elas neutralizam as antiapoptóticas **BCL-2** e BCL-XL.",
+      "- **BAX e BAK** se juntam e furam a membrana externa da mitocôndria.",
+      "- Sai o **citocromo c**, que com a **Apaf-1** forma o **apoptossomo** e ativa a **caspase-9**, que ativa a 3.",
+      "**Ponte entre as vias:** a caspase-8 corta Bid em tBid, que ativa a via mitocondrial.",
+      "**Freios:** as IAP inibem caspases; SMAC/DIABLO, que sai da mitocôndria, inibe as IAP. A t(14;18) do **linfoma folicular** superexpressa BCL-2 e impede a apoptose.",
+      "Outras formas de morte programada: necroptose (RIPK1, RIPK3, MLKL) e piroptose."
+    ],
+    "chave": [
+      "Extrínseca → caspase-8; intrínseca → caspase-9; executoras 3/6/7",
+      "BAX/BAK pró; BCL-2 anti",
+      "Citocromo c + Apaf-1 = apoptossomo",
+      "Apoptose sem inflamação; necrose com"
+    ],
+    "pega": "BCL-2 é antiapoptótica: mais BCL-2 significa menos apoptose, como no linfoma folicular."
+  },
+  {
+    "id": "c6_1",
+    "u": 6,
+    "t": "Matriz extracelular, adesão, junções e mecanotransdução",
+    "it": "matrice extracellulare, integrine, caderine, CAM, giunzioni occludenti, aderenti, desmosomi, giunzioni comunicanti",
+    "le": "ECB 20",
+    "txt": [
+      "**Matriz extracelular:**",
+      "- **Colágeno**: fibrilar tipo I; tipo IV em rede na lâmina basal.",
+      "- Elastina.",
+      "- **Fibronectina** e **laminina**: ligam as células à matriz.",
+      "- **Proteoglicanos** com glicosaminoglicanos (ácido hialurônico, heparan sulfato): retêm água e resistem à compressão.",
+      "**Moléculas de adesão:**",
+      "- **Caderinas**: homofílicas e **dependentes de Ca²⁺** (E-caderina no epitélio).",
+      "- **CAM** da superfamília das imunoglobulinas (N-CAM, ICAM): não dependem de Ca²⁺.",
+      "- **Selectinas**: ligam açúcares; fazem o rolamento dos leucócitos.",
+      "- **Integrinas**: heterodímeros α/β que ligam a **matriz** (fibronectina pela sequência RGD, laminina) ao citoesqueleto. Sinalizam nos dois sentidos.",
+      "**Junções:**",
+      "- **Oclusivas** (*tight*; claudinas, ocludina): vedação e polaridade do epitélio.",
+      "- **Aderentes**: caderinas ligadas à **actina**, formando um cinturão.",
+      "- **Desmossomos**: caderinas (desmogleína, desmocolina) ligadas aos **filamentos intermediários**. Atacados no pênfigo.",
+      "- **Hemidesmossomos**: **integrinas** ligando a célula à lâmina basal. Atacados no penfigoide bolhoso.",
+      "- **Comunicantes** (*gap*): **conexinas**; 6 formam um conexon. Deixam passar íons e moléculas abaixo de cerca de 1 kDa. Fazem o acoplamento elétrico do coração.",
+      "**Mecanotransdução:** a célula sente forças pelas integrinas e adesões focais e por canais mecanossensíveis (Piezo). Numa matriz rígida, os fatores YAP/TAZ vão ao núcleo e mudam a expressão gênica."
+    ],
+    "chave": [
+      "Desmossomo = caderina + intermediário; hemidesmossomo = integrina + intermediário",
+      "Gap = conexinas; tight = claudinas",
+      "Caderinas dependem de Ca²⁺",
+      "Integrina liga a matriz (RGD) ao citoesqueleto"
+    ],
+    "pega": "O hemidesmossomo usa integrina, não caderina: ele prende a célula à matriz, não a outra célula."
+  },
+  {
+    "id": "c6_2",
+    "u": 6,
+    "t": "Tipos de sinalização e de receptores; óxido nítrico",
+    "it": "segnalazione autocrina, paracrina, endocrina, sinaptica, iuxtacrina, recettori di membrana e intracellulari, NO",
+    "le": "ECB 16",
+    "txt": [
+      "**Pela distância:**",
+      "- **Por contato** (justácrina): Notch-Delta.",
+      "- **Autócrina**: a célula responde ao próprio sinal.",
+      "- **Parácrina**: células vizinhas.",
+      "- **Endócrina**: hormônio pelo sangue.",
+      "- **Sináptica**: neurotransmissor numa fenda estreita.",
+      "**Receptores de superfície** (ligantes hidrofílicos):",
+      "- **Canais iônicos** ativados por ligante, como o receptor nicotínico.",
+      "- **Acoplados à proteína G** (GPCR).",
+      "- **Enzimáticos**: tirosina-quinase (RTK), serina/treonina-quinase (TGF-β) e associados a quinase (JAK).",
+      "**Receptores intracelulares** (ligantes lipofílicos): esteroides, hormônio tireoidiano, vitamina D, ácido retinoico. Os **receptores nucleares** são **fatores de transcrição**, e a resposta é lenta e duradoura.",
+      "**Óxido nítrico (NO):**",
+      "- Gás que atravessa membranas e dura segundos.",
+      "- No endotélio, a acetilcolina sobe o Ca²⁺, e o Ca²⁺-calmodulina ativa a **NO sintase**.",
+      "- O NO difunde ao músculo liso e ativa a **guanilil ciclase solúvel**: mais **cGMP** e PKG, e o músculo relaxa (vasodilatação).",
+      "- A nitroglicerina libera NO; o sildenafil inibe a PDE5, que degrada o cGMP."
+    ],
+    "chave": [
+      "Lipofílico → receptor intracelular → fator de transcrição",
+      "NO → guanilil ciclase solúvel → cGMP → relaxamento",
+      "Justácrina = contato (Notch)"
+    ],
+    "pega": "O receptor do NO não é de membrana: é uma enzima citosólica (guanilil ciclase solúvel)."
+  },
+  {
+    "id": "c6_3",
+    "u": 6,
+    "t": "Proteínas G, segundos mensageiros e fosfoinositídeos",
+    "it": "proteine G eterotrimeriche, GEF, GAP, adenilato ciclasi, cAMP, PKA, fosfolipasi C, IP3, DAG, PKC, PI3K",
+    "le": "ECB 16",
+    "txt": [
+      "O **GPCR** atravessa a membrana 7 vezes. A **proteína G** é um trímero αβγ.",
+      "**Ciclo da proteína G:**",
+      "- O ligante faz o receptor agir como **GEF**: a Gα troca GDP por GTP e se separa de βγ.",
+      "- A Gα tem atividade **GTPase** própria e volta a GDP; as proteínas RGS aceleram isso (são GAP).",
+      "**Tipos de Gα:**",
+      "- **Gs**: ativa a adenilil ciclase → **cAMP** → **PKA** (o cAMP solta as subunidades catalíticas das reguladoras) → fator CREB.",
+      "- **Gi**: inibe a adenilil ciclase.",
+      "- **Gq**: ativa a **fosfolipase C-β**, que corta o PIP₂ em **IP₃** e **DAG**. O IP₃ abre canais no RE e libera **Ca²⁺**; o DAG, com Ca²⁺, ativa a **PKC**.",
+      "O Ca²⁺ age também pela **calmodulina**, que ativa as CaM-quinases.",
+      "**Desligamento:**",
+      "- A **fosfodiesterase** degrada o cAMP; a cafeína a inibe.",
+      "- **GRK** e **β-arrestina** dessensibilizam o receptor.",
+      "**Toxinas:**",
+      "- **Colérica**: modifica a Gαs, que fica sempre ativa; o cAMP alto abre a CFTR e causa diarreia.",
+      "- **Pertussis**: impede a ativação da Gαi.",
+      "**Fosfoinositídeos:** a **PI3K** produz **PIP₃**, que atrai a **Akt** (PKB) pelo domínio PH. A **PTEN**, um supressor de tumor, desfaz o PIP₃.",
+      "GTPases pequenas (Ras, Rab, Ran) seguem a mesma lógica: GEF liga, GAP desliga."
+    ],
+    "chave": [
+      "GEF liga (GDP→GTP); GAP desliga (hidrólise)",
+      "Gs ↑cAMP; Gi ↓cAMP; Gq → IP₃ + DAG",
+      "IP₃ → Ca²⁺ do RE; DAG + Ca²⁺ → PKC",
+      "Cólera: Gαs sempre ativa"
+    ],
+    "pega": "O IP₃ não ativa a PKC diretamente: ele libera Ca²⁺. Quem ativa a PKC é o DAG, junto com o Ca²⁺."
+  },
+  {
+    "id": "c6_4",
+    "u": 6,
+    "t": "Receptores tirosina-quinase, Ras-MAPK, insulina e EGF",
+    "it": "recettori tirosin-chinasici, autofosforilazione, SH2, Grb2, SOS, Ras, Raf, MEK, ERK, recettore dell'insulina, EGFR",
+    "le": "ECB 16",
+    "txt": [
+      "**Via Ras-MAPK:**",
+      "- O ligante faz o receptor tirosina-quinase **dimerizar** e se **autofosforilar** em tirosinas.",
+      "- As fosfotirosinas atraem proteínas com domínio **SH2**, como a **Grb2**, que traz o **SOS** (um GEF).",
+      "- O SOS ativa a **Ras** (Ras-GTP).",
+      "- Começa a cascata: **Raf** (MAPKKK) → **MEK** (MAPKK) → **ERK** (MAPK).",
+      "- A ERK entra no núcleo e ativa fatores como Myc e Fos, que levam à ciclina D e à proliferação.",
+      "A Ras é desligada por GAP, como a **neurofibromina** (gene NF1). A **Ras mutada** (códon 12) não hidrolisa GTP e fica **sempre ativa**.",
+      "A via **PI3K-Akt-mTOR** promove sobrevivência e crescimento.",
+      "**Receptor de insulina:**",
+      "- Já é um dímero (α₂β₂, com pontes dissulfeto) antes do ligante.",
+      "- A insulina causa autofosforilação, que atrai o **IRS-1**, que ativa a PI3K e depois a Akt.",
+      "- O resultado é a ida do **GLUT4** para a membrana no músculo e no tecido adiposo. Também ativa a via Ras-MAPK.",
+      "**EGFR** (ERBB1) e **HER2**: o HER2 amplificado no câncer de mama é tratado com trastuzumabe. Os **inibidores de tirosina-quinase** incluem o imatinibe (contra BCR-ABL) e o gefitinibe (contra EGFR)."
+    ],
+    "chave": [
+      "RTK: dimeriza → autofosforila → SH2 (Grb2) → SOS → Ras",
+      "Raf → MEK → ERK",
+      "Insulina → IRS-1 → PI3K → Akt → GLUT4",
+      "Ras mutada = GTPase perdida = sempre ligada"
+    ],
+    "pega": "O receptor de insulina não precisa dimerizar com o ligante: ele já é dímero ligado por pontes dissulfeto."
+  },
+  {
+    "id": "c1_1",
+    "u": 1,
+    "t": "Célula procariótica e transferência gênica horizontal",
+    "it": "cellula procariotica, nucleoide, plasmidi, peptidoglicano, trasformazione, coniugazione, trasduzione",
+    "le": "ECB 1 e 9",
+    "txt": [
+      "**Célula procariótica:**",
+      "- Sem núcleo: o cromossomo circular fica no **nucleoide**. Pode ter **plasmídeos**.",
+      "- Ribossomos **70S**.",
+      "- Parede de **peptidoglicano**: espessa nas Gram-positivas; fina e coberta por uma membrana externa com LPS nas Gram-negativas.",
+      "- Flagelos e pili. Divide-se por fissão binária.",
+      "**Transferência horizontal de genes:**",
+      "- **Transformação**: a bactéria capta **DNA livre** do meio (experimento de Griffith).",
+      "- **Conjugação**: passagem de DNA por **contato**, via **pilus sexual**, em geral de um plasmídeo F. Nas cepas Hfr, o plasmídeo está integrado e leva genes do cromossomo junto.",
+      "- **Transdução**: um **bacteriófago** leva o DNA. Na **generalizada** (ciclo lítico), qualquer fragmento pode ser empacotado; na **especializada** (ciclo lisogênico), só os genes vizinhos ao profago.",
+      "Esses mecanismos, junto com os transposons, espalham a **resistência a antibióticos**."
+    ],
+    "chave": [
+      "Transformação = DNA livre",
+      "Conjugação = pilus, contato",
+      "Transdução = fago",
+      "Ribossomo procariótico 70S"
+    ],
+    "pega": "A conjugação não precisa de vírus, e a transdução não precisa de contato entre as bactérias."
+  },
+  {
+    "id": "c1_2",
+    "u": 1,
+    "t": "Vírus animais: estrutura e classificação",
+    "it": "virus animali, capside, envelope, classificazione di Baltimore, trascrittasi inversa, retrovirus",
+    "le": "ECB 9",
+    "txt": [
+      "**Estrutura:** genoma de DNA ou RNA, de fita simples ou dupla, positivo ou negativo, dentro de um **capsídeo** de proteína. Alguns têm **envelope**, uma membrana tirada da célula, com glicoproteínas. Os envelopados são sensíveis a álcool e detergente.",
+      "**Classificação de Baltimore:**",
+      "- **I** — DNA dupla fita: herpes, adenovírus, HPV.",
+      "- **II** — DNA fita simples: parvovírus.",
+      "- **III** — RNA dupla fita: rotavírus.",
+      "- **IV** — RNA fita simples **positiva**, que já funciona como mRNA: pólio, coronavírus.",
+      "- **V** — RNA fita simples **negativa**: precisa trazer no vírion uma **RNA polimerase dependente de RNA**. Influenza, raiva, sarampo.",
+      "- **VI** — Retrovírus, RNA com **transcriptase reversa** e integrase: HIV.",
+      "- **VII** — DNA dupla fita que usa transcriptase reversa: hepatite B.",
+      "**Ciclo:** adsorção ao receptor (o HIV usa CD4 com CCR5 ou CXCR4), penetração, desnudamento, replicação, montagem e liberação por lise ou brotamento."
+    ],
+    "chave": [
+      "RNA negativo traz a própria RNA polimerase",
+      "Retrovírus: transcriptase reversa + integrase",
+      "Hepatite B: DNA que usa transcriptase reversa",
+      "HIV: CD4 + CCR5/CXCR4"
+    ],
+    "pega": "O RNA positivo não precisa trazer polimerase no vírion: o genoma é traduzido direto e produz a polimerase."
+  },
+  {
+    "id": "c1_3",
+    "u": 1,
+    "t": "Estrutura das proteínas, domínios e sítios ativos",
+    "it": "struttura primaria, secondaria, terziaria, quaternaria, domini, sito attivo, allosteria",
+    "le": "ECB 4",
+    "txt": [
+      "São **20 aminoácidos** (forma L), unidos pela **ligação peptídica**, que é plana e rígida.",
+      "**Níveis de estrutura:**",
+      "- **Primária**: a sequência.",
+      "- **Secundária**: α-hélice e folha β, mantidas por pontes de H do **esqueleto**.",
+      "- **Terciária**: o dobramento 3D, por interações das **cadeias laterais** (hidrofóbicas, pontes de H, iônicas, **pontes dissulfeto**).",
+      "- **Quaternária**: várias subunidades, como a hemoglobina α₂β₂.",
+      "Um **domínio** é uma região que dobra sozinha e tem função própria:",
+      "- **SH2**: liga fosfotirosina.",
+      "- **SH3**: liga regiões ricas em prolina.",
+      "- **PH**: liga fosfoinositídeos.",
+      "- Domínios de ligação ao DNA: dedo de zinco, hélice-volta-hélice, zíper de leucina.",
+      "O **sítio ativo** é onde o substrato se liga e a reação acontece. Proteínas **alostéricas** mudam de forma quando um regulador se liga em outro ponto. A **cooperatividade** da hemoglobina é o exemplo clássico. A **desnaturação** desfaz a estrutura, mas mantém a primária."
+    ],
+    "chave": [
+      "Secundária = pontes de H do esqueleto; terciária = cadeias laterais",
+      "SH2 → fosfotirosina; PH → fosfoinositídeos",
+      "Desnaturação não rompe ligações peptídicas"
+    ],
+    "pega": "As pontes dissulfeto pertencem à estrutura terciária (ou quaternária), não à secundária."
+  },
+  {
+    "id": "c1_4",
+    "u": 1,
+    "t": "Enzimas e classes enzimáticas",
+    "it": "enzimi, energia di attivazione, Km, Vmax, inibizione competitiva, classi enzimatiche EC",
+    "le": "ECB 3–4",
+    "txt": [
+      "As enzimas **baixam a energia de ativação**. Não mudam o ΔG nem o equilíbrio da reação: só a velocidade.",
+      "**Michaelis-Menten:** a **Km** é a concentração de substrato que dá metade da Vmax (Km baixa = alta afinidade). A **Vmax** é a velocidade com a enzima saturada.",
+      "**Tipos de inibição:**",
+      "- **Competitiva**: o inibidor disputa o sítio ativo. **Km aparente sobe**, Vmax igual; vence-se com mais substrato.",
+      "- **Não competitiva**: liga em outro ponto. **Vmax cai**, Km igual.",
+      "- **Irreversível**: liga covalentemente.",
+      "**Cofatores** são íons metálicos; **coenzimas** são orgânicas (NAD⁺, FAD, CoA), em geral derivadas de vitaminas.",
+      "**Classes EC:**",
+      "- 1 — **Oxidorredutases**: desidrogenases, oxidases.",
+      "- 2 — **Transferases**: quinases.",
+      "- 3 — **Hidrolases**: proteases, fosfatases, lipases.",
+      "- 4 — **Liases**: quebram ligações sem água e sem oxidação (aldolase, descarboxilases).",
+      "- 5 — **Isomerases**.",
+      "- 6 — **Ligases**: unem moléculas gastando ATP (DNA ligase, sintetases).",
+      "- 7 — **Translocases**: classe criada em 2018.",
+      "**Regulação:** alostérica, por modificação covalente, por **zimogênios** (precursores inativos, como o tripsinogênio) e por isoenzimas."
+    ],
+    "chave": [
+      "Enzima não muda o equilíbrio",
+      "Competitiva: ↑Km, Vmax igual; não competitiva: ↓Vmax",
+      "Quinase = transferase; fosfatase = hidrolase",
+      "Ligase usa ATP"
+    ],
+    "pega": "A quinase é uma transferase (transfere fosfato), mas a fosfatase é uma hidrolase (usa água para tirar o fosfato)."
+  },
+  {
+    "id": "c1_5",
+    "u": 1,
+    "t": "Modificações reversíveis: quinases, ubiquitinases e acetilases",
+    "it": "chinasi/fosfatasi, ubiquitina ligasi/deubiquitinasi, acetilasi (HAT)/deacetilasi (HDAC)",
+    "le": "ECB 4 e 8",
+    "txt": [
+      "Os pares de enzimas que **põem e tiram** marcas funcionam como interruptores:",
+      "- **Quinases** transferem o fosfato γ do ATP para Ser/Thr ou Tyr; **fosfatases** o removem. É o interruptor mais comum da sinalização.",
+      "- **Ubiquitina ligases** (E1-E2-E3) põem ubiquitina; **deubiquitinases** (DUB) a removem. A cadeia em K48 leva à degradação; em K63 ou uma única ubiquitina, à sinalização ou endocitose.",
+      "- **Acetilases** (HAT) acetilam lisinas das histonas. Isso neutraliza a carga positiva, o DNA se solta e a **transcrição aumenta**. As **desacetilases** (HDAC) fazem o oposto e **silenciam**. Proteínas que não são histonas também são acetiladas, como p53 e tubulina.",
+      "Outras marcas: metilação, SUMOilação, glicosilação."
+    ],
+    "chave": [
+      "Quinase põe fosfato (do ATP); fosfatase tira",
+      "HAT abre a cromatina; HDAC fecha",
+      "DUB remove ubiquitina"
+    ],
+    "pega": "A acetilação de histonas ativa genes. Já a metilação de histona pode ativar ou reprimir, conforme o resíduo (H3K4me3 ativa; H3K9me3 reprime)."
+  },
+  {
+    "id": "c2_1",
+    "u": 2,
+    "t": "Genoma eucariótico, cromossomos lineares e genoma humano",
+    "it": "genoma eucariotico, cromosomi lineari, centromero, telomeri, origini, genoma umano, DNA mitocondriale",
+    "le": "ECB 5 e 9",
+    "txt": [
+      "Um cromossomo linear precisa de três elementos:",
+      "- **Muitas origens** de replicação.",
+      "- Um **centrômero**, onde se monta o cinetócoro (DNA α-satélite).",
+      "- Dois **telômeros**: repetições TTAGGG protegidas pelo complexo shelterina.",
+      "**Genoma humano:**",
+      "- Cerca de **3,1 bilhões de pares de bases** por conjunto haploide.",
+      "- Cerca de **20.000 genes** que codificam proteínas.",
+      "- **Menos de 2%** do DNA codifica proteína; cerca de **metade** é sequência repetida.",
+      "- Muitos genes produzem RNA não codificante.",
+      "**Variação entre pessoas:** SNPs (variantes de uma base) e CNVs (variações no número de cópias).",
+      "**DNA mitocondrial:** circular, cerca de 16,5 kb, **37 genes** (13 proteínas da cadeia respiratória, 22 tRNA, 2 rRNA)."
+    ],
+    "chave": [
+      "Cromossomo linear: origens + centrômero + telômeros",
+      "~20.000 genes; <2% codificante; ~50% repetitivo",
+      "mtDNA: 37 genes, 13 proteínas"
+    ],
+    "pega": "O tamanho do genoma não acompanha a complexidade do organismo (paradoxo do valor C): grande parte é repetitiva."
+  },
+  {
+    "id": "c2_2",
+    "u": 2,
+    "t": "Cromatina, nucleossomos e histonas",
+    "it": "cromatina, nucleosoma, istoni, H1, eucromatina, eterocromatina, codice istonico",
+    "le": "ECB 5",
+    "txt": [
+      "O **nucleossomo** é um **octâmero de histonas** (2 cópias de H2A, H2B, H3 e H4) com cerca de **147 pb** de DNA enrolados em volta. Entre nucleossomos fica o DNA de ligação, onde se prende a **H1**, que ajuda a compactar a fibra.",
+      "As histonas são ricas em **lisina e arginina**: positivas, atraem os fosfatos do DNA.",
+      "As **caudas N-terminais** recebem marcas, o chamado código das histonas:",
+      "- **Acetilação**: ativa.",
+      "- **H3K4me3**: ativa.",
+      "- **H3K9me3** e **H3K27me3**: repressivas.",
+      "- Fosforilação.",
+      "Proteínas **leitoras** reconhecem as marcas: o **bromodomínio** lê acetil-lisina e o **cromodomínio** lê metil-lisina (a HP1 lê H3K9me3).",
+      "**Tipos de cromatina:**",
+      "- **Eucromatina**: aberta e ativa.",
+      "- **Heterocromatina constitutiva**: sempre fechada (centrômeros, telômeros).",
+      "- **Heterocromatina facultativa**: fechada em algumas células, como o **X inativo**, visível como corpúsculo de Barr.",
+      "Os **remodeladores** dependentes de ATP (SWI/SNF) deslizam ou retiram nucleossomos."
+    ],
+    "chave": [
+      "Octâmero: 2× H2A, H2B, H3, H4 + ~147 pb",
+      "H1 = histona de ligação",
+      "Bromodomínio → acetil; cromodomínio → metil",
+      "X inativo = heterocromatina facultativa"
+    ],
+    "pega": "A H1 não faz parte do octâmero: fica fora, no DNA de ligação."
+  },
+  {
+    "id": "c2_3",
+    "u": 2,
+    "t": "Metilação do DNA, epigenética e condensinas",
+    "it": "metilazione del DNA, isole CpG, DNMT, imprinting genomico, inattivazione dell'X, XIST, condensine, coesine",
+    "le": "ECB 8",
+    "txt": [
+      "As **DNA metiltransferases** põem um metil no carbono 5 da citosina em dinucleotídeos **CpG**:",
+      "- **DNMT3**: metilação *de novo*.",
+      "- **DNMT1**: de manutenção; copia o padrão para a fita nova, que nasce hemimetilada.",
+      "As **ilhas CpG** dos promotores costumam ser não metiladas. Quando são metiladas, o gene é **silenciado**: proteínas como a MeCP2 se ligam e trazem HDAC.",
+      "**Epigenética** são mudanças de expressão que passam às células-filhas **sem mudar a sequência** do DNA.",
+      "**Imprinting genômico:** alguns genes só se expressam a partir de um dos pais. Exemplo na região 15q11-13: falta a contribuição **paterna** na **Prader-Willi** e a **materna** (UBE3A) na **Angelman**.",
+      "**Inativação do X:** o RNA **XIST** cobre e silencia um X em cada célula feminina, ao acaso (hipótese de Lyon). Por isso a mulher é um **mosaico**, e uma portadora pode ter sintomas se a inativação for desequilibrada.",
+      "**No câncer:** promotores de supressores ficam hipermetilados, e o genoma como um todo fica hipometilado.",
+      "**Proteínas SMC:**",
+      "- **Condensinas**: compactam os cromossomos para a mitose.",
+      "- **Coesinas**: mantêm as cromátides irmãs juntas até a anáfase."
+    ],
+    "chave": [
+      "Metilação de ilha CpG no promotor → silenciamento",
+      "DNMT1 = manutenção; DNMT3 = de novo",
+      "Prader-Willi: falta o paterno; Angelman: falta o materno",
+      "XIST silencia um X; condensina compacta; coesina une"
+    ],
+    "pega": "Epigenética não é mutação: a sequência não muda, e a marca pode ser revertida."
+  },
+  {
+    "id": "c2_4",
+    "u": 2,
+    "t": "Sequências repetidas, LINE, SINE e retrovírus endógenos",
+    "it": "sequenze ripetute, satelliti, microsatelliti, retrotrasposoni, LINE, SINE, Alu, retrovirus endogeni, trasposoni a DNA",
+    "le": "ECB 9",
+    "txt": [
+      "**Repetições em tandem** (cópias lado a lado):",
+      "- **Satélites**, como o α-satélite dos centrômeros.",
+      "- Minissatélites (VNTR).",
+      "- **Microssatélites** (STR): usados na identificação forense; ficam instáveis quando o MMR falha.",
+      "**Repetições dispersas** (elementos móveis):",
+      "- **Retrotransposons**, classe I, funcionam como copia-e-cola via RNA e transcriptase reversa:",
+      "- **LTR / retrovírus endógenos (HERV)**: cerca de 8% do genoma. São restos de infecções retrovirais antigas que entraram na linhagem germinativa. A sincitina da placenta vem do gene *env* de um HERV.",
+      "- **LINE** (L1): cerca de 17–21% do genoma, ~6 kb. São **autônomos**: codificam transcriptase reversa e endonuclease.",
+      "- **SINE** (Alu): cerca de 10%, ~300 pb. **Não são autônomos**: usam a maquinaria do LINE.",
+      "- **Transposons de DNA**, classe II, funcionam como corta-e-cola por transposase. São cerca de 3% e estão inativos em humanos.",
+      "Uma inserção nova pode causar doença: um L1 inserido no gene F8 já causou hemofilia A."
+    ],
+    "chave": [
+      "LINE autônomo (tem RT); SINE/Alu depende do LINE",
+      "HERV ≈ 8%; LINE ≈ 20%; Alu ≈ 10%",
+      "Classe I = via RNA; classe II = DNA, transposase"
+    ],
+    "pega": "As Alu são SINE, não LINE, e não codificam proteína."
+  }
+]

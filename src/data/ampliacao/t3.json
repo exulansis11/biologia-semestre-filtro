@@ -1,0 +1,1915 @@
+{
+  "trilha": "t3",
+  "secoes": {
+    "c5_8": {
+      "txt": [
+        "O **endereçamento de proteínas** (*smistamento delle proteine*) depende de sinais na própria cadeia. Proteínas codificadas no núcleo começam a tradução em ribossomos citosólicos; ribossomos livres e associados ao retículo são funcionalmente equivalentes. A afirmação escolar de que toda proteína nasce no citosol tem uma exceção: mitocôndrias e cloroplastos traduzem parte de suas proteínas internamente. Sem sinal específico, a proteína geralmente permanece no citosol. A sequência funciona como endereço, mas não determina sozinha a atividade final: também são necessários receptores, energia e dobramento correto.",
+        "Uma **sequência-sinal** (*sequenza segnale*) N-terminal hidrofóbica, frequentemente com cerca de **15–30 aminoácidos**, direciona muitas proteínas ao retículo endoplasmático, ou RE. A **SRP**, partícula de reconhecimento de sinal, reconhece a sequência enquanto emerge do ribossomo e causa uma pausa transitória. O complexo encontra o receptor de SRP na membrana do RE; a interação envolve GTP. O ribossomo acopla-se ao **translocon Sec61** (*traslocone*), a tradução prossegue e a cadeia atravessa o canal durante sua síntese: translocação cotraducional. A peptidase remove sinais N-terminais cliváveis; sinais-âncora internos geralmente permanecem na proteína.",
+        "Proteínas integrais podem apresentar segmentos hidrofóbicos de início e parada de transferência, que estabelecem sua topologia. Uma hélice transmembrana típica contém aproximadamente **20–25 resíduos**. Não existe um comprimento único obrigatório para todo sinal ou toda hélice. O domínio que fica no lúmen do RE poderá ficar no lúmen de vesículas e, após exocitose, voltado ao exterior celular. Ele não atravessa espontaneamente a bicamada para mudar de lado. Essa conservação explica por que açúcares de glicoproteínas de superfície ficam expostos externamente.",
+        "Outros destinos usam mecanismos diferentes. Uma pré-sequência mitocondrial anfipática frequentemente conduz a proteína pelos complexos TOM e TIM; muitas cargas são importadas sem dobramento completo. O sinal de localização nuclear, **NLS** (*segnale di localizzazione nucleare*), é reconhecido por importinas; a passagem pelo poro pode transportar proteínas dobradas e não exige entrada prévia no RE. Para o peroxissomo, o sinal **PTS1** clássico é o tripeptídeo C-terminal **SKL**, serina-lisina-leucina, reconhecido por Pex5. Há outros sinais peroxissomais, portanto SKL não é universal. Núcleo, mitocôndria e peroxissomo não recebem suas proteínas pela rota RE–Golgi.",
+        "No lúmen do RE, o **controle de qualidade** (*controllo di qualità*) integra glicosilação e dobramento. A calnexina, associada à membrana, e a calreticulina, solúvel no lúmen, reconhecem glicanos e retêm glicoproteínas em maturação. BiP é uma chaperona da família Hsp70. Pontes dissulfeto são favorecidas nesse ambiente. Falhas persistentes levam à retrotranslocação para o citosol, ubiquitinação e degradação pelo proteassomo: **ERAD**, degradação associada ao RE. Esse destino não deve ser confundido com digestão lisossomal.",
+        "O acúmulo de proteínas mal dobradas ativa a **UPR**, resposta a proteínas não dobradas, com três sensores principais: **IRE1, PERK e ATF6**. A resposta reduz a carga de tradução, aumenta chaperonas e amplia a capacidade de ERAD; estresse prolongado pode desencadear apoptose. Na fibrose cística (*fibrosi cistica*), doença autossômica recessiva ligada ao gene **CFTR no cromossomo 7**, a variante **ΔF508** remove a fenilalanina da posição 508. Uma deleção de três nucleotídeos elimina um aminoácido sem deslocar o quadro de leitura. O dobramento defeituoso favorece retenção no RE e ERAD; a redução do canal de Cl⁻ na superfície prejudica o transporte de sal e água e torna secreções espessas."
+      ],
+      "chave": [
+        "Sinais distinguem citosol, RE, núcleo, mitocôndria e peroxissomo.",
+        "SRP reconhece sinal nascente; receptor de SRP entrega ao Sec61.",
+        "Sinais cliváveis e sinais-âncora têm destinos diferentes.",
+        "Calnexina é de membrana; calreticulina e BiP atuam no lúmen.",
+        "ERAD termina no proteassomo citosólico; UPR responde ao acúmulo.",
+        "IRE1, PERK e ATF6: três sensores principais da UPR.",
+        "CFTR ΔF508: perda de um resíduo, retenção no RE e redução do canal na superfície."
+      ],
+      "pega": "O sinal N-terminal clivável pode ser removido; uma âncora interna não é obrigatoriamente cortada. ΔF508 não é uma deleção de 508 aminoácidos.",
+      "num": [
+        [
+          "Sequência-sinal N-terminal para RE",
+          "≈ 15–30 aminoácidos",
+          "Faixa típica; a composição hidrofóbica também importa."
+        ],
+        [
+          "Hélice transmembrana típica",
+          "≈ 20–25 aminoácidos",
+          "Não é um tamanho obrigatório para toda proteína."
+        ],
+        [
+          "PTS1 clássico SKL",
+          "3 aminoácidos",
+          "Sinal C-terminal; não confundir com NLS."
+        ],
+        [
+          "Sensores principais da UPR",
+          "3: IRE1, PERK e ATF6",
+          "Vias complementares de resposta ao estresse."
+        ],
+        [
+          "Localização cromossômica de CFTR",
+          "Cromossomo 7",
+          "Doença autossômica recessiva."
+        ],
+        [
+          "ΔF508",
+          "1 fenilalanina perdida na posição 508",
+          "508 é a posição do resíduo."
+        ],
+        [
+          "Deleção codificante em ΔF508",
+          "3 nucleotídeos",
+          "Perda de um aminoácido, sem frameshift."
+        ]
+      ],
+      "voc": [
+        [
+          "smistamento delle proteine",
+          "endereçamento de proteínas"
+        ],
+        [
+          "sequenza segnale",
+          "sequência-sinal"
+        ],
+        [
+          "traslocone",
+          "translocon"
+        ],
+        [
+          "ripiegamento",
+          "dobramento"
+        ],
+        [
+          "lume del RE",
+          "lúmen do RE"
+        ],
+        [
+          "segnale di localizzazione nucleare",
+          "sinal de localização nuclear"
+        ],
+        [
+          "calnessina",
+          "calnexina"
+        ],
+        [
+          "calreticolina",
+          "calreticulina"
+        ],
+        [
+          "controllo di qualità",
+          "controle de qualidade"
+        ],
+        [
+          "fibrosi cistica",
+          "fibrose cística"
+        ]
+      ],
+      "detalhes": [
+        "A **SRP reconhece o peptídeo-sinal nascente**, e não uma sequência de bases no mRNA.",
+        "Os ribossomos do RE ficam na **face citosólica**; a cadeia nascente atravessa o Sec61 para alcançar o lúmen.",
+        "Ribossomos livres e ligados ao RE são **funcionalmente equivalentes**: o sinal da carga determina o recrutamento.",
+        "Um sinal-âncora interno (**segnale di ancoraggio**) pode permanecer na proteína; nem todo sinal para o RE é clivado.",
+        "O domínio voltado ao **lúmen do RE** fica voltado ao exterior após a proteína chegar à membrana plasmática pela via secretora.",
+        "O **NLS geralmente não é removido** após a importação nuclear, permitindo novos ciclos de importação.",
+        "A importação pelo poro nuclear pode transportar **proteínas dobradas**, sem passagem prévia pelo RE.",
+        "O PTS1 clássico **SKL está na extremidade C-terminal** e normalmente não é removido após a importação peroxissomal.",
+        "Peroxissomos podem importar **proteínas já dobradas**; essa capacidade não deve ser confundida com a translocação pela via clássica TOM/TIM para a matriz mitocondrial.",
+        "A **calnexina é de membrana**, enquanto a calreticulina é solúvel no lúmen do RE.",
+        "Na **ERAD**, a proteína defeituosa retorna ao citosol e é degradada no proteassomo; a UPR é uma resposta ao estresse do RE.",
+        "Em **ΔF508**, 508 é a posição da fenilalanina perdida: a deleção de três nucleotídeos não desloca o quadro de leitura."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Endomembrane system diagram en.svg",
+          "busca": "endomembrane system diagram LadyofHats rough endoplasmic reticulum ribosomes",
+          "legenda": "Observe os ribossomos na face citosólica do RE rugoso e o percurso entre RE, Golgi e superfície celular. O lúmen da via secretora é topologicamente equivalente ao exterior da célula.",
+          "legenda_it": "Osserva i ribosomi sulla faccia citosolica del RE ruvido e il percorso tra RE, Golgi e superficie cellulare. Il lume della via secretoria è topologicamente equivalente all’esterno della cellula.",
+          "alt": "Diagrama do sistema de endomembranas com RE, Golgi e membrana plasmática."
+        }
+      ],
+      "prof": {
+        "ideia": "O destino de uma proteína depende de sinais reconhecidos por mecanismos específicos. No RE, entrada, orientação e controle de qualidade determinam se a proteína poderá seguir pela via secretora.",
+        "explicar": [
+          "Use a analogia de um endereço com uma portaria: o sinal identifica o destino, mas receptores e energia permitem a entrega. Comece pelo ribossomo citosólico e ressalve a tradução interna de mitocôndrias e cloroplastos.",
+          "Desenhe sinal nascente → SRP → receptor de SRP → Sec61. Marque o ribossomo na face citosólica, a pausa transitória e a retomada da tradução com translocação cotraducional.",
+          "Compare sinal N-terminal clivável de ≈ 15–30 aminoácidos com sinal-âncora interno; use a hélice transmembrana típica de ≈ 20–25 resíduos como referência, sem transformar as faixas em regras absolutas.",
+          "No diagrama do sistema de endomembranas indicado na seção, acompanhe um domínio luminal até o exterior celular. Desenhe a mesma orientação durante brotamento e fusão, sem inverter a proteína.",
+          "Monte um quadro de destinos: NLS/importinas/poro nuclear, pré-sequência mitocondrial/TOM–TIM e PTS1 clássico SKL/Pex5. Compare a passagem de proteínas dobradas pelo poro e para peroxissomos com a importação mitocondrial descrita no texto.",
+          "Explique a revisão do dobramento por calnexina, calreticulina e BiP; separe ERAD, que termina no proteassomo citosólico, da UPR, resposta ao estresse com IRE1, PERK e ATF6.",
+          "Feche com CFTR ΔF508: perda de três nucleotídeos e de uma fenilalanina, sem mudança do quadro de leitura; relacione retenção no RE e ERAD à redução de canais na superfície."
+        ],
+        "perguntas": [
+          [
+            "A SRP reconhece o mRNA ou a proteína?",
+            "O peptídeo-sinal da cadeia polipeptídica nascente."
+          ],
+          [
+            "Um domínio luminal do RE ficará de que lado após a exocitose?",
+            "Voltado ao exterior da célula."
+          ],
+          [
+            "Uma proteína nuclear precisa passar pelo RE e perder seu NLS?",
+            "Não; pode entrar pelo poro nuclear e geralmente conserva o NLS."
+          ],
+          [
+            "Onde fica o SKL do PTS1 clássico?",
+            "Na extremidade C-terminal; é reconhecido por Pex5."
+          ],
+          [
+            "Onde termina a degradação pela ERAD?",
+            "No proteassomo citosólico, após retrotranslocação e ubiquitinação."
+          ],
+          [
+            "O que significa 508 em ΔF508? Há frameshift?",
+            "É a posição da fenilalanina perdida; a deleção de três nucleotídeos não causa frameshift."
+          ]
+        ],
+        "erros": [
+          "Imaginar ribossomos especiais ou dentro do RE: mostre que são funcionalmente equivalentes aos livres e ficam na face citosólica.",
+          "Achar que todo sinal é cortado: contraste o sinal N-terminal clivável com sinais-âncora internos e o NLS geralmente conservado.",
+          "Enviar toda proteína pela rota RE–Golgi: redesenhe separadamente os acessos ao núcleo, à mitocôndria e ao peroxissomo.",
+          "Inverter a orientação na exocitose: acompanhe um domínio marcado, sempre luminal até ficar extracelular.",
+          "Confundir ERAD com UPR ou lisossomo: ERAD elimina proteínas pelo proteassomo; UPR ajusta a resposta ao estresse do RE."
+        ],
+        "ponte": "Com a entrada e o controle de qualidade definidos, acompanhe no RE e no Golgi as modificações e a triagem das proteínas que podem seguir viagem.",
+        "tempo": "20–25 min"
+      }
+    },
+    "c5_7": {
+      "txt": [
+        "O **retículo endoplasmático rugoso** (*reticolo endoplasmatico ruvido*) apresenta ribossomos associados à face citosólica de sua membrana e participa da produção de proteínas de secreção, de membrana e de hidrolases lisossomais. Sua membrana é contínua com a membrana nuclear externa. O lúmen recebe cadeias transportadas pelo Sec61, onde elas dobram e passam por modificações iniciais. Rugoso e liso são regiões de uma rede dinâmica, e sua abundância varia conforme a especialização celular: células secretoras de proteínas desenvolvem especialmente o componente rugoso.",
+        "O **RE liso** (*reticolo endoplasmatico liscio*) participa da síntese de fosfolipídios e de esteroides. Nos hepatócitos, enzimas como citocromos P450 contribuem para a detoxificação, modificando substâncias para favorecer seu processamento e eliminação. O RE também armazena Ca²⁺. A concentração livre citosólica em repouso é da ordem de **100 nM**, enquanto o lúmen do RE pode apresentar aproximadamente **0,1–1 mM**, com variação entre células e condições. Essa diferença permite que a abertura de canais produza um sinal citosólico rápido. No músculo, a rede especializada chama-se **retículo sarcoplasmático**; a SERCA consome ATP para recolher Ca²⁺ e favorecer o relaxamento, transportando tipicamente **2 Ca²⁺ por ATP**.",
+        "A **N-glicosilação** (*glicosilazione N-legata*) começa no RE. Um precursor é montado sobre o carreador lipídico dolicol e transferido em bloco para o nitrogênio da cadeia lateral de uma **asparagina, Asn**. O precursor clássico contém **14 açúcares: 3 glicoses, 9 manoses e 2 N-acetilglicosaminas**, abreviadas GlcNAc. A sequência de reconhecimento usual é Asn–X–Ser/Thr, com X diferente de prolina; sua presença não garante que todo sítio seja ocupado. Após a transferência, remoções de açúcares participam do controle de qualidade. Não se deve contar os 14 resíduos como 14 etapas de transferência diretamente à proteína.",
+        "A **O-glicosilação** (*glicosilazione O-legata*) secretora clássica ocorre principalmente no Golgi: açúcares são acrescentados sequencialmente ao oxigênio de serina ou treonina. Há outras modalidades de O-glicosilação em outros compartimentos, por isso a regra Golgi–Ser/Thr se refere à via secretora estudada aqui. O N-glicano também é processado no Golgi; começar no RE não significa terminar ali. Diferentes enzimas removem ou acrescentam resíduos, gerando glicoproteínas maduras com cadeias variadas. Os açúcares de proteínas da via secretora ficam voltados ao lúmen, topologicamente equivalente ao exterior.",
+        "O **complexo de Golgi** (*apparato di Golgi*) é polarizado. A face **cis** recebe carga do RE por meio do compartimento intermediário ERGIC. As cisternas mediais processam açúcares, e a face trans desemboca na **rede trans-Golgi**, ou TGN (*rete trans-Golgi*), que organiza a triagem. COPII participa da saída do RE; COPI recupera proteínas e componentes em sentido retrógrado. A sequência KDEL, com quatro aminoácidos, permite recuperar proteínas solúveis residentes do RE que chegaram ao Golgi. Portanto, as organelas mantêm sua identidade apesar da circulação de membranas e de proteínas entre elas.",
+        "No cis-Golgi, a marcação de hidrolases lisossomais começa pela ação de uma fosfotransferase sobre manoses de seus N-glicanos; o processamento subsequente expõe a **manose-6-fosfato**, M6P (*mannosio-6-fosfato*). O número 6 indica a posição do carbono fosforilado, não seis fosfatos por manose. No TGN, receptores reconhecem essa marca e encaminham as enzimas para endossomos. Outras cargas seguem para secreção constitutiva, que ocorre continuamente, ou secreção regulada, com armazenamento até um estímulo. Uma proteína solúvel que entrou no RE e não apresenta sinal de retenção, recuperação ou outro destino tende a ser secretada."
+      ],
+      "chave": [
+        "RE rugoso: proteínas secretadas, de membrana e hidrolases lisossomais.",
+        "RE liso: lipídios, esteroides, P450 e reserva de Ca²⁺; SERCA recolhe Ca²⁺.",
+        "N-glicosilação: bloco do dolicol para Asn no RE; precursor com 14 açúcares.",
+        "O-glicosilação secretora clássica: adição sequencial em Ser/Thr no Golgi.",
+        "Golgi: cis recebe via ERGIC, medial processa e TGN faz triagem.",
+        "M6P: marcação começa no cis-Golgi; reconhecimento pelo receptor no TGN.",
+        "COPII sai do RE; COPI recupera; KDEL tem quatro aminoácidos."
+      ],
+      "pega": "N-glicosilação começa no RE e continua no Golgi. O 6 de M6P indica o carbono da manose, não o número de fosfatos.",
+      "num": [
+        [
+          "Precursor N-ligado clássico",
+          "14 monossacarídeos",
+          "Transferido em bloco do dolicol para Asn."
+        ],
+        [
+          "Glicoses no precursor",
+          "3",
+          "Removidas durante o processamento no RE."
+        ],
+        [
+          "Manoses no precursor",
+          "9",
+          "Não confundir com as três glicoses."
+        ],
+        [
+          "GlcNAc no precursor",
+          "2",
+          "3 + 9 + 2 = 14."
+        ],
+        [
+          "Ca²⁺ livre no citosol em repouso",
+          "≈ 100 nM = 0,1 µM",
+          "Referência aproximada; pode aumentar durante sinalização."
+        ],
+        [
+          "Ca²⁺ livre no lúmen do RE",
+          "≈ 0,1–1 mM",
+          "Faixa variável; muito acima do basal citosólico."
+        ],
+        [
+          "SERCA: transporte típico",
+          "2 Ca²⁺ por ATP",
+          "Recolhe cálcio para o RE/retículo sarcoplasmático."
+        ],
+        [
+          "Manose-6-fosfato",
+          "Fosfato no carbono 6",
+          "O numeral não é uma estequiometria de seis fosfatos."
+        ],
+        [
+          "Sinal KDEL",
+          "4 aminoácidos",
+          "Recuperação de proteínas solúveis residentes do RE."
+        ]
+      ],
+      "voc": [
+        [
+          "reticolo endoplasmatico ruvido",
+          "retículo endoplasmático rugoso"
+        ],
+        [
+          "reticolo endoplasmatico liscio",
+          "retículo endoplasmático liso"
+        ],
+        [
+          "apparato di Golgi",
+          "complexo de Golgi"
+        ],
+        [
+          "cisterna",
+          "cisterna"
+        ],
+        [
+          "glicosilazione N-legata",
+          "glicosilação N-ligada"
+        ],
+        [
+          "glicosilazione O-legata",
+          "glicosilação O-ligada"
+        ],
+        [
+          "dolicolo",
+          "dolicol"
+        ],
+        [
+          "asparagina",
+          "asparagina"
+        ],
+        [
+          "rete trans-Golgi",
+          "rede trans-Golgi"
+        ],
+        [
+          "smistamento",
+          "triagem"
+        ],
+        [
+          "reticolo sarcoplasmatico",
+          "retículo sarcoplasmático"
+        ],
+        [
+          "mannosio-6-fosfato",
+          "manose-6-fosfato"
+        ]
+      ],
+      "detalhes": [
+        "O lúmen do RE é contínuo com o **espaço perinuclear**; a membrana nuclear externa é contínua com a membrana do RE.",
+        "Os ribossomos do RE rugoso estão no **lado citosólico**, e não dentro de suas cisternas.",
+        "Na N-glicosilação da via secretora, o açúcar se liga ao **nitrogênio da cadeia lateral da asparagina**, não ao N-terminal da proteína.",
+        "O motivo usual é **Asn–X–Ser/Thr, com X diferente de prolina**; sua presença não garante ocupação do sítio.",
+        "O precursor clássico **Glc₃Man₉GlcNAc₂** é transferido em bloco: três glicoses, nove manoses e duas GlcNAc.",
+        "O **dolicol é um carreador lipídico de membrana**; não é um aminoácido da proteína receptora.",
+        "A **O-glicosilação secretora clássica** ocorre principalmente no Golgi em Ser/Thr; existem outras modalidades em outros compartimentos.",
+        "A face **cis recebe** material vindo do RE; a rede **trans-Golgi faz a triagem** para destinos diferentes.",
+        "No nome manose-6-fosfato, **6 indica o carbono da manose** que recebe o fosfato, não seis grupos fosfato.",
+        "O sinal **KDEL é C-terminal** e recupera proteínas solúveis residentes do RE que escaparam para o Golgi.",
+        "**COPII participa da saída do RE**, enquanto COPI participa da recuperação retrógrada do Golgi para o RE.",
+        "A **SERCA bombeia Ca²⁺ do citosol para o retículo** com gasto de ATP; no músculo, essa recaptação favorece o relaxamento."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Golgi apparatus (standalone version)-en.svg",
+          "busca": "Golgi apparatus cis trans cisternae diagram Kelvinsong",
+          "legenda": "Compare a face cis de entrada com a face trans de saída e identifique as cisternas empilhadas. Essa polaridade organiza o processamento e a triagem de cargas.",
+          "legenda_it": "Confronta la faccia cis di ingresso con la faccia trans di uscita e individua le cisterne impilate. Questa polarità organizza la maturazione e lo smistamento delle molecole trasportate.",
+          "alt": "Diagrama do Golgi com cisternas, faces cis e trans e vesículas."
+        }
+      ],
+      "prof": {
+        "ideia": "RE e Golgi formam uma rede de síntese, modificação e triagem, com funções e polaridades distintas. Glicosilação, sinais de recuperação e M6P ajudam a explicar o destino das cargas.",
+        "explicar": [
+          "Retome a cadeia que entrou pelo Sec61. Desenhe RE rugoso e liso como regiões de uma rede contínua, com ribossomos externos, membrana nuclear externa contínua ao RE e espaço perinuclear contínuo ao lúmen.",
+          "Associe RE rugoso à produção de proteínas e RE liso a lipídios, esteroides, detoxificação e reserva de Ca²⁺. Compare ≈ 100 nM no citosol com ≈ 0,1–1 mM no lúmen; desenhe SERCA recolhendo tipicamente 2 Ca²⁺ por ATP e relacione ao relaxamento muscular.",
+          "Desenhe o dolicol carregando Glc₃Man₉GlcNAc₂ e a transferência em bloco para o nitrogênio da cadeia lateral de Asn no RE. Some 3 + 9 + 2 = 14 e destaque Asn–X–Ser/Thr, com X diferente de prolina, sem garantir ocupação.",
+          "Compare N-glicosilação com O-glicosilação secretora clássica: esta acrescenta açúcares sequencialmente em Ser/Thr, principalmente no Golgi. Mostre que os N-glicanos também continuam sendo processados no Golgi.",
+          "Use o diagrama do Golgi indicado na seção para localizar cis, medial e TGN; trace a chegada via ERGIC, a saída do RE com COPII e a recuperação retrógrada com COPI. Posicione KDEL na extremidade C-terminal de uma proteína solúvel residente do RE.",
+          "Trace a marcação de hidrolases: início no cis-Golgi, exposição de M6P e reconhecimento no TGN. Circule o carbono 6 da manose para evitar a leitura de seis fosfatos.",
+          "Termine com a triagem entre secreção constitutiva, secreção regulada e destino endossomal. Peça ao aluno prever o destino de uma proteína solúvel que entrou no RE sem outros sinais de retenção, recuperação ou destino."
+        ],
+        "perguntas": [
+          [
+            "O lúmen do RE se comunica com qual espaço do envoltório nuclear?",
+            "Com o espaço perinuclear."
+          ],
+          [
+            "Para onde a SERCA transporta Ca²⁺ e com que custo típico?",
+            "Do citosol para o retículo, tipicamente 2 Ca²⁺ por ATP."
+          ],
+          [
+            "Quantos açúcares tem o precursor N-ligado clássico e como chegam à Asn?",
+            "14: três glicoses, nove manoses e duas GlcNAc, transferidas em bloco do dolicol."
+          ],
+          [
+            "Asn–Pro–Thr corresponde ao motivo usual de N-glicosilação?",
+            "Não; a posição X não pode ser prolina."
+          ],
+          [
+            "Como uma proteína solúvel residente do RE pode ser recuperada do Golgi?",
+            "Pelo sinal C-terminal KDEL, com transporte retrógrado associado a COPI."
+          ],
+          [
+            "O que significa o 6 de M6P e onde ocorre seu reconhecimento para triagem?",
+            "Indica o carbono fosforilado da manose; o receptor reconhece a marca no TGN."
+          ]
+        ],
+        "erros": [
+          "Interpretar N-glicosilação como modificação do N-terminal: a ligação é ao nitrogênio da cadeia lateral da asparagina.",
+          "Contar 14 transferências diretas para a proteína ou tratar o motivo como garantia: o precursor chega em bloco, e um motivo compatível pode não ser ocupado.",
+          "Aplicar a regra da O-glicosilação secretora a todas as modalidades: limite a comparação Golgi–Ser/Thr à via descrita na seção.",
+          "Trocar COPI e COPII ou colocar KDEL no N-terminal: trace COPII saindo do RE e COPI recuperando; KDEL é C-terminal.",
+          "Inverter SERCA e interpretar M6P como seis fosfatos: desenhe a bomba levando Ca²⁺ para o retículo e identifique o carbono 6 da manose."
+        ],
+        "ponte": "A triagem no Golgi exige entrega correta: passe pela seção de tráfego vesicular da trilha e depois acompanhe a convergência com endocitose e digestão lisossomal.",
+        "tempo": "20–25 min"
+      }
+    },
+    "c5_10": {
+      "txt": [
+        "A **endocitose** (*endocitosi*) internaliza material extracelular e membrana plasmática. Na **fagocitose** (*fagocitosi*), macrófagos e neutrófilos envolvem partículas grandes, como bactérias, por extensões dependentes de actina. Pinocitose e macropinocitose captam líquido e solutos; a segunda envolve projeções amplas da superfície. Na endocitose mediada por receptor, o reconhecimento permite concentrar uma carga específica. A via clássica usa clatrina e adaptadores, e a dinamina participa do desprendimento. Nem toda endocitose depende de clatrina, e não se deve tratar fagocitose como simples passagem por um canal.",
+        "O exemplo clássico é a captação de **LDL**. A partícula liga-se ao receptor e é internalizada; no endossomo, a acidificação favorece sua dissociação, e o receptor costuma retornar à superfície. A carga segue para degradação, liberando componentes como colesterol. A hipercolesterolemia familiar clássica por defeito de LDLR tem herança autossômica dominante: o receptor defeituoso reduz a remoção de LDL do sangue. A reciclagem evita destruir obrigatoriamente um receptor a cada ciclo; outros receptores, porém, podem ser enviados à degradação conforme os sinais recebidos.",
+        "O percurso de maturação passa por **endossomo inicial** (*endosoma precoce*), com pH aproximadamente **6–6,5**, endossomo tardio, aproximadamente **5–6**, e **lisossomo** (*lisosoma*), aproximadamente **4,5–5**. Os limites se sobrepõem e variam com a célula. Lisossomos são compartimentos de uma membrana, frequentemente com cerca de **0,1–1 µm**, bastante heterogêneos. A **V-ATPase** usa ATP para bombear H⁺ para o lúmen; hidrolases ácidas degradam proteínas, lipídios, ácidos nucleicos e polissacarídeos. A membrana separa essas enzimas do citosol, cujo pH é próximo de **7,2**.",
+        "O pH é logarítmico: uma redução de uma unidade representa aumento de dez vezes na concentração de H⁺. Assim, pH 5 corresponde a **10⁻⁵ M**, e pH 6 a **10⁻⁶ M**; o primeiro tem dez vezes mais prótons livres por volume. De pH 7 para 5, o fator é cem. Isso não fornece diretamente o total de prótons bombeados, pois o tamponamento e os fluxos através da membrana também participam. Neutralizar o lisossomo prejudica a digestão mesmo quando suas enzimas foram endereçadas corretamente.",
+        "As hidrolases lisossomais seguem RE–Golgi. No cis-Golgi, a fosfotransferase inicia a formação da marca **M6P**; no TGN, receptores de M6P selecionam as cargas. No ambiente endossomal ácido, enzimas e receptores se dissociam, e estes podem retornar ao Golgi. Na **doença da célula I** (*malattia a cellule I*), a deficiência de marcação faz muitas hidrolases serem secretadas: aparecem aumentadas no plasma, enquanto materiais se acumulam nos lisossomos. Defeitos em hidrolases específicas causam doenças de depósito, como Tay-Sachs, Gaucher e Pompe; falha de marcação e falha catalítica são mecanismos distintos.",
+        "Na **macroautofagia** (*macroautofagia*), chamada aqui de autofagia, o fagóforo envolve citoplasma e forma um **autofagossomo de duas membranas**, associado ao marcador LC3. A fusão com o lisossomo permite degradar a membrana interna e o conteúdo, reciclando componentes. Com nutrientes disponíveis, mTORC1 ativo inibe essa via; o jejum favorece sua ativação. Na **mitofagia** (*mitofagia*), uma mitocôndria despolarizada acumula PINK1, que favorece o recrutamento e a ativação de Parkin, uma ubiquitina ligase. A marcação ajuda a selecionar a organela para autofagia. Mutações nesses genes causam formas familiares de Parkinson; essa é uma via importante de mitofagia, mas não a única."
+      ],
+      "chave": [
+        "Fagocitose depende de actina; pinocitose capta líquido; receptores selecionam carga.",
+        "LDLR é reciclado; seu defeito clássico causa hipercolesterolemia familiar dominante.",
+        "Endossomos acidificam progressivamente; lisossomo ≈ pH 4,5–5.",
+        "V-ATPase gasta ATP para acidificar; hidrolases funcionam melhor em meio ácido.",
+        "M6P seleciona hidrolases no TGN; falha de marcação causa secreção indevida.",
+        "Autofagossomo tem duas membranas; LC3 é marcador; mTORC1 inibe autofagia.",
+        "PINK1/Parkin selecionam mitocôndrias danificadas em uma via de mitofagia."
+      ],
+      "pega": "pH 5 contém dez vezes mais H⁺ que pH 6. Diferencie lisossomo com uma membrana de autofagossomo com duas.",
+      "num": [
+        [
+          "Endossomo inicial: pH",
+          "≈ 6–6,5",
+          "Menos ácido que o lisossomo; favorece triagem e reciclagem."
+        ],
+        [
+          "Endossomo tardio: pH",
+          "≈ 5–6",
+          "Faixa variável durante a maturação."
+        ],
+        [
+          "Lisossomo: pH",
+          "≈ 4,5–5",
+          "Mantido pela V-ATPase."
+        ],
+        [
+          "Citosol: pH",
+          "≈ 7,2",
+          "Referência próxima da neutralidade."
+        ],
+        [
+          "Diâmetro lisossomal típico",
+          "≈ 0,1–1 µm = 100–1 000 nm",
+          "Tamanho heterogêneo; não é um limite absoluto."
+        ],
+        [
+          "Concentração de H⁺ a pH 5",
+          "10⁻⁵ M",
+          "A pH 6: 10⁻⁶ M; razão = 10."
+        ],
+        [
+          "Queda de pH 7 para 5",
+          "100 vezes mais H⁺ livre por volume",
+          "Duas unidades correspondem a 10²."
+        ],
+        [
+          "Membranas delimitantes",
+          "Lisossomo: 1; autofagossomo: 2",
+          "Contagem antes da fusão, sem contar membranas da carga."
+        ]
+      ],
+      "voc": [
+        [
+          "endocitosi",
+          "endocitose"
+        ],
+        [
+          "fagocitosi",
+          "fagocitose"
+        ],
+        [
+          "pinocitosi",
+          "pinocitose"
+        ],
+        [
+          "endosoma precoce",
+          "endossomo inicial"
+        ],
+        [
+          "endosoma tardivo",
+          "endossomo tardio"
+        ],
+        [
+          "lisosoma",
+          "lisossomo"
+        ],
+        [
+          "idrolasi acide",
+          "hidrolases ácidas"
+        ],
+        [
+          "riciclaggio del recettore",
+          "reciclagem do receptor"
+        ],
+        [
+          "autofagosoma",
+          "autofagossomo"
+        ],
+        [
+          "macroautofagia",
+          "macroautofagia"
+        ],
+        [
+          "mitofagia",
+          "mitofagia"
+        ],
+        [
+          "malattia a cellule I",
+          "doença da célula I"
+        ]
+      ],
+      "detalhes": [
+        "A **clatrina reveste a face citosólica** da membrana em brotamento; o revestimento não fica dentro do lúmen da vesícula.",
+        "Na via clássica de endocitose revestida por clatrina, a **dinamina é uma GTPase** envolvida na separação da vesícula.",
+        "**Nem toda endocitose depende de clatrina**; existem vias independentes desse revestimento.",
+        "Na captação clássica de LDL, o **receptor costuma ser reciclado**, enquanto a partícula segue para degradação lisossomal.",
+        "A **V-ATPase leva H⁺ do citosol para o lúmen** e consome ATP para acidificar endossomos e lisossomos.",
+        "Uma queda de **duas unidades de pH** aumenta cem vezes a concentração de H⁺ livre, não duas vezes.",
+        "O lisossomo possui **uma membrana delimitante**; cada bicamada conta como uma membrana, não como duas.",
+        "O autofagossomo fechado possui **duas membranas** antes da fusão com o lisossomo; a membrana interna e a carga são degradadas depois.",
+        "A **macroautofagia captura material citoplasmático**; a endocitose traz material da superfície ou do meio extracelular.",
+        "O receptor de **M6P pode retornar ao Golgi** depois de liberar a hidrolase no ambiente endossomal ácido.",
+        "Na doença da célula I, muitas hidrolases são **produzidas, mas secretadas indevidamente**; a falha é de endereçamento, não ausência geral de síntese.",
+        "**Parkin é uma ubiquitina ligase**, e PINK1 é uma quinase; a via PINK1/Parkin não é o único mecanismo de mitofagia."
+      ],
+      "img_pedidos": [
+        {
+          "titulo": "File:Autophagy diagram PLoS Biology.jpg",
+          "busca": "autophagy diagram autophagosome lysosome PLoS Biology",
+          "legenda": "Siga o fechamento do fagóforo e a fusão do autofagossomo com o lisossomo. Diferencie o isolamento da carga citoplasmática da etapa posterior de digestão.",
+          "legenda_it": "Segui la chiusura del fagoforo e la fusione dell’autofagosoma con il lisosoma. Distingui l’isolamento del materiale citoplasmatico dalla successiva fase di digestione.",
+          "alt": "Diagrama da formação do autofagossomo e de sua fusão com o lisossomo."
+        }
+      ],
+      "prof": {
+        "ideia": "Endocitose e autofagia levam materiais de origens diferentes à digestão lisossomal. A digestão depende tanto da entrega de hidrolases quanto da acidificação, enquanto receptores podem ser reciclados.",
+        "explicar": [
+          "Desenhe entradas distintas: fagocitose de partículas com actina, captação de líquido por pinocitose/macropinocitose e seleção de carga por receptores. Na via clássica, marque clatrina na face citosólica e dinamina como GTPase de separação; ressalve vias sem clatrina.",
+          "Acompanhe LDL e LDLR com cores diferentes: ligação, internalização, dissociação em endossomo ácido, reciclagem do receptor e degradação da carga. Relacione defeitos clássicos de LDLR à menor remoção de LDL e à herança autossômica dominante.",
+          "Trace endossomo inicial → tardio → lisossomo, usando as faixas de pH ≈ 6–6,5; ≈ 5–6; ≈ 4,5–5. Desenhe V-ATPase consumindo ATP para levar H⁺ ao lúmen e destaque a variação de tamanho lisossomal, ≈ 0,1–1 µm.",
+          "Resolva pH 6 versus pH 5 com 10⁻⁶ M e 10⁻⁵ M, obtendo dez vezes mais H⁺ livre no mais ácido; retome pH 7 para 5 como fator cem. Explique que isso não informa sozinho o total de prótons bombeados.",
+          "Conecte a rota RE–Golgi à endossomal: marca M6P, reconhecimento no TGN, liberação da hidrolase em meio ácido e retorno do receptor ao Golgi. Compare doença da célula I, falha de marcação, com defeito de uma hidrolase e com inibição da acidificação.",
+          "Use o diagrama de autofagia indicado na seção para seguir fagóforo, autofagossomo fechado e fusão com lisossomo. Conte duas membranas no autofagossomo antes da fusão e uma no lisossomo; identifique a degradação da membrana interna e da carga.",
+          "Relacione mTORC1 ativo à inibição da autofagia e jejum à sua ativação. Na mitofagia PINK1/Parkin, conecte despolarização, acúmulo da quinase PINK1 e recrutamento da ubiquitina ligase Parkin, lembrando que existem outras vias."
+        ],
+        "perguntas": [
+          [
+            "Na captação clássica de LDL, receptor e carga têm o mesmo destino?",
+            "Não; o receptor costuma ser reciclado e a carga segue para degradação lisossomal."
+          ],
+          [
+            "Onde ficam a clatrina e a ação da dinamina na via clássica?",
+            "A clatrina reveste a face citosólica; a dinamina participa da separação da vesícula."
+          ],
+          [
+            "De pH 7 para pH 5, quanto aumenta a concentração de H⁺ livre?",
+            "Cem vezes."
+          ],
+          [
+            "Se as hidrolases chegam, mas o lisossomo perde acidez, a digestão permanece normal?",
+            "Não; a atividade das hidrolases ácidas fica prejudicada."
+          ],
+          [
+            "Na doença da célula I, por que muitas hidrolases aparecem aumentadas no plasma?",
+            "A falha de marcação M6P causa secreção indevida em vez de entrega lisossomal."
+          ],
+          [
+            "Quantas membranas delimitam lisossomo e autofagossomo fechado antes da fusão?",
+            "Uma no lisossomo e duas no autofagossomo, sem contar as membranas da carga."
+          ]
+        ],
+        "erros": [
+          "Generalizar a clatrina para toda endocitose ou colocá-la no lúmen: situe seu revestimento no citosol e relembre vias independentes.",
+          "Destruir obrigatoriamente LDLR junto com LDL ou mandar o receptor M6P à superfície: separe carga de receptor e trace a reciclagem típica de LDLR à superfície e de M6P ao Golgi.",
+          "Tratar pH como escala linear ou inverter a V-ATPase: pH menor significa mais H⁺ livre, bombeado para o lúmen com gasto de ATP.",
+          "Contar os folhetos da bicamada como membranas distintas ou confundir autofagia com endocitose: conte membranas completas e identifique a origem citoplasmática ou extracelular da carga.",
+          "Confundir marcação M6P com atividade enzimática ou atribuir acidificação a Parkin: separe endereçamento, catálise e V-ATPase; PINK1 é quinase e Parkin é ubiquitina ligase."
+        ],
+        "ponte": "Feche a trilha pedindo ao aluno que acompanhe uma proteína do sinal ao destino final; use o jogo de endereçamento e as questões para revisar recuperação, secreção e digestão.",
+        "tempo": "20–25 min"
+      }
+    }
+  },
+  "questoes": [
+    {
+      "id": "xt3_01",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Il segnale perossisomiale classico SKL contiene quanti amminoacidi e in quale posizione si trova?",
+      "opts": [
+        "3, all’estremità C-terminale",
+        "3, all’estremità N-terminale",
+        "9, all’estremità C-terminale",
+        "1, all’estremità N-terminale",
+        "508, in posizione interna"
+      ],
+      "ex": "SKL é um PTS1 C-terminal com três resíduos.",
+      "exp": [
+        "Leia as letras como código de aminoácidos: S = serina, K = lisina e L = leucina; são **três resíduos**.",
+        "O PTS1 clássico fica na extremidade **C-terminal** e é reconhecido por Pex5; não é o sinal hidrofóbico para o RE.",
+        "As outras opções erram porque: três no N-terminal desloca o sinal; nove conta os nucleotídeos codificantes como aminoácidos; um ignora dois resíduos; 508 confunde PTS1 com a posição da fenilalanina da CFTR."
+      ]
+    },
+    {
+      "id": "xt3_02",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Una delezione di 3 nucleotidi nella regione codificante di CFTR elimina una fenilalanina senza alterare la cornice di lettura. Quanti amminoacidi vengono persi direttamente?",
+      "opts": [
+        "1 amminoacido",
+        "3 amminoacidi",
+        "7 amminoacidi",
+        "508 amminoacidi",
+        "Nessuno, perché non c’è frameshift"
+      ],
+      "ex": "Três nucleotídeos correspondem a um códon; ΔF508 perde um resíduo.",
+      "exp": [
+        "O código é lido em trincas: **3 nucleotídeos codificam 1 aminoácido**.",
+        "O enunciado especifica a perda de fenilalanina sem alteração do quadro; portanto, a perda direta é de um resíduo, embora o dobramento possa mudar muito.",
+        "Três aminoácidos exigiriam nove nucleotídeos; sete confunde com o cromossomo de CFTR; 508 é a posição do resíduo; ausência de frameshift não significa ausência de deleção."
+      ]
+    },
+    {
+      "id": "xt3_03",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Considerando IRE1, PERK e ATF6, quanti sensori principali della UPR sono elencati?",
+      "opts": [
+        "Tre sensori",
+        "Due sensori",
+        "Un solo sensore",
+        "Quattro sensori",
+        "Sei sensori"
+      ],
+      "ex": "IRE1, PERK e ATF6 são três sensores distintos da resposta ao estresse no RE.",
+      "exp": [
+        "Identifique a função comum: os três participam da detecção e resposta ao acúmulo de proteínas mal dobradas no RE.",
+        "Conte cada entidade uma vez: IRE1 + PERK + ATF6 = **3 sensores**. Os algarismos nos nomes não indicam quantas proteínas há na lista.",
+        "Dois omite um sensor; um confunde a resposta integrada com um único sensor; quatro acrescenta um inexistente na lista; seis duplica a contagem."
+      ]
+    },
+    {
+      "id": "xt3_04",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Quale sequenza descrive correttamente l’ingresso cotraduzionale di una proteina solubile nel RE?",
+      "opts": [
+        "SRP → recettore della SRP → Sec61",
+        "Importina → poro nucleare → Sec61",
+        "Clatrina → recettore LDL → Sec61",
+        "Sec61 → SRP → ribosoma nucleare",
+        "Pex5 → TOM → recettore della SRP"
+      ],
+      "ex": "A SRP reconhece a cadeia nascente e a entrega ao RE antes da passagem pelo Sec61.",
+      "exp": [
+        "O sinal hidrofóbico emerge do ribossomo no citosol e é reconhecido pela **SRP**.",
+        "A SRP interage com seu receptor na membrana do RE; o ribossomo acopla-se ao Sec61, e a cadeia entra enquanto a tradução prossegue.",
+        "Importina e poro pertencem à importação nuclear; clatrina e LDLR participam de endocitose; começar por Sec61 inverte o reconhecimento e inventa tradução nuclear; Pex5 e TOM pertencem, respectivamente, a peroxissomo e mitocôndria."
+      ]
+    },
+    {
+      "id": "xt3_05",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Quale affermazione sul controllo di qualità nel RE è FALSA?",
+      "opts": [
+        "L’ERAD degrada le proteine nel lume del lisosoma",
+        "La calnessina è associata alla membrana del RE",
+        "La calreticolina è una chaperon del lume del RE",
+        "BiP appartiene alla famiglia Hsp70",
+        "Uno stress persistente del RE può favorire l’apoptosi"
+      ],
+      "ex": "No ERAD, a degradação ocorre no proteassomo citosólico após retrotranslocação.",
+      "exp": [
+        "O comando pede a afirmação **falsa**, portanto procure uma troca de mecanismo ou compartimento.",
+        "ERAD encaminha proteínas defeituosas do RE para ubiquitinação e degradação no proteassomo; o lisossomo pertence a outras vias de degradação.",
+        "As outras são verdadeiras: calnexina é de membrana; calreticulina atua no lúmen; BiP é Hsp70; UPR persistente pode favorecer apoptose. Por isso nenhuma dessas quatro responde ao comando."
+      ]
+    },
+    {
+      "id": "xt3_06",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Una proteina con NLS funzionale, priva di segnale per il RE, viene importata principalmente tramite:",
+      "opts": [
+        "Importine e pori nucleari",
+        "SRP e Sec61",
+        "Recettori del mannosio-6-fosfato",
+        "Pex5 e segnale SKL",
+        "Clatrina e recettori LDL"
+      ],
+      "ex": "O NLS direciona ao núcleo, sem passagem obrigatória pelo RE.",
+      "exp": [
+        "Reconheça NLS como **sinal de localização nuclear**, geralmente rico em resíduos básicos.",
+        "Importinas reconhecem a carga e participam do transporte pelo complexo do poro nuclear; a proteína pode estar dobrada.",
+        "SRP/Sec61 conduzem ao RE; M6P seleciona hidrolases para endossomos/lisossomos; Pex5/SKL indicam peroxissomo; clatrina/LDLR mediam captação de LDL. Nenhum substitui a via do NLS."
+      ]
+    },
+    {
+      "id": "xt3_07",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "La chaperon lectinica associata alla membrana del RE, distinta dalla calreticolina solubile, è la ____.",
+      "acc": [
+        "calnessina",
+        "calnexina",
+        "calnexin"
+      ],
+      "ex": "A calnexina é a chaperona lectínica de membrana do RE.",
+      "exp": [
+        "O enunciado fornece dois critérios: ligação a glicanos e associação à membrana do RE.",
+        "A **calnexina** satisfaz ambos e ajuda a reter glicoproteínas durante o dobramento.",
+        "Calreticulina é solúvel no lúmen; BiP é uma Hsp70; SRP reconhece o sinal de entrada. Essas proteínas relacionadas não satisfazem os dois critérios."
+      ]
+    },
+    {
+      "id": "xt3_08",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Le proteine retrotraslocate dal RE e ubiquitinate durante l’ERAD vengono degradate dal ____.",
+      "acc": [
+        "proteasoma",
+        "proteasoma 26s",
+        "proteassomo"
+      ],
+      "ex": "O destino degradativo do ERAD é o proteassomo.",
+      "exp": [
+        "Retrotranslocação devolve a cadeia defeituosa ao lado citosólico.",
+        "A ubiquitinação favorece seu reconhecimento pelo **proteassomo**, onde ocorre proteólise.",
+        "Lisossomo degradaria cargas entregues pela via endossomal ou autofágica; Golgi faz processamento e triagem; Sec61 é um canal, não o complexo que conclui a proteólise."
+      ]
+    },
+    {
+      "id": "xt3_09",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Il precursore N-legato Glc₃Man₉GlcNAc₂ contiene complessivamente:",
+      "opts": [
+        "14 monosaccaridi",
+        "3 monosaccaridi",
+        "9 monosaccaridi",
+        "11 monosaccaridi",
+        "28 monosaccaridi"
+      ],
+      "ex": "A soma dos resíduos é 3 + 9 + 2 = 14.",
+      "exp": [
+        "Leia os índices como quantidades de glicose, manose e N-acetilglicosamina.",
+        "Some **3 + 9 + 2 = 14**; o precursor completo é transferido em bloco para Asn.",
+        "Três conta só glicoses; nove só manoses; onze soma manoses e GlcNAc, omitindo glicoses; 28 duplica o precursor sem justificativa."
+      ]
+    },
+    {
+      "id": "xt3_10",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Se SERCA trasporta 2 Ca²⁺ per ATP, quanti ATP richiedono 10 cicli completi e quanti Ca²⁺ vengono trasportati?",
+      "opts": [
+        "10 ATP e 20 Ca²⁺",
+        "20 ATP e 10 Ca²⁺",
+        "10 ATP e 10 Ca²⁺",
+        "5 ATP e 20 Ca²⁺",
+        "20 ATP e 20 Ca²⁺"
+      ],
+      "ex": "Cada ciclo usa um ATP e recolhe dois íons Ca²⁺.",
+      "exp": [
+        "Escreva a estequiometria típica de SERCA: **1 ATP : 2 Ca²⁺**, dirigidos ao lúmen do retículo.",
+        "Multiplique por dez ciclos: consumo de 10 ATP e transporte de 20 Ca²⁺.",
+        "20 ATP/10 Ca²⁺ inverte a razão; 10/10 usa razão 1:1; 5/20 supõe quatro Ca²⁺ por ATP; 20/20 dobra o consumo previsto."
+      ]
+    },
+    {
+      "id": "xt3_11",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Con Ca²⁺ libero nel RE a 0,5 mM e nel citosol a 100 nM, il rapporto RE/citosol è:",
+      "opts": [
+        "5 000 volte",
+        "5 volte",
+        "50 volte",
+        "500 volte",
+        "0,0002 volte"
+      ],
+      "ex": "0,5 mM = 500 000 nM; dividindo por 100 nM, obtém-se 5 000.",
+      "exp": [
+        "Uniformize unidades: **1 mM = 1 000 000 nM**, portanto 0,5 mM = 500 000 nM.",
+        "Calcule RE/citosol: 500 000/100 = 5 000; o retículo é um reservatório de cálcio.",
+        "5, 50 e 500 subestimam a conversão, respectivamente, por fatores de 1 000, 100 e 10; 0,0002 é a razão inversa, citosol/RE."
+      ]
+    },
+    {
+      "id": "xt3_12",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Quale associazione descrive correttamente la glicosilazione nella via secretoria?",
+      "opts": [
+        "N-legata: inizio nel RE su Asn; O-legata classica: nel Golgi su Ser/Thr",
+        "N-legata: nel citosol su Ser; O-legata: nel nucleo su Asn",
+        "N-legata: solo nel Golgi su Thr; O-legata: nel RE su Asn",
+        "N-legata: nel RE su Pro; O-legata: nel Golgi su DNA",
+        "N-legata e O-legata: entrambe esclusivamente nei lisosomi"
+      ],
+      "ex": "A ligação N usa Asn; a ligação O secretora clássica usa Ser/Thr.",
+      "exp": [
+        "Diferencie o átomo da ligação: nitrogênio da Asn na N-glicosilação e oxigênio de Ser/Thr na O-glicosilação clássica.",
+        "O precursor N-ligado é transferido no RE e depois processado no Golgi; a O-glicosilação secretora clássica ocorre principalmente no Golgi.",
+        "A opção citosol/núcleo troca locais e resíduos; a opção só Golgi/RE inverte etapas e aminoácidos; Pro/DNA usa substratos errados; lisossomos são destinos digestivos, não os locais exclusivos de síntese desses glicanos."
+      ]
+    },
+    {
+      "id": "xt3_13",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Una idrolasi lisosomiale solubile riceve il segnale M6P. Dove inizia la marcatura e dove il recettore seleziona la proteina per l’invio agli endosomi?",
+      "opts": [
+        "Nel cis-Golgi; nel TGN",
+        "Nel TGN; nel citosol",
+        "Nel nucleo; nel cis-Golgi",
+        "Nel lisosoma; nel RE liscio",
+        "Nel RE; nel poro nucleare"
+      ],
+      "ex": "Marcação e reconhecimento ocorrem em regiões diferentes do Golgi.",
+      "exp": [
+        "A fosfotransferase inicia a marcação no **cis-Golgi**; etapas posteriores expõem M6P.",
+        "O receptor de M6P seleciona a hidrolase no **TGN**, promovendo seu transporte ao sistema endossomal.",
+        "TGN/citosol desloca ambas as funções; núcleo/cis-Golgi inventa marcação nuclear; lisossomo/RE liso inverte síntese e destino; RE/poro nuclear mistura entrada secretora com importação nuclear."
+      ]
+    },
+    {
+      "id": "xt3_14",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Quale affermazione sul RE liscio è FALSA?",
+      "opts": [
+        "La sua funzione caratteristica è tradurre l’mRNA con ribosomi nel lume",
+        "Contribuisce alla sintesi dei fosfolipidi",
+        "Partecipa alla sintesi degli steroidi",
+        "Negli epatociti partecipa alla detossificazione tramite citocromi P450",
+        "Può accumulare Ca²⁺ grazie a pompe come SERCA"
+      ],
+      "ex": "Ribossomos do RE rugoso ficam na face citosólica, nunca como maquinaria tradutora no lúmen.",
+      "exp": [
+        "O comando pede a afirmação **falsa** sobre o RE liso.",
+        "A tradução de proteínas secretoras ocorre em ribossomos associados à face citosólica do RE rugoso; não em ribossomos luminais do RE liso.",
+        "As quatro restantes são funções reais: síntese de fosfolipídios; participação na produção de esteroides; detoxificação por P450; armazenamento de Ca²⁺ mantido por SERCA."
+      ]
+    },
+    {
+      "id": "xt3_15",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Il lipide che sostiene il precursore oligosaccaridico prima del trasferimento all’Asn nel RE è il ____.",
+      "acc": [
+        "dolicolo",
+        "dolicolo fosfato",
+        "dolicolo pirofosfato",
+        "dolicol"
+      ],
+      "ex": "O dolicol é o carreador lipídico do precursor N-ligado.",
+      "exp": [
+        "Na N-glicosilação, os açúcares são montados antes da transferência à proteína.",
+        "O **dolicol**, em forma fosforilada na membrana do RE, serve de suporte ao precursor.",
+        "Asn é o aminoácido receptor, não o carreador lipídico; clatrina é revestimento; colesterol participa da membrana, mas não é o suporte desse precursor."
+      ]
+    },
+    {
+      "id": "xt3_16",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "La faccia del Golgi che riceve il materiale proveniente dal RE attraverso l’ERGIC è la faccia ____.",
+      "acc": [
+        "cis",
+        "cis-golgi"
+      ],
+      "ex": "A face cis é a entrada do Golgi para cargas vindas do RE.",
+      "exp": [
+        "Use a polaridade: RE → ERGIC → face **cis** → cisternas mediais → trans/TGN.",
+        "A face cis recebe carga; cisternas mediais participam de processamento e a rede trans organiza a saída.",
+        "Trans ou TGN responderiam à triagem de saída; medial descreve uma região intermediária, não a face receptora indicada."
+      ]
+    },
+    {
+      "id": "xt3_17",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Un lisosoma a pH 5, rispetto a un endosoma a pH 6, ha una concentrazione di H⁺ libero:",
+      "opts": [
+        "10 volte maggiore",
+        "10 volte minore",
+        "100 volte maggiore",
+        "Uguale",
+        "2 volte maggiore"
+      ],
+      "ex": "Uma unidade a menos de pH significa dez vezes mais H⁺ livre.",
+      "exp": [
+        "Use **[H⁺] ≈ 10⁻ᵖᴴ M**: no exemplo, 10⁻⁵ M no lisossomo e 10⁻⁶ M no endossomo.",
+        "A razão é 10⁻⁵/10⁻⁶ = 10; menor pH indica maior concentração de prótons livres.",
+        "Dez vezes menor inverte a razão; cem exigiria duas unidades de diferença; igual ignora a acidificação; duas vezes trata equivocadamente uma escala logarítmica como linear."
+      ]
+    },
+    {
+      "id": "xt3_18",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Un lisosoma con diametro di 0,5 µm misura:",
+      "opts": [
+        "500 nm",
+        "5 nm",
+        "50 nm",
+        "5 000 nm",
+        "0,0005 nm"
+      ],
+      "ex": "Um micrômetro equivale a mil nanômetros.",
+      "exp": [
+        "Converta para a mesma unidade: **1 µm = 1 000 nm**.",
+        "Multiplique 0,5 por 1 000: 500 nm; não há necessidade de estimar o volume.",
+        "5 e 50 nm ficam, respectivamente, cem e dez vezes menores; 5 000 nm fica dez vezes maior; 0,0005 nm resulta de dividir por mil no sentido errado."
+      ]
+    },
+    {
+      "id": "xt3_19",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Prima della fusione, quante membrane delimitano rispettivamente un autofagosoma maturo e un lisosoma, senza contare le membrane del materiale inglobato?",
+      "opts": [
+        "Due e una",
+        "Una e due",
+        "Due e due",
+        "Una e una",
+        "Quattro e una"
+      ],
+      "ex": "O autofagossomo tem duas membranas; o lisossomo, uma.",
+      "exp": [
+        "O autofagossomo se forma pelo fechamento do fagóforo e apresenta **membranas interna e externa**, cada uma uma bicamada.",
+        "O lisossomo é delimitado por uma única membrana. A ordem solicitada é autofagossomo/lisossomo: 2/1.",
+        "1/2 inverte as estruturas; 2/2 duplica a membrana lisossomal; 1/1 apaga a dupla membrana autofágica; 4/1 conta os folhetos lipídicos como se fossem membranas independentes."
+      ]
+    },
+    {
+      "id": "xt3_20",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Un difetto del recettore LDL nella forma classica di ipercolesterolemia familiare riduce soprattutto:",
+      "opts": [
+        "La rimozione delle LDL dal sangue tramite endocitosi",
+        "La sintesi ribosomiale delle idrolasi nel lume lisosomiale",
+        "L’importazione di proteine con NLS",
+        "La fosforilazione ossidativa come effetto primario del recettore",
+        "La degradazione proteasomiale di tutte le proteine citosoliche"
+      ],
+      "ex": "LDLR defeituoso prejudica a captação de LDL; sua concentração sanguínea aumenta.",
+      "exp": [
+        "LDLR reconhece partículas LDL na superfície e permite concentrá-las em estruturas endocíticas.",
+        "Com menor captação, há menor remoção de LDL da circulação; o defeito clássico de LDLR apresenta herança autossômica dominante.",
+        "Hidrolases são traduzidas no RE rugoso, não no lúmen lisossomal; NLS usa importinas; fosforilação oxidativa é mitocondrial; proteassomo degrada proteínas citosólicas. Nenhuma é a função primária de LDLR."
+      ]
+    },
+    {
+      "id": "xt3_21",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Quale combinazione favorisce la macroautofagia?",
+      "opts": [
+        "Digiuno e riduzione dell’attività di mTORC1",
+        "Abbondanza di nutrienti e attivazione di mTORC1",
+        "Blocco completo della fusione con i lisosomi come aumento della degradazione",
+        "Sostituzione di LC3 con il recettore LDL",
+        "Eliminazione della membrana del fagoforo prima della chiusura"
+      ],
+      "ex": "mTORC1 ativo inibe a autofagia; escassez de nutrientes favorece a via.",
+      "exp": [
+        "A autofagia disponibiliza componentes reciclados quando faltam nutrientes.",
+        "No modelo estudado, o jejum reduz a sinalização inibitória de **mTORC1**, favorecendo a formação de autofagossomos.",
+        "Nutrientes/mTORC1 ativo inibem a via; bloquear fusão impede concluir a degradação, mesmo que autofagossomos se acumulem; LDLR não substitui LC3; destruir o fagóforo impede formar o compartimento."
+      ]
+    },
+    {
+      "id": "xt3_22",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Nella via di mitofagia dipendente da PINK1 e Parkin, la depolarizzazione mitocondriale favorisce:",
+      "opts": [
+        "Accumulo di PINK1 e reclutamento di Parkin, una ubiquitina ligasi",
+        "Aggiunta di M6P ai mitocondri nel cis-Golgi",
+        "Riconoscimento della membrana mitocondriale da parte della SRP",
+        "Importazione del mitocondrio attraverso Sec61",
+        "Conversione di Parkin in una pompa protonica lisosomiale"
+      ],
+      "ex": "PINK1/Parkin promovem marcação seletiva da organela danificada para autofagia.",
+      "exp": [
+        "A perda do potencial mitocondrial favorece a estabilização de **PINK1** na organela danificada.",
+        "PINK1 favorece recrutamento e ativação de Parkin, que ubiquitina proteínas e ajuda a selecionar a mitocôndria para autofagia.",
+        "M6P endereça hidrolases, não mitocôndrias; SRP reconhece sinais de cadeias nascentes; Sec61 transporta polipeptídeos, não organelas; Parkin é ubiquitina ligase e não se transforma em V-ATPase."
+      ]
+    },
+    {
+      "id": "xt3_23",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "La pompa che usa ATP per trasportare H⁺ nel lume lisosomiale è la ____.",
+      "acc": [
+        "v-atpasi",
+        "v atpasi",
+        "v-atpase",
+        "v atpase",
+        "atpasi di tipo v"
+      ],
+      "ex": "A V-ATPase acidifica o lúmen lisossomal.",
+      "exp": [
+        "O pH baixo exige transportar prótons para o lúmen contra seu gradiente eletroquímico.",
+        "A **V-ATPase** acopla hidrólise de ATP ao bombeamento de H⁺ para dentro.",
+        "A ATP sintase de tipo F usualmente usa um gradiente para produzir ATP; a Na⁺/K⁺-ATPase transporta outros íons; um canal passivo não substitui a bomba acidificante."
+      ]
+    },
+    {
+      "id": "xt3_24",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "La carenza della fosfotransferasi che avvia la marcatura M6P causa la malattia a cellule ____.",
+      "acc": [
+        "i",
+        "i-cell"
+      ],
+      "ex": "A doença da célula I provoca endereçamento defeituoso de muitas hidrolases.",
+      "exp": [
+        "Sem a marca M6P adequada, muitas hidrolases não são selecionadas pelo receptor no TGN.",
+        "Elas seguem a secreção, elevando suas concentrações no plasma, e o material não digerido se acumula nos lisossomos: **doença da célula I**.",
+        "Tay-Sachs, Gaucher e Pompe são exemplos de defeitos em enzimas específicas; falha de V-ATPase prejudica o pH. Esses mecanismos não correspondem à deficiência de marcação indicada."
+      ]
+    },
+    {
+      "id": "xt3_25",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Quale affermazione sul riconoscimento del segnale per il RE è ERRATA?",
+      "opts": [
+        "La SRP riconosce direttamente una sequenza di basi dell’mRNA",
+        "La SRP riconosce un segnale nella catena polipeptidica nascente",
+        "Il recettore della SRP si trova nella membrana del RE",
+        "Il ribosoma si associa alla faccia citosolica del RE",
+        "La catena nascente può attraversare Sec61 durante la traduzione"
+      ],
+      "ex": "A afirmação sobre bases do mRNA é errada: a SRP reconhece o sinal na proteína nascente.",
+      "exp": [
+        "O comando pede a afirmação errada: identifique a molécula que contém o sinal.",
+        "A afirmação sobre bases do mRNA é errada: a SRP reconhece o sinal na proteína nascente.",
+        "Reconhecer a cadeia nascente e encontrar o receptor na membrana do RE são descrições corretas, portanto não atendem ao comando.",
+        "O ribossomo fica no lado citosólico e a cadeia atravessa Sec61 durante a tradução; ambas as alternativas descrevem corretamente a via."
+      ]
+    },
+    {
+      "id": "xt3_26",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Una proteina transmembrana raggiunge la superficie mediante esocitosi. Un dominio che era nel lume del RE si trova ora:",
+      "opts": [
+        "Sul lato extracellulare della membrana plasmatica",
+        "Sul lato citosolico della membrana plasmatica",
+        "Nel nucleoplasma",
+        "Nella matrice mitocondriale",
+        "Libero nel citosol per inversione spontanea della proteina"
+      ],
+      "ex": "O lúmen do RE e o interior das vesículas correspondem topologicamente ao meio extracelular após a exocitose.",
+      "exp": [
+        "Acompanhe o lado da membrana em que o domínio está, sem inverter a proteína.",
+        "O lúmen do RE e o interior das vesículas correspondem topologicamente ao meio extracelular após a exocitose.",
+        "O lado citosólico continua citosólico; o domínio luminal não muda para esse lado. A inversão espontânea também não explica o tráfego normal.",
+        "Nucleoplasma e matriz mitocondrial exigem outras rotas de importação; nenhum deles é o destino topológico de um domínio luminal nessa exocitose."
+      ]
+    },
+    {
+      "id": "xt3_27",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Quale affermazione sull’importazione delle proteine negli organelli è FALSA?",
+      "opts": [
+        "Tutte le proteine devono essere completamente svolte per attraversare un poro nucleare",
+        "Un NLS può dirigere una proteina dal citosol al nucleo",
+        "I perossisomi possono importare proteine già ripiegate",
+        "Il segnale PTS1 classico SKL è C-terminale",
+        "Le proteine nucleari non devono necessariamente transitare nel RE"
+      ],
+      "ex": "O transporte nuclear admite proteínas dobradas, portanto a exigência universal de desdobramento é falsa.",
+      "exp": [
+        "Evite generalizar para o poro nuclear a exigência de desdobramento de outras rotas.",
+        "O transporte nuclear admite proteínas dobradas, portanto a exigência universal de desdobramento é falsa.",
+        "NLS direciona ao núcleo e proteínas nucleares podem entrar sem passar pelo RE: essas duas afirmações são verdadeiras.",
+        "Peroxissomos podem importar proteínas dobradas e o PTS1 clássico é C-terminal; essas alternativas também são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt3_28",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Quale associazione tra segnale e processamento è corretta?",
+      "opts": [
+        "NLS: generalmente conservato dopo l’importazione nucleare",
+        "Segnale-ancora interno del RE: sempre rimosso dalla peptidasi del segnale",
+        "PTS1 classico SKL: sempre rimosso nel Golgi",
+        "NLS: sempre rimosso da Sec61",
+        "Segnale N-terminale clivabile per il RE: necessariamente conservato nella proteina matura"
+      ],
+      "ex": "O NLS geralmente permanece na proteína, permitindo sua reutilização em importações posteriores.",
+      "exp": [
+        "Nem todos os sinais têm o mesmo destino depois do reconhecimento.",
+        "O NLS geralmente permanece na proteína, permitindo sua reutilização em importações posteriores.",
+        "O sinal-âncora interno pode permanecer como segmento transmembrana; o PTS1 não precisa passar pelo Golgi e normalmente é conservado.",
+        "Sec61 é um canal de translocação do RE, não uma peptidase de NLS; um sinal N-terminal clivável pode ser removido, portanto sua conservação não é obrigatória."
+      ]
+    },
+    {
+      "id": "xt3_29",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Il canale di traslocazione del RE che permette il passaggio della catena nascente è il complesso ____.",
+      "acc": [
+        "Sec61",
+        "sec61"
+      ],
+      "ex": "O complexo Sec61 forma o translocon utilizado nessa entrada da cadeia nascente no RE.",
+      "exp": [
+        "O enunciado pede o canal, não o reconhecedor do sinal nem uma chaperona.",
+        "O complexo Sec61 forma o translocon utilizado nessa entrada da cadeia nascente no RE.",
+        "SRP reconhece e direciona a carga; BiP auxilia o processamento no RE. Nenhuma dessas proteínas substitui o nome do canal."
+      ]
+    },
+    {
+      "id": "xt3_30",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Quale sequenza NON corrisponde al motivo usuale per la N-glicosilazione nella via secretoria?",
+      "opts": [
+        "Asn–Pro–Thr",
+        "Asn–Ala–Thr",
+        "Asn–Gly–Ser",
+        "Asn–Leu–Thr",
+        "Asn–Val–Ser"
+      ],
+      "ex": "Asn–Pro–Thr não corresponde ao motivo porque a posição central é ocupada por prolina.",
+      "exp": [
+        "O motivo usual é Asn–X–Ser/Thr, com X diferente de prolina.",
+        "Asn–Pro–Thr não corresponde ao motivo porque a posição central é ocupada por prolina.",
+        "Asn–Ala–Thr e Asn–Gly–Ser atendem ao motivo: Ala e Gly são permitidas na posição X.",
+        "Asn–Leu–Thr e Asn–Val–Ser também atendem: Leu e Val não são prolina. Atender ao motivo não garante glicosilação de todo sítio."
+      ]
+    },
+    {
+      "id": "xt3_31",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Nella N-glicosilazione del RE, la lettera N indica il legame dello zucchero:",
+      "opts": [
+        "All’azoto della catena laterale di un’asparagina",
+        "Esclusivamente all’estremità N-terminale della proteina",
+        "All’ossigeno della catena laterale di una serina",
+        "All’azoto di una base dell’mRNA",
+        "Al carbonio 6 di ogni amminoacido"
+      ],
+      "ex": "Na N-glicosilação do RE, o aceptor é o nitrogênio da cadeia lateral de Asn.",
+      "exp": [
+        "A nomenclatura indica o átomo da proteína envolvido na ligação glicosídica.",
+        "Na N-glicosilação do RE, o aceptor é o nitrogênio da cadeia lateral de Asn.",
+        "N não significa extremidade N-terminal. O oxigênio de Ser caracteriza uma ligação O-glicosídica, não essa ligação N-glicosídica.",
+        "O mRNA não é o aceptor da modificação proteica. O carbono 6 remete à posição fosforilada na manose em M6P, não a uma posição comum de todos os aminoácidos."
+      ]
+    },
+    {
+      "id": "xt3_32",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Quale affermazione sul recupero delle proteine residenti del RE è ERRATA?",
+      "opts": [
+        "KDEL è un segnale N-terminale che dirige le proteine nel nucleo",
+        "KDEL può permettere il recupero di proteine solubili dal Golgi al RE",
+        "COPI partecipa al trasporto retrogrado dal Golgi al RE",
+        "COPII partecipa all’uscita dal RE",
+        "Una proteina residente del RE può sfuggire al RE ed essere recuperata"
+      ],
+      "ex": "KDEL é C-terminal e participa da recuperação ao RE; classificá-lo como sinal N-terminal nuclear é errado.",
+      "exp": [
+        "Diferencie a localização do sinal e a direção do tráfego.",
+        "KDEL é C-terminal e participa da recuperação ao RE; classificá-lo como sinal N-terminal nuclear é errado.",
+        "A recuperação de proteínas solúveis com KDEL e a participação de COPI no retorno Golgi–RE são afirmações corretas.",
+        "COPII participa da saída do RE. O escape seguido de recuperação de residentes também ocorre, por isso essas opções não são as erradas."
+      ]
+    },
+    {
+      "id": "xt3_33",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Quale affermazione sulla glicosilazione nella via secretoria è FALSA?",
+      "opts": [
+        "Il numero 6 in mannosio-6-fosfato indica sei gruppi fosfato sulla stessa molecola di mannosio",
+        "Il precursore N-legato classico viene trasferito in blocco all’Asn",
+        "Il precursore N-legato classico comprende due residui di GlcNAc",
+        "La O-glicosilazione secretoria classica avviene soprattutto nel Golgi",
+        "I glicani N-legati possono essere modificati dopo l’ingresso nel Golgi"
+      ],
+      "ex": "Em M6P, o fosfato está no carbono 6 da manose: não há indicação de seis fosfatos.",
+      "exp": [
+        "Leia o numeral da nomenclatura como uma posição química.",
+        "Em M6P, o fosfato está no carbono 6 da manose: não há indicação de seis fosfatos.",
+        "A transferência em bloco e a presença de duas GlcNAc no precursor clássico são corretas e não atendem ao comando FALSA.",
+        "A O-glicosilação secretora clássica ocorre principalmente no Golgi; os N-glicanos também são processados ali depois de começarem no RE. Ambas são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt3_34",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Lo spazio perinucleare è continuo con il ____ del reticolo endoplasmatico.",
+      "acc": [
+        "lume",
+        "lumen"
+      ],
+      "ex": "O espaço perinuclear é contínuo com o lúmen do RE, pois a membrana nuclear externa se continua com a membrana do retículo.",
+      "exp": [
+        "Identifique o compartimento entre as membranas nuclear interna e externa.",
+        "O espaço perinuclear é contínuo com o lúmen do RE, pois a membrana nuclear externa se continua com a membrana do retículo.",
+        "Nucleoplasma fica para dentro da membrana nuclear interna e citosol fica do outro lado da membrana externa; nenhum dos dois preenche essa lacuna."
+      ]
+    },
+    {
+      "id": "xt3_35",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Nell’endocitosi classica mediata da clatrina, quale associazione è corretta?",
+      "opts": [
+        "Clatrina: rivestimento citosolico; dinamina: GTPasi coinvolta nella scissione",
+        "Clatrina: rivestimento luminale; dinamina: GTPasi coinvolta nella scissione",
+        "Clatrina: pompa di H⁺; dinamina: recettore per M6P",
+        "Clatrina: enzima digestivo; dinamina: proteina del nucleolo",
+        "Clatrina: rivestimento citosolico; dinamina: idrolasi lisosomiale"
+      ],
+      "ex": "A clatrina está na face citosólica e a dinamina é uma GTPase que participa da separação da vesícula.",
+      "exp": [
+        "Separe revestimento, separação da vesícula e digestão da carga.",
+        "A clatrina está na face citosólica e a dinamina é uma GTPase que participa da separação da vesícula.",
+        "O revestimento não é luminal. A clatrina não bombeia H⁺ e a dinamina não é receptor de M6P.",
+        "A clatrina não é enzima digestiva e a dinamina não é proteína nucleolar nem hidrolase lisossomal. A opção que associa clatrina citosólica a dinamina como hidrolase lisossomal mantém o lado correto do revestimento, mas erra a função da dinamina."
+      ]
+    },
+    {
+      "id": "xt3_36",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Quale evento distingue il destino tipico del recettore LDL da quello della particella LDL internalizzata?",
+      "opts": [
+        "Il recettore ritorna alla superficie, mentre la particella viene indirizzata alla degradazione lisosomiale",
+        "Il recettore viene sempre degradato e la particella ritorna intatta nel sangue",
+        "Entrambi vengono obbligatoriamente importati nel nucleo",
+        "La particella diventa il recettore dopo il distacco",
+        "Il recettore viene trasferito alla matrice mitocondriale e la particella al RE"
+      ],
+      "ex": "Na via clássica, o receptor costuma ser reciclado à superfície e a LDL segue para degradação lisossomal.",
+      "exp": [
+        "A acidificação endossomal permite separar receptor e carga, que podem seguir destinos diferentes.",
+        "Na via clássica, o receptor costuma ser reciclado à superfície e a LDL segue para degradação lisossomal.",
+        "A degradação obrigatória do receptor com devolução da LDL intacta inverte os destinos típicos. A importação nuclear de ambos não integra essa rota.",
+        "A partícula não se transforma no receptor: são entidades diferentes. O envio à matriz mitocondrial e ao RE também não descreve essa triagem endossomal."
+      ]
+    },
+    {
+      "id": "xt3_37",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Tutte le seguenti affermazioni su lisosomi e autofagia sono corrette, TRANNE:",
+      "opts": [
+        "Le due metà lipidiche di una bicapa lisosomiale contano come due membrane delimitanti",
+        "Un lisosoma è delimitato da una sola membrana",
+        "Un autofagosoma maturo, prima della fusione, ha due membrane delimitanti",
+        "La macroautofagia può sequestrare materiale citoplasmatico",
+        "La membrana interna dell’autofagosoma viene degradata dopo la fusione con il lisosoma"
+      ],
+      "ex": "Uma bicamada lipídica constitui uma membrana; suas duas metades não são duas membranas delimitantes.",
+      "exp": [
+        "O comando pede a exceção: diferencie uma bicamada de duas membranas completas.",
+        "Uma bicamada lipídica constitui uma membrana; suas duas metades não são duas membranas delimitantes.",
+        "O lisossomo tem uma membrana e o autofagossomo maduro antes da fusão tem duas; essas alternativas são corretas.",
+        "A captura de citoplasma e a digestão posterior da membrana interna também descrevem corretamente a macroautofagia."
+      ]
+    },
+    {
+      "id": "xt3_38",
+      "tipo": "mc",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Quale affermazione sulla via di mitofagia PINK1/Parkin è ERRATA?",
+      "opts": [
+        "Parkin acidifica il lisosoma pompando H⁺ mediante ATP",
+        "Parkin è una ubiquitina ligasi",
+        "PINK1 è una chinasi",
+        "La depolarizzazione mitocondriale può favorire l’accumulo di PINK1",
+        "Esistono vie di mitofagia indipendenti da PINK1/Parkin"
+      ],
+      "ex": "Parkin é uma ubiquitina ligase, não uma bomba de prótons: a acidificação lisossomal depende da V-ATPase.",
+      "exp": [
+        "Compare a seleção da organela com a acidificação do compartimento digestivo.",
+        "Parkin é uma ubiquitina ligase, não uma bomba de prótons: a acidificação lisossomal depende da V-ATPase.",
+        "A identidade de Parkin como ligase e de PINK1 como quinase está correta, portanto nenhuma delas é a afirmação errada.",
+        "A despolarização pode favorecer o acúmulo de PINK1 e existem outras vias de mitofagia; ambas as alternativas são verdadeiras."
+      ]
+    },
+    {
+      "id": "xt3_39",
+      "tipo": "cp",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Se il pH passa da 6 a 4, la concentrazione di H⁺ libero aumenta di un fattore ____.",
+      "acc": [
+        "100",
+        "cento",
+        "10^2",
+        "10²"
+      ],
+      "ex": "A concentração de H⁺ aumenta por um fator 10² = 100.",
+      "exp": [
+        "A diferença de pH é 6 − 4 = 2 unidades; a escala é logarítmica.",
+        "A concentração de H⁺ aumenta por um fator 10² = 100.",
+        "O fator 2 trataria o pH como linear e o fator 10 corresponderia a apenas uma unidade. Esse cálculo se refere à concentração livre, não ao total de prótons bombeados."
+      ]
+    }
+  ],
+  "resolvidas": [
+    {
+      "id": "rt3_01",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Una proteina nucleare mantiene un NLS funzionante ma perde il segnale idrofobico per il RE. Quale percorso rimane direttamente compatibile con il suo NLS?",
+      "o": [
+        "SRP → Sec61 → lume del RE",
+        "Importine → poro nucleare → nucleoplasma",
+        "COPII → Golgi → lisosoma",
+        "Pex5 → perossisoma",
+        "TOM/TIM → matrice mitocondriale"
+      ],
+      "c": 1,
+      "passos": [
+        "Separe os sinais: o NLS continua funcional, enquanto o sinal hidrofóbico para o RE foi perdido.",
+        "O NLS é reconhecido por importinas e permite passagem pelo complexo do poro nuclear.",
+        "A importação nuclear não depende de trânsito pelo RE ou Golgi; a rota diretamente sustentada pelos dados termina no nucleoplasma.",
+        "Não atribua destino peroxissomal ou mitocondrial sem os respectivos sinais. O enunciado testa o mecanismo do NLS preservado."
+      ],
+      "por": [
+        "A rota por SRP exige um sinal apropriado para entrada no RE, perdido no enunciado.",
+        "",
+        "COPII atua após entrada no RE; além disso, lisossomos exigem endereçamento próprio.",
+        "Pex5 reconhece PTS1, não NLS.",
+        "TOM/TIM participam da importação mitocondrial, não da leitura de NLS."
+      ],
+      "pega": "Leia qual sinal permaneceu funcional antes de escolher a organela."
+    },
+    {
+      "id": "rt3_02",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Una variante di CFTR perde 3 nucleotidi e la fenilalanina 508, viene trattenuta nel RE e poi ubiquitinata. Quale destino è più probabile?",
+      "o": [
+        "Digestione nel lume del Golgi",
+        "Secrezione obbligatoria come proteina solubile",
+        "Retrotraslocazione e degradazione proteasomiale tramite ERAD",
+        "Importazione nel nucleo tramite NLS acquisito automaticamente",
+        "Degradazione dell’intero cromosoma 7"
+      ],
+      "c": 2,
+      "passos": [
+        "Três nucleotídeos correspondem à perda de um resíduo sem deslocamento do quadro; 508 indica a posição da fenilalanina.",
+        "A retenção no RE aponta para falha de dobramento detectada pelo controle de qualidade.",
+        "A proteína defeituosa é retrotranslocada, ubiquitinada e degradada no proteassomo: a via ERAD.",
+        "A consequência é menos CFTR funcional na superfície; não a destruição do gene ou do cromossomo."
+      ],
+      "por": [
+        "O Golgi processa e faz triagem, mas não é o destino digestivo descrito.",
+        "CFTR é proteína de membrana; retenção por dobramento defeituoso impede essa saída obrigatória.",
+        "",
+        "A deleção não cria automaticamente um NLS, e NLS não é o mecanismo de ERAD.",
+        "O cromossomo contém o gene; ERAD degrada a proteína defeituosa, não o DNA cromossômico."
+      ],
+      "pega": "Não confunda a localização do gene, a posição do resíduo e o local de degradação da proteína."
+    },
+    {
+      "id": "rt3_03",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Quattro siti Asn di una proteina ricevono ciascuno un precursore Glc₃Man₉GlcNAc₂ completo. Prima di qualsiasi rimozione, quanti monosaccaridi sono stati trasferiti alla proteina?",
+      "o": [
+        "14 monosaccaridi in totale",
+        "28 monosaccaridi in totale",
+        "36 monosaccaridi in totale",
+        "56 monosaccaridi in totale",
+        "4 monosaccaridi in totale"
+      ],
+      "c": 3,
+      "passos": [
+        "Conte os resíduos em um precursor: 3 glicoses + 9 manoses + 2 GlcNAc = 14.",
+        "O enunciado fixa quatro sítios ocupados, cada um com um bloco completo.",
+        "Multiplique 4 × 14 = **56 monossacarídeos** transferidos.",
+        "Não desconte o processamento posterior: a pergunta se situa antes de qualquer remoção."
+      ],
+      "por": [
+        "Conta somente um dos quatro blocos.",
+        "Conta apenas dois blocos.",
+        "Conta só as nove manoses em cada um dos quatro blocos.",
+        "",
+        "Conta os quatro eventos de transferência como se cada um transferisse apenas um açúcar."
+      ],
+      "pega": "Quatro transferências em bloco não significam quatro açúcares; cada bloco tem 14 resíduos."
+    },
+    {
+      "id": "rt3_04",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Dopo un aumento del Ca²⁺ citosolico in una fibra muscolare, quale evento favorisce direttamente il rilassamento?",
+      "o": [
+        "SERCA riporta Ca²⁺ nel reticolo sarcoplasmatico usando ATP",
+        "La V-ATPasi trasferisce Ca²⁺ dal citosol al nucleo",
+        "Il recettore M6P apre il poro nucleare",
+        "I ribosomi del lume del RE consumano il Ca²⁺",
+        "Il Golgi converte Ca²⁺ in ATP"
+      ],
+      "c": 0,
+      "passos": [
+        "Para relaxar, a fibra deve reduzir a concentração livre de Ca²⁺ no citosol.",
+        "O retículo sarcoplasmático é um reservatório especializado derivado do RE.",
+        "SERCA acopla hidrólise de ATP ao retorno de Ca²⁺ para o lúmen, tipicamente dois Ca²⁺ por ATP.",
+        "O mecanismo é transporte ativo, não consumo químico do cálcio nem produção de ATP a partir do íon."
+      ],
+      "por": [
+        "",
+        "V-ATPase bombeia H⁺; não é a bomba de cálcio do retículo.",
+        "M6P endereça hidrolases; não controla a abertura do poro nuclear.",
+        "Os ribossomos associados ao RE estão no lado citosólico e não consomem cálcio dessa maneira.",
+        "Ca²⁺ é um íon transportado; não é convertido em ATP pelo Golgi."
+      ],
+      "pega": "SERCA gasta ATP para recolher Ca²⁺; liberar cálcio do reservatório tem o efeito oposto."
+    },
+    {
+      "id": "rt3_05",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Un compartimento passa da pH 6 a pH 4,5 durante l’acidificazione. La concentrazione di H⁺ libero aumenta approssimativamente di:",
+      "o": [
+        "1,5 volte",
+        "3 volte",
+        "10 volte",
+        "100 volte",
+        "32 volte"
+      ],
+      "c": 4,
+      "passos": [
+        "Calcule a redução de pH: 6 − 4,5 = 1,5 unidade.",
+        "A escala é logarítmica; a razão final/inicial de H⁺ livre é 10 elevado à redução do pH.",
+        "10¹·⁵ = 10 × √10 ≈ 31,6, isto é, cerca de **32 vezes**.",
+        "O resultado descreve a concentração livre por volume, não o total de prótons que a bomba precisou transportar em um meio tamponado."
+      ],
+      "por": [
+        "Usa a diferença de pH como se fosse um fator linear.",
+        "Não aplica a potência de dez à diferença de pH.",
+        "Corresponde a uma redução de apenas uma unidade.",
+        "Corresponde a uma redução de duas unidades.",
+        ""
+      ],
+      "pega": "O pH não é linear: primeiro subtraia os valores, depois calcule a potência de dez."
+    },
+    {
+      "id": "rt3_06",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Dopo inibizione della V-ATPasi, le idrolasi raggiungono normalmente il lisosoma, ma il pH luminale aumenta. Quale effetto è più diretto?",
+      "o": [
+        "Aumento automatico della marcatura M6P nel nucleo",
+        "Riduzione dell’attività digestiva delle idrolasi acide",
+        "Secrezione obbligatoria di tutte le idrolasi già presenti nel lisosoma",
+        "Conversione del lisosoma in proteasoma",
+        "Attivazione di SERCA come pompa di H⁺ lisosomiale"
+      ],
+      "c": 1,
+      "passos": [
+        "O enunciado informa que a entrega das enzimas foi normal: o defeito principal não é a marcação M6P.",
+        "A V-ATPase mantém o meio ácido por bombeamento de H⁺ dependente de ATP.",
+        "Com aumento do pH, muitas hidrolases se afastam de sua faixa ótima e a digestão diminui.",
+        "Diferencie esse quadro da doença da célula I, em que muitas hidrolases são secretadas porque não receberam a marca adequada."
+      ],
+      "por": [
+        "M6P é uma modificação da via do Golgi, sem marcação nuclear automática.",
+        "",
+        "O bloqueio de acidificação não obriga a secreção de toda enzima já entregue.",
+        "Lisossomo e proteassomo são estruturas distintas e não se convertem entre si.",
+        "SERCA transporta Ca²⁺ ao retículo, não H⁺ ao lisossomo."
+      ],
+      "pega": "Enzima entregue com pH inadequado indica falha funcional do compartimento, diferente de falha de endereço."
+    },
+    {
+      "id": "rt3_07",
+      "u": 5,
+      "ct": "c5_8",
+      "q": "Una proteina destinata alla membrana plasmatica possiede un dominio N-terminale nel lume del RE. Dopo il trasporto vescicolare e l’esocitosi, dove si trova quel dominio?",
+      "o": [
+        "Nel citosol, perché ogni esocitosi inverte la proteina",
+        "Nel nucleoplasma, perché il dominio è N-terminale",
+        "All’esterno della cellula, per conservazione della topologia",
+        "Nella matrice mitocondriale, senza ulteriori segnali",
+        "Ancora nel lume del RE, pur essendo la proteina sulla superficie"
+      ],
+      "c": 2,
+      "passos": [
+        "O dado decisivo é o domínio estar no lúmen do RE; ser N-terminal não fornece, por si só, um endereço nuclear.",
+        "A face luminal permanece voltada para o interior das vesículas durante o tráfego.",
+        "Quando a vesícula se funde à membrana plasmática, seu interior se comunica com o exterior celular.",
+        "O domínio passa a ficar extracelular; não ocorre inversão espontânea da orientação da proteína."
+      ],
+      "por": [
+        "A exocitose conserva a orientação das faces da membrana, sem inverter a proteína.",
+        "N-terminal indica uma extremidade da cadeia, não um NLS funcional.",
+        "",
+        "A matriz mitocondrial não faz parte desse percurso vesicular.",
+        "O domínio da proteína entregue à superfície não permanece fisicamente no RE."
+      ],
+      "pega": "Não confunda N-terminal com destino nuclear: acompanhe o lado luminal."
+    },
+    {
+      "id": "rt3_08",
+      "u": 5,
+      "ct": "c5_7",
+      "q": "Una proteina entra nel RE e presenta due tratti accessibili: Asn–Pro–Thr e Asn–Ala–Ser. Quale conclusione è corretta sulla N-glicosilazione?",
+      "o": [
+        "Entrambi i tratti sono sicuramente glicosilati perché iniziano con Asn",
+        "Solo Asn–Ala–Ser corrisponde al motivo usuale, ma l’occupazione non è garantita",
+        "Solo Asn–Pro–Thr corrisponde al motivo usuale",
+        "Nessun tratto corrisponde perché serve una lisina nella posizione centrale",
+        "Il tratto Asn–Ala–Ser viene N-glicosilato sull’ossigeno della serina"
+      ],
+      "c": 1,
+      "passos": [
+        "O motivo usual é Asn–X–Ser/Thr, sendo X diferente de prolina.",
+        "Asn–Pro–Thr falha pela prolina na posição X; Asn–Ala–Ser satisfaz a sequência de reconhecimento.",
+        "A presença do motivo não garante que o sítio seja ocupado, mesmo que o trecho esteja acessível.",
+        "A ligação N-glicosídica ocorre no nitrogênio da cadeia lateral de Asn; a serina é parte do motivo, não o aceptor dessa ligação."
+      ],
+      "por": [
+        "Começar com Asn não basta, e mesmo um motivo compatível não garante ocupação.",
+        "",
+        "Prolina na posição central exclui Asn–Pro–Thr do motivo usual.",
+        "Não existe exigência geral de lisina na posição X; alanina é permitida.",
+        "A ligação no oxigênio de Ser seria O-glicosídica, não N-glicosídica."
+      ],
+      "pega": "X não é qualquer resíduo sem exceção: prolina é excluída do motivo usual."
+    },
+    {
+      "id": "rt3_09",
+      "u": 5,
+      "ct": "c5_10",
+      "q": "Un recettore M6P rilascia una idrolasi in un endosoma acido. Quale destino del recettore è compatibile con il suo riutilizzo nella via biosintetica?",
+      "o": [
+        "Degradazione obbligatoria insieme all’idrolasi a ogni ciclo",
+        "Trasporto nel nucleo per sintetizzare M6P sul DNA",
+        "Conversione in una pompa V-ATPasi",
+        "Ritorno al Golgi per selezionare altre idrolasi",
+        "Importazione nella matrice mitocondriale tramite PINK1"
+      ],
+      "c": 3,
+      "passos": [
+        "O receptor reconhece a marca M6P durante a triagem no TGN, mas não é a hidrolase digestiva.",
+        "O ambiente endossomal ácido favorece a dissociação entre receptor e enzima.",
+        "O receptor pode retornar ao Golgi e participar de outro ciclo de seleção de hidrolases.",
+        "Não é necessário destruir o receptor em cada entrega; reciclagem e degradação da carga são destinos distintos."
+      ],
+      "por": [
+        "A destruição em todo ciclo impediria a reutilização descrita e não é obrigatória.",
+        "M6P é uma marca em glicanos de proteínas da via secretora, não uma modificação nuclear do DNA nessa rota.",
+        "Receptor de carga e bomba de prótons são proteínas diferentes e não se convertem uma na outra.",
+        "",
+        "PINK1 atua na sinalização da mitofagia, não importa receptores de M6P para a matriz."
+      ],
+      "pega": "O receptor entrega a enzima, mas pode ser recuperado para nova triagem."
+    }
+  ],
+  "traducao": {
+    "Il segnale perossisomiale classico SKL contiene quanti amminoacidi e in quale posizione si trova?": "Quantos aminoácidos tem o sinal peroxissomal clássico SKL e em qual posição se encontra?",
+    "3, all’estremità C-terminale": "3, na extremidade C-terminal",
+    "3, all’estremità N-terminale": "3, na extremidade N-terminal",
+    "9, all’estremità C-terminale": "9, na extremidade C-terminal",
+    "1, all’estremità N-terminale": "1, na extremidade N-terminal",
+    "508, in posizione interna": "508, em posição interna",
+    "Una delezione di 3 nucleotidi nella regione codificante di CFTR elimina una fenilalanina senza alterare la cornice di lettura. Quanti amminoacidi vengono persi direttamente?": "Uma deleção de 3 nucleotídeos na região codificante de CFTR elimina uma fenilalanina sem alterar o quadro de leitura. Quantos aminoácidos são perdidos diretamente?",
+    "1 amminoacido": "1 aminoácido",
+    "3 amminoacidi": "3 aminoácidos",
+    "7 amminoacidi": "7 aminoácidos",
+    "508 amminoacidi": "508 aminoácidos",
+    "Nessuno, perché non c’è frameshift": "Nenhum, porque não há mudança do quadro de leitura",
+    "Considerando IRE1, PERK e ATF6, quanti sensori principali della UPR sono elencati?": "Considerando IRE1, PERK e ATF6, quantos sensores principais da UPR estão listados?",
+    "Tre sensori": "Três sensores",
+    "Due sensori": "Dois sensores",
+    "Un solo sensore": "Um único sensor",
+    "Quattro sensori": "Quatro sensores",
+    "Sei sensori": "Seis sensores",
+    "Quale sequenza descrive correttamente l’ingresso cotraduzionale di una proteina solubile nel RE?": "Qual sequência descreve corretamente a entrada cotraducional de uma proteína solúvel no RE?",
+    "SRP → recettore della SRP → Sec61": "SRP → receptor de SRP → Sec61",
+    "Importina → poro nucleare → Sec61": "Importina → poro nuclear → Sec61",
+    "Clatrina → recettore LDL → Sec61": "Clatrina → receptor de LDL → Sec61",
+    "Sec61 → SRP → ribosoma nucleare": "Sec61 → SRP → ribossomo nuclear",
+    "Pex5 → TOM → recettore della SRP": "Pex5 → TOM → receptor de SRP",
+    "Quale affermazione sul controllo di qualità nel RE è FALSA?": "Qual afirmação sobre o controle de qualidade no RE é FALSA?",
+    "L’ERAD degrada le proteine nel lume del lisosoma": "O ERAD degrada proteínas no lúmen do lisossomo",
+    "La calnessina è associata alla membrana del RE": "A calnexina está associada à membrana do RE",
+    "La calreticolina è una chaperon del lume del RE": "A calreticulina é uma chaperona do lúmen do RE",
+    "BiP appartiene alla famiglia Hsp70": "BiP pertence à família Hsp70",
+    "Uno stress persistente del RE può favorire l’apoptosi": "Um estresse persistente do RE pode favorecer a apoptose",
+    "Una proteina con NLS funzionale, priva di segnale per il RE, viene importata principalmente tramite:": "Uma proteína com NLS funcional, sem sinal para o RE, é importada principalmente por:",
+    "Importine e pori nucleari": "Importinas e poros nucleares",
+    "SRP e Sec61": "SRP e Sec61",
+    "Recettori del mannosio-6-fosfato": "Receptores de manose-6-fosfato",
+    "Pex5 e segnale SKL": "Pex5 e sinal SKL",
+    "Clatrina e recettori LDL": "Clatrina e receptores de LDL",
+    "La chaperon lectinica associata alla membrana del RE, distinta dalla calreticolina solubile, è la ____.": "A chaperona lectínica associada à membrana do RE, distinta da calreticulina solúvel, é a ____.",
+    "Le proteine retrotraslocate dal RE e ubiquitinate durante l’ERAD vengono degradate dal ____.": "As proteínas retrotranslocadas do RE e ubiquitinadas durante o ERAD são degradadas pelo ____.",
+    "Il precursore N-legato Glc₃Man₉GlcNAc₂ contiene complessivamente:": "O precursor N-ligado Glc₃Man₉GlcNAc₂ contém ao todo:",
+    "14 monosaccaridi": "14 monossacarídeos",
+    "3 monosaccaridi": "3 monossacarídeos",
+    "9 monosaccaridi": "9 monossacarídeos",
+    "11 monosaccaridi": "11 monossacarídeos",
+    "28 monosaccaridi": "28 monossacarídeos",
+    "Se SERCA trasporta 2 Ca²⁺ per ATP, quanti ATP richiedono 10 cicli completi e quanti Ca²⁺ vengono trasportati?": "Se SERCA transporta 2 Ca²⁺ por ATP, quantos ATP exigem 10 ciclos completos e quantos Ca²⁺ são transportados?",
+    "10 ATP e 20 Ca²⁺": "10 ATP e 20 Ca²⁺",
+    "20 ATP e 10 Ca²⁺": "20 ATP e 10 Ca²⁺",
+    "10 ATP e 10 Ca²⁺": "10 ATP e 10 Ca²⁺",
+    "5 ATP e 20 Ca²⁺": "5 ATP e 20 Ca²⁺",
+    "20 ATP e 20 Ca²⁺": "20 ATP e 20 Ca²⁺",
+    "Con Ca²⁺ libero nel RE a 0,5 mM e nel citosol a 100 nM, il rapporto RE/citosol è:": "Com Ca²⁺ livre no RE a 0,5 mM e no citosol a 100 nM, a razão RE/citosol é:",
+    "5 000 volte": "5 000 vezes",
+    "5 volte": "5 vezes",
+    "50 volte": "50 vezes",
+    "500 volte": "500 vezes",
+    "0,0002 volte": "0,0002 vezes",
+    "Quale associazione descrive correttamente la glicosilazione nella via secretoria?": "Qual associação descreve corretamente a glicosilação na via secretora?",
+    "N-legata: inizio nel RE su Asn; O-legata classica: nel Golgi su Ser/Thr": "N-ligada: início no RE em Asn; O-ligada clássica: no Golgi em Ser/Thr",
+    "N-legata: nel citosol su Ser; O-legata: nel nucleo su Asn": "N-ligada: no citosol em Ser; O-ligada: no núcleo em Asn",
+    "N-legata: solo nel Golgi su Thr; O-legata: nel RE su Asn": "N-ligada: somente no Golgi em Thr; O-ligada: no RE em Asn",
+    "N-legata: nel RE su Pro; O-legata: nel Golgi su DNA": "N-ligada: no RE em Pro; O-ligada: no Golgi em DNA",
+    "N-legata e O-legata: entrambe esclusivamente nei lisosomi": "N-ligada e O-ligada: ambas exclusivamente nos lisossomos",
+    "Una idrolasi lisosomiale solubile riceve il segnale M6P. Dove inizia la marcatura e dove il recettore seleziona la proteina per l’invio agli endosomi?": "Uma hidrolase lisossomal solúvel recebe o sinal M6P. Onde começa a marcação e onde o receptor seleciona a proteína para envio aos endossomos?",
+    "Nel cis-Golgi; nel TGN": "No cis-Golgi; no TGN",
+    "Nel TGN; nel citosol": "No TGN; no citosol",
+    "Nel nucleo; nel cis-Golgi": "No núcleo; no cis-Golgi",
+    "Nel lisosoma; nel RE liscio": "No lisossomo; no RE liso",
+    "Nel RE; nel poro nucleare": "No RE; no poro nuclear",
+    "Quale affermazione sul RE liscio è FALSA?": "Qual afirmação sobre o RE liso é FALSA?",
+    "La sua funzione caratteristica è tradurre l’mRNA con ribosomi nel lume": "Sua função característica é traduzir o mRNA com ribossomos no lúmen",
+    "Contribuisce alla sintesi dei fosfolipidi": "Contribui para a síntese de fosfolipídios",
+    "Partecipa alla sintesi degli steroidi": "Participa da síntese de esteroides",
+    "Negli epatociti partecipa alla detossificazione tramite citocromi P450": "Nos hepatócitos participa da detoxificação por citocromos P450",
+    "Può accumulare Ca²⁺ grazie a pompe come SERCA": "Pode acumular Ca²⁺ graças a bombas como SERCA",
+    "Il lipide che sostiene il precursore oligosaccaridico prima del trasferimento all’Asn nel RE è il ____.": "O lipídio que sustenta o precursor oligossacarídico antes da transferência para Asn no RE é o ____.",
+    "La faccia del Golgi che riceve il materiale proveniente dal RE attraverso l’ERGIC è la faccia ____.": "A face do Golgi que recebe o material vindo do RE por meio do ERGIC é a face ____.",
+    "Un lisosoma a pH 5, rispetto a un endosoma a pH 6, ha una concentrazione di H⁺ libero:": "Um lisossomo a pH 5, comparado a um endossomo a pH 6, tem concentração de H⁺ livre:",
+    "10 volte maggiore": "10 vezes maior",
+    "10 volte minore": "10 vezes menor",
+    "100 volte maggiore": "100 vezes maior",
+    "Uguale": "Igual",
+    "2 volte maggiore": "2 vezes maior",
+    "Un lisosoma con diametro di 0,5 µm misura:": "Um lisossomo com diâmetro de 0,5 µm mede:",
+    "500 nm": "500 nm",
+    "5 nm": "5 nm",
+    "50 nm": "50 nm",
+    "5 000 nm": "5 000 nm",
+    "0,0005 nm": "0,0005 nm",
+    "Prima della fusione, quante membrane delimitano rispettivamente un autofagosoma maturo e un lisosoma, senza contare le membrane del materiale inglobato?": "Antes da fusão, quantas membranas delimitam, respectivamente, um autofagossomo maduro e um lisossomo, sem contar as membranas do material englobado?",
+    "Due e una": "Duas e uma",
+    "Una e due": "Uma e duas",
+    "Due e due": "Duas e duas",
+    "Una e una": "Uma e uma",
+    "Quattro e una": "Quatro e uma",
+    "Un difetto del recettore LDL nella forma classica di ipercolesterolemia familiare riduce soprattutto:": "Um defeito do receptor de LDL na forma clássica de hipercolesterolemia familiar reduz principalmente:",
+    "La rimozione delle LDL dal sangue tramite endocitosi": "A remoção das LDL do sangue por endocitose",
+    "La sintesi ribosomiale delle idrolasi nel lume lisosomiale": "A síntese ribossomal das hidrolases no lúmen lisossomal",
+    "L’importazione di proteine con NLS": "A importação de proteínas com NLS",
+    "La fosforilazione ossidativa come effetto primario del recettore": "A fosforilação oxidativa como efeito primário do receptor",
+    "La degradazione proteasomiale di tutte le proteine citosoliche": "A degradação proteassomal de todas as proteínas citosólicas",
+    "Quale combinazione favorisce la macroautofagia?": "Qual combinação favorece a macroautofagia?",
+    "Digiuno e riduzione dell’attività di mTORC1": "Jejum e redução da atividade de mTORC1",
+    "Abbondanza di nutrienti e attivazione di mTORC1": "Abundância de nutrientes e ativação de mTORC1",
+    "Blocco completo della fusione con i lisosomi come aumento della degradazione": "Bloqueio completo da fusão com os lisossomos como aumento da degradação",
+    "Sostituzione di LC3 con il recettore LDL": "Substituição de LC3 pelo receptor de LDL",
+    "Eliminazione della membrana del fagoforo prima della chiusura": "Eliminação da membrana do fagóforo antes do fechamento",
+    "Nella via di mitofagia dipendente da PINK1 e Parkin, la depolarizzazione mitocondriale favorisce:": "Na via de mitofagia dependente de PINK1 e Parkin, a despolarização mitocondrial favorece:",
+    "Accumulo di PINK1 e reclutamento di Parkin, una ubiquitina ligasi": "Acúmulo de PINK1 e recrutamento de Parkin, uma ubiquitina ligase",
+    "Aggiunta di M6P ai mitocondri nel cis-Golgi": "Adição de M6P às mitocôndrias no cis-Golgi",
+    "Riconoscimento della membrana mitocondriale da parte della SRP": "Reconhecimento da membrana mitocondrial pela SRP",
+    "Importazione del mitocondrio attraverso Sec61": "Importação da mitocôndria por Sec61",
+    "Conversione di Parkin in una pompa protonica lisosomiale": "Conversão de Parkin em uma bomba de prótons lisossomal",
+    "La pompa che usa ATP per trasportare H⁺ nel lume lisosomiale è la ____.": "A bomba que usa ATP para transportar H⁺ ao lúmen lisossomal é a ____.",
+    "La carenza della fosfotransferasi che avvia la marcatura M6P causa la malattia a cellule ____.": "A deficiência da fosfotransferase que inicia a marcação M6P causa a doença da célula ____.",
+    "Una proteina nucleare mantiene un NLS funzionante ma perde il segnale idrofobico per il RE. Quale percorso rimane direttamente compatibile con il suo NLS?": "Uma proteína nuclear mantém um NLS funcional, mas perde o sinal hidrofóbico para o RE. Qual percurso continua diretamente compatível com seu NLS?",
+    "SRP → Sec61 → lume del RE": "SRP → Sec61 → lúmen do RE",
+    "Importine → poro nucleare → nucleoplasma": "Importinas → poro nuclear → nucleoplasma",
+    "COPII → Golgi → lisosoma": "COPII → Golgi → lisossomo",
+    "Pex5 → perossisoma": "Pex5 → peroxissomo",
+    "TOM/TIM → matrice mitocondriale": "TOM/TIM → matriz mitocondrial",
+    "Una variante di CFTR perde 3 nucleotidi e la fenilalanina 508, viene trattenuta nel RE e poi ubiquitinata. Quale destino è più probabile?": "Uma variante de CFTR perde 3 nucleotídeos e a fenilalanina 508, fica retida no RE e depois é ubiquitinada. Qual destino é mais provável?",
+    "Digestione nel lume del Golgi": "Digestão no lúmen do Golgi",
+    "Secrezione obbligatoria come proteina solubile": "Secreção obrigatória como proteína solúvel",
+    "Retrotraslocazione e degradazione proteasomiale tramite ERAD": "Retrotranslocação e degradação proteassomal por ERAD",
+    "Importazione nel nucleo tramite NLS acquisito automaticamente": "Importação no núcleo por NLS adquirido automaticamente",
+    "Degradazione dell’intero cromosoma 7": "Degradação de todo o cromossomo 7",
+    "Quattro siti Asn di una proteina ricevono ciascuno un precursore Glc₃Man₉GlcNAc₂ completo. Prima di qualsiasi rimozione, quanti monosaccaridi sono stati trasferiti alla proteina?": "Quatro sítios Asn de uma proteína recebem, cada um, um precursor Glc₃Man₉GlcNAc₂ completo. Antes de qualquer remoção, quantos monossacarídeos foram transferidos à proteína?",
+    "14 monosaccaridi in totale": "14 monossacarídeos no total",
+    "28 monosaccaridi in totale": "28 monossacarídeos no total",
+    "36 monosaccaridi in totale": "36 monossacarídeos no total",
+    "56 monosaccaridi in totale": "56 monossacarídeos no total",
+    "4 monosaccaridi in totale": "4 monossacarídeos no total",
+    "Dopo un aumento del Ca²⁺ citosolico in una fibra muscolare, quale evento favorisce direttamente il rilassamento?": "Após um aumento do Ca²⁺ citosólico em uma fibra muscular, qual evento favorece diretamente o relaxamento?",
+    "SERCA riporta Ca²⁺ nel reticolo sarcoplasmatico usando ATP": "SERCA leva Ca²⁺ de volta ao retículo sarcoplasmático usando ATP",
+    "La V-ATPasi trasferisce Ca²⁺ dal citosol al nucleo": "A V-ATPase transfere Ca²⁺ do citosol para o núcleo",
+    "Il recettore M6P apre il poro nucleare": "O receptor de M6P abre o poro nuclear",
+    "I ribosomi del lume del RE consumano il Ca²⁺": "Os ribossomos do lúmen do RE consomem o Ca²⁺",
+    "Il Golgi converte Ca²⁺ in ATP": "O Golgi converte Ca²⁺ em ATP",
+    "Un compartimento passa da pH 6 a pH 4,5 durante l’acidificazione. La concentrazione di H⁺ libero aumenta approssimativamente di:": "Um compartimento passa de pH 6 a pH 4,5 durante a acidificação. A concentração de H⁺ livre aumenta aproximadamente em:",
+    "1,5 volte": "1,5 vezes",
+    "3 volte": "3 vezes",
+    "10 volte": "10 vezes",
+    "100 volte": "100 vezes",
+    "32 volte": "32 vezes",
+    "Dopo inibizione della V-ATPasi, le idrolasi raggiungono normalmente il lisosoma, ma il pH luminale aumenta. Quale effetto è più diretto?": "Após inibição da V-ATPase, as hidrolases chegam normalmente ao lisossomo, mas o pH luminal aumenta. Qual efeito é mais direto?",
+    "Aumento automatico della marcatura M6P nel nucleo": "Aumento automático da marcação M6P no núcleo",
+    "Riduzione dell’attività digestiva delle idrolasi acide": "Redução da atividade digestiva das hidrolases ácidas",
+    "Secrezione obbligatoria di tutte le idrolasi già presenti nel lisosoma": "Secreção obrigatória de todas as hidrolases já presentes no lisossomo",
+    "Conversione del lisosoma in proteasoma": "Conversão do lisossomo em proteassomo",
+    "Attivazione di SERCA come pompa di H⁺ lisosomiale": "Ativação de SERCA como bomba de H⁺ lisossomal",
+    "Quale affermazione sul riconoscimento del segnale per il RE è ERRATA?": "Qual afirmação sobre o reconhecimento do sinal para o RE é ERRADA?",
+    "La SRP riconosce direttamente una sequenza di basi dell’mRNA": "A SRP reconhece diretamente uma sequência de bases do mRNA",
+    "La SRP riconosce un segnale nella catena polipeptidica nascente": "A SRP reconhece um sinal na cadeia polipeptídica nascente",
+    "Il recettore della SRP si trova nella membrana del RE": "O receptor de SRP está na membrana do RE",
+    "Il ribosoma si associa alla faccia citosolica del RE": "O ribossomo se associa à face citosólica do RE",
+    "La catena nascente può attraversare Sec61 durante la traduzione": "A cadeia nascente pode atravessar Sec61 durante a tradução",
+    "Una proteina transmembrana raggiunge la superficie mediante esocitosi. Un dominio che era nel lume del RE si trova ora:": "Uma proteína transmembrana chega à superfície por exocitose. Um domínio que estava no lúmen do RE agora está:",
+    "Sul lato extracellulare della membrana plasmatica": "No lado extracelular da membrana plasmática",
+    "Sul lato citosolico della membrana plasmatica": "No lado citosólico da membrana plasmática",
+    "Nel nucleoplasma": "No nucleoplasma",
+    "Nella matrice mitocondriale": "Na matriz mitocondrial",
+    "Libero nel citosol per inversione spontanea della proteina": "Livre no citosol por inversão espontânea da proteína",
+    "Quale affermazione sull’importazione delle proteine negli organelli è FALSA?": "Qual afirmação sobre a importação de proteínas nas organelas é FALSA?",
+    "Tutte le proteine devono essere completamente svolte per attraversare un poro nucleare": "Todas as proteínas devem estar completamente desdobradas para atravessar um poro nuclear",
+    "Un NLS può dirigere una proteina dal citosol al nucleo": "Um NLS pode direcionar uma proteína do citosol ao núcleo",
+    "I perossisomi possono importare proteine già ripiegate": "Os peroxissomos podem importar proteínas já dobradas",
+    "Il segnale PTS1 classico SKL è C-terminale": "O sinal PTS1 clássico SKL é C-terminal",
+    "Le proteine nucleari non devono necessariamente transitare nel RE": "As proteínas nucleares não precisam necessariamente passar pelo RE",
+    "Quale associazione tra segnale e processamento è corretta?": "Qual associação entre sinal e processamento é correta?",
+    "NLS: generalmente conservato dopo l’importazione nucleare": "NLS: geralmente conservado após a importação nuclear",
+    "Segnale-ancora interno del RE: sempre rimosso dalla peptidasi del segnale": "Sinal-âncora interno do RE: sempre removido pela peptidase do sinal",
+    "PTS1 classico SKL: sempre rimosso nel Golgi": "PTS1 clássico SKL: sempre removido no Golgi",
+    "NLS: sempre rimosso da Sec61": "NLS: sempre removido por Sec61",
+    "Segnale N-terminale clivabile per il RE: necessariamente conservato nella proteina matura": "Sinal N-terminal clivável para o RE: necessariamente conservado na proteína madura",
+    "Il canale di traslocazione del RE che permette il passaggio della catena nascente è il complesso ____.": "O canal de translocação do RE que permite a passagem da cadeia nascente é o complexo ____.",
+    "Quale sequenza NON corrisponde al motivo usuale per la N-glicosilazione nella via secretoria?": "Qual sequência NÃO corresponde ao motivo usual para N-glicosilação na via secretora?",
+    "Asn–Pro–Thr": "Asn–Pro–Thr",
+    "Asn–Ala–Thr": "Asn–Ala–Thr",
+    "Asn–Gly–Ser": "Asn–Gly–Ser",
+    "Asn–Leu–Thr": "Asn–Leu–Thr",
+    "Asn–Val–Ser": "Asn–Val–Ser",
+    "Nella N-glicosilazione del RE, la lettera N indica il legame dello zucchero:": "Na N-glicosilação do RE, a letra N indica a ligação do açúcar:",
+    "All’azoto della catena laterale di un’asparagina": "Ao nitrogênio da cadeia lateral de uma asparagina",
+    "Esclusivamente all’estremità N-terminale della proteina": "Exclusivamente à extremidade N-terminal da proteína",
+    "All’ossigeno della catena laterale di una serina": "Ao oxigênio da cadeia lateral de uma serina",
+    "All’azoto di una base dell’mRNA": "Ao nitrogênio de uma base do mRNA",
+    "Al carbonio 6 di ogni amminoacido": "Ao carbono 6 de cada aminoácido",
+    "Quale affermazione sul recupero delle proteine residenti del RE è ERRATA?": "Qual afirmação sobre a recuperação de proteínas residentes do RE é ERRADA?",
+    "KDEL è un segnale N-terminale che dirige le proteine nel nucleo": "KDEL é um sinal N-terminal que direciona proteínas ao núcleo",
+    "KDEL può permettere il recupero di proteine solubili dal Golgi al RE": "KDEL pode permitir a recuperação de proteínas solúveis do Golgi para o RE",
+    "COPI partecipa al trasporto retrogrado dal Golgi al RE": "COPI participa do transporte retrógrado do Golgi para o RE",
+    "COPII partecipa all’uscita dal RE": "COPII participa da saída do RE",
+    "Una proteina residente del RE può sfuggire al RE ed essere recuperata": "Uma proteína residente do RE pode escapar do RE e ser recuperada",
+    "Quale affermazione sulla glicosilazione nella via secretoria è FALSA?": "Qual afirmação sobre a glicosilação na via secretora é FALSA?",
+    "Il numero 6 in mannosio-6-fosfato indica sei gruppi fosfato sulla stessa molecola di mannosio": "O número 6 em manose-6-fosfato indica seis grupos fosfato na mesma molécula de manose",
+    "Il precursore N-legato classico viene trasferito in blocco all’Asn": "O precursor N-ligado clássico é transferido em bloco para Asn",
+    "Il precursore N-legato classico comprende due residui di GlcNAc": "O precursor N-ligado clássico inclui dois resíduos de GlcNAc",
+    "La O-glicosilazione secretoria classica avviene soprattutto nel Golgi": "A O-glicosilação secretora clássica ocorre principalmente no Golgi",
+    "I glicani N-legati possono essere modificati dopo l’ingresso nel Golgi": "Os glicanos N-ligados podem ser modificados após a entrada no Golgi",
+    "Lo spazio perinucleare è continuo con il ____ del reticolo endoplasmatico.": "O espaço perinuclear é contínuo com o ____ do retículo endoplasmático.",
+    "Nell’endocitosi classica mediata da clatrina, quale associazione è corretta?": "Na endocitose clássica mediada por clatrina, qual associação é correta?",
+    "Clatrina: rivestimento citosolico; dinamina: GTPasi coinvolta nella scissione": "Clatrina: revestimento citosólico; dinamina: GTPase envolvida na separação",
+    "Clatrina: rivestimento luminale; dinamina: GTPasi coinvolta nella scissione": "Clatrina: revestimento luminal; dinamina: GTPase envolvida na separação",
+    "Clatrina: pompa di H⁺; dinamina: recettore per M6P": "Clatrina: bomba de H⁺; dinamina: receptor de M6P",
+    "Clatrina: enzima digestivo; dinamina: proteina del nucleolo": "Clatrina: enzima digestiva; dinamina: proteína do nucléolo",
+    "Clatrina: rivestimento citosolico; dinamina: idrolasi lisosomiale": "Clatrina: revestimento citosólico; dinamina: hidrolase lisossomal",
+    "Quale evento distingue il destino tipico del recettore LDL da quello della particella LDL internalizzata?": "Qual evento distingue o destino típico do receptor de LDL daquele da partícula de LDL internalizada?",
+    "Il recettore ritorna alla superficie, mentre la particella viene indirizzata alla degradazione lisosomiale": "O receptor retorna à superfície, enquanto a partícula é direcionada à degradação lisossomal",
+    "Il recettore viene sempre degradato e la particella ritorna intatta nel sangue": "O receptor sempre é degradado e a partícula retorna intacta ao sangue",
+    "Entrambi vengono obbligatoriamente importati nel nucleo": "Ambos são obrigatoriamente importados ao núcleo",
+    "La particella diventa il recettore dopo il distacco": "A partícula se torna o receptor após a separação",
+    "Il recettore viene trasferito alla matrice mitocondriale e la particella al RE": "O receptor é transferido à matriz mitocondrial e a partícula ao RE",
+    "Tutte le seguenti affermazioni su lisosomi e autofagia sono corrette, TRANNE:": "Todas as seguintes afirmações sobre lisossomos e autofagia são corretas, EXCETO:",
+    "Le due metà lipidiche di una bicapa lisosomiale contano come due membrane delimitanti": "As duas metades lipídicas de uma bicamada lisossomal contam como duas membranas delimitantes",
+    "Un lisosoma è delimitato da una sola membrana": "Um lisossomo é delimitado por uma só membrana",
+    "Un autofagosoma maturo, prima della fusione, ha due membrane delimitanti": "Um autofagossomo maduro, antes da fusão, tem duas membranas delimitantes",
+    "La macroautofagia può sequestrare materiale citoplasmatico": "A macroautofagia pode sequestrar material citoplasmático",
+    "La membrana interna dell’autofagosoma viene degradata dopo la fusione con il lisosoma": "A membrana interna do autofagossomo é degradada após a fusão com o lisossomo",
+    "Quale affermazione sulla via di mitofagia PINK1/Parkin è ERRATA?": "Qual afirmação sobre a via de mitofagia PINK1/Parkin é ERRADA?",
+    "Parkin acidifica il lisosoma pompando H⁺ mediante ATP": "Parkin acidifica o lisossomo bombeando H⁺ por meio de ATP",
+    "Parkin è una ubiquitina ligasi": "Parkin é uma ubiquitina ligase",
+    "PINK1 è una chinasi": "PINK1 é uma quinase",
+    "La depolarizzazione mitocondriale può favorire l’accumulo di PINK1": "A despolarização mitocondrial pode favorecer o acúmulo de PINK1",
+    "Esistono vie di mitofagia indipendenti da PINK1/Parkin": "Existem vias de mitofagia independentes de PINK1/Parkin",
+    "Se il pH passa da 6 a 4, la concentrazione di H⁺ libero aumenta di un fattore ____.": "Se o pH passa de 6 para 4, a concentração de H⁺ livre aumenta por um fator ____.",
+    "Una proteina destinata alla membrana plasmatica possiede un dominio N-terminale nel lume del RE. Dopo il trasporto vescicolare e l’esocitosi, dove si trova quel dominio?": "Uma proteína destinada à membrana plasmática possui um domínio N-terminal no lúmen do RE. Após o transporte vesicular e a exocitose, onde está esse domínio?",
+    "Nel citosol, perché ogni esocitosi inverte la proteina": "No citosol, porque toda exocitose inverte a proteína",
+    "Nel nucleoplasma, perché il dominio è N-terminale": "No nucleoplasma, porque o domínio é N-terminal",
+    "All’esterno della cellula, per conservazione della topologia": "No exterior da célula, por conservação da topologia",
+    "Nella matrice mitocondriale, senza ulteriori segnali": "Na matriz mitocondrial, sem sinais adicionais",
+    "Ancora nel lume del RE, pur essendo la proteina sulla superficie": "Ainda no lúmen do RE, apesar de a proteína estar na superfície",
+    "Una proteina entra nel RE e presenta due tratti accessibili: Asn–Pro–Thr e Asn–Ala–Ser. Quale conclusione è corretta sulla N-glicosilazione?": "Uma proteína entra no RE e apresenta dois trechos acessíveis: Asn–Pro–Thr e Asn–Ala–Ser. Qual conclusão é correta sobre a N-glicosilação?",
+    "Entrambi i tratti sono sicuramente glicosilati perché iniziano con Asn": "Ambos os trechos certamente são glicosilados porque começam com Asn",
+    "Solo Asn–Ala–Ser corrisponde al motivo usuale, ma l’occupazione non è garantita": "Somente Asn–Ala–Ser corresponde ao motivo usual, mas a ocupação não é garantida",
+    "Solo Asn–Pro–Thr corrisponde al motivo usuale": "Somente Asn–Pro–Thr corresponde ao motivo usual",
+    "Nessun tratto corrisponde perché serve una lisina nella posizione centrale": "Nenhum trecho corresponde porque é necessária uma lisina na posição central",
+    "Il tratto Asn–Ala–Ser viene N-glicosilato sull’ossigeno della serina": "O trecho Asn–Ala–Ser é N-glicosilado no oxigênio da serina",
+    "Un recettore M6P rilascia una idrolasi in un endosoma acido. Quale destino del recettore è compatibile con il suo riutilizzo nella via biosintetica?": "Um receptor de M6P libera uma hidrolase em um endossomo ácido. Qual destino do receptor é compatível com sua reutilização na via biossintética?",
+    "Degradazione obbligatoria insieme all’idrolasi a ogni ciclo": "Degradação obrigatória junto com a hidrolase a cada ciclo",
+    "Trasporto nel nucleo per sintetizzare M6P sul DNA": "Transporte ao núcleo para sintetizar M6P no DNA",
+    "Conversione in una pompa V-ATPasi": "Conversão em uma bomba V-ATPase",
+    "Ritorno al Golgi per selezionare altre idrolasi": "Retorno ao Golgi para selecionar outras hidrolases",
+    "Importazione nella matrice mitocondriale tramite PINK1": "Importação à matriz mitocondrial por PINK1"
+  },
+  "passos": [
+    [
+      "c",
+      "c3_6",
+      "Toda proteína nasce num ribossomo do citosol."
+    ],
+    [
+      "c",
+      "c5_8",
+      "O sinal decide: citosol, RE, mitocôndria, núcleo ou peroxissomo. No RE, há controle de qualidade."
+    ],
+    [
+      "r",
+      "rt3_01",
+      "Diferencie o sinal nuclear do sinal de entrada no RE."
+    ],
+    [
+      "r",
+      "rt3_02",
+      "Aplique o controle de qualidade ao defeito de CFTR."
+    ],
+    [
+      "r",
+      "rt3_07",
+      "Acompanhe a orientação de um domínio até a superfície celular."
+    ],
+    [
+      "c",
+      "c5_7",
+      "Do RE ao Golgi: glicosilação e triagem."
+    ],
+    [
+      "r",
+      "rt3_03",
+      "Conte os açúcares transferidos em quatro N-glicanos."
+    ],
+    [
+      "r",
+      "rt3_04",
+      "Relacione a reserva de cálcio à função de SERCA."
+    ],
+    [
+      "r",
+      "rt3_08",
+      "Diferencie motivo de reconhecimento e ocupação efetiva de um N-glicano."
+    ],
+    [
+      "c",
+      "c5_9",
+      "As vesículas transportam e entregam no lugar certo."
+    ],
+    [
+      "r",
+      "r5h",
+      "KDEL e COPI."
+    ],
+    [
+      "r",
+      "r5c",
+      "Teste: o que acontece com quem não tem um segundo sinal?"
+    ],
+    [
+      "c",
+      "c5_10",
+      "O outro destino da via: lisossomo, e a entrada pela endocitose."
+    ],
+    [
+      "r",
+      "rt3_05",
+      "Calcule o efeito de uma queda fracionária do pH."
+    ],
+    [
+      "r",
+      "rt3_06",
+      "Diferencie falha de acidificação de falha de endereçamento."
+    ],
+    [
+      "r",
+      "rt3_09",
+      "Siga a reciclagem do receptor de M6P após a entrega da hidrolase."
+    ],
+    [
+      "r",
+      "r5d",
+      "Caso clínico de endereçamento errado."
+    ],
+    [
+      "m",
+      "ender",
+      "Jogo: leia os sinais e mande cada proteína ao destino."
+    ],
+    [
+      "q",
+      5,
+      "Feche com questões da unidade."
+    ]
+  ]
+}

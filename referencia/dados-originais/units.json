@@ -1,0 +1,108 @@
+[
+  {
+    "id": 5,
+    "nome": "Strutture cellulari",
+    "pt": "Estruturas celulares",
+    "cfu": 1.75,
+    "topicos": [
+      "Membrane e trasporto: passivo, attivo, pompe ATPasi, trasportatori ABC, canali",
+      "Potenziale di membrana e potenziale d'azione",
+      "Smistamento delle proteine",
+      "Nucleo, nucleolo e condensati nucleari",
+      "Mitocondri: glicolisi, ciclo di Krebs, catena di trasporto, sintesi di ATP, bilancio energetico",
+      "Perossisomi: funzioni biosintetiche, cataboliche, detossificanti",
+      "RE liscio e ruvido; Golgi (cis e trans-Golgi network)",
+      "SRP, traslocone, glicosilazione, calnessina/calreticolina, UPR, ERAD, fibrosi cistica",
+      "Via secretoria, traffico vescicolare, SNARE, RAB",
+      "Endocitosi, lisosomi, autofagia, mitofagia",
+      "Citoscheletro: microtubuli, microfilamenti, filamenti intermedi"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Flusso dell'informazione",
+    "pt": "Fluxo da informação",
+    "cfu": 1,
+    "topicos": [
+      "Replicazione del DNA",
+      "Geni procariotici ed eucariotici",
+      "Trascrizione e sua regolazione (anche nei procarioti)",
+      "Operone lac",
+      "Controllo dell'espressione genica",
+      "Maturazione degli RNA (mRNA, rRNA, tRNA)",
+      "Regioni non tradotte (UTR) dell'mRNA",
+      "Traduzione",
+      "Ripiegamento, chaperon, errori di ripiegamento",
+      "Degradazione proteica"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Caratteri selvatici e mutati",
+    "pt": "Caracteres selvagens e mutados",
+    "cfu": 0.75,
+    "topicos": [
+      "Mutazioni e riparazione del DNA (singolo e doppio filamento)",
+      "Cariotipo umano, diploidia, cromosomi omologhi",
+      "Alterazioni cromosomiche: aneuploidia, poliploidia, traslocazioni, inversioni, delezioni, trisomia 21",
+      "Genetica mendeliana",
+      "Alberi genealogici: AD, AR, X-linked dominante e recessiva, Y-linked, mitocondriale"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Proliferazione e sopravvivenza",
+    "pt": "Proliferação e sobrevivência",
+    "cfu": 0.75,
+    "topicos": [
+      "Ciclo cellulare e punto di restrizione (ciclina D, CDK4/6, Rb, E2F, p53)",
+      "Entrata in fase S",
+      "Virus oncogeni, proto-oncogeni, oncogeni, oncosoppressori",
+      "Mitosi: fasi, fuso, APC/C, citodieresi",
+      "Meiosi, crossing-over, aneuploidia, gametogenesi, cellule staminali",
+      "Morte cellulare: necrosi, apoptosi intrinseca ed estrinseca, caspasi, BCL-2"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Segnalazione cellulare",
+    "pt": "Sinalização celular",
+    "cfu": 0.75,
+    "topicos": [
+      "Matrice extracellulare, integrine, caderine, CAM, giunzioni",
+      "Meccanotrasduzione (basi)",
+      "Segnalazione da contatto, autocrina, paracrina, endocrina, sinaptica",
+      "Recettori di membrana e intracellulari; NO, ormoni lipidici, canali ionici",
+      "Proteine G, GEF e GAP, secondi messaggeri, fosfoinositidi",
+      "Recettori tirosin-chinasici, Ras-MAPK, recettori di insulina ed EGF"
+    ]
+  },
+  {
+    "id": 1,
+    "nome": "Basi molecolari della vita",
+    "pt": "Bases moleculares",
+    "cfu": 0.5,
+    "topicos": [
+      "Classi di virus animali",
+      "Cellula procariotica",
+      "Trasferimento genico orizzontale: trasformazione, coniugazione, trasduzione",
+      "Struttura delle proteine, domini, siti attivi",
+      "Enzimi e classi enzimatiche",
+      "Chinasi/fosfatasi, ubiquitinasi/deubiquitinasi, acetilasi/deacetilasi"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Informazione genetica ed epigenetica",
+    "pt": "Informação genética e epigenética",
+    "cfu": 0.5,
+    "topicos": [
+      "Genoma eucariotico e cromosomi lineari",
+      "Cromatina, nucleosomi, istoni",
+      "Metilazione del DNA, epigenetica, condensine",
+      "Genoma umano",
+      "Sequenze ripetute: LINE e SINE",
+      "Retrovirus endogeni ed elementi mobili"
+    ]
+  }
+]

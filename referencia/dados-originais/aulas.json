@@ -1,0 +1,218 @@
+{
+  "5": [
+    {
+      "t": "Transporte pela membrana",
+      "pts": [
+        "Difusão simples (gases, moléculas apolares) × facilitada (canais e carreadores) × ativa (gasta energia)",
+        "Na⁺/K⁺-ATPase: 3 Na⁺ para fora, 2 K⁺ para dentro, 1 ATP — bomba eletrogênica",
+        "Bombas P, V e F; transportadores ABC (ex.: CFTR, MDR)"
+      ],
+      "q": "Por que a Na⁺/K⁺-ATPase deixa o interior da célula mais negativo?",
+      "a": "Porque tira 3 cargas positivas e põe só 2 a cada ciclo."
+    },
+    {
+      "t": "Potencial de repouso e de ação",
+      "pts": [
+        "Repouso ≈ −70 mV, mantido pelos canais de vazamento de K⁺ e pela bomba",
+        "Despolarização: abrem canais de Na⁺ voltagem-dependentes",
+        "Repolarização: Na⁺ inativa, abrem canais de K⁺; depois hiperpolarização"
+      ],
+      "q": "Qual íon entra na fase de subida do potencial de ação?",
+      "a": "Na⁺, por canais voltagem-dependentes."
+    },
+    {
+      "t": "Mitocôndria e energia",
+      "pts": [
+        "Glicólise no citosol: saldo 2 ATP, 2 NADH, 2 piruvato",
+        "Krebs na matriz: NADH, FADH₂, GTP, CO₂",
+        "Cadeia (complexos I–IV) na membrana interna; aceptor final O₂; ATP sintase usa o gradiente de H⁺",
+        "Rendimento ≈ 30–32 ATP por glicose"
+      ],
+      "q": "Onde ocorre cada etapa: glicólise, Krebs e cadeia respiratória?",
+      "a": "Citosol; matriz mitocondrial; membrana mitocondrial interna."
+    },
+    {
+      "t": "Endereçamento e controle de qualidade no RE",
+      "pts": [
+        "Sequência-sinal → SRP → receptor de SRP → translocon (Sec61)",
+        "Glicosilação N-ligada no RE; calnexina e calreticulina checam o dobramento",
+        "Acúmulo de proteínas mal dobradas ativa a UPR; descarte via ERAD (proteassomo)",
+        "Fibrose cística ΔF508: CFTR retida no RE e degradada"
+      ],
+      "q": "O que acontece com a CFTR ΔF508?",
+      "a": "Dobra mal, fica retida no RE e é degradada por ERAD."
+    },
+    {
+      "t": "Tráfego vesicular",
+      "pts": [
+        "COPII: RE → Golgi; COPI: Golgi → RE; clatrina: endocitose e trans-Golgi → endossomos",
+        "RAB dão identidade às vesículas; SNARE (v e t) fazem a fusão",
+        "KDEL retém no RE; manose-6-fosfato envia ao lisossomo",
+        "Autofagia e mitofagia levam conteúdo ao lisossomo"
+      ],
+      "q": "Qual sinal leva uma enzima ao lisossomo?",
+      "a": "Manose-6-fosfato, adicionada no Golgi."
+    },
+    {
+      "t": "Citoesqueleto e peroxissomos",
+      "pts": [
+        "Microtúbulos (tubulina, polares; cinesina → +, dineína → −)",
+        "Microfilamentos (actina; miosina)",
+        "Filamentos intermediários (queratinas, laminas): resistência mecânica, sem motores",
+        "Peroxissomos: β-oxidação de ácidos graxos muito longos, catalase degrada H₂O₂, síntese de plasmalogênios"
+      ],
+      "q": "Que filamento não tem proteína motora associada?",
+      "a": "Os filamentos intermediários."
+    }
+  ],
+  "3": [
+    {
+      "t": "Replicação do DNA",
+      "pts": [
+        "Helicase abre, primase faz o primer de RNA, DNA polimerase alonga 5'→3'",
+        "Fita contínua (guida) × descontínua (lenta) com fragmentos de Okazaki",
+        "Ligase une fragmentos; telomerase alonga telômeros com molde de RNA próprio"
+      ],
+      "q": "Por que existe uma fita descontínua?",
+      "a": "Porque a polimerase só sintetiza 5'→3' e as fitas são antiparalelas."
+    },
+    {
+      "t": "Operon lac",
+      "pts": [
+        "Sem lactose: repressor ligado ao operador → desligado",
+        "Com lactose: alolactose solta o repressor",
+        "Com pouca glicose: cAMP alto, CAP-cAMP ativa forte",
+        "Máximo: lactose presente e glicose ausente"
+      ],
+      "q": "Lactose e glicose presentes: como fica o operon?",
+      "a": "Repressor solto, mas CAP inativo: transcrição baixa."
+    },
+    {
+      "t": "Do RNA à proteína",
+      "pts": [
+        "Pré-mRNA: cap 5' (7-metilguanosina), cauda poli-A, splicing",
+        "UTR 5' e 3': controlam tradução e estabilidade (microRNA na 3' UTR)",
+        "Ribossomo: sítios A (entrada), P (peptidil), E (saída); início AUG",
+        "Chaperonas (Hsp70, chaperoninas) dobram; ubiquitina + proteassomo degradam"
+      ],
+      "q": "Em que sítio do ribossomo entra o aminoacil-tRNA?",
+      "a": "No sítio A."
+    }
+  ],
+  "4": [
+    {
+      "t": "Mutações e reparo",
+      "pts": [
+        "Silenciosa, missense, nonsense (vira stop), frameshift",
+        "Fita simples: excisão de bases, de nucleotídeos, mismatch",
+        "Dupla fita: recombinação homóloga (precisa da cromátide irmã) ou NHEJ (sujeita a erro)"
+      ],
+      "q": "Qual reparo de dupla fita é mais propenso a erro?",
+      "a": "NHEJ."
+    },
+    {
+      "t": "Cariótipo e heredogramas",
+      "pts": [
+        "46,XX / 46,XY; Down 47,+21; Turner 45,X; Klinefelter 47,XXY",
+        "AD: aparece em todas as gerações; AR: pula gerações, pais portadores",
+        "X recessiva: mais homens; pai afetado não passa a filhos homens",
+        "Mitocondrial: só a mãe transmite, a todos os filhos"
+      ],
+      "q": "Pai afetado por doença X recessiva, mãe não portadora: e os filhos?",
+      "a": "Filhas todas portadoras, filhos homens todos sadios."
+    }
+  ],
+  "7": [
+    {
+      "t": "Ponto de restrição",
+      "pts": [
+        "Fator de crescimento → ciclina D-CDK4/6",
+        "CDK fosforila Rb → Rb solta E2F → genes da fase S",
+        "p53 detecta dano → p21 inibe CDK → parada ou apoptose",
+        "Proto-oncogene (Ras, Myc) ativado vira oncogene; supressores (Rb, p53) perdem função"
+      ],
+      "q": "Qual é a sequência que libera a entrada na fase S?",
+      "a": "Ciclina D-CDK4/6 fosforila Rb, que libera E2F."
+    },
+    {
+      "t": "Mitose e meiose",
+      "pts": [
+        "Mitose: 2 células iguais à mãe; APC/C degrada securina e ciclina B",
+        "Meiose: 4 células haploides; crossing-over na prófase I",
+        "Não disjunção → aneuploidia (ex.: trissomia 21, mais na meiose I materna)"
+      ],
+      "q": "Em que fase acontece o crossing-over?",
+      "a": "Prófase I da meiose."
+    },
+    {
+      "t": "Morte celular",
+      "pts": [
+        "Intrínseca: BCL-2 controla MOMP → citocromo c + Apaf-1 = apoptossomo → caspase-9",
+        "Extrínseca: receptores de morte (Fas, TNF) → caspase-8",
+        "Executoras: caspases 3 e 7",
+        "Necrose: inchaço, ruptura, inflamação"
+      ],
+      "q": "Que caspase inicia a via extrínseca?",
+      "a": "A caspase-8."
+    }
+  ],
+  "6": [
+    {
+      "t": "Proteína G e segundos mensageiros",
+      "pts": [
+        "Gα com GTP = ativa; GDP = inativa",
+        "GEF troca GDP por GTP (liga); GAP acelera hidrólise (desliga)",
+        "Gs ↑ AMPc; Gi ↓ AMPc; Gq → fosfolipase C → IP₃ (Ca²⁺) e DAG (PKC)",
+        "Esteroides: receptor intracelular que age como fator de transcrição"
+      ],
+      "q": "O que uma GAP faz?",
+      "a": "Acelera a hidrólise do GTP e desliga a proteína G."
+    },
+    {
+      "t": "RTK e junções",
+      "pts": [
+        "RTK dimeriza e se autofosforila → Grb2 → SOS → Ras → Raf → MEK → ERK",
+        "Receptores de insulina e EGF são RTK",
+        "Junções: oclusivas (claudinas), aderentes e desmossomos (caderinas), comunicantes (conexinas)",
+        "Integrinas ligam matriz extracelular ao citoesqueleto"
+      ],
+      "q": "Que proteínas formam as junções comunicantes?",
+      "a": "Conexinas."
+    }
+  ],
+  "1": [
+    {
+      "t": "Procariotos e vírus",
+      "pts": [
+        "Procarioto: sem núcleo nem organelas membranosas; ribossomos 70S",
+        "Transformação (DNA livre), conjugação (pilus), transdução (fago)",
+        "Vírus animais: DNA ou RNA, envelopados ou não; retrovírus usam transcriptase reversa"
+      ],
+      "q": "Transferência de DNA por bacteriófago se chama?",
+      "a": "Transdução."
+    },
+    {
+      "t": "Enzimas e modificações",
+      "pts": [
+        "6 classes: oxidorredutases, transferases, hidrolases, liases, isomerases, ligases",
+        "Quinase põe fosfato (do ATP); fosfatase tira",
+        "Ubiquitinase marca para degradação; acetilase de histonas abre a cromatina"
+      ],
+      "q": "Qual a diferença entre quinase e fosfatase?",
+      "a": "Quinase adiciona fosfato; fosfatase remove."
+    }
+  ],
+  "2": [
+    {
+      "t": "Cromatina e epigenética",
+      "pts": [
+        "Nucleossomo: octâmero de histonas + ~147 pb de DNA; H1 liga o DNA de ligação",
+        "Eucromatina (ativa) × heterocromatina (condensada, inativa)",
+        "Metilação de CpG no promotor silencia; acetilação de histonas ativa",
+        "LINE, SINE e retrovírus endógenos: elementos móveis repetidos"
+      ],
+      "q": "Metilar a ilha CpG de um promotor faz o quê?",
+      "a": "Silencia o gene."
+    }
+  ]
+}

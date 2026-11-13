@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "m0",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La pompa Na⁺/K⁺-ATPasi, per ogni ATP idrolizzato, trasporta:",
+    "opts": [
+      "3 Na⁺ fuori e 2 K⁺ dentro",
+      "2 Na⁺ fuori e 3 K⁺ dentro",
+      "3 Na⁺ dentro e 2 K⁺ fuori",
+      "1 Na⁺ fuori e 1 K⁺ dentro",
+      "3 Na⁺ fuori e 3 K⁺ dentro"
+    ],
+    "ex": "3 Na⁺ saem e 2 K⁺ entram: a bomba é eletrogênica."
+  },
+  {
+    "id": "m1",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La fase di depolarizzazione del potenziale d'azione è dovuta principalmente a:",
+    "opts": [
+      "apertura dei canali voltaggio-dipendenti per il Na⁺",
+      "apertura dei canali per il K⁺",
+      "attività della pompa Na⁺/K⁺",
+      "ingresso di Cl⁻",
+      "chiusura dei canali di perdita del K⁺"
+    ],
+    "ex": "A entrada de Na⁺ por canais voltagem-dependentes despolariza a membrana."
+  },
+  {
+    "id": "m2",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La sequenza segnale di una proteina destinata al RE viene riconosciuta nel citosol da:",
+    "opts": [
+      "SRP",
+      "calnessina",
+      "clatrina",
+      "COPI",
+      "importina"
+    ],
+    "ex": "A SRP reconhece a sequência-sinal e leva o ribossomo ao RE."
+  },
+  {
+    "id": "m3",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le proteine destinate ai lisosomi vengono marcate nel Golgi con:",
+    "opts": [
+      "mannosio-6-fosfato",
+      "sequenza KDEL",
+      "segnale di localizzazione nucleare",
+      "ubiquitina",
+      "àncora GPI"
+    ],
+    "ex": "Manose-6-fosfato é o endereço lisossomal."
+  },
+  {
+    "id": "m4",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Calnessina e calreticolina sono:",
+    "opts": [
+      "chaperon lectiniche del RE che controllano il ripiegamento delle glicoproteine",
+      "proteine motrici dei microtubuli",
+      "enzimi del ciclo di Krebs",
+      "recettori per il mannosio-6-fosfato",
+      "proteine della membrana mitocondriale interna"
+    ],
+    "ex": "São chaperonas do RE que reconhecem glicoproteínas em dobramento."
+  },
+  {
+    "id": "m5",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La forma più comune di fibrosi cistica (ΔF508) è un esempio di:",
+    "opts": [
+      "proteina mal ripiegata trattenuta nel RE e degradata tramite ERAD",
+      "difetto di un enzima lisosomiale",
+      "mutazione del DNA mitocondriale",
+      "alterazione del citoscheletro di actina",
+      "difetto della pompa Na⁺/K⁺"
+    ],
+    "ex": "A CFTR ΔF508 dobra mal e é degradada por ERAD."
+  },
+  {
+    "id": "m6",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le vescicole rivestite da COPII mediano il trasporto:",
+    "opts": [
+      "dal RE al Golgi",
+      "dal Golgi al RE",
+      "dalla membrana plasmatica agli endosomi",
+      "dal trans-Golgi ai lisosomi",
+      "dal nucleo al citosol"
+    ],
+    "ex": "COPII é anterógrado (RE → Golgi); COPI é retrógrado."
+  },
+  {
+    "id": "m7",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le proteine SNARE sono responsabili di:",
+    "opts": [
+      "fusione delle vescicole con la membrana bersaglio",
+      "formazione del rivestimento di clatrina",
+      "polimerizzazione dell'actina",
+      "importazione nel nucleo",
+      "sintesi di ATP"
+    ],
+    "ex": "v-SNARE e t-SNARE se enrolam e fundem as membranas."
+  },
+  {
+    "id": "m8",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La resa netta della glicolisi per molecola di glucosio è:",
+    "opts": [
+      "2 ATP, 2 NADH, 2 piruvato",
+      "4 ATP, 2 NADH, 2 piruvato",
+      "2 ATP, 2 FADH₂, 2 acetil-CoA",
+      "36 ATP",
+      "1 ATP, 1 NADH, 1 piruvato"
+    ],
+    "ex": "Produz 4 ATP mas gasta 2: saldo de 2."
+  },
+  {
+    "id": "m9",
+    "tipo": "mc",
+    "u": 5,
+    "q": "L'accettore finale degli elettroni nella catena respiratoria è:",
+    "opts": [
+      "O₂",
+      "NAD⁺",
+      "FAD",
+      "CO₂",
+      "citocromo c"
+    ],
+    "ex": "O oxigênio recebe os elétrons e forma água."
+  },
+  {
+    "id": "m10",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Quale funzione è tipica dei perossisomi?",
+    "opts": [
+      "β-ossidazione degli acidi grassi a catena molto lunga e degradazione di H₂O₂",
+      "sintesi di ATP per fosforilazione ossidativa",
+      "glicosilazione delle proteine",
+      "sintesi dell'rRNA",
+      "degradazione delle proteine ubiquitinate"
+    ],
+    "ex": "Peroxissomos oxidam ácidos graxos muito longos; a catalase degrada H₂O₂."
+  },
+  {
+    "id": "m11",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La dineina si muove lungo i microtubuli verso:",
+    "opts": [
+      "l'estremità meno (−)",
+      "l'estremità più (+)",
+      "i filamenti di actina",
+      "i filamenti intermedi",
+      "la membrana plasmatica, sempre"
+    ],
+    "ex": "Dineína → extremidade −; cinesina → +."
+  },
+  {
+    "id": "m12",
+    "tipo": "mc",
+    "u": 5,
+    "q": "I filamenti intermedi:",
+    "opts": [
+      "danno resistenza meccanica e non hanno proteine motrici associate",
+      "sono formati da tubulina",
+      "sono polari e percorsi dalle chinesine",
+      "formano il fuso mitotico",
+      "sono formati da actina G"
+    ],
+    "ex": "Ex.: queratinas e laminas; sem polaridade nem motores."
+  },
+  {
+    "id": "m13",
+    "tipo": "mc",
+    "u": 5,
+    "q": "L'autofagia selettiva dei mitocondri danneggiati si chiama:",
+    "opts": [
+      "mitofagia",
+      "apoptosi",
+      "pinocitosi",
+      "esocitosi",
+      "fagocitosi"
+    ],
+    "ex": "Mitofagia é a autofagia seletiva de mitocôndrias."
+  },
+  {
+    "id": "m14",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il nucleolo è il sito principale di:",
+    "opts": [
+      "trascrizione dell'rRNA e assemblaggio delle subunità ribosomiali",
+      "replicazione del DNA mitocondriale",
+      "sintesi delle proteine di secrezione",
+      "traduzione dell'mRNA",
+      "glicosilazione"
+    ],
+    "ex": "O nucléolo é um condensado nuclear onde se forma o ribossomo."
+  },
+  {
+    "id": "m15",
+    "tipo": "mc",
+    "u": 5,
+    "q": "L'UPR (unfolded protein response) si attiva quando:",
+    "opts": [
+      "si accumulano proteine mal ripiegate nel lume del RE",
+      "il pH dei lisosomi aumenta",
+      "manca ossigeno nei mitocondri",
+      "il DNA subisce rotture a doppio filamento",
+      "le vescicole COPII non si formano"
+    ],
+    "ex": "A UPR responde ao estresse do RE por proteínas mal dobradas."
+  },
+  {
+    "id": "m16",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il gradiente protonico usato dall'ATP sintasi si forma:",
+    "opts": [
+      "tra spazio intermembrana e matrice mitocondriale",
+      "tra citosol e lume del RE",
+      "tra nucleo e citosol",
+      "tra lisosoma e citosol",
+      "all'interno dei perossisomi"
+    ],
+    "ex": "Os complexos bombeiam H⁺ para o espaço intermembrana; voltam pela ATP sintase."
+  },
+  {
+    "id": "m17",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Durante la replicazione, l'enzima che sintetizza il primer di RNA è:",
+    "opts": [
+      "primasi",
+      "elicasi",
+      "ligasi",
+      "topoisomerasi",
+      "telomerasi"
+    ],
+    "ex": "A primase faz o primer de RNA."
+  },
+  {
+    "id": "m18",
+    "tipo": "mc",
+    "u": 3,
+    "q": "I frammenti di Okazaki si formano:",
+    "opts": [
+      "sul filamento lento (lagging)",
+      "sul filamento guida (leading)",
+      "solo nei virus",
+      "durante la trascrizione",
+      "durante la traduzione"
+    ],
+    "ex": "Na fita descontínua (lenta)."
+  },
+  {
+    "id": "m19",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Nell'operone lac, con lattosio presente e glucosio assente:",
+    "opts": [
+      "il repressore si stacca e CAP-cAMP stimola la trascrizione",
+      "il repressore si lega all'operatore",
+      "CAP non lega cAMP",
+      "la trascrizione è bloccata",
+      "viene prodotto triptofano"
+    ],
+    "ex": "Situação de expressão máxima do operon."
+  },
+  {
+    "id": "m20",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Il cap al 5' dell'mRNA eucariotico è:",
+    "opts": [
+      "una 7-metilguanosina legata con ponte 5'-5' trifosfato",
+      "una coda di poli-A",
+      "una sequenza di Shine-Dalgarno",
+      "un introne",
+      "un codone di inizio"
+    ],
+    "ex": "O cap protege o mRNA e ajuda a iniciar a tradução."
+  },
+  {
+    "id": "m21",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Le regioni 3' UTR dell'mRNA:",
+    "opts": [
+      "contengono siti per microRNA e regolano stabilità e traduzione",
+      "codificano la parte C-terminale della proteina",
+      "vengono rimosse con lo splicing",
+      "contengono il codone AUG",
+      "esistono solo nei procarioti"
+    ],
+    "ex": "UTR não são traduzidas; regulam o mRNA."
+  },
+  {
+    "id": "m22",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Nel ribosoma, l'aminoacil-tRNA entrante si lega al sito:",
+    "opts": [
+      "A",
+      "P",
+      "E",
+      "Z",
+      "nessuno, si lega all'mRNA libero"
+    ],
+    "ex": "A = aminoacil, P = peptidil, E = saída."
+  },
+  {
+    "id": "m23",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Le proteine destinate al proteasoma vengono marcate con:",
+    "opts": [
+      "catene di poliubiquitina",
+      "mannosio-6-fosfato",
+      "gruppi acetile",
+      "sequenza KDEL",
+      "fosfatidilinositolo"
+    ],
+    "ex": "Poliubiquitina é o sinal de degradação."
+  },
+  {
+    "id": "m24",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Lo splicing consiste in:",
+    "opts": [
+      "rimozione degli introni e unione degli esoni",
+      "aggiunta della coda poli-A",
+      "rimozione degli esoni",
+      "aggiunta del cap",
+      "sintesi del primer"
+    ],
+    "ex": "Introns saem; éxons são unidos."
+  },
+  {
+    "id": "m25",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Quale RNA polimerasi trascrive gli mRNA negli eucarioti?",
+    "opts": [
+      "RNA polimerasi II",
+      "RNA polimerasi I",
+      "RNA polimerasi III",
+      "primasi",
+      "trascrittasi inversa"
+    ],
+    "ex": "Pol I: rRNA; Pol II: mRNA; Pol III: tRNA e 5S."
+  },
+  {
+    "id": "m26",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Una mutazione che trasforma un codone in un codone di stop è detta:",
+    "opts": [
+      "nonsenso",
+      "missenso",
+      "silente",
+      "frameshift",
+      "conservativa"
+    ],
+    "ex": "Nonsense = códon de parada prematuro."
+  },
+  {
+    "id": "m27",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Le rotture a doppio filamento del DNA sono riparate da:",
+    "opts": [
+      "ricombinazione omologa e NHEJ",
+      "riparazione per escissione di basi",
+      "mismatch repair",
+      "fotoliasi",
+      "DNA polimerasi I"
+    ],
+    "ex": "Os outros sistemas reparam uma fita só."
+  },
+  {
+    "id": "m28",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Il cariotipo della sindrome di Turner è:",
+    "opts": [
+      "45,X",
+      "47,XXY",
+      "47,XX,+21",
+      "47,XYY",
+      "46,XX"
+    ],
+    "ex": "Turner: monossomia do X."
+  },
+  {
+    "id": "m29",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Incrocio Aa × Aa con dominanza completa: rapporto fenotipico atteso:",
+    "opts": [
+      "3:1",
+      "1:2:1",
+      "1:1",
+      "9:3:3:1",
+      "tutti dominanti"
+    ],
+    "ex": "1:2:1 é o genotípico; o fenotípico é 3:1."
+  },
+  {
+    "id": "m30",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Padre affetto da malattia X-linked recessiva, madre sana non portatrice. I figli:",
+    "opts": [
+      "figlie tutte portatrici, figli maschi tutti sani",
+      "figli maschi tutti affetti",
+      "50% delle figlie affette",
+      "tutti affetti",
+      "nessun portatore"
+    ],
+    "ex": "O pai passa o X às filhas e o Y aos filhos."
+  },
+  {
+    "id": "m31",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Malattia trasmessa solo dalla madre a tutti i figli, maschi e femmine:",
+    "opts": [
+      "ereditarietà mitocondriale",
+      "legata all'Y",
+      "autosomica recessiva",
+      "legata all'X dominante",
+      "autosomica dominante"
+    ],
+    "ex": "Mitocôndrias vêm do óvulo."
+  },
+  {
+    "id": "m32",
+    "tipo": "mc",
+    "u": 4,
+    "q": "La causa più frequente della trisomia 21 è:",
+    "opts": [
+      "non disgiunzione, soprattutto nella meiosi I materna",
+      "traslocazione robertsoniana in tutti i casi",
+      "mutazione puntiforme del cromosoma 21",
+      "delezione del cromosoma 21",
+      "poliploidia"
+    ],
+    "ex": "Cerca de 95% dos casos são por não disjunção."
+  },
+  {
+    "id": "m33",
+    "tipo": "mc",
+    "u": 7,
+    "q": "La fosforilazione di Rb da parte di ciclina D-CDK4/6 causa:",
+    "opts": [
+      "rilascio di E2F e trascrizione dei geni della fase S",
+      "arresto in G1",
+      "attivazione di p53",
+      "degradazione della ciclina B",
+      "ingresso diretto in mitosi"
+    ],
+    "ex": "Rb fosforilada solta E2F: passa o ponto de restrição."
+  },
+  {
+    "id": "m34",
+    "tipo": "mc",
+    "u": 7,
+    "q": "p53 è:",
+    "opts": [
+      "un gene oncosoppressore",
+      "un proto-oncogene",
+      "un oncogene virale",
+      "un inibitore delle caspasi",
+      "una ciclina"
+    ],
+    "ex": "p53, o guardião do genoma, é supressor tumoral."
+  },
+  {
+    "id": "m35",
+    "tipo": "mc",
+    "u": 7,
+    "q": "Ras mutato e sempre attivo è un esempio di:",
+    "opts": [
+      "oncogene",
+      "gene oncosoppressore",
+      "caspasi",
+      "inibitore CDK",
+      "gene di riparazione"
+    ],
+    "ex": "Ganho de função de um proto-oncogene."
+  },
+  {
+    "id": "m36",
+    "tipo": "mc",
+    "u": 7,
+    "q": "Il crossing-over avviene durante:",
+    "opts": [
+      "la profase I della meiosi",
+      "la metafase II",
+      "l'anafase mitotica",
+      "la fase G1",
+      "la citodieresi"
+    ],
+    "ex": "Entre cromossomos homólogos pareados, na prófase I."
+  },
+  {
+    "id": "m37",
+    "tipo": "mc",
+    "u": 7,
+    "q": "APC/C è necessario per:",
+    "opts": [
+      "degradare securina e ciclina B, permettendo separazione dei cromatidi e uscita dalla mitosi",
+      "fosforilare Rb",
+      "formare il fuso mitotico",
+      "replicare i centrosomi",
+      "condensare i cromosomi"
+    ],
+    "ex": "APC/C é uma ubiquitina ligase do ciclo."
+  },
+  {
+    "id": "m38",
+    "tipo": "mc",
+    "u": 7,
+    "q": "Nella via intrinseca dell'apoptosi, il citocromo c forma con Apaf-1:",
+    "opts": [
+      "l'apoptosoma, che attiva la caspasi-9",
+      "il DISC, che attiva la caspasi-8",
+      "il proteasoma",
+      "il nucleosoma",
+      "il complesso SNARE"
+    ],
+    "ex": "DISC e caspase-8 são da via extrínseca."
+  },
+  {
+    "id": "m39",
+    "tipo": "mc",
+    "u": 7,
+    "q": "A differenza dell'apoptosi, la necrosi:",
+    "opts": [
+      "causa rigonfiamento, rottura della membrana e infiammazione",
+      "è programmata e non infiammatoria",
+      "richiede le caspasi",
+      "forma corpi apoptotici",
+      "è regolata da BCL-2"
+    ],
+    "ex": "Necrose é morte desorganizada, com inflamação."
+  },
+  {
+    "id": "m40",
+    "tipo": "mc",
+    "u": 7,
+    "q": "Al termine della meiosi, da una cellula diploide si ottengono:",
+    "opts": [
+      "4 cellule aploidi",
+      "2 cellule diploidi",
+      "4 cellule diploidi",
+      "2 cellule aploidi",
+      "1 cellula aploide"
+    ],
+    "ex": "Duas divisões, uma só replicação."
+  },
+  {
+    "id": "m41",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Le proteine G eterotrimeriche sono attive quando la subunità α lega:",
+    "opts": [
+      "GTP",
+      "GDP",
+      "ATP",
+      "cAMP",
+      "Ca²⁺"
+    ],
+    "ex": "GTP liga; a hidrólise para GDP desliga."
+  },
+  {
+    "id": "m42",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Le GAP (GTPase-activating proteins):",
+    "opts": [
+      "accelerano l'idrolisi del GTP, spegnendo la GTPasi",
+      "favoriscono lo scambio GDP→GTP",
+      "sono recettori tirosin-chinasici",
+      "producono cAMP",
+      "fosforilano Rb"
+    ],
+    "ex": "GEF liga; GAP desliga."
+  },
+  {
+    "id": "m43",
+    "tipo": "mc",
+    "u": 6,
+    "q": "La fosfolipasi C attivata da Gq produce:",
+    "opts": [
+      "IP₃ e DAG",
+      "cAMP",
+      "cGMP",
+      "NO",
+      "acetilcolina"
+    ],
+    "ex": "IP₃ libera Ca²⁺; DAG ativa PKC."
+  },
+  {
+    "id": "m44",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Gli ormoni steroidei agiscono di solito tramite:",
+    "opts": [
+      "recettori intracellulari che agiscono da fattori di trascrizione",
+      "recettori accoppiati a proteine G",
+      "canali ionici",
+      "recettori tirosin-chinasici",
+      "integrine"
+    ],
+    "ex": "São lipossolúveis e atravessam a membrana."
+  },
+  {
+    "id": "m45",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Le giunzioni comunicanti (gap junctions) sono formate da:",
+    "opts": [
+      "connessine",
+      "caderine",
+      "integrine",
+      "claudine",
+      "desmogleine"
+    ],
+    "ex": "Conexinas formam conexons, canais entre células."
+  },
+  {
+    "id": "m46",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Le integrine collegano:",
+    "opts": [
+      "la matrice extracellulare al citoscheletro",
+      "cellule adiacenti con legami omofilici Ca²⁺-dipendenti",
+      "le due membrane nucleari",
+      "il RE al Golgi",
+      "i microtubuli ai centrioli"
+    ],
+    "ex": "Ligações célula-célula Ca²⁺-dependentes são das caderinas."
+  },
+  {
+    "id": "m47",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Il trasferimento di DNA tra batteri mediato da un batteriofago è:",
+    "opts": [
+      "trasduzione",
+      "trasformazione",
+      "coniugazione",
+      "transfezione",
+      "traslocazione"
+    ],
+    "ex": "Transformação = DNA livre; conjugação = pilus."
+  },
+  {
+    "id": "m48",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Le chinasi:",
+    "opts": [
+      "trasferiscono un fosfato dall'ATP a un substrato",
+      "rimuovono gruppi fosfato",
+      "aggiungono ubiquitina",
+      "rimuovono gruppi acetile",
+      "idrolizzano legami peptidici"
+    ],
+    "ex": "Remover fosfato é papel da fosfatase."
+  },
+  {
+    "id": "m49",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Le cellule procariotiche NON possiedono:",
+    "opts": [
+      "nucleo delimitato da membrana e organelli membranosi",
+      "ribosomi",
+      "membrana plasmatica",
+      "DNA",
+      "citoplasma"
+    ],
+    "ex": "Ribossomos, membrana e DNA existem em procariotos."
+  },
+  {
+    "id": "m50",
+    "tipo": "mc",
+    "u": 2,
+    "q": "Un nucleosoma è formato da:",
+    "opts": [
+      "circa 147 pb di DNA avvolti attorno a un ottamero di istoni",
+      "un tetramero di istoni H1",
+      "DNA a singolo filamento e RNA",
+      "solo istone H1",
+      "condensine e coesine"
+    ],
+    "ex": "Octâmero: 2× H2A, H2B, H3, H4."
+  },
+  {
+    "id": "m51",
+    "tipo": "mc",
+    "u": 2,
+    "q": "La metilazione delle citosine nelle isole CpG dei promotori in genere:",
+    "opts": [
+      "silenzia l'espressione genica",
+      "attiva la trascrizione",
+      "causa mutazioni frameshift",
+      "degrada l'mRNA",
+      "favorisce la traduzione"
+    ],
+    "ex": "Marca epigenética de repressão."
+  },
+  {
+    "id": "m52",
+    "tipo": "mc",
+    "u": 2,
+    "q": "LINE e SINE sono:",
+    "opts": [
+      "retrotrasposoni ripetuti nel genoma umano",
+      "geni per l'rRNA",
+      "introni del DNA mitocondriale",
+      "sequenze telomeriche",
+      "promotori batterici"
+    ],
+    "ex": "Elementos móveis que se copiam via RNA."
+  },
+  {
+    "id": "m53",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il potenziale di membrana a riposo di un neurone è circa:",
+    "opts": [
+      "−70 mV",
+      "+30 mV",
+      "0 mV",
+      "−10 mV",
+      "+70 mV"
+    ],
+    "ex": "Mantido principalmente pelo vazamento de K⁺ e pela bomba Na⁺/K⁺."
+  },
+  {
+    "id": "m54",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La ripolarizzazione del potenziale d'azione è dovuta principalmente a:",
+    "opts": [
+      "uscita di K⁺ attraverso canali voltaggio-dipendenti",
+      "ingresso di Na⁺",
+      "ingresso di Ca²⁺",
+      "attività della pompa Na⁺/K⁺",
+      "ingresso di Cl⁻"
+    ],
+    "ex": "Os canais de Na⁺ inativam e os de K⁺ abrem."
+  },
+  {
+    "id": "m55",
+    "tipo": "mc",
+    "u": 5,
+    "q": "I trasportatori ABC:",
+    "opts": [
+      "usano l'idrolisi di ATP per trasportare substrati attraverso la membrana",
+      "sono canali passivi per l'acqua",
+      "trasportano solo ioni Na⁺",
+      "sono proteine del citoscheletro",
+      "funzionano solo nei mitocondri"
+    ],
+    "ex": "Ex.: CFTR e glicoproteína P (MDR1)."
+  },
+  {
+    "id": "m56",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le acquaporine permettono:",
+    "opts": [
+      "il passaggio passivo di acqua",
+      "il trasporto attivo di glucosio",
+      "l'esocitosi",
+      "il trasporto di Na⁺ contro gradiente",
+      "l'endocitosi"
+    ],
+    "ex": "São canais de água; transporte passivo."
+  },
+  {
+    "id": "m57",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il trasporto di glucosio accoppiato al Na⁺ (SGLT) è un esempio di:",
+    "opts": [
+      "trasporto attivo secondario (simporto)",
+      "diffusione semplice",
+      "trasporto attivo primario",
+      "antiporto passivo",
+      "endocitosi"
+    ],
+    "ex": "Usa o gradiente de Na⁺ criado pela bomba, não ATP direto."
+  },
+  {
+    "id": "m58",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le proteine importate nel nucleo contengono:",
+    "opts": [
+      "un segnale di localizzazione nucleare (NLS) riconosciuto dalle importine",
+      "la sequenza KDEL",
+      "il mannosio-6-fosfato",
+      "una sequenza segnale riconosciuta da SRP",
+      "un'àncora GPI"
+    ],
+    "ex": "NLS + importinas, através do poro nuclear."
+  },
+  {
+    "id": "m59",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La N-glicosilazione delle proteine inizia:",
+    "opts": [
+      "nel lume del RE ruvido, su residui di asparagina",
+      "nel citosol",
+      "nei lisosomi",
+      "nella matrice mitocondriale",
+      "nel nucleo"
+    ],
+    "ex": "O oligossacarídeo é transferido em bloco no RE e depois modificado no Golgi."
+  },
+  {
+    "id": "m60",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il ciclo di Krebs, per ogni acetil-CoA, produce:",
+    "opts": [
+      "3 NADH, 1 FADH₂, 1 GTP (o ATP) e 2 CO₂",
+      "2 ATP e 2 piruvato",
+      "1 NADH e 1 ATP",
+      "6 NADH e 2 FADH₂",
+      "36 ATP"
+    ],
+    "ex": "Por glicose (2 acetil-CoA), o dobro."
+  },
+  {
+    "id": "m61",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La piruvato deidrogenasi converte il piruvato in:",
+    "opts": [
+      "acetil-CoA, producendo NADH e CO₂",
+      "lattato",
+      "glucosio",
+      "ossalacetato",
+      "etanolo"
+    ],
+    "ex": "Ocorre na matriz mitocondrial e liga a glicólise ao Krebs."
+  },
+  {
+    "id": "m62",
+    "tipo": "mc",
+    "u": 5,
+    "q": "In assenza di ossigeno, nel muscolo il piruvato è convertito in:",
+    "opts": [
+      "lattato, rigenerando NAD⁺",
+      "acetil-CoA",
+      "etanolo e CO₂",
+      "citrato",
+      "glucosio"
+    ],
+    "ex": "Fermentação lática: regenera NAD⁺ para a glicólise continuar."
+  },
+  {
+    "id": "m63",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La clatrina è coinvolta in:",
+    "opts": [
+      "endocitosi mediata da recettori e gemmazione dal trans-Golgi",
+      "trasporto RE → Golgi",
+      "fusione delle vescicole",
+      "polimerizzazione dei microtubuli",
+      "importazione nucleare"
+    ],
+    "ex": "RE → Golgi usa COPII; fusão usa SNARE."
+  },
+  {
+    "id": "m64",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le proteine RAB sono:",
+    "opts": [
+      "piccole GTPasi che danno identità alle vescicole e ne regolano il traffico",
+      "proteine motrici",
+      "recettori tirosin-chinasici",
+      "componenti della lamina nucleare",
+      "enzimi lisosomiali"
+    ],
+    "ex": "Cada compartimento tem suas RAB."
+  },
+  {
+    "id": "m65",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il pH acido dei lisosomi (circa 5) è mantenuto da:",
+    "opts": [
+      "pompe protoniche di tipo V (V-ATPasi)",
+      "pompa Na⁺/K⁺",
+      "ATP sintasi di tipo F",
+      "acquaporine",
+      "canali per il K⁺"
+    ],
+    "ex": "A V-ATPase bombeia H⁺ para dentro do lisossomo."
+  },
+  {
+    "id": "m66",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Le lamine nucleari appartengono a:",
+    "opts": [
+      "filamenti intermedi",
+      "microtubuli",
+      "microfilamenti",
+      "proteine SNARE",
+      "proteine G"
+    ],
+    "ex": "Formam a lâmina nuclear sob o envelope."
+  },
+  {
+    "id": "m67",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il centrosoma è il principale centro di organizzazione di:",
+    "opts": [
+      "microtubuli",
+      "filamenti di actina",
+      "filamenti intermedi",
+      "ribosomi",
+      "lisosomi"
+    ],
+    "ex": "MTOC: as extremidades − ficam no centrossomo."
+  },
+  {
+    "id": "m68",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Gli enzimi idrolitici dei lisosomi sono sintetizzati:",
+    "opts": [
+      "dai ribosomi associati al RE ruvido",
+      "dai ribosomi liberi nel citosol",
+      "nei perossisomi",
+      "nei mitocondri",
+      "nel nucleolo"
+    ],
+    "ex": "Seguem a via secretória: RE → Golgi → lisossomo."
+  },
+  {
+    "id": "m69",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il reticolo endoplasmatico liscio si occupa di:",
+    "opts": [
+      "sintesi dei lipidi, detossificazione e deposito di Ca²⁺",
+      "sintesi delle proteine di secrezione",
+      "sintesi dell'rRNA",
+      "digestione con idrolasi acide",
+      "fosforilazione ossidativa"
+    ],
+    "ex": "Síntese de proteínas de secreção é no RE rugoso."
+  },
+  {
+    "id": "m70",
+    "tipo": "mc",
+    "u": 3,
+    "q": "La DNA polimerasi sintetizza il nuovo filamento in direzione:",
+    "opts": [
+      "5'→3'",
+      "3'→5'",
+      "in entrambe le direzioni",
+      "dipende dal filamento",
+      "dal centromero al telomero"
+    ],
+    "ex": "Adiciona nucleotídeos à extremidade 3'-OH."
+  },
+  {
+    "id": "m71",
+    "tipo": "mc",
+    "u": 3,
+    "q": "La replicazione del DNA è semiconservativa perché:",
+    "opts": [
+      "ogni nuova doppia elica contiene un filamento parentale e uno nuovo",
+      "un'elica è tutta vecchia e l'altra tutta nuova",
+      "i filamenti si mescolano a caso",
+      "si conserva solo l'RNA",
+      "avviene solo in G2"
+    ],
+    "ex": "Demonstrado por Meselson e Stahl."
+  },
+  {
+    "id": "m72",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Durante la replicazione l'elicasi:",
+    "opts": [
+      "separa i due filamenti rompendo i legami a idrogeno",
+      "unisce i frammenti di Okazaki",
+      "sintetizza il primer",
+      "corregge gli errori",
+      "aggiunge i telomeri"
+    ],
+    "ex": "A topoisomerase alivia a torção à frente da forquilha."
+  },
+  {
+    "id": "m73",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Nei procarioti la sequenza di Shine-Dalgarno serve a:",
+    "opts": [
+      "posizionare il ribosoma vicino al codone di inizio",
+      "terminare la trascrizione",
+      "legare il repressore",
+      "aggiungere il cap",
+      "riconoscere il promotore"
+    ],
+    "ex": "Pareia com o rRNA 16S."
+  },
+  {
+    "id": "m74",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Nei batteri il fattore sigma (σ):",
+    "opts": [
+      "permette all'RNA polimerasi di riconoscere il promotore",
+      "termina la traduzione",
+      "lega l'operatore lac",
+      "aggiunge la coda poli-A",
+      "rimuove gli introni"
+    ],
+    "ex": "Sai depois do início da transcrição."
+  },
+  {
+    "id": "m75",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Nell'operone lac il repressore è inattivato da:",
+    "opts": [
+      "allolattosio",
+      "glucosio",
+      "cAMP",
+      "triptofano",
+      "β-galattosidasi"
+    ],
+    "ex": "O alolactose (isômero da lactose) é o indutor."
+  },
+  {
+    "id": "m76",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Le chaperonine (es. Hsp60/GroEL):",
+    "opts": [
+      "forniscono una camera isolata in cui la proteina si ripiega",
+      "degradano le proteine",
+      "aggiungono ubiquitina",
+      "trasportano proteine nel nucleo",
+      "sintetizzano peptidi"
+    ],
+    "ex": "Dobramento protegido, com gasto de ATP."
+  },
+  {
+    "id": "m77",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Lo splicing alternativo permette:",
+    "opts": [
+      "di ottenere proteine diverse da uno stesso gene",
+      "di replicare il DNA più velocemente",
+      "di eliminare il cap",
+      "di tradurre gli introni",
+      "di correggere mutazioni"
+    ],
+    "ex": "Combinações diferentes de éxons."
+  },
+  {
+    "id": "m78",
+    "tipo": "mc",
+    "u": 3,
+    "q": "I microRNA regolano l'espressione genica soprattutto:",
+    "opts": [
+      "legandosi alla 3' UTR degli mRNA e inibendone traduzione o stabilità",
+      "metilando il DNA",
+      "legando il promotore",
+      "aggiungendo il cap",
+      "modificando gli istoni"
+    ],
+    "ex": "Regulação pós-transcricional."
+  },
+  {
+    "id": "m79",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Il codice genetico è degenerato perché:",
+    "opts": [
+      "più codoni codificano lo stesso amminoacido",
+      "un codone codifica più amminoacidi",
+      "non è universale",
+      "è letto in modo sovrapposto",
+      "contiene introni"
+    ],
+    "ex": "64 códons para 20 aminoácidos."
+  },
+  {
+    "id": "m80",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Una mutazione missenso:",
+    "opts": [
+      "sostituisce un amminoacido con un altro",
+      "introduce un codone di stop",
+      "non cambia l'amminoacido",
+      "sposta il modulo di lettura",
+      "elimina un gene"
+    ],
+    "ex": "Ex.: anemia falciforme (Glu → Val)."
+  },
+  {
+    "id": "m81",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Il mismatch repair corregge:",
+    "opts": [
+      "errori di appaiamento lasciati dalla DNA polimerasi",
+      "rotture a doppio filamento",
+      "traslocazioni",
+      "aneuploidie",
+      "dimeri di timina in via esclusiva"
+    ],
+    "ex": "Defeitos causam a síndrome de Lynch."
+  },
+  {
+    "id": "m82",
+    "tipo": "mc",
+    "u": 4,
+    "q": "I dimeri di pirimidina indotti dagli UV sono riparati soprattutto da:",
+    "opts": [
+      "riparazione per escissione di nucleotidi (NER)",
+      "NHEJ",
+      "mismatch repair",
+      "ricombinazione omologa",
+      "telomerasi"
+    ],
+    "ex": "Defeito em NER: xeroderma pigmentoso."
+  },
+  {
+    "id": "m83",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Incrocio AaBb × AaBb con geni indipendenti: rapporto fenotipico:",
+    "opts": [
+      "9:3:3:1",
+      "3:1",
+      "1:1:1:1",
+      "1:2:1",
+      "9:7"
+    ],
+    "ex": "Segunda lei de Mendel."
+  },
+  {
+    "id": "m84",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Incrocio Aa × aa: probabilità di un figlio con fenotipo recessivo:",
+    "opts": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "0",
+      "1"
+    ],
+    "ex": "Cruzamento-teste: metade Aa, metade aa."
+  },
+  {
+    "id": "m85",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Malattia presente in ogni generazione, in maschi e femmine, con rischio del 50% per ogni figlio di un affetto:",
+    "opts": [
+      "autosomica dominante",
+      "autosomica recessiva",
+      "X-linked recessiva",
+      "mitocondriale",
+      "Y-linked"
+    ],
+    "ex": "Padrão vertical, sem preferência de sexo."
+  },
+  {
+    "id": "m86",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Due genitori sani hanno un figlio con fibrosi cistica (AR). Rischio per il figlio successivo:",
+    "opts": [
+      "1/4",
+      "1/2",
+      "0",
+      "3/4",
+      "1"
+    ],
+    "ex": "Os dois pais são Aa."
+  },
+  {
+    "id": "m87",
+    "tipo": "mc",
+    "u": 4,
+    "q": "Una traslocazione robertsoniana è:",
+    "opts": [
+      "la fusione di due cromosomi acrocentrici a livello dei centromeri",
+      "un'inversione di un segmento",
+      "la perdita di un cromosoma",
+      "la duplicazione del cromosoma Y",
+      "una triploidia"
+    ],
+    "ex": "Causa de cerca de 4% dos casos de Down."
+  },
+  {
+    "id": "m88",
+    "tipo": "mc",
+    "u": 4,
+    "q": "La poliploidia è:",
+    "opts": [
+      "la presenza di interi corredi cromosomici in più (es. 3n)",
+      "un cromosoma in più",
+      "la perdita di un cromosoma",
+      "uno scambio tra cromosomi non omologhi",
+      "un'inversione pericentrica"
+    ],
+    "ex": "Aneuploidia afeta só alguns cromossomos."
+  },
+  {
+    "id": "m89",
+    "tipo": "mc",
+    "u": 7,
+    "q": "La ciclina che con CDK1 controlla l'ingresso in mitosi è:",
+    "opts": [
+      "ciclina B",
+      "ciclina D",
+      "ciclina E",
+      "ciclina C",
+      "nessuna"
+    ],
+    "ex": "Ciclina D/E controlam G1/S."
+  },
+  {
+    "id": "m90",
+    "tipo": "mc",
+    "u": 7,
+    "q": "p21 è:",
+    "opts": [
+      "un inibitore delle CDK indotto da p53",
+      "un oncogene",
+      "una caspasi",
+      "una ciclina mitotica",
+      "un recettore di morte"
+    ],
+    "ex": "Bloqueia o ciclo quando há dano."
+  },
+  {
+    "id": "m91",
+    "tipo": "mc",
+    "u": 7,
+    "q": "In quale fase della mitosi si separano i cromatidi fratelli?",
+    "opts": [
+      "anafase",
+      "profase",
+      "metafase",
+      "telofase",
+      "prometafase"
+    ],
+    "ex": "Depois que a separase cliva a coesina."
+  },
+  {
+    "id": "m92",
+    "tipo": "mc",
+    "u": 7,
+    "q": "La meiosi I è detta riduzionale perché:",
+    "opts": [
+      "separa i cromosomi omologhi, dimezzando il numero di cromosomi",
+      "separa i cromatidi fratelli",
+      "raddoppia il DNA",
+      "produce cellule diploidi",
+      "avviene senza fuso"
+    ],
+    "ex": "A meiose II separa as cromátides."
+  },
+  {
+    "id": "m93",
+    "tipo": "mc",
+    "u": 7,
+    "q": "BCL-2 è:",
+    "opts": [
+      "una proteina anti-apoptotica che impedisce la MOMP",
+      "una caspasi effettrice",
+      "un recettore di morte",
+      "un attivatore di Apaf-1",
+      "un oncosoppressore pro-apoptotico"
+    ],
+    "ex": "BAX e BAK são pró-apoptóticas."
+  },
+  {
+    "id": "m94",
+    "tipo": "mc",
+    "u": 7,
+    "q": "L'HPV favorisce il cancro perché le sue proteine E6 ed E7:",
+    "opts": [
+      "inattivano rispettivamente p53 e Rb",
+      "attivano le caspasi",
+      "riparano il DNA",
+      "inibiscono Ras",
+      "bloccano la telomerasi"
+    ],
+    "ex": "Exemplo de vírus oncogênico."
+  },
+  {
+    "id": "m95",
+    "tipo": "mc",
+    "u": 7,
+    "q": "Un gene oncosoppressore contribuisce al tumore di solito quando:",
+    "opts": [
+      "entrambi gli alleli sono inattivati",
+      "un solo allele è attivato",
+      "è amplificato",
+      "è sovraespresso",
+      "acquista una nuova funzione"
+    ],
+    "ex": "Hipótese dos dois eventos de Knudson."
+  },
+  {
+    "id": "m96",
+    "tipo": "mc",
+    "u": 7,
+    "q": "Nell'oogenesi umana, da ogni ovocita primario si ottengono:",
+    "opts": [
+      "1 cellula uovo e i globuli polari",
+      "4 cellule uovo",
+      "2 cellule uovo",
+      "1 cellula diploide",
+      "4 spermatozoi"
+    ],
+    "ex": "Na espermatogênese saem 4 espermatozoides."
+  },
+  {
+    "id": "m97",
+    "tipo": "mc",
+    "u": 6,
+    "q": "La proteina chinasi A (PKA) è attivata da:",
+    "opts": [
+      "cAMP",
+      "IP₃",
+      "DAG",
+      "cGMP",
+      "Ras"
+    ],
+    "ex": "DAG ativa a PKC; cGMP ativa a PKG."
+  },
+  {
+    "id": "m98",
+    "tipo": "mc",
+    "u": 6,
+    "q": "L'IP₃ agisce:",
+    "opts": [
+      "legando canali del RE che liberano Ca²⁺",
+      "attivando l'adenilato ciclasi",
+      "fosforilando Rb",
+      "legando le integrine",
+      "attivando Ras"
+    ],
+    "ex": "O Ca²⁺ liberado age como segundo mensageiro."
+  },
+  {
+    "id": "m99",
+    "tipo": "mc",
+    "u": 6,
+    "q": "L'ossido nitrico (NO) agisce:",
+    "opts": [
+      "diffondendo nella cellula bersaglio e attivando la guanilato ciclasi",
+      "legando recettori tirosin-chinasici",
+      "tramite proteine Gq",
+      "aprendo canali per il Na⁺",
+      "come ormone steroideo"
+    ],
+    "ex": "Gás que atravessa membranas; produz cGMP."
+  },
+  {
+    "id": "m100",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Il recettore dell'insulina è:",
+    "opts": [
+      "un recettore tirosin-chinasico",
+      "un recettore accoppiato a proteine G",
+      "un recettore intracellulare",
+      "un canale ionico",
+      "un'integrina"
+    ],
+    "ex": "Como o receptor de EGF."
+  },
+  {
+    "id": "m101",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Le caderine mediano adesioni:",
+    "opts": [
+      "cellula-cellula, calcio-dipendenti",
+      "cellula-matrice",
+      "solo tra neuroni",
+      "indipendenti dal calcio",
+      "tra organelli"
+    ],
+    "ex": "Célula-matriz é papel das integrinas."
+  },
+  {
+    "id": "m102",
+    "tipo": "mc",
+    "u": 6,
+    "q": "La segnalazione paracrina:",
+    "opts": [
+      "agisce su cellule vicine tramite molecole secrete",
+      "agisce sulla stessa cellula che secerne",
+      "usa il sangue per raggiungere organi lontani",
+      "richiede contatto diretto di membrana",
+      "avviene solo nelle sinapsi"
+    ],
+    "ex": "Autócrina = a própria célula; endócrina = via sangue."
+  },
+  {
+    "id": "m103",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Le giunzioni strette (tight junctions):",
+    "opts": [
+      "sigillano lo spazio tra cellule epiteliali e sono formate da claudine e occludine",
+      "permettono il passaggio di ioni tra cellule",
+      "ancorano le cellule alla lamina basale",
+      "sono formate da connessine",
+      "contengono integrine"
+    ],
+    "ex": "Passagem entre células é das junções comunicantes."
+  },
+  {
+    "id": "m104",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Le transferasi:",
+    "opts": [
+      "trasferiscono gruppi funzionali da una molecola a un'altra",
+      "idrolizzano legami con acqua",
+      "catalizzano ossidoriduzioni",
+      "isomerizzano molecole",
+      "uniscono molecole usando ATP"
+    ],
+    "ex": "Quinases são transferases."
+  },
+  {
+    "id": "m105",
+    "tipo": "mc",
+    "u": 1,
+    "q": "I retrovirus:",
+    "opts": [
+      "hanno genoma a RNA e usano la trascrittasi inversa per produrre DNA",
+      "hanno genoma a DNA a doppio filamento",
+      "non hanno capside",
+      "infettano solo batteri",
+      "non si integrano mai nel genoma"
+    ],
+    "ex": "Ex.: HIV; o DNA se integra no genoma do hospedeiro."
+  },
+  {
+    "id": "m106",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Il sito attivo di un enzima:",
+    "opts": [
+      "è la regione dove si lega il substrato e avviene la catalisi",
+      "è una sequenza di DNA",
+      "è il dominio transmembrana",
+      "è il sito di legame dell'ubiquitina",
+      "non cambia mai conformazione"
+    ],
+    "ex": "Modelo do encaixe induzido."
+  },
+  {
+    "id": "m107",
+    "tipo": "mc",
+    "u": 1,
+    "q": "L'acetilazione degli istoni in genere:",
+    "opts": [
+      "allenta la cromatina e favorisce la trascrizione",
+      "compatta la cromatina",
+      "degrada gli istoni",
+      "silenzia i geni",
+      "rompe il DNA"
+    ],
+    "ex": "Neutraliza a carga positiva das lisinas."
+  },
+  {
+    "id": "m108",
+    "tipo": "mc",
+    "u": 2,
+    "q": "Gli istoni sono ricchi di amminoacidi:",
+    "opts": [
+      "basici (lisina, arginina), carichi positivamente",
+      "acidi (aspartato, glutammato)",
+      "aromatici",
+      "solforati",
+      "idrofobici"
+    ],
+    "ex": "Ligam o DNA, que tem carga negativa."
+  },
+  {
+    "id": "m109",
+    "tipo": "mc",
+    "u": 2,
+    "q": "L'istone H1:",
+    "opts": [
+      "lega il DNA linker e favorisce la compattazione",
+      "fa parte dell'ottamero",
+      "degrada il DNA",
+      "è un'elicasi",
+      "esiste solo nei procarioti"
+    ],
+    "ex": "O octâmero é H2A, H2B, H3 e H4."
+  },
+  {
+    "id": "m110",
+    "tipo": "mc",
+    "u": 2,
+    "q": "La maggior parte del genoma umano è costituita da:",
+    "opts": [
+      "sequenze non codificanti, incluse quelle ripetute",
+      "geni codificanti proteine",
+      "geni per l'rRNA",
+      "DNA mitocondriale",
+      "telomeri"
+    ],
+    "ex": "Menos de 2% codifica proteínas."
+  },
+  {
+    "id": "m111",
+    "tipo": "mc",
+    "u": 2,
+    "q": "Le condensine:",
+    "opts": [
+      "partecipano alla condensazione dei cromosomi in mitosi",
+      "degradano l'mRNA",
+      "metilano il DNA",
+      "sono istoni",
+      "formano il nucleolo"
+    ],
+    "ex": "Coesinas mantêm as cromátides irmãs unidas."
+  },
+  {
+    "id": "m112",
+    "tipo": "mc",
+    "u": 1,
+    "q": "La struttura secondaria di una proteina (α-elica, foglietto β) è stabilizzata da:",
+    "opts": [
+      "legami idrogeno tra atomi dello scheletro peptidico",
+      "ponti disolfuro tra cisteine",
+      "interazioni idrofobiche tra catene laterali",
+      "legami peptidici tra subunità diverse",
+      "legami ionici con il DNA"
+    ],
+    "ex": "Secundária = pontes de H do esqueleto. As cadeias laterais definem a terciária."
+  },
+  {
+    "id": "m113",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Un dominio SH2 riconosce:",
+    "opts": [
+      "fosfotirosine",
+      "sequenze ricche in prolina",
+      "fosfoinositidi",
+      "ubiquitina",
+      "la sequenza KDEL"
+    ],
+    "ex": "SH2 → fosfotirosina (ex.: Grb2 no receptor tirosina-quinase); SH3 → prolina; PH → fosfoinositídeos."
+  },
+  {
+    "id": "m114",
+    "tipo": "mc",
+    "u": 1,
+    "q": "La denaturazione di una proteina:",
+    "opts": [
+      "distrugge le strutture secondaria, terziaria e quaternaria ma non i legami peptidici",
+      "rompe i legami peptidici",
+      "modifica la sequenza degli amminoacidi",
+      "aggiunge ponti disolfuro",
+      "avviene solo nei procarioti"
+    ],
+    "ex": "A estrutura primária (a sequência) permanece."
+  },
+  {
+    "id": "m115",
+    "tipo": "mc",
+    "u": 2,
+    "q": "Quale percentuale approssimativa del genoma umano codifica proteine?",
+    "opts": [
+      "meno del 2%",
+      "circa il 25%",
+      "circa il 50%",
+      "circa il 75%",
+      "oltre il 90%"
+    ],
+    "ex": "Menos de 2% é codificante; cerca de metade é sequência repetida."
+  },
+  {
+    "id": "m116",
+    "tipo": "mc",
+    "u": 2,
+    "q": "Il DNA mitocondriale umano:",
+    "opts": [
+      "è circolare, contiene 37 geni e si eredita per via materna",
+      "è lineare e possiede telomeri",
+      "codifica tutte le proteine mitocondriali",
+      "si eredita da entrambi i genitori",
+      "contiene circa 20.000 geni"
+    ],
+    "ex": "Cerca de 16,5 kb e 37 genes (13 proteínas, 22 tRNA, 2 rRNA); o resto das proteínas vem do núcleo."
+  },
+  {
+    "id": "m117",
+    "tipo": "mc",
+    "u": 2,
+    "q": "Un cromosoma eucariotico lineare, per essere replicato e segregato correttamente, necessita di:",
+    "opts": [
+      "origini di replicazione, centromero e telomeri",
+      "solo un centromero",
+      "un'unica origine di replicazione",
+      "plasmidi",
+      "un operone"
+    ],
+    "ex": "Origens para replicar, centrômero para o cinetócoro e telômeros para proteger as pontas."
+  },
+  {
+    "id": "m118",
+    "tipo": "mc",
+    "u": 5,
+    "q": "Il citocromo P450, coinvolto nella detossificazione dei farmaci, si trova principalmente:",
+    "opts": [
+      "nel RE liscio degli epatociti",
+      "nel Golgi",
+      "nei lisosomi",
+      "nel nucleolo",
+      "nel citosol libero"
+    ],
+    "ex": "O RE liso do hepatócito concentra as enzimas P450."
+  },
+  {
+    "id": "m119",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La glicosilazione O-legata avviene principalmente:",
+    "opts": [
+      "nel Golgi, su serina o treonina",
+      "nel RE, su asparagina",
+      "nel citosol",
+      "nei perossisomi",
+      "nel nucleo"
+    ],
+    "ex": "A N-glicosilação (Asn) começa no RE; a O-glicosilação (Ser/Thr) é feita no Golgi."
+  },
+  {
+    "id": "m120",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Le istone deacetilasi (HDAC):",
+    "opts": [
+      "rimuovono gruppi acetile e favoriscono la compattazione della cromatina",
+      "aggiungono acetili e attivano i geni",
+      "metilano il DNA",
+      "fosforilano gli istoni",
+      "degradano gli istoni"
+    ],
+    "ex": "Sem o acetil, as lisinas voltam a ser positivas e prendem o DNA: a cromatina fecha."
+  },
+  {
+    "id": "m121",
+    "tipo": "mc",
+    "u": 1,
+    "q": "Le deubiquitinasi (DUB):",
+    "opts": [
+      "rimuovono l'ubiquitina dalle proteine",
+      "aggiungono ubiquitina",
+      "sono subunità del proteasoma 20S",
+      "fosforilano l'ubiquitina",
+      "attivano la E1"
+    ],
+    "ex": "São o par «apagador» das ubiquitina ligases."
+  },
+  {
+    "id": "m122",
+    "tipo": "mc",
+    "u": 5,
+    "q": "La sindrome di Zellweger è dovuta a:",
+    "opts": [
+      "un difetto nella biogenesi dei perossisomi",
+      "un difetto della sola catalasi",
+      "una mutazione del DNA mitocondriale",
+      "un difetto lisosomiale",
+      "un accumulo di glicogeno"
+    ],
+    "ex": "Mutações nas peroxinas (PEX) impedem a formação do peroxissomo."
+  },
+  {
+    "id": "m123",
+    "tipo": "mc",
+    "u": 1,
+    "q": "I virus con envelope:",
+    "opts": [
+      "hanno una membrana derivata dalla cellula ospite e sono sensibili a detergenti e alcol",
+      "non hanno capside",
+      "hanno sempre genoma a DNA",
+      "non possono infettare cellule animali",
+      "sono resistenti all'alcol"
+    ],
+    "ex": "O envelope vem da membrana da célula e se desfaz com álcool e detergente."
+  },
+  {
+    "id": "m124",
+    "tipo": "mc",
+    "u": 3,
+    "q": "Lo spliceosoma riconosce in un introne:",
+    "opts": [
+      "GU all'estremità 5', un'adenina di ramificazione e AG all'estremità 3'",
+      "la sequenza AAUAAA",
+      "il cappuccio 5'",
+      "la sequenza di Shine-Dalgarno",
+      "il codone AUG"
+    ],
+    "ex": "GU…A…AG: é por isso que mutações nesses pontos alteram o splicing."
+  },
+  {
+    "id": "m125",
+    "tipo": "mc",
+    "u": 7,
+    "q": "L'amplificazione di HER2 nel cancro della mammella è un esempio di:",
+    "opts": [
+      "attivazione di un proto-oncogene per amplificazione genica",
+      "perdita di un oncosoppressore",
+      "mutazione puntiforme di Ras",
+      "traslocazione 9;22",
+      "infezione virale"
+    ],
+    "ex": "Muitas cópias do gene = receptor em excesso = sinal de proliferação; tratado com trastuzumabe."
+  },
+  {
+    "id": "m126",
+    "tipo": "mc",
+    "u": 6,
+    "q": "Il legame dell'insulina al suo recettore porta, nel muscolo, a:",
+    "opts": [
+      "traslocazione di GLUT4 alla membrana tramite IRS-1, PI3K e Akt",
+      "apertura di canali per il Na⁺",
+      "aumento di cAMP tramite Gs",
+      "attivazione di un recettore nucleare",
+      "rimozione dei GLUT4 dalla membrana"
+    ],
+    "ex": "Receptor tirosina-quinase → IRS-1 → PI3K → Akt → GLUT4 vai à membrana e a glicose entra."
+  },
+  {
+    "id": "c0",
+    "tipo": "cp",
+    "u": 7,
+    "q": "Il fattore di trascrizione rilasciato quando Rb viene fosforilata si chiama ____.",
+    "acc": [
+      "e2f"
+    ],
+    "ex": "E2F ativa os genes da fase S."
+  },
+  {
+    "id": "c1",
+    "tipo": "cp",
+    "u": 7,
+    "q": "Il complesso formato da citocromo c, Apaf-1 e caspasi-9 si chiama ____.",
+    "acc": [
+      "apoptosoma"
+    ],
+    "ex": "Via intrínseca."
+  },
+  {
+    "id": "c2",
+    "tipo": "cp",
+    "u": 7,
+    "q": "Le proteasi che eseguono l'apoptosi si chiamano ____.",
+    "acc": [
+      "caspasi"
+    ],
+    "ex": "Iniciadoras 8 e 9; executoras 3 e 7."
+  },
+  {
+    "id": "c3",
+    "tipo": "cp",
+    "u": 5,
+    "q": "La particella che riconosce la sequenza segnale e la porta al RE si chiama ____ (sigla).",
+    "acc": [
+      "srp"
+    ],
+    "ex": "Signal Recognition Particle."
+  },
+  {
+    "id": "c4",
+    "tipo": "cp",
+    "u": 5,
+    "q": "Il canale proteico attraverso cui il polipeptide entra nel RE si chiama ____.",
+    "acc": [
+      "traslocone",
+      "sec61"
+    ],
+    "ex": "Translocon (Sec61)."
+  },
+  {
+    "id": "c5",
+    "tipo": "cp",
+    "u": 5,
+    "q": "La via di degradazione delle proteine mal ripiegate del RE ha la sigla ____.",
+    "acc": [
+      "erad"
+    ],
+    "ex": "ER-associated degradation."
+  },
+  {
+    "id": "c6",
+    "tipo": "cp",
+    "u": 5,
+    "q": "L'enzima che produce ATP sfruttando il gradiente di H⁺ mitocondriale è l'ATP ____.",
+    "acc": [
+      "sintasi",
+      "sintetasi"
+    ],
+    "ex": "ATP sintase (complexo V)."
+  },
+  {
+    "id": "c7",
+    "tipo": "cp",
+    "u": 5,
+    "q": "Le proteine motrici che si muovono verso l'estremità + dei microtubuli sono le ____.",
+    "acc": [
+      "chinesine",
+      "chinesina"
+    ],
+    "ex": "Cinesinas → +; dineínas → −."
+  },
+  {
+    "id": "c8",
+    "tipo": "cp",
+    "u": 5,
+    "q": "La sequenza C-terminale che trattiene le proteine solubili nel RE è ____.",
+    "acc": [
+      "kdel"
+    ],
+    "ex": "Lys-Asp-Glu-Leu."
+  },
+  {
+    "id": "c9",
+    "tipo": "cp",
+    "u": 5,
+    "q": "Le vescicole che vanno dal RE al Golgi sono rivestite da ____.",
+    "acc": [
+      "copii",
+      "cop ii",
+      "cop2"
+    ],
+    "ex": "COPII anterógrado."
+  },
+  {
+    "id": "c10",
+    "tipo": "cp",
+    "u": 3,
+    "q": "L'enzima che allunga i telomeri usando un proprio stampo di RNA si chiama ____.",
+    "acc": [
+      "telomerasi"
+    ],
+    "ex": "Transcriptase reversa com RNA próprio."
+  },
+  {
+    "id": "c11",
+    "tipo": "cp",
+    "u": 3,
+    "q": "I frammenti di DNA sintetizzati sul filamento lento si chiamano frammenti di ____.",
+    "acc": [
+      "okazaki"
+    ],
+    "ex": "Depois unidos pela ligase."
+  },
+  {
+    "id": "c12",
+    "tipo": "cp",
+    "u": 3,
+    "q": "Il codone di inizio della traduzione è ____.",
+    "acc": [
+      "aug"
+    ],
+    "ex": "Codifica metionina."
+  },
+  {
+    "id": "c13",
+    "tipo": "cp",
+    "u": 3,
+    "q": "Il complesso che degrada le proteine poliubiquitinate è il ____.",
+    "acc": [
+      "proteasoma",
+      "proteasoma 26s"
+    ],
+    "ex": "Proteassomo 26S."
+  },
+  {
+    "id": "c14",
+    "tipo": "cp",
+    "u": 4,
+    "q": "Il cariotipo della sindrome di Klinefelter è 47,____.",
+    "acc": [
+      "xxy"
+    ],
+    "ex": "Homem com um X extra."
+  },
+  {
+    "id": "c15",
+    "tipo": "cp",
+    "u": 4,
+    "q": "Oltre alla ricombinazione omologa, l'altra via di riparazione delle rotture a doppio filamento ha la sigla ____.",
+    "acc": [
+      "nhej"
+    ],
+    "ex": "Non-homologous end joining."
+  },
+  {
+    "id": "c16",
+    "tipo": "cp",
+    "u": 4,
+    "q": "Una mutazione che sposta il modulo di lettura si chiama mutazione ____.",
+    "acc": [
+      "frameshift"
+    ],
+    "ex": "Inserção ou deleção fora de múltiplos de 3."
+  },
+  {
+    "id": "c17",
+    "tipo": "cp",
+    "u": 6,
+    "q": "Il secondo messaggero prodotto dall'adenilato ciclasi è il ____ (sigla).",
+    "acc": [
+      "camp",
+      "ampc",
+      "amp ciclico"
+    ],
+    "ex": "AMP cíclico, que ativa a PKA."
+  },
+  {
+    "id": "c18",
+    "tipo": "cp",
+    "u": 6,
+    "q": "Le proteine che favoriscono lo scambio GDP→GTP sulle GTPasi si chiamano ____ (sigla).",
+    "acc": [
+      "gef"
+    ],
+    "ex": "Guanine nucleotide exchange factors."
+  },
+  {
+    "id": "c19",
+    "tipo": "cp",
+    "u": 6,
+    "q": "Le giunzioni comunicanti sono formate da proteine chiamate ____.",
+    "acc": [
+      "connessine"
+    ],
+    "ex": "Seis conexinas formam um conexon."
+  },
+  {
+    "id": "c20",
+    "tipo": "cp",
+    "u": 1,
+    "q": "Il trasferimento di DNA tra batteri tramite contatto diretto (pilo) si chiama ____.",
+    "acc": [
+      "coniugazione"
+    ],
+    "ex": "Mediado por plasmídeo F."
+  },
+  {
+    "id": "c21",
+    "tipo": "cp",
+    "u": 1,
+    "q": "Gli enzimi che rimuovono gruppi fosfato dalle proteine si chiamano ____.",
+    "acc": [
+      "fosfatasi"
+    ],
+    "ex": "Contrário das quinases."
+  },
+  {
+    "id": "c22",
+    "tipo": "cp",
+    "u": 2,
+    "q": "Gli istoni del nucleosoma formano un ____ istonico.",
+    "acc": [
+      "ottamero"
+    ],
+    "ex": "Oito histonas."
+  },
+  {
+    "id": "c23",
+    "tipo": "cp",
+    "u": 2,
+    "q": "La cromatina condensata e trascrizionalmente inattiva si chiama ____.",
+    "acc": [
+      "eterocromatina"
+    ],
+    "ex": "Oposto de eucromatina."
+  },
+  {
+    "id": "c24",
+    "tipo": "cp",
+    "u": 5,
+    "q": "Il potenziale di membrana a riposo di un neurone è di circa ____ mV.",
+    "acc": [
+      "-70",
+      "meno 70"
+    ],
+    "ex": "−70 mV."
+  },
+  {
+    "id": "c25",
+    "tipo": "cp",
+    "u": 5,
+    "q": "I filamenti di actina sono chiamati anche ____.",
+    "acc": [
+      "microfilamenti"
+    ],
+    "ex": "Diâmetro de cerca de 7 nm."
+  },
+  {
+    "id": "c26",
+    "tipo": "cp",
+    "u": 5,
+    "q": "Le pompe che acidificano i lisosomi sono ATPasi di tipo ____.",
+    "acc": [
+      "v"
+    ],
+    "ex": "V-ATPase."
+  },
+  {
+    "id": "c27",
+    "tipo": "cp",
+    "u": 5,
+    "q": "L'organello che contiene la catalasi e degrada H₂O₂ è il ____.",
+    "acc": [
+      "perossisoma"
+    ],
+    "ex": "Peroxissomo."
+  },
+  {
+    "id": "c28",
+    "tipo": "cp",
+    "u": 5,
+    "q": "Il processo con cui la cellula degrada propri componenti racchiusi in vescicole a doppia membrana si chiama ____.",
+    "acc": [
+      "autofagia",
+      "macroautofagia"
+    ],
+    "ex": "Autofagossomo + lisossomo."
+  },
+  {
+    "id": "c29",
+    "tipo": "cp",
+    "u": 5,
+    "q": "La risposta all'accumulo di proteine mal ripiegate nel RE ha la sigla ____.",
+    "acc": [
+      "upr"
+    ],
+    "ex": "Unfolded protein response."
+  },
+  {
+    "id": "c30",
+    "tipo": "cp",
+    "u": 3,
+    "q": "L'enzima che unisce i frammenti di Okazaki è la DNA ____.",
+    "acc": [
+      "ligasi"
+    ],
+    "ex": "Forma a ligação fosfodiéster."
+  },
+  {
+    "id": "c31",
+    "tipo": "cp",
+    "u": 3,
+    "q": "L'enzima che sintetizza il primer di RNA è la ____.",
+    "acc": [
+      "primasi"
+    ],
+    "ex": "Primase."
+  },
+  {
+    "id": "c32",
+    "tipo": "cp",
+    "u": 3,
+    "q": "Le sequenze rimosse durante lo splicing si chiamano ____.",
+    "acc": [
+      "introni"
+    ],
+    "ex": "Os éxons permanecem."
+  },
+  {
+    "id": "c33",
+    "tipo": "cp",
+    "u": 3,
+    "q": "Nel ribosoma il tRNA che porta la catena polipeptidica in crescita occupa il sito ____.",
+    "acc": [
+      "p"
+    ],
+    "ex": "Sítio P (peptidil)."
+  },
+  {
+    "id": "c34",
+    "tipo": "cp",
+    "u": 3,
+    "q": "Lo zucchero che, legandosi al repressore, induce l'operone lac è l'____.",
+    "acc": [
+      "allolattosio"
+    ],
+    "ex": "Indutor natural."
+  },
+  {
+    "id": "c35",
+    "tipo": "cp",
+    "u": 4,
+    "q": "Il cariotipo della sindrome di Turner è 45,____.",
+    "acc": [
+      "x"
+    ],
+    "ex": "Monossomia do X."
+  },
+  {
+    "id": "c36",
+    "tipo": "cp",
+    "u": 4,
+    "q": "In un incrocio diibrido tra doppi eterozigoti il rapporto fenotipico è 9:3:3:____.",
+    "acc": [
+      "1"
+    ],
+    "ex": "9:3:3:1."
+  },
+  {
+    "id": "c37",
+    "tipo": "cp",
+    "u": 4,
+    "q": "Una malattia trasmessa dalla madre a tutti i figli è a eredità ____.",
+    "acc": [
+      "mitocondriale"
+    ],
+    "ex": "Mitocôndrias vêm do óvulo."
+  },
+  {
+    "id": "c38",
+    "tipo": "cp",
+    "u": 7,
+    "q": "La proteina oncosoppressore chiamata 'guardiano del genoma' è ____.",
+    "acc": [
+      "p53"
+    ],
+    "ex": "Ativa reparo, parada do ciclo ou apoptose."
+  },
+  {
+    "id": "c39",
+    "tipo": "cp",
+    "u": 7,
+    "q": "Il complesso che ubiquitina securina e ciclina B ha la sigla ____.",
+    "acc": [
+      "apc/c",
+      "apc"
+    ],
+    "ex": "Anaphase-promoting complex/cyclosome."
+  },
+  {
+    "id": "c40",
+    "tipo": "cp",
+    "u": 7,
+    "q": "Lo scambio di segmenti tra cromosomi omologhi nella profase I si chiama ____.",
+    "acc": [
+      "crossing-over"
+    ],
+    "ex": "Gera recombinação."
+  },
+  {
+    "id": "c41",
+    "tipo": "cp",
+    "u": 6,
+    "q": "La fosfolipasi C produce IP₃ e ____ (sigla).",
+    "acc": [
+      "dag",
+      "diacilglicerolo"
+    ],
+    "ex": "O DAG ativa a PKC."
+  },
+  {
+    "id": "c42",
+    "tipo": "cp",
+    "u": 6,
+    "q": "Le proteine che collegano la matrice extracellulare al citoscheletro si chiamano ____.",
+    "acc": [
+      "integrine"
+    ],
+    "ex": "Integrinas."
+  },
+  {
+    "id": "c43",
+    "tipo": "cp",
+    "u": 6,
+    "q": "Ras è attiva quando lega ____ (sigla).",
+    "acc": [
+      "gtp"
+    ],
+    "ex": "Ras-GTP ativa; Ras-GDP inativa."
+  },
+  {
+    "id": "c44",
+    "tipo": "cp",
+    "u": 1,
+    "q": "L'acquisizione di DNA libero dall'ambiente da parte di un batterio si chiama ____.",
+    "acc": [
+      "trasformazione"
+    ],
+    "ex": "Descoberta por Griffith."
+  },
+  {
+    "id": "c45",
+    "tipo": "cp",
+    "u": 2,
+    "q": "Gli elementi brevi intercalati ripetuti del genoma umano hanno la sigla ____.",
+    "acc": [
+      "sine"
+    ],
+    "ex": "Ex.: sequências Alu."
+  }
+]

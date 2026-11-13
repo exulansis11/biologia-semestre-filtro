@@ -1,0 +1,578 @@
+[
+  {
+    "id": "t1",
+    "nome": "Da membrana ao impulso nervoso",
+    "us": [
+      5
+    ],
+    "meta": "Explicar, sem consultar, por que o neurônio é negativo por dentro e como o impulso chega à sinapse.",
+    "p": [
+      [
+        "c",
+        "c5_1",
+        "Comece pela fronteira: o que atravessa a membrana e como."
+      ],
+      [
+        "m",
+        "bomba",
+        "Veja a bomba funcionando e o que a ouabaína faz com o SGLT1."
+      ],
+      [
+        "r",
+        "r5a",
+        "Teste a ideia mais cobrada: a bomba sustenta os outros transportes."
+      ],
+      [
+        "c",
+        "c5_2",
+        "Com os gradientes que a bomba cria, nasce a voltagem da membrana."
+      ],
+      [
+        "m",
+        "pot",
+        "Dispare potenciais de ação: limiar, refratário, TTX e K⁺ externo."
+      ],
+      [
+        "r",
+        "r5b",
+        "Aplique: mudar o K⁺ de fora muda o repouso."
+      ],
+      [
+        "c",
+        "c5_9",
+        "No fim do axônio, o impulso vira exocitose: entram as SNARE."
+      ],
+      [
+        "q",
+        5,
+        "Feche com questões da unidade."
+      ]
+    ]
+  },
+  {
+    "id": "t2",
+    "nome": "Do DNA à proteína",
+    "us": [
+      2,
+      3
+    ],
+    "meta": "Contar a história completa de um gene: como está guardado, copiado, lido, processado e traduzido.",
+    "p": [
+      [
+        "c",
+        "c2_2",
+        "Primeiro, como o DNA está empacotado e por que isso controla o acesso."
+      ],
+      [
+        "c",
+        "c3_1",
+        "Antes de ler, a célula copia: replicação."
+      ],
+      [
+        "c",
+        "c3_2",
+        "Os genes de bactéria e de eucarioto são organizados de forma diferente."
+      ],
+      [
+        "c",
+        "c3_3",
+        "A leitura começa: transcrição e sua regulação."
+      ],
+      [
+        "r",
+        "r3a",
+        "O operon lac é o modelo de regulação mais cobrado."
+      ],
+      [
+        "m",
+        "lac",
+        "Monte os cenários do operon, inclusive os mutantes, e preveja antes de ver."
+      ],
+      [
+        "r",
+        "r3f",
+        "Um mutante constitutivo."
+      ],
+      [
+        "r",
+        "r3b",
+        "Treine a regra da complementaridade e das pontas 5'/3'."
+      ],
+      [
+        "r",
+        "k6",
+        "Complete: o indutor do lac."
+      ],
+      [
+        "c",
+        "c3_5",
+        "O RNA recém-feito ainda precisa amadurecer."
+      ],
+      [
+        "r",
+        "r3d",
+        "Veja o que acontece quando um sinal de splicing falha."
+      ],
+      [
+        "c",
+        "c3_6",
+        "O mRNA maduro vai ao ribossomo: tradução."
+      ],
+      [
+        "m",
+        "gene",
+        "Edite o gene da β-globina e traduza: veja cada tipo de mutação."
+      ],
+      [
+        "r",
+        "k5",
+        "Complete: os sítios do ribossomo."
+      ],
+      [
+        "r",
+        "r3c",
+        "Uma troca de base pode virar um stop."
+      ],
+      [
+        "c",
+        "c3_7",
+        "A proteína precisa dobrar, e um dia será degradada."
+      ],
+      [
+        "c",
+        "c3_4",
+        "Visão de conjunto: em que pontos dá para regular tudo isso."
+      ],
+      [
+        "q",
+        3,
+        "Feche com questões da unidade."
+      ]
+    ]
+  },
+  {
+    "id": "t3",
+    "nome": "O endereço de uma proteína",
+    "us": [
+      5
+    ],
+    "meta": "Seguir uma proteína do ribossomo até o destino e dizer qual sinal a leva até lá.",
+    "p": [
+      [
+        "c",
+        "c3_6",
+        "Toda proteína nasce num ribossomo do citosol."
+      ],
+      [
+        "c",
+        "c5_8",
+        "O sinal decide: citosol, RE, mitocôndria, núcleo ou peroxissomo. No RE, há controle de qualidade."
+      ],
+      [
+        "c",
+        "c5_7",
+        "Do RE ao Golgi: glicosilação e triagem."
+      ],
+      [
+        "c",
+        "c5_9",
+        "As vesículas transportam e entregam no lugar certo."
+      ],
+      [
+        "r",
+        "r5h",
+        "KDEL e COPI."
+      ],
+      [
+        "r",
+        "r5c",
+        "Teste: o que acontece com quem não tem um segundo sinal?"
+      ],
+      [
+        "c",
+        "c5_10",
+        "O outro destino da via: lisossomo, e a entrada pela endocitose."
+      ],
+      [
+        "r",
+        "r5d",
+        "Caso clínico de endereçamento errado."
+      ],
+      [
+        "m",
+        "ender",
+        "Jogo: leia os sinais e mande cada proteína ao destino."
+      ],
+      [
+        "q",
+        5,
+        "Feche com questões da unidade."
+      ]
+    ]
+  },
+  {
+    "id": "t4",
+    "nome": "Energia: da glicose ao ATP",
+    "us": [
+      1,
+      5
+    ],
+    "meta": "Dizer onde acontece cada etapa, o que ela rende e o que a bloqueia.",
+    "p": [
+      [
+        "c",
+        "c1_4",
+        "As enzimas fazem cada passo acontecer; entenda como são reguladas."
+      ],
+      [
+        "r",
+        "r1b",
+        "Inibição competitiva e não competitiva."
+      ],
+      [
+        "c",
+        "c5_4",
+        "Glicólise no citosol e Krebs na matriz."
+      ],
+      [
+        "c",
+        "c5_5",
+        "A cadeia respiratória transforma NADH em ATP."
+      ],
+      [
+        "m",
+        "cadeia",
+        "Teste os inibidores e o desacoplador."
+      ],
+      [
+        "r",
+        "r5g",
+        "Desacoplador: O₂ sobe, ATP cai."
+      ],
+      [
+        "r",
+        "r5e",
+        "O que acontece quando um complexo é bloqueado."
+      ],
+      [
+        "c",
+        "c5_6",
+        "O peroxissomo cuida dos ácidos graxos que a mitocôndria não consegue começar."
+      ],
+      [
+        "q",
+        5,
+        "Feche com questões da unidade."
+      ]
+    ]
+  },
+  {
+    "id": "t5",
+    "nome": "Do sinal à divisão — e ao câncer",
+    "us": [
+      6,
+      7
+    ],
+    "meta": "Ligar um fator de crescimento na membrana à entrada em fase S, e mostrar onde o câncer quebra essa cadeia.",
+    "p": [
+      [
+        "c",
+        "c6_1",
+        "A célula sente o ambiente: matriz, adesão e junções."
+      ],
+      [
+        "r",
+        "r6c",
+        "Qual junção liga uma célula à outra por dentro?"
+      ],
+      [
+        "c",
+        "c6_2",
+        "Tipos de sinal e de receptor."
+      ],
+      [
+        "c",
+        "c6_3",
+        "A proteína G e os segundos mensageiros."
+      ],
+      [
+        "m",
+        "sinal",
+        "Ative as cascatas passo a passo e aplique toxinas e inibidores."
+      ],
+      [
+        "r",
+        "r6a",
+        "Caso clínico: cólera."
+      ],
+      [
+        "c",
+        "c6_4",
+        "Os fatores de crescimento agem por RTK e Ras-MAPK."
+      ],
+      [
+        "r",
+        "r6b",
+        "Quando a Ras não desliga."
+      ],
+      [
+        "c",
+        "c7_1",
+        "A ERK leva à ciclina D: começa o ciclo celular."
+      ],
+      [
+        "m",
+        "ciclo",
+        "Ligue mutações e HPV e preveja se a célula entra em S."
+      ],
+      [
+        "r",
+        "r7a",
+        "Perder um freio do ciclo."
+      ],
+      [
+        "c",
+        "c7_2",
+        "Oncogenes, supressores e vírus que sequestram o ciclo."
+      ],
+      [
+        "r",
+        "r7b",
+        "HPV: E6 e E7."
+      ],
+      [
+        "c",
+        "c7_5",
+        "Quando o dano é grande demais, a célula deve morrer."
+      ],
+      [
+        "r",
+        "r7d",
+        "Quem solta o citocromo c."
+      ],
+      [
+        "q",
+        7,
+        "Feche com questões da unidade."
+      ]
+    ]
+  },
+  {
+    "id": "t6",
+    "nome": "Do erro no DNA ao heredograma",
+    "us": [
+      4,
+      7
+    ],
+    "meta": "Partir de uma mutação e chegar ao risco de um casal ter um filho afetado.",
+    "p": [
+      [
+        "c",
+        "c4_1",
+        "O que é uma mutação e de onde ela vem."
+      ],
+      [
+        "c",
+        "c4_2",
+        "A célula conserta a maior parte dos danos."
+      ],
+      [
+        "r",
+        "r4e",
+        "Qual reparo falha no xeroderma pigmentoso."
+      ],
+      [
+        "c",
+        "c7_4",
+        "Meiose: como os cromossomos chegam aos gametas."
+      ],
+      [
+        "r",
+        "r7c",
+        "Não-disjunção em meiose II."
+      ],
+      [
+        "m",
+        "meiose",
+        "Acompanhe a meiose com e sem não-disjunção."
+      ],
+      [
+        "c",
+        "c4_3",
+        "Cariótipo e alterações cromossômicas."
+      ],
+      [
+        "r",
+        "r4d",
+        "Translocação robertsoniana."
+      ],
+      [
+        "c",
+        "c4_4",
+        "As leis de Mendel e o cálculo de probabilidades."
+      ],
+      [
+        "r",
+        "r4b",
+        "Regra do produto."
+      ],
+      [
+        "r",
+        "r4c",
+        "O 2/3 clássico."
+      ],
+      [
+        "m",
+        "punnett",
+        "Monte cruzamentos no quadro de Punnett."
+      ],
+      [
+        "c",
+        "c4_5",
+        "Juntando tudo: reconhecer o padrão num heredograma."
+      ],
+      [
+        "r",
+        "r4a",
+        "Ligada ao X dominante."
+      ],
+      [
+        "m",
+        "heredo",
+        "Desafio: reconheça o padrão em heredogramas desenhados."
+      ],
+      [
+        "r",
+        "r4g",
+        "Daltonismo: portadora obrigatória."
+      ],
+      [
+        "q",
+        4,
+        "Feche com questões da unidade."
+      ]
+    ]
+  },
+  {
+    "id": "t7",
+    "nome": "Bases: moléculas, micróbios e genomas",
+    "us": [
+      1,
+      2
+    ],
+    "meta": "Dominar as duas unidades menores, que valem pontos fáceis.",
+    "p": [
+      [
+        "c",
+        "c1_3",
+        "Estrutura das proteínas e seus domínios."
+      ],
+      [
+        "c",
+        "c1_5",
+        "As marcas reversíveis que ligam e desligam proteínas."
+      ],
+      [
+        "c",
+        "c1_1",
+        "Bactérias e como trocam genes."
+      ],
+      [
+        "r",
+        "r1a",
+        "Fago = transdução."
+      ],
+      [
+        "c",
+        "c1_2",
+        "Vírus animais e a classificação de Baltimore."
+      ],
+      [
+        "r",
+        "r1c",
+        "O que um vírus de RNA negativo precisa trazer."
+      ],
+      [
+        "c",
+        "c2_1",
+        "O genoma eucariótico e o genoma humano."
+      ],
+      [
+        "c",
+        "c2_4",
+        "Sequências repetidas e elementos móveis."
+      ],
+      [
+        "r",
+        "r2b",
+        "Alu, SINE e LINE."
+      ],
+      [
+        "c",
+        "c2_3",
+        "Epigenética: metilação, imprinting, inativação do X."
+      ],
+      [
+        "r",
+        "r2a",
+        "Silenciar um supressor."
+      ],
+      [
+        "r",
+        "r2c",
+        "Portadora com sintomas."
+      ],
+      [
+        "q",
+        1,
+        "Questões da U1."
+      ],
+      [
+        "q",
+        2,
+        "Questões da U2."
+      ]
+    ]
+  },
+  {
+    "id": "t8",
+    "nome": "Arquitetura da célula em divisão",
+    "us": [
+      5,
+      7
+    ],
+    "meta": "Explicar o papel do núcleo e do citoesqueleto quando a célula se divide.",
+    "p": [
+      [
+        "c",
+        "c5_3",
+        "O núcleo, seus poros e o nucléolo."
+      ],
+      [
+        "c",
+        "c5_11",
+        "Os três tipos de filamento do citoesqueleto."
+      ],
+      [
+        "r",
+        "r5f",
+        "Taxol e o fuso."
+      ],
+      [
+        "r",
+        "r7e",
+        "Securina, separase e coesina."
+      ],
+      [
+        "c",
+        "c7_3",
+        "Mitose e citocinese, passo a passo."
+      ],
+      [
+        "q",
+        7,
+        "Feche com questões da unidade."
+      ]
+    ]
+  }
+]

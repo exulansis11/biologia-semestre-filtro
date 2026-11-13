@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "r5a",
+    "u": 5,
+    "ct": "c5_1",
+    "q": "L'ouabaina inibisce la pompa Na⁺/K⁺-ATPasi. Quale effetto ci si aspetta sull'assorbimento di glucosio mediato da SGLT1 nell'enterocita?",
+    "o": [
+      "Aumenta, perché si accumula Na⁺ nella cellula",
+      "Diminuisce, perché si riduce il gradiente di Na⁺ che lo alimenta",
+      "Non cambia, perché SGLT1 non usa ATP",
+      "Aumenta, perché il glucosio entra al posto del Na⁺",
+      "Diminuisce, perché SGLT1 è una pompa di tipo P"
+    ],
+    "c": 1,
+    "passos": [
+      "Identifique o tipo de transporte do SGLT1: é simporte Na⁺-glicose, ou seja, ativo **secundário**.",
+      "Pergunte de onde vem a energia: do gradiente de Na⁺ (pouco Na⁺ dentro, muito fora).",
+      "Quem mantém esse gradiente é a Na⁺/K⁺-ATPase. Inibida, o Na⁺ se acumula dentro e o gradiente diminui.",
+      "Sem gradiente, o SGLT1 perde a força motriz e a glicose entra menos."
+    ],
+    "por": [
+      "Mais Na⁺ dentro reduz o gradiente; não aumenta o transporte.",
+      "",
+      "É a armadilha clássica: o SGLT1 não usa ATP direto, mas depende da bomba que usa.",
+      "A glicose não substitui o Na⁺; os dois entram juntos.",
+      "O resultado (diminui) está certo, mas a justificativa é falsa: o SGLT1 não é bomba de tipo P."
+    ],
+    "pega": "Leia até o fim: uma alternativa pode ter a conclusão certa e a justificativa errada."
+  },
+  {
+    "id": "r5b",
+    "u": 5,
+    "ct": "c5_2",
+    "q": "Se aumenta la concentrazione extracellulare di K⁺, il potenziale di membrana a riposo di un neurone:",
+    "o": [
+      "diventa più negativo",
+      "non cambia, perché dipende dalla pompa",
+      "diventa meno negativo (depolarizzazione)",
+      "si porta al potenziale di equilibrio del Na⁺",
+      "si inverte e diventa positivo"
+    ],
+    "c": 2,
+    "passos": [
+      "O repouso depende sobretudo da saída de K⁺ pelos canais de vazamento.",
+      "Com mais K⁺ fora, a diferença de concentração entre dentro e fora diminui.",
+      "Menos K⁺ sai, então menos carga positiva deixa a célula.",
+      "O potencial de equilíbrio do K⁺ fica menos negativo e o repouso o acompanha: a membrana despolariza. Isso explica por que a hipercalemia é perigosa para o coração."
+    ],
+    "por": [
+      "Seria o efeito de baixar o K⁺ extracelular.",
+      "A bomba mantém os gradientes, mas a voltagem de repouso depende do K⁺.",
+      "",
+      "O Na⁺ não muda; a membrana segue mais permeável ao K⁺.",
+      "A despolarização é parcial, não chega a inverter o sinal."
+    ],
+    "pega": "Despolarizar = ficar menos negativo. Não confunda com «ficar positivo»."
+  },
+  {
+    "id": "r5c",
+    "u": 5,
+    "ct": "c5_9",
+    "q": "Una proteina solubile possiede una sequenza segnale N-terminale per il RE e nessun altro segnale. Il suo destino più probabile è:",
+    "o": [
+      "rimanere nel lume del RE",
+      "essere secreta all'esterno della cellula",
+      "essere inviata al lisosoma",
+      "rimanere nel citosol",
+      "essere importata nel nucleo"
+    ],
+    "c": 1,
+    "passos": [
+      "A sequência-sinal leva a proteína para dentro do RE (SRP → Sec61).",
+      "Dali, sem outro sinal, ela segue a via padrão: RE → Golgi → vesícula → membrana plasmática.",
+      "Ficar no RE exige KDEL; ir ao lisossomo exige manose-6-fosfato.",
+      "Sem nenhum dos dois, ela é secretada (secreção constitutiva)."
+    ],
+    "por": [
+      "Precisaria do sinal KDEL.",
+      "",
+      "Precisaria da manose-6-fosfato.",
+      "A sequência-sinal já a tirou do citosol.",
+      "Proteínas do RE não vão ao núcleo; precisaria de NLS e não ter sequência-sinal."
+    ],
+    "pega": "Na via secretora, «sem sinal» quer dizer secreção, não permanência."
+  },
+  {
+    "id": "r5d",
+    "u": 5,
+    "ct": "c5_10",
+    "q": "In un paziente gli enzimi lisosomiali sono presenti ad alta concentrazione nel plasma e i lisosomi contengono materiale non digerito. Il difetto più probabile riguarda:",
+    "o": [
+      "la V-ATPasi lisosomiale",
+      "la SRP",
+      "l'aggiunta di mannosio-6-fosfato nel cis-Golgi",
+      "la catalasi perossisomiale",
+      "la clatrina"
+    ],
+    "c": 2,
+    "passos": [
+      "Pista 1: as enzimas lisossomais existem (foram produzidas), mas estão no plasma, isto é, foram secretadas.",
+      "Pista 2: os lisossomos estão cheios, porque não receberam as enzimas.",
+      "O que manda uma enzima ao lisossomo e não para fora? A manose-6-fosfato, adicionada no cis-Golgi pela fosfotransferase.",
+      "Sem M6P, a enzima segue a via padrão e é secretada. É a doença da célula I."
+    ],
+    "por": [
+      "Sem V-ATPase as enzimas chegariam ao lisossomo, mas funcionariam mal; não iriam ao plasma.",
+      "Sem SRP as enzimas nem entrariam no RE.",
+      "",
+      "Catalase é do peroxissomo, outro compartimento.",
+      "Defeito de clatrina atrapalharia muito mais coisa, não só os lisossomos."
+    ],
+    "pega": "Enzima lisossomal no sangue = endereçamento falhou, não produção."
+  },
+  {
+    "id": "r5e",
+    "u": 5,
+    "ct": "c5_5",
+    "q": "Il cianuro inibisce il complesso IV della catena respiratoria. Quale conseguenza immediata ci si aspetta?",
+    "o": [
+      "Aumenta il consumo di O₂",
+      "Si blocca il flusso di elettroni e cala la sintesi di ATP per fosforilazione ossidativa",
+      "Si blocca direttamente la glicolisi",
+      "Il gradiente protonico aumenta e la ATP sintasi accelera",
+      "Il complesso II continua a pompare protoni normalmente"
+    ],
+    "c": 1,
+    "passos": [
+      "O complexo IV entrega os elétrons ao O₂. Bloqueado, os elétrons não têm para onde ir.",
+      "A cadeia inteira para «engarrafada»: I e III também deixam de bombear.",
+      "Sem bombeamento, o gradiente de H⁺ cai e a ATP sintase para.",
+      "A célula depende só da glicólise, que até acelera, mas rende pouco."
+    ],
+    "por": [
+      "O O₂ deixa de ser usado: o consumo cai.",
+      "",
+      "A glicólise é citosólica e continua (até acelera).",
+      "Sem fluxo de elétrons, o gradiente cai.",
+      "O complexo II nunca bombeia prótons."
+    ],
+    "pega": "Lembre o que o complexo II não faz: bombear H⁺."
+  },
+  {
+    "id": "r5f",
+    "u": 5,
+    "ct": "c5_11",
+    "q": "Il taxolo (paclitaxel) blocca le cellule in mitosi perché:",
+    "o": [
+      "depolimerizza i microfilamenti di actina",
+      "stabilizza i microtubuli e impedisce la dinamica del fuso",
+      "inibisce la miosina II dell'anello contrattile",
+      "degrada la tubulina libera",
+      "lega le lamine nucleari"
+    ],
+    "c": 1,
+    "passos": [
+      "O fuso precisa que os microtúbulos cresçam e encolham (instabilidade dinâmica) para capturar e puxar os cromossomos.",
+      "O taxol faz o contrário da colchicina: impede a despolimerização.",
+      "Microtúbulos «congelados» não conseguem mover os cromossomos; o checkpoint do fuso segura a célula em metáfase."
+    ],
+    "por": [
+      "Taxol atua em microtúbulos, não em actina.",
+      "",
+      "A miosina II atua na citocinese, depois.",
+      "Ele estabiliza, não degrada.",
+      "Laminas são filamentos intermediários."
+    ],
+    "pega": "Tanto estabilizar quanto despolimerizar microtúbulos bloqueia a mitose: o fuso precisa da dinâmica."
+  },
+  {
+    "id": "r3a",
+    "u": 3,
+    "ct": "c3_3",
+    "q": "Colture di E. coli in un terreno con glucosio e lattosio. Lo stato dell'operone lac è:",
+    "o": [
+      "repressore legato all'operatore e CAP legato: trascrizione assente",
+      "repressore staccato e CAP-cAMP legato: trascrizione massima",
+      "repressore staccato, CAP non legato: trascrizione bassa",
+      "repressore legato, CAP non legato: trascrizione massima",
+      "il glucosio si lega al repressore e spegne l'operone"
+    ],
+    "c": 2,
+    "passos": [
+      "Há lactose → forma-se alolactose → o repressor se solta do operador.",
+      "Há glicose → o cAMP fica baixo → o CAP não se liga ao promotor.",
+      "Repressor solto + CAP ausente = transcrição baixa (basal)."
+    ],
+    "por": [
+      "Com lactose, o repressor se solta.",
+      "Seria a situação com lactose e sem glicose.",
+      "",
+      "Repressor ligado nunca dá transcrição máxima.",
+      "A glicose age pelo cAMP, não pelo repressor."
+    ],
+    "pega": "Faça a tabela: lactose comanda o repressor; glicose comanda o CAP (via cAMP)."
+  },
+  {
+    "id": "r3b",
+    "u": 3,
+    "ct": "c3_3",
+    "q": "Il filamento stampo di un gene ha la sequenza 3'-TACGGA-5'. L'mRNA trascritto è:",
+    "o": [
+      "5'-UACGGA-3'",
+      "5'-ATGCCT-3'",
+      "5'-AUGCCU-3'",
+      "5'-AGGCAU-3'",
+      "5'-UCCGUA-3'"
+    ],
+    "c": 2,
+    "passos": [
+      "O RNA é complementar e antiparalelo ao molde.",
+      "Leia o molde de 3' para 5' e escreva o RNA de 5' para 3': T→A, A→U, C→G, G→C, G→C, A→U.",
+      "Resultado: 5'-AUGCCU-3'. Note que começa com AUG, o códon de início."
+    ],
+    "por": [
+      "Copiou o molde em vez de complementar.",
+      "Tem T: é DNA (a fita codificante), não RNA.",
+      "",
+      "Inverteu a orientação.",
+      "Complementou e inverteu ao mesmo tempo."
+    ],
+    "pega": "O mRNA tem a mesma sequência da fita codificante, trocando T por U. Confira sempre as pontas 5' e 3'."
+  },
+  {
+    "id": "r3c",
+    "u": 3,
+    "ct": "c3_6",
+    "q": "Una mutazione puntiforme trasforma il codone UGG (Trp) in UGA. Il risultato più probabile è:",
+    "o": [
+      "una mutazione silente",
+      "una mutazione missenso",
+      "uno slittamento del modulo di lettura",
+      "una proteina tronca, spesso con degradazione dell'mRNA per NMD",
+      "una proteina più lunga del normale"
+    ],
+    "c": 3,
+    "passos": [
+      "UGA é um dos três códons de parada (UAA, UAG, UGA).",
+      "Trocar um códon de aminoácido por stop é mutação nonsense.",
+      "A proteína termina antes. Se o stop está longe do fim, o mRNA costuma ser destruído pelo NMD."
+    ],
+    "por": [
+      "Silenciosa manteria o Trp.",
+      "Missense trocaria por outro aminoácido, não por stop.",
+      "Uma substituição não muda o quadro de leitura.",
+      "",
+      "Perder um stop é que alongaria a proteína."
+    ],
+    "pega": "Decore os três stops: UAA, UAG, UGA."
+  },
+  {
+    "id": "r3d",
+    "u": 3,
+    "ct": "c3_5",
+    "q": "Una mutazione altera il dinucleotide GU all'inizio (sito donatore 5') di un introne. L'effetto più probabile è:",
+    "o": [
+      "aumento della poliadenilazione",
+      "perdita del cappuccio 5'",
+      "ritenzione dell'introne o salto di un esone nell'mRNA maturo",
+      "traduzione più efficiente",
+      "nessun effetto, perché gli introni non sono codificanti"
+    ],
+    "c": 2,
+    "passos": [
+      "O spliceossomo reconhece o íntron pelo GU no início, pelo A de ramificação e pelo AG no fim.",
+      "Sem o GU, o corte não acontece no lugar certo.",
+      "Resultado: o íntron fica no mRNA ou o spliceossomo usa outro sítio e pula um éxon. Muitas talassemias β são assim."
+    ],
+    "por": [
+      "A poliadenilação depende do sinal AAUAAA, não do GU.",
+      "O cap é adicionado na ponta 5' do RNA, sem relação com os íntrons.",
+      "",
+      "Em geral a proteína sai defeituosa.",
+      "O íntron não codifica, mas suas bordas são sinais essenciais."
+    ],
+    "pega": "«Não codificante» não quer dizer «sem função»."
+  },
+  {
+    "id": "r4a",
+    "u": 4,
+    "ct": "c4_5",
+    "q": "Un uomo affetto da una malattia X-linked dominante ha figli con una donna sana. Ci si aspetta che:",
+    "o": [
+      "tutte le figlie siano affette e nessun figlio maschio",
+      "metà dei figli di entrambi i sessi sia affetta",
+      "tutti i figli maschi siano affetti",
+      "nessun figlio sia affetto",
+      "solo le figlie siano portatrici sane"
+    ],
+    "c": 0,
+    "passos": [
+      "O homem tem um só X, e ele carrega o alelo dominante.",
+      "Ele passa esse X a todas as filhas e o Y a todos os filhos.",
+      "Como é dominante, uma cópia basta: todas as filhas são afetadas; nenhum filho recebe o X dele."
+    ],
+    "por": [
+      "",
+      "50% para todos seria o padrão de mãe afetada (ou autossômico).",
+      "Os filhos homens recebem o Y do pai.",
+      "As filhas recebem o X afetado.",
+      "Na dominante, portar = manifestar."
+    ],
+    "pega": "O pai nunca passa o X para o filho homem: isso vale para recessiva e dominante."
+  },
+  {
+    "id": "r4b",
+    "u": 4,
+    "ct": "c4_4",
+    "q": "Due genitori sani hanno un figlio con fibrosi cistica (autosomica recessiva). Qual è la probabilità che il loro prossimo figlio sia un maschio affetto?",
+    "o": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "1/16",
+      "3/4"
+    ],
+    "c": 2,
+    "passos": [
+      "Pais sadios com filho afetado → ambos são Aa.",
+      "Chance de um filho aa: 1/4.",
+      "Chance de ser menino: 1/2 (independente).",
+      "Regra do produto: 1/4 × 1/2 = 1/8."
+    ],
+    "por": [
+      "Seria um único evento de 50%.",
+      "Esqueceu de multiplicar pelo sexo.",
+      "",
+      "Multiplicou 1/4 por 1/4.",
+      "É a chance de ser sadio."
+    ],
+    "pega": "A pergunta pede duas condições (menino E afetado): multiplique."
+  },
+  {
+    "id": "r4c",
+    "u": 4,
+    "ct": "c4_4",
+    "q": "La sorella sana del bambino con fibrosi cistica (genitori entrambi Aa): qual è la probabilità che sia portatrice?",
+    "o": [
+      "1/4",
+      "1/2",
+      "2/3",
+      "3/4",
+      "1/3"
+    ],
+    "c": 2,
+    "passos": [
+      "Do cruzamento Aa × Aa: 1 AA : 2 Aa : 1 aa.",
+      "Ela é sadia, então aa está excluído.",
+      "Restam 3 possibilidades igualmente prováveis (AA, Aa, Aa), das quais 2 são portadoras: 2/3."
+    ],
+    "por": [
+      "É a chance de ser aa antes de saber o fenótipo.",
+      "É a chance de ser Aa sem considerar que ela é sadia.",
+      "",
+      "Soma de Aa e aa, sem usar a informação de que é sadia.",
+      "É a chance de ser AA."
+    ],
+    "pega": "Quando o enunciado diz «sadio», o universo encolhe para 3."
+  },
+  {
+    "id": "r4d",
+    "u": 4,
+    "ct": "c4_3",
+    "q": "Una donna fenotipicamente normale ha cariotipo 45,XX,der(14;21)(q10;q10). Qual è l'interpretazione corretta?",
+    "o": [
+      "Ha la sindrome di Down",
+      "È portatrice di una traslocazione robertsoniana bilanciata con rischio di figli con trisomia 21",
+      "Ha una monosomia 21 letale",
+      "Ha la sindrome di Turner",
+      "È triploide"
+    ],
+    "c": 1,
+    "passos": [
+      "45 cromossomos e fenótipo normal sugerem que dois cromossomos se fundiram.",
+      "14 e 21 são acrocêntricos: fusão pelos centrômeros = translocação robertsoniana.",
+      "Ela tem todo o material genético (balanceada), por isso é normal.",
+      "Nos gametas, porém, pode passar o der(14;21) junto com um 21 normal: o filho terá Down por translocação (familiar)."
+    ],
+    "por": [
+      "Ela não tem material extra do 21.",
+      "",
+      "O braço longo do 21 está presente, preso ao 14.",
+      "Turner é 45,X; ela tem dois X.",
+      "Triploidia seria 69 cromossomos."
+    ],
+    "pega": "45 cromossomos não significa sempre monossomia."
+  },
+  {
+    "id": "r4e",
+    "u": 4,
+    "ct": "c4_2",
+    "q": "Un paziente con xeroderma pigmentoso sviluppa tumori cutanei dopo esposizione al sole. Quale sistema di riparazione è difettoso?",
+    "o": [
+      "Riparazione per escissione di basi (BER)",
+      "Riparazione per escissione di nucleotidi (NER)",
+      "Mismatch repair (MMR)",
+      "Ricombinazione omologa",
+      "Saldatura di estremità non omologhe (NHEJ)"
+    ],
+    "c": 1,
+    "passos": [
+      "O sol traz UV, que forma dímeros de pirimidina.",
+      "Dímeros deformam a hélice: são lesões volumosas.",
+      "Lesão volumosa → NER, que tira um trecho inteiro de nucleotídeos."
+    ],
+    "por": [
+      "BER corrige bases isoladas (uracila, oxidação), sem distorção grande.",
+      "",
+      "MMR corrige erros de replicação: síndrome de Lynch.",
+      "HR repara dupla fita: BRCA1/2.",
+      "NHEJ repara dupla fita."
+    ],
+    "pega": "Associe a lesão ao reparo: UV → NER; erro de cópia → MMR; base danificada → BER; dupla fita → HR/NHEJ."
+  },
+  {
+    "id": "r7a",
+    "u": 7,
+    "ct": "c7_1",
+    "q": "In una cellula con delezione di entrambi gli alleli di p16 (INK4a) ci si aspetta:",
+    "o": [
+      "Rb sempre ipofosforilata e arresto in G1",
+      "CDK4/6 più attive, Rb fosforilata ed E2F libero",
+      "impossibilità di attivare p53",
+      "apoptosi immediata",
+      "blocco dell'ingresso in mitosi"
+    ],
+    "c": 1,
+    "passos": [
+      "O p16 inibe a CDK4/6.",
+      "Sem p16, a CDK4/6 fica mais ativa.",
+      "Mais fosforilação do Rb → E2F livre → entrada em S facilitada.",
+      "Por isso o p16 é um supressor de tumor."
+    ],
+    "por": [
+      "É o contrário: Rb fosforilado.",
+      "O p53 é ativado por dano ao DNA, independentemente de p16.",
+      "Perder um freio do ciclo favorece proliferação, não morte.",
+      "O p16 age em G1, não em G2/M."
+    ],
+    "pega": "Siga a cadeia de freios: p16 ⊣ CDK4/6 → Rb-P → E2F livre."
+  },
+  {
+    "id": "r7b",
+    "u": 7,
+    "ct": "c7_2",
+    "q": "La proteina E7 del papillomavirus umano (HPV ad alto rischio) favorisce la proliferazione perché:",
+    "o": [
+      "induce la degradazione di p53",
+      "lega Rb e libera E2F",
+      "è una tirosin-chinasi recettoriale",
+      "attiva direttamente le caspasi",
+      "inibisce l'APC/C"
+    ],
+    "c": 1,
+    "passos": [
+      "O HPV precisa que a célula entre em S para copiar o próprio DNA.",
+      "A E7 sequestra o Rb; o E2F fica livre e liga os genes da fase S.",
+      "A E6 faz o outro lado: leva o p53 à degradação, para a célula não parar nem morrer."
+    ],
+    "por": [
+      "Isso é a E6.",
+      "",
+      "A E7 não é receptor.",
+      "Ativar caspases levaria à morte da célula.",
+      "Não é o mecanismo da E7."
+    ],
+    "pega": "E6 → p53; E7 → Rb. Trocar os dois é a pegadinha."
+  },
+  {
+    "id": "r7c",
+    "u": 7,
+    "ct": "c7_4",
+    "q": "Una non-disgiunzione avviene durante la meiosi II in una delle due cellule figlie della meiosi I. Quali gameti si ottengono?",
+    "o": [
+      "4 gameti normali",
+      "4 gameti anomali: 2 n+1 e 2 n−1",
+      "2 gameti normali, 1 n+1 e 1 n−1",
+      "tutti n+1",
+      "3 normali e 1 n+1"
+    ],
+    "c": 2,
+    "passos": [
+      "A meiose I correu bem: duas células com n cromossomos duplicados.",
+      "Uma delas separa normalmente as cromátides: 2 gametas normais.",
+      "Na outra, as cromátides não se separam: um gameta fica com a cópia extra (n+1) e o outro sem (n−1)."
+    ],
+    "por": [
+      "Houve um erro; nem todos podem ser normais.",
+      "Esse é o resultado da não-disjunção em meiose I.",
+      "",
+      "Seria impossível: o que sobra num falta no outro.",
+      "O cromossomo a mais num gameta implica um a menos em outro."
+    ],
+    "pega": "Meiose I = 4 anormais; meiose II = metade normais."
+  },
+  {
+    "id": "r7d",
+    "u": 7,
+    "ct": "c7_5",
+    "q": "Il rilascio del citocromo c dal mitocondrio durante l'apoptosi è promosso direttamente da:",
+    "o": [
+      "BCL-2",
+      "BCL-XL",
+      "BAX e BAK",
+      "le IAP",
+      "la caspasi-3"
+    ],
+    "c": 2,
+    "passos": [
+      "O citocromo c sai quando a membrana externa da mitocôndria é perfurada (MOMP).",
+      "Quem forma os poros são BAX e BAK, quando ativadas.",
+      "BCL-2 e BCL-XL as seguram; as proteínas BH3-only soltam esse freio."
+    ],
+    "por": [
+      "BCL-2 impede a saída do citocromo c.",
+      "Também antiapoptótica.",
+      "",
+      "As IAP inibem caspases, depois.",
+      "A caspase-3 vem depois do apoptossomo."
+    ],
+    "pega": "Mesma família, papéis opostos: BCL-2/BCL-XL anti; BAX/BAK pró."
+  },
+  {
+    "id": "r6a",
+    "u": 6,
+    "ct": "c6_3",
+    "q": "La tossina colerica provoca diarrea acquosa perché:",
+    "o": [
+      "inibisce la Gαi",
+      "mantiene Gαs nello stato legato al GTP, con aumento del cAMP",
+      "blocca la fosfolipasi C",
+      "degrada il canale CFTR",
+      "inibisce la adenilato ciclasi"
+    ],
+    "c": 1,
+    "passos": [
+      "A toxina modifica a Gαs (ADP-ribosilação) e bloqueia sua atividade GTPase.",
+      "Gαs fica sempre com GTP → adenilil ciclase sempre ativa → cAMP muito alto.",
+      "O cAMP ativa a PKA, que abre a CFTR: sai Cl⁻, e água vai junto para o intestino."
+    ],
+    "por": [
+      "Isso é a toxina pertussis.",
+      "",
+      "Não envolve a via Gq.",
+      "A CFTR é hiperativada, não degradada.",
+      "É o contrário: a adenilil ciclase fica ativa."
+    ],
+    "pega": "Cólera → Gs; coqueluche → Gi."
+  },
+  {
+    "id": "r6b",
+    "u": 6,
+    "ct": "c6_4",
+    "q": "Una mutazione di Ras abolisce la sua attività GTPasica intrinseca. Quale effetto si osserva?",
+    "o": [
+      "Ras resta legata al GDP ed è sempre inattiva",
+      "Ras resta legata al GTP e la via MAPK è costitutivamente attiva",
+      "Il recettore tirosin-chinasico non si autofosforila",
+      "SOS non può più legarsi a Grb2",
+      "Aumenta l'attività della GAP"
+    ],
+    "c": 1,
+    "passos": [
+      "A Ras está ativa com GTP e se desliga quando hidrolisa o GTP em GDP.",
+      "Sem atividade GTPase, ela não se desliga, nem com GAP.",
+      "Raf → MEK → ERK ficam ligadas mesmo sem fator de crescimento: proliferação descontrolada (oncogene)."
+    ],
+    "por": [
+      "É o contrário.",
+      "",
+      "O receptor está antes da Ras; não é afetado.",
+      "A ligação Grb2-SOS está antes da Ras.",
+      "A GAP até tenta, mas a Ras mutada não responde."
+    ],
+    "pega": "Ras oncogênica = interruptor travado em «ligado»."
+  },
+  {
+    "id": "r6c",
+    "u": 6,
+    "ct": "c6_1",
+    "q": "Il passaggio diretto di ioni tra cardiomiociti adiacenti, che sincronizza la contrazione, avviene tramite:",
+    "o": [
+      "giunzioni occludenti",
+      "desmosomi",
+      "emidesmosomi",
+      "giunzioni comunicanti formate da connessine",
+      "giunzioni aderenti"
+    ],
+    "c": 3,
+    "passos": [
+      "A pergunta pede passagem de íons de uma célula a outra.",
+      "Só uma junção forma um canal entre os citoplasmas: a comunicante (gap), feita de conexinas.",
+      "No coração, ela espalha a despolarização: acoplamento elétrico."
+    ],
+    "por": [
+      "Vedam o espaço entre células; não ligam citoplasmas.",
+      "Dão resistência mecânica.",
+      "Prendem a célula à lâmina basal.",
+      "",
+      "Ligam o citoesqueleto de actina."
+    ],
+    "pega": "Só a gap junction é «canal»; as outras são «cola» ou «vedação»."
+  },
+  {
+    "id": "r1a",
+    "u": 1,
+    "ct": "c1_1",
+    "q": "Un gene di resistenza a un antibiotico passa da un batterio a un altro tramite un batteriofago. Questo processo si chiama:",
+    "o": [
+      "trasformazione",
+      "coniugazione",
+      "trasduzione",
+      "trasposizione",
+      "mutazione spontanea"
+    ],
+    "c": 2,
+    "passos": [
+      "Palavra-chave do enunciado: bacteriófago.",
+      "Transferência de genes bacterianos por vírus = transdução."
+    ],
+    "por": [
+      "Transformação é DNA livre do meio.",
+      "Conjugação é por contato, via pilus.",
+      "",
+      "Transposição é movimento dentro do mesmo genoma.",
+      "Não há transferência entre células."
+    ],
+    "pega": "Associe: DNA livre → transformação; contato → conjugação; fago → transdução."
+  },
+  {
+    "id": "r1b",
+    "u": 1,
+    "ct": "c1_4",
+    "q": "Un inibitore competitivo di un enzima:",
+    "o": [
+      "riduce la Vmax senza modificare la Km",
+      "aumenta la Km apparente senza modificare la Vmax",
+      "si lega in modo covalente al sito attivo",
+      "non può essere superato aumentando il substrato",
+      "modifica il ΔG della reazione"
+    ],
+    "c": 1,
+    "passos": [
+      "Competitivo = disputa o sítio ativo com o substrato.",
+      "Com muito substrato, o substrato vence: a Vmax é alcançada igual.",
+      "Mas é preciso mais substrato para chegar à metade da Vmax: a Km aparente sobe."
+    ],
+    "por": [
+      "É o inibidor não competitivo.",
+      "",
+      "Isso é inibição irreversível.",
+      "Pode sim; é a marca da competição.",
+      "Enzimas e inibidores não mudam o ΔG."
+    ],
+    "pega": "Competitivo mexe na Km; não competitivo mexe na Vmax."
+  },
+  {
+    "id": "r1c",
+    "u": 1,
+    "ct": "c1_2",
+    "q": "Un virus con genoma a RNA a singolo filamento a polarità negativa deve contenere nel virione:",
+    "o": [
+      "una trascrittasi inversa",
+      "una RNA polimerasi RNA-dipendente",
+      "una DNA polimerasi",
+      "nessun enzima, perché il genoma è tradotto direttamente",
+      "una integrasi"
+    ],
+    "c": 1,
+    "passos": [
+      "RNA negativo é o complementar do mRNA: não pode ser traduzido.",
+      "A célula não tem enzima que copie RNA em RNA.",
+      "O vírus precisa trazer a sua RNA polimerase dependente de RNA para fazer o mRNA logo ao entrar."
+    ],
+    "por": [
+      "Transcriptase reversa é de retrovírus.",
+      "",
+      "Não há etapa de DNA.",
+      "Isso vale para o RNA positivo.",
+      "Integrase é de retrovírus."
+    ],
+    "pega": "Positivo = já é mRNA; negativo = precisa da polimerase pronta."
+  },
+  {
+    "id": "r2a",
+    "u": 2,
+    "ct": "c2_3",
+    "q": "La metilazione delle isole CpG nel promotore di un gene oncosoppressore in un tumore causa:",
+    "o": [
+      "aumento dell'espressione del gene",
+      "silenziamento del gene senza modificarne la sequenza",
+      "una mutazione puntiforme",
+      "la perdita del cromosoma",
+      "l'acetilazione degli istoni del promotore"
+    ],
+    "c": 1,
+    "passos": [
+      "Metilação de CpG em promotor atrai proteínas que leem metil-CpG.",
+      "Elas trazem desacetilases: a cromatina fecha.",
+      "O gene para de ser transcrito, mas a sequência é a mesma: é epigenético. Equivale a «perder» um supressor."
+    ],
+    "por": [
+      "É o contrário.",
+      "",
+      "A sequência não muda.",
+      "Não afeta o número de cromossomos.",
+      "Ela leva à desacetilação."
+    ],
+    "pega": "Silenciar um supressor é como mutá-lo: conta como um dos «dois eventos» de Knudson."
+  },
+  {
+    "id": "r2b",
+    "u": 2,
+    "ct": "c2_4",
+    "q": "Le sequenze Alu del genoma umano sono:",
+    "o": [
+      "LINE autonomi che codificano una trascrittasi inversa",
+      "SINE non autonomi che usano la trascrittasi inversa dei LINE",
+      "trasposoni a DNA attivi",
+      "geni codificanti per istoni",
+      "retrovirus endogeni con LTR"
+    ],
+    "c": 1,
+    "passos": [
+      "As Alu têm cerca de 300 pb: são elementos curtos (SINE).",
+      "Não codificam proteína nenhuma.",
+      "Para se mover, usam a transcriptase reversa e a endonuclease feitas pelos LINE-1."
+    ],
+    "por": [
+      "Descreve os LINE.",
+      "",
+      "Os transposons de DNA humanos estão inativos, e Alu não é um deles.",
+      "Não codificam proteína.",
+      "Retrovírus endógenos são outra classe."
+    ],
+    "pega": "SINE = short e sem proteína; LINE = long e autônomo."
+  },
+  {
+    "id": "r2c",
+    "u": 2,
+    "ct": "c2_3",
+    "q": "Una donna eterozigote per una malattia X-linked recessiva presenta sintomi lievi. La spiegazione più probabile è:",
+    "o": [
+      "la malattia è in realtà dominante",
+      "inattivazione sbilanciata del cromosoma X",
+      "una mutazione nel DNA mitocondriale",
+      "una trisomia del cromosoma X",
+      "l'imprinting del gene paterno"
+    ],
+    "c": 1,
+    "passos": [
+      "Em cada célula da mulher, um X é inativado ao acaso.",
+      "Se por acaso o X normal foi desligado na maioria das células de um tecido, prevalece o X mutado.",
+      "Resultado: uma portadora com sintomas («portadora manifestante»)."
+    ],
+    "por": [
+      "Uma recessiva continua recessiva; o fenômeno é de inativação.",
+      "",
+      "Não há relação com mitocôndria.",
+      "Não explicaria o padrão.",
+      "Imprinting é outro mecanismo e não envolve o X inteiro."
+    ],
+    "pega": "A mulher é um mosaico do X: a proporção pode não ser 50/50."
+  },
+  {
+    "id": "r5g",
+    "u": 5,
+    "ct": "c5_5",
+    "q": "Un disaccoppiante della fosforilazione ossidativa (ad es. 2,4-dinitrofenolo) provoca:",
+    "o": [
+      "calo del consumo di O₂ e aumento della sintesi di ATP",
+      "aumento del consumo di O₂ e calo della sintesi di ATP, con produzione di calore",
+      "blocco del complesso IV",
+      "aumento del gradiente protonico",
+      "blocco della glicolisi"
+    ],
+    "c": 1,
+    "passos": [
+      "O desacoplador deixa o H⁺ voltar à matriz sem passar pela ATP sintase.",
+      "O gradiente cai; a cadeia não é mais freada e acelera: consome mais O₂.",
+      "A energia do gradiente vira calor em vez de ATP."
+    ],
+    "por": [
+      "É o contrário nas duas metades.",
+      "",
+      "Isso é o cianeto.",
+      "O gradiente diminui.",
+      "A glicólise continua e até acelera."
+    ],
+    "pega": "Desacoplar = cadeia rápida, pouco ATP. Bloquear a ATP sintase = cadeia lenta, pouco ATP. O ATP cai nos dois; o O₂ vai em direções opostas."
+  },
+  {
+    "id": "r5h",
+    "u": 5,
+    "ct": "c5_9",
+    "q": "Una proteina residente del RE con la sequenza KDEL viene trasportata per errore al cis-Golgi. Cosa succede?",
+    "o": [
+      "Viene secreta",
+      "Viene degradata nel lisosoma",
+      "Viene riportata al RE in vescicole COPI tramite il recettore KDEL",
+      "Viene trasportata al RE in vescicole COPII",
+      "Resta per sempre nel Golgi"
+    ],
+    "c": 2,
+    "passos": [
+      "KDEL é sinal de recuperação, não de retenção absoluta: as proteínas escapam com frequência.",
+      "No cis-Golgi, o receptor de KDEL as reconhece.",
+      "As vesículas COPI fazem o transporte retrógrado de volta ao RE."
+    ],
+    "por": [
+      "Sem KDEL seria secretada.",
+      "Não há sinal de M6P.",
+      "",
+      "COPII vai do RE ao Golgi (anterógrado).",
+      "O receptor a recupera."
+    ],
+    "pega": "COPII: RE → Golgi. COPI: Golgi → RE. Lembre «I de Inverso»."
+  },
+  {
+    "id": "r5i",
+    "u": 5,
+    "ct": "c5_6",
+    "q": "Quale delle seguenti NON è una funzione del perossisoma?",
+    "o": [
+      "β-ossidazione degli acidi grassi a catena molto lunga",
+      "Sintesi dei plasmalogeni",
+      "Degradazione di H₂O₂ tramite catalasi",
+      "Sintesi di ATP per fosforilazione ossidativa",
+      "Detossificazione di parte dell'etanolo"
+    ],
+    "c": 3,
+    "passos": [
+      "Liste o que o peroxissomo faz: oxidações que geram H₂O₂, catalase, β-oxidação de cadeia muito longa, plasmalogênios, detox.",
+      "Fosforilação oxidativa exige cadeia respiratória e ATP sintase, que estão na membrana interna da mitocôndria."
+    ],
+    "por": [
+      "É função peroxissomal.",
+      "É função peroxissomal.",
+      "É função peroxissomal.",
+      "",
+      "É função peroxissomal (em parte)."
+    ],
+    "pega": "Em «NON è», marque a única que pertence a outra organela."
+  },
+  {
+    "id": "r5k",
+    "u": 5,
+    "ct": "c5_3",
+    "q": "Una proteina citosolica di 60 kDa con un segnale NLS entra nel nucleo:",
+    "o": [
+      "srotolata, attraverso i complessi TOM/TIM",
+      "ripiegata, attraverso il poro nucleare grazie all'importina e al gradiente di Ran-GTP",
+      "per diffusione libera, senza recettori",
+      "co-traduzionalmente, tramite la SRP",
+      "in vescicole rivestite di clatrina"
+    ],
+    "c": 1,
+    "passos": [
+      "60 kDa é grande demais para passar livremente pelo poro.",
+      "A NLS é reconhecida pela importina, que atravessa o poro com a carga dobrada.",
+      "No núcleo, a Ran-GTP solta a carga da importina: é o que dá direção ao transporte."
+    ],
+    "por": [
+      "TOM/TIM são da mitocôndria.",
+      "",
+      "Só moléculas pequenas difundem livremente.",
+      "SRP é do RE.",
+      "Clatrina é de endocitose e TGN."
+    ],
+    "pega": "Núcleo e peroxissomo importam proteínas dobradas; mitocôndria e RE, desdobradas."
+  },
+  {
+    "id": "r3e",
+    "u": 3,
+    "ct": "c3_1",
+    "q": "Quale enzima rilascia la tensione torsionale (superavvolgimenti positivi) che si accumula davanti alla forcella replicativa?",
+    "o": [
+      "Elicasi",
+      "Primasi",
+      "Topoisomerasi",
+      "DNA ligasi",
+      "Telomerasi"
+    ],
+    "c": 2,
+    "passos": [
+      "A helicase abre a hélice e, ao fazer isso, aumenta o enrolamento à frente.",
+      "A topoisomerase corta uma ou as duas fitas, deixa girar e religa, aliviando a tensão."
+    ],
+    "por": [
+      "A helicase cria a tensão, não a resolve.",
+      "Faz o primer de RNA.",
+      "",
+      "Sela os fragmentos de Okazaki.",
+      "Alonga os telômeros."
+    ],
+    "pega": "Helicase abre; topoisomerase desenrola a tensão. Quinolonas (antibióticos) inibem a topoisomerase bacteriana."
+  },
+  {
+    "id": "r3f",
+    "u": 3,
+    "ct": "c3_3",
+    "q": "Un ceppo di E. coli lacOᶜ (operatore costitutivo) cresce in assenza sia di lattosio sia di glucosio. L'operone lac è:",
+    "o": [
+      "spento, perché manca il lattosio",
+      "trascritto ad alto livello",
+      "trascritto a basso livello perché il CAP non è legato",
+      "trascritto solo se si aggiunge lattosio",
+      "spento, perché il repressore è mutato"
+    ],
+    "c": 1,
+    "passos": [
+      "lacOᶜ: o repressor não consegue se ligar ao operador, com ou sem lactose.",
+      "Sem glicose, o cAMP sobe e o CAP-cAMP ativa o promotor.",
+      "Repressor fora + CAP ligado = transcrição alta, mesmo sem lactose."
+    ],
+    "por": [
+      "Sem lactose o repressor normalmente ligaria, mas aqui o operador não o reconhece.",
+      "",
+      "O CAP está ligado (falta glicose).",
+      "É constitutivo: não depende de lactose.",
+      "O mutado é o operador, não o repressor."
+    ],
+    "pega": "Mutantes constitutivos ignoram o indutor, mas ainda dependem do CAP (glicose)."
+  },
+  {
+    "id": "r3g",
+    "u": 3,
+    "ct": "c3_6",
+    "q": "Le aminoacil-tRNA sintetasi:",
+    "o": [
+      "formano il legame peptidico nel ribosoma",
+      "legano a ciascun tRNA l'amminoacido corretto consumando ATP",
+      "riconoscono il codone di stop",
+      "rimuovono gli introni dal pre-tRNA",
+      "aggiungono il cappuccio al 5' dell'mRNA"
+    ],
+    "c": 1,
+    "passos": [
+      "Cada sintetase reconhece um aminoácido e os tRNA correspondentes.",
+      "Ativa o aminoácido com ATP (aminoacil-AMP) e o liga à ponta 3' (CCA) do tRNA.",
+      "É o momento em que o código é «traduzido»; o ribossomo só confere o anticódon."
+    ],
+    "por": [
+      "É o rRNA (peptidil transferase).",
+      "",
+      "São os fatores de liberação.",
+      "É a endonuclease de splicing do tRNA.",
+      "É a enzima de capping."
+    ],
+    "pega": "Erro da sintetase = aminoácido errado na proteína, e o ribossomo não percebe."
+  },
+  {
+    "id": "r3h",
+    "u": 3,
+    "ct": "c3_7",
+    "q": "Il proteasoma 26S riconosce prevalentemente proteine marcate con:",
+    "o": [
+      "una singola ubiquitina",
+      "catene di poliubiquitina legate tramite la lisina 48",
+      "catene di ubiquitina legate tramite la lisina 63",
+      "mannosio-6-fosfato",
+      "una sequenza KDEL"
+    ],
+    "c": 1,
+    "passos": [
+      "A degradação pelo proteassomo precisa de uma cadeia de pelo menos 4 ubiquitinas.",
+      "O tipo de ligação mais comum para degradação é pela Lys48.",
+      "Monoubiquitina e cadeias em Lys63 sinalizam outras coisas (endocitose, reparo, NF-κB)."
+    ],
+    "por": [
+      "Monoubiquitina não leva ao proteassomo.",
+      "",
+      "K63 é sinalização.",
+      "M6P é sinal de lisossomo.",
+      "KDEL é retenção no RE."
+    ],
+    "pega": "Ubiquitina tem várias «línguas»; para o proteassomo é K48."
+  },
+  {
+    "id": "r4f",
+    "u": 4,
+    "ct": "c4_5",
+    "q": "Una malattia viene trasmessa dalle madri affette a tutti i figli di entrambi i sessi, mai dai padri affetti. Il modello di trasmissione è:",
+    "o": [
+      "autosomico dominante",
+      "X-linked dominante",
+      "mitocondriale",
+      "Y-linked",
+      "autosomico recessivo"
+    ],
+    "c": 2,
+    "passos": [
+      "Só a mãe transmite: o que vem só do óvulo? As mitocôndrias.",
+      "Todos os filhos, de ambos os sexos: não depende do cromossomo sexual.",
+      "O pai afetado não transmite: o espermatozoide não deixa mitocôndrias no zigoto."
+    ],
+    "por": [
+      "O pai afetado também transmitiria (50%).",
+      "O pai afetado passaria a todas as filhas.",
+      "",
+      "Só pai → filhos homens.",
+      "Não explicaria «todos os filhos»."
+    ],
+    "pega": "«Só pela mãe, a todos» é a assinatura mitocondrial."
+  },
+  {
+    "id": "r4g",
+    "u": 4,
+    "ct": "c4_5",
+    "q": "Una donna con visione normale, figlia di un padre daltonico, sposa un uomo con visione normale. Probabilità che un loro figlio maschio sia daltonico?",
+    "o": [
+      "0",
+      "1/4",
+      "1/2",
+      "1",
+      "1/8"
+    ],
+    "c": 2,
+    "passos": [
+      "O pai dela é daltônico (X*Y) e passou a ela o X*: ela é portadora (XX*).",
+      "O filho homem recebe o Y do pai e um dos X da mãe.",
+      "Metade dos X da mãe é X*: 1/2 dos meninos são daltônicos."
+    ],
+    "por": [
+      "Ela é portadora obrigatória.",
+      "1/4 é a chance de «filho homem e daltônico» entre todos os filhos.",
+      "",
+      "Só se ela fosse X*X*.",
+      "Sem fundamento."
+    ],
+    "pega": "Leia se a pergunta é «um filho homem» (1/2) ou «um filho qualquer» que seja menino afetado (1/4)."
+  },
+  {
+    "id": "r4h",
+    "u": 4,
+    "ct": "c4_3",
+    "q": "Un'inversione pericentrica:",
+    "o": [
+      "coinvolge un segmento che include il centromero",
+      "coinvolge solo un braccio del cromosoma",
+      "scambia segmenti tra due cromosomi non omologhi",
+      "fonde due cromosomi acrocentrici",
+      "causa sempre un fenotipo patologico nel portatore"
+    ],
+    "c": 0,
+    "passos": [
+      "Peri = em volta: o segmento invertido contém o centrômero.",
+      "Paracêntrica = ao lado: o segmento fica num só braço.",
+      "O portador costuma ser normal (não perde material), mas tem risco de gametas desequilibrados."
+    ],
+    "por": [
+      "",
+      "Essa é a paracêntrica.",
+      "É translocação recíproca.",
+      "É translocação robertsoniana.",
+      "Se balanceada, em geral não há fenótipo."
+    ],
+    "pega": "Peri = inclui o centrômero; para = ao lado dele."
+  },
+  {
+    "id": "r4i",
+    "u": 4,
+    "ct": "c4_3",
+    "q": "Il cariotipo 47,XXY corrisponde a:",
+    "o": [
+      "sindrome di Turner",
+      "sindrome di Klinefelter",
+      "sindrome di Down",
+      "triplo X",
+      "sindrome di Edwards"
+    ],
+    "c": 1,
+    "passos": [
+      "47 cromossomos: um a mais.",
+      "Os sexuais são XXY: homem (há Y) com um X extra.",
+      "É a síndrome de Klinefelter: hipogonadismo, infertilidade, estatura alta."
+    ],
+    "por": [
+      "Turner é 45,X.",
+      "",
+      "Down é 47,+21.",
+      "Triplo X é 47,XXX.",
+      "Edwards é 47,+18."
+    ],
+    "pega": "Presença de Y define o sexo masculino, mesmo com dois X."
+  },
+  {
+    "id": "r7e",
+    "u": 7,
+    "ct": "c7_3",
+    "q": "Quale evento permette la separazione dei cromatidi fratelli all'anafase?",
+    "o": [
+      "La fosforilazione delle lamine da parte di CDK1",
+      "L'ubiquitinazione della securina da parte di APC/C, che libera la separasi che taglia la coesina",
+      "La sintesi della ciclina B",
+      "La condensazione dei cromosomi da parte delle condensine",
+      "L'assemblaggio del complesso sinaptonemale"
+    ],
+    "c": 1,
+    "passos": [
+      "As irmãs ficam juntas pela coesina.",
+      "A separase corta a coesina, mas fica presa pela securina.",
+      "Quando todos os cinetócoros estão ligados, o APC/C-Cdc20 ubiquitina a securina; a separase fica livre e as irmãs se separam."
+    ],
+    "por": [
+      "Desfaz o envelope nuclear, na prometáfase.",
+      "",
+      "A ciclina B é degradada, não sintetizada, para sair da mitose.",
+      "Condensa, mas não separa.",
+      "É da prófase I da meiose."
+    ],
+    "pega": "Separase separa; securina segura."
+  },
+  {
+    "id": "r7f",
+    "u": 7,
+    "ct": "c7_4",
+    "q": "Il crossing-over avviene tra:",
+    "o": [
+      "cromatidi fratelli dello stesso cromosoma, in mitosi",
+      "cromatidi non fratelli di cromosomi omologhi, nel pachitene della profase I",
+      "cromosomi non omologhi, in metafase I",
+      "cromatidi fratelli, in anafase II",
+      "cromosomi omologhi, in metafase II"
+    ],
+    "c": 1,
+    "passos": [
+      "As irmãs são idênticas: trocar entre elas não gera variação.",
+      "No zigóteno os homólogos pareiam; no paquíteno ocorre a troca entre cromátides não irmãs.",
+      "Os quiasmas aparecem no diplóteno."
+    ],
+    "por": [
+      "Trocas entre irmãs não produzem recombinação.",
+      "",
+      "Troca entre não homólogos é translocação, um erro.",
+      "Na anáfase II já não há pareamento.",
+      "Na meiose II os homólogos já se separaram."
+    ],
+    "pega": "Recombinação = cromátides NÃO irmãs de homólogos."
+  },
+  {
+    "id": "r7g",
+    "u": 7,
+    "ct": "c7_2",
+    "q": "Un bambino sviluppa un retinoblastoma bilaterale nei primi anni di vita. La spiegazione più probabile è:",
+    "o": [
+      "due mutazioni somatiche indipendenti nello stesso retinoblasto",
+      "una mutazione germinale di RB1 seguita da una seconda mutazione somatica",
+      "un oncogene ereditato con meccanismo recessivo",
+      "l'infezione da HPV",
+      "un'amplificazione di MYC"
+    ],
+    "c": 1,
+    "passos": [
+      "Bilateral e precoce indica que todas as células já tinham um alelo mutado desde a concepção.",
+      "Basta um segundo evento somático em qualquer retinoblasto, e isso acontece em vários: tumores múltiplos e bilaterais.",
+      "É a hipótese dos dois eventos de Knudson."
+    ],
+    "por": [
+      "Esse é o caso esporádico: unilateral e mais tardio.",
+      "",
+      "RB1 é supressor, não oncogene.",
+      "HPV não causa retinoblastoma.",
+      "N-MYC é amplificado no neuroblastoma."
+    ],
+    "pega": "Hereditário = 1º evento na linhagem germinativa; esporádico = os dois somáticos."
+  },
+  {
+    "id": "r6d",
+    "u": 6,
+    "ct": "c6_2",
+    "q": "Il recettore del cortisolo:",
+    "o": [
+      "è un recettore accoppiato a proteine G",
+      "è un recettore tirosin-chinasico",
+      "è intracellulare e, legato all'ormone, agisce come fattore di trascrizione",
+      "è un canale ionico",
+      "attiva la guanilato ciclasi solubile"
+    ],
+    "c": 2,
+    "passos": [
+      "O cortisol é esteroide: lipossolúvel, atravessa a membrana.",
+      "Liga-se a um receptor no citoplasma, que vai ao núcleo.",
+      "Lá se liga a elementos de resposta no DNA e muda a transcrição."
+    ],
+    "por": [
+      "GPCR são para ligantes hidrofílicos.",
+      "RTK são para fatores de crescimento e insulina.",
+      "",
+      "Canais iônicos são para neurotransmissores rápidos.",
+      "Esse é o receptor do NO."
+    ],
+    "pega": "Lipofílico → receptor intracelular → efeito lento, por transcrição."
+  },
+  {
+    "id": "r6e",
+    "u": 6,
+    "ct": "c6_3",
+    "q": "Nella via Gq, il diacilglicerolo (DAG):",
+    "o": [
+      "libera Ca²⁺ dal reticolo endoplasmatico",
+      "attiva la proteina chinasi C insieme al Ca²⁺",
+      "attiva l'adenilato ciclasi",
+      "è prodotto dalla PI3K",
+      "inibisce la fosfolipasi C"
+    ],
+    "c": 1,
+    "passos": [
+      "A PLC-β corta o PIP₂ em dois produtos.",
+      "O IP₃, solúvel, vai ao RE e libera Ca²⁺.",
+      "O DAG fica na membrana e, com o Ca²⁺, ativa a PKC."
+    ],
+    "por": [
+      "Isso é o IP₃.",
+      "",
+      "A adenilil ciclase é da via Gs.",
+      "A PI3K produz PIP₃.",
+      "Sem fundamento."
+    ],
+    "pega": "IP₃ = Ca²⁺; DAG = PKC."
+  },
+  {
+    "id": "r6f",
+    "u": 6,
+    "ct": "c6_2",
+    "q": "Il sildenafil potenzia l'effetto vasodilatatore dell'ossido nitrico perché:",
+    "o": [
+      "aumenta la sintesi di NO",
+      "inibisce la fosfodiesterasi 5, prolungando l'azione del cGMP",
+      "attiva la adenilato ciclasi",
+      "blocca i canali del Ca²⁺ di tipo L",
+      "è un agonista del recettore muscarinico"
+    ],
+    "c": 1,
+    "passos": [
+      "NO → guanilil ciclase solúvel → cGMP → relaxamento.",
+      "A PDE5 degrada o cGMP e encerra o sinal.",
+      "Inibir a PDE5 mantém o cGMP alto por mais tempo."
+    ],
+    "por": [
+      "Ele não age na NO sintase.",
+      "",
+      "A via é de cGMP, não cAMP.",
+      "Seria outro mecanismo (bloqueadores de canal).",
+      "Não age em receptores."
+    ],
+    "pega": "Inibir a enzima que desliga um sinal prolonga o sinal."
+  },
+  {
+    "id": "r1d",
+    "u": 1,
+    "ct": "c1_1",
+    "q": "Nella coniugazione batterica il DNA viene trasferito:",
+    "o": [
+      "come DNA libero assorbito dall'ambiente",
+      "tramite un batteriofago",
+      "attraverso un pilo sessuale tra due cellule a contatto",
+      "per fusione di due cellule batteriche",
+      "per trasposizione all'interno dello stesso genoma"
+    ],
+    "c": 2,
+    "passos": [
+      "Conjugação exige contato.",
+      "A célula doadora (F⁺) forma o pilus e transfere uma fita do plasmídeo F.",
+      "A receptora sintetiza a fita complementar e vira F⁺."
+    ],
+    "por": [
+      "Transformação.",
+      "Transdução.",
+      "",
+      "Bactérias não se fundem.",
+      "Transposição."
+    ],
+    "pega": "Contato direto = conjugação."
+  },
+  {
+    "id": "r1e",
+    "u": 1,
+    "ct": "c1_4",
+    "q": "Gli enzimi della classe EC 6 (ligasi):",
+    "o": [
+      "catalizzano reazioni di ossidoriduzione",
+      "trasferiscono gruppi funzionali tra molecole",
+      "idrolizzano legami usando acqua",
+      "uniscono due molecole accoppiando la reazione all'idrolisi di ATP",
+      "convertono un isomero nell'altro"
+    ],
+    "c": 3,
+    "passos": [
+      "Ligase = junta duas moléculas formando uma ligação nova.",
+      "Formar ligação custa energia: elas usam ATP (ou outro nucleosídeo trifosfato).",
+      "Exemplos: DNA ligase, aminoacil-tRNA sintetases, piruvato carboxilase."
+    ],
+    "por": [
+      "Classe 1.",
+      "Classe 2.",
+      "Classe 3.",
+      "",
+      "Classe 5."
+    ],
+    "pega": "Sintetase (usa ATP) é ligase; sintase (sem ATP) costuma ser liase."
+  },
+  {
+    "id": "r2d",
+    "u": 2,
+    "ct": "c2_2",
+    "q": "Nel nucleosoma il DNA (circa 147 pb) è avvolto attorno a:",
+    "o": [
+      "un ottamero formato da due copie di H2A, H2B, H3 e H4",
+      "quattro copie dell'istone H1",
+      "un tetramero di H3 e H4 soltanto",
+      "un complesso di condensine",
+      "un ottamero di coesine"
+    ],
+    "c": 0,
+    "passos": [
+      "O núcleo do nucleossomo é um octâmero: 2× (H2A, H2B, H3, H4).",
+      "A H1 fica fora, no DNA de ligação, e ajuda a compactar."
+    ],
+    "por": [
+      "",
+      "A H1 não faz parte do octâmero.",
+      "O tetrâmero H3-H4 é só a parte central.",
+      "Condensinas agem na mitose.",
+      "Coesinas mantêm as irmãs unidas."
+    ],
+    "pega": "H1 = histona de ligação, fora do octâmero."
+  },
+  {
+    "id": "r2e",
+    "u": 2,
+    "ct": "c2_3",
+    "q": "La sindrome di Prader-Willi è causata da delezione della regione 15q11-q13 sul cromosoma di origine:",
+    "o": [
+      "materna",
+      "paterna",
+      "indifferentemente materna o paterna",
+      "mitocondriale",
+      "del cromosoma X"
+    ],
+    "c": 1,
+    "passos": [
+      "Na região 15q11-13 há genes com imprinting: alguns só se expressam do cromossomo paterno, outro (UBE3A) só do materno.",
+      "Sem o paterno, faltam os genes paternos: Prader-Willi.",
+      "Sem o materno, falta a UBE3A: Angelman. A dissomia uniparental materna também dá Prader-Willi."
+    ],
+    "por": [
+      "Deleção materna dá Angelman.",
+      "",
+      "Com imprinting, a origem importa.",
+      "Não envolve mitocôndria.",
+      "É o cromossomo 15."
+    ],
+    "pega": "Prader-Willi = falta o Pai (P com P)."
+  },
+  {
+    "id": "k1",
+    "u": 5,
+    "ct": "c5_10",
+    "tipo": "cp",
+    "q": "La pompa che acidifica il lume dei lisosomi è una ATPasi di tipo ____.",
+    "acc": [
+      "v",
+      "tipo v"
+    ],
+    "resp": "V",
+    "passos": [
+      "Tipos de bomba: P (fosforila a si mesma), V (vacuolar, bombeia H⁺ para dentro de organelas), F (ATP sintase).",
+      "O lisossomo precisa de pH ≈ 4,5–5 para as hidrolases ácidas: quem faz isso é a V-ATPase."
+    ],
+    "pega": "F é a ATP sintase, que normalmente produz ATP; V gasta ATP para acidificar."
+  },
+  {
+    "id": "k2",
+    "u": 5,
+    "ct": "c5_5",
+    "tipo": "cp",
+    "q": "L'accettore finale degli elettroni nella catena respiratoria mitocondriale è l'____.",
+    "acc": [
+      "ossigeno",
+      "o2",
+      "ossigeno molecolare"
+    ],
+    "resp": "ossigeno (O₂)",
+    "passos": [
+      "O complexo IV (citocromo c oxidase) entrega os elétrons ao O₂.",
+      "O O₂ recebe elétrons e prótons e vira água."
+    ],
+    "pega": "Escreva em italiano: «ossigeno»."
+  },
+  {
+    "id": "k3",
+    "u": 5,
+    "ct": "c5_8",
+    "tipo": "cp",
+    "q": "Il canale proteico attraverso cui le proteine entrano nel lume del RE durante la traduzione si chiama ____.",
+    "acc": [
+      "sec61",
+      "traslocone",
+      "il traslocone",
+      "complesso sec61"
+    ],
+    "resp": "traslocone (Sec61)",
+    "passos": [
+      "A SRP leva o ribossomo ao receptor de SRP.",
+      "O ribossomo se acopla ao translocon (complexo Sec61), e a cadeia passa pelo canal."
+    ],
+    "pega": "Não confunda com TOM/TIM, os translocons da mitocôndria."
+  },
+  {
+    "id": "k4",
+    "u": 3,
+    "ct": "c3_1",
+    "tipo": "cp",
+    "q": "I frammenti di DNA sintetizzati sul filamento lento (lagging) si chiamano frammenti di ____.",
+    "acc": [
+      "okazaki"
+    ],
+    "resp": "Okazaki",
+    "passos": [
+      "A polimerase só sintetiza 5'→3'.",
+      "Na fita que corre no sentido contrário à forquilha, a síntese é feita em pedaços, cada um com seu primer.",
+      "Esses pedaços são os fragmentos de Okazaki, depois unidos pela ligase."
+    ],
+    "pega": "Atenção à grafia: Okazaki."
+  },
+  {
+    "id": "k5",
+    "u": 3,
+    "ct": "c3_6",
+    "tipo": "cp",
+    "q": "Il sito del ribosoma in cui entra l'aminoacil-tRNA in arrivo è il sito ____.",
+    "acc": [
+      "a",
+      "sito a"
+    ],
+    "resp": "A",
+    "passos": [
+      "A = aminoacil (entrada).",
+      "P = peptidil (segura a cadeia).",
+      "E = exit (saída do tRNA vazio)."
+    ],
+    "pega": "Ordem de passagem do tRNA: A → P → E."
+  },
+  {
+    "id": "k6",
+    "u": 3,
+    "ct": "c3_3",
+    "tipo": "cp",
+    "q": "L'induttore fisiologico dell'operone lac, che si lega al repressore, è l'____.",
+    "acc": [
+      "allolattosio",
+      "allolactosio",
+      "allolattoso"
+    ],
+    "resp": "allolattosio",
+    "passos": [
+      "A lactose é convertida em alolactose pela β-galactosidase basal.",
+      "A alolactose se liga ao repressor, que muda de forma e solta o operador."
+    ],
+    "pega": "O indutor é a alolactose, não a lactose. (O IPTG é um indutor artificial.)"
+  },
+  {
+    "id": "k7",
+    "u": 4,
+    "ct": "c4_2",
+    "tipo": "cp",
+    "q": "Nello xeroderma pigmentoso è difettosa la riparazione per escissione di ____.",
+    "acc": [
+      "nucleotidi",
+      "nucleotide"
+    ],
+    "resp": "nucleotidi (NER)",
+    "passos": [
+      "UV → dímeros de pirimidina → lesão volumosa.",
+      "Lesão volumosa → reparo por excisão de nucleotídeos (NER)."
+    ],
+    "pega": "Basi (BER) é para bases isoladas; nucleotidi (NER) é para lesões volumosas."
+  },
+  {
+    "id": "k8",
+    "u": 4,
+    "ct": "c4_3",
+    "tipo": "cp",
+    "q": "La fusione di due cromosomi acrocentrici a livello dei centromeri si chiama traslocazione ____.",
+    "acc": [
+      "robertsoniana"
+    ],
+    "resp": "robertsoniana",
+    "passos": [
+      "Acrocêntricos: 13, 14, 15, 21, 22.",
+      "Perdem os braços curtos (sem genes essenciais) e se fundem: 45 cromossomos no portador."
+    ],
+    "pega": "Recíproca = troca de pedaços; robertsoniana = fusão de acrocêntricos."
+  },
+  {
+    "id": "k9",
+    "u": 7,
+    "ct": "c7_1",
+    "tipo": "cp",
+    "q": "La proteina che, nello stato ipofosforilato, sequestra il fattore E2F è ____.",
+    "acc": [
+      "rb",
+      "prb",
+      "prb proteina del retinoblastoma",
+      "proteina del retinoblastoma",
+      "retinoblastoma"
+    ],
+    "resp": "Rb (proteina del retinoblastoma)",
+    "passos": [
+      "Rb hipofosforilado = ativo, prende o E2F.",
+      "A ciclina D-CDK4/6 o fosforila e o E2F fica livre."
+    ],
+    "pega": "Rb ativo é o NÃO fosforilado."
+  },
+  {
+    "id": "k10",
+    "u": 7,
+    "ct": "c7_5",
+    "tipo": "cp",
+    "q": "La caspasi iniziatrice della via estrinseca dell'apoptosi è la caspasi-____.",
+    "acc": [
+      "8",
+      "otto"
+    ],
+    "resp": "8",
+    "passos": [
+      "Extrínseca: receptor de morte → FADD → DISC → caspase-8.",
+      "Intrínseca: apoptossomo → caspase-9.",
+      "As duas convergem nas executoras 3, 6, 7."
+    ],
+    "pega": "8 = extrínseca (de fora); 9 = intrínseca (mitocôndria)."
+  },
+  {
+    "id": "k11",
+    "u": 6,
+    "ct": "c6_1",
+    "tipo": "cp",
+    "q": "Le giunzioni comunicanti (gap junctions) sono formate da proteine chiamate ____.",
+    "acc": [
+      "connessine",
+      "connessina"
+    ],
+    "resp": "connessine",
+    "passos": [
+      "Seis conexinas formam um conexon (hemicanal).",
+      "Dois conexons de células vizinhas formam o canal."
+    ],
+    "pega": "Claudine = giunzioni occludenti; caderine = aderenti e desmossomi; connessine = comunicanti."
+  },
+  {
+    "id": "k12",
+    "u": 6,
+    "ct": "c6_3",
+    "tipo": "cp",
+    "q": "La fosfolipasi C taglia il PIP₂ in DAG e ____, che libera Ca²⁺ dal reticolo endoplasmatico.",
+    "acc": [
+      "ip3",
+      "inositolo trifosfato",
+      "inositolo 1,4,5-trifosfato",
+      "inositolo145trifosfato"
+    ],
+    "resp": "IP₃ (inositolo 1,4,5-trifosfato)",
+    "passos": [
+      "PLC-β: PIP₂ → IP₃ + DAG.",
+      "O IP₃ abre o receptor-canal de IP₃ no RE e libera Ca²⁺."
+    ],
+    "pega": "IP₃ é solúvel e sai da membrana; DAG fica na membrana."
+  },
+  {
+    "id": "k13",
+    "u": 2,
+    "ct": "c2_4",
+    "tipo": "cp",
+    "q": "Gli elementi SINE più abbondanti nel genoma umano sono le sequenze ____.",
+    "acc": [
+      "alu"
+    ],
+    "resp": "Alu",
+    "passos": [
+      "SINE = elementos curtos (~300 pb), não autônomos.",
+      "A família mais numerosa é a Alu, cerca de 10% do genoma."
+    ],
+    "pega": "LINE-1 (L1) é o LINE; Alu é o SINE."
+  },
+  {
+    "id": "k14",
+    "u": 1,
+    "ct": "c1_1",
+    "tipo": "cp",
+    "q": "Il trasferimento di geni batterici mediato da un batteriofago si chiama ____.",
+    "acc": [
+      "trasduzione"
+    ],
+    "resp": "trasduzione",
+    "passos": [
+      "Fago leva DNA de uma bactéria para outra: transdução."
+    ],
+    "pega": "Grafia italiana: «trasduzione», sem «n»."
+  }
+]
